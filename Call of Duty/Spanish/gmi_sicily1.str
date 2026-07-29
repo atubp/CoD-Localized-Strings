@@ -1,0 +1,143 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVE_1_0
+LANG_ENGLISH        "Eliminate the guards inside the dock house"
+LANG_SPANISH        "Eliminar a los guardias que están dentro de la casa del muelle."
+
+REFERENCE           OBJECTIVE_1_1
+LANG_ENGLISH        "Storm the bunker and eliminate the rest of the guards"
+LANG_SPANISH        "Asalta el búnker y elimina al resto de los guardias"
+
+REFERENCE           OBJECTIVE_1_2
+LANG_ENGLISH        "Get in the back of the truck"
+LANG_SPANISH        "Métete en la caja del camión"
+
+REFERENCE           OBJECTIVE_1_3
+LANG_ENGLISH        "Engage the enemy at the lighthouse and get inside to plant your charges"
+LANG_SPANISH        "Enfrentarse al enemigo del faro y entrar en él para colocar las cargas."
+
+REFERENCE           OBJECTIVE_1_4
+LANG_ENGLISH        "Engage the enemy at the lighthouse and get inside to plant your charges"
+LANG_SPANISH        "Enfrentarse al enemigo en el faro y entrar en él para colocar las cargas."
+
+REFERENCE           OBJECTIVE_1_5
+LANG_ENGLISH        "Engage the enemy at the lighthouse and get inside to plant your charges"
+LANG_SPANISH        "Enfrentarse al enemigo en el faro y entra en él para colocar las cargas."
+
+REFERENCE           OBJECTIVE_2
+LANG_ENGLISH        "Plant the charges in the lighthouse (%s of 3 remaining)"
+LANG_SPANISH        "Coloca las cargas en el faro (restan %s de 3)"
+
+REFERENCE           OBJECTIVE_3_0
+LANG_ENGLISH        "Regroup with Major Ingram outside the lighthouse"
+LANG_SPANISH        "Reunirse con el Mayor Ingram fuera del faro."
+
+REFERENCE           OBJECTIVE_3_1
+LANG_ENGLISH        "Head to the top of the path"
+LANG_SPANISH        "Dirigirse a lo alto del camino."
+
+REFERENCE           OBJECTIVE_3_2
+LANG_ENGLISH        "Do not engage the enemy until the reinforcements have passed"
+LANG_SPANISH        "No te enfrentes al enemigo hasta que hayan pasado los refuerzos."
+
+REFERENCE           OBJECTIVE_3_3
+LANG_ENGLISH        "(this objective has been removed)\n"
+LANG_SPANISH        "Elimina al centinela de la patrulla"
+
+REFERENCE           OBJECTIVE_3_4
+LANG_ENGLISH        "Get up onto the wall"
+LANG_SPANISH        "Trepa por la pared"
+
+REFERENCE           OBJECTIVE_3_5
+LANG_ENGLISH        "Find the radio rooms"
+LANG_SPANISH        "Encuentra las salas de radio"
+
+REFERENCE           OBJECTIVE_4
+LANG_ENGLISH        "Disable the communications equipment (%s of 5 radios remaining)"
+LANG_SPANISH        "Inutiliza el equipo de comunicaciones (faltan %s radios de 5)"
+
+REFERENCE           OBJECTIVE_5_0
+LANG_ENGLISH        "Find a way down into the courtyard"
+LANG_SPANISH        "Halla un camino al patio"
+
+REFERENCE           OBJECTIVE_5_1
+LANG_ENGLISH        "Regroup with Major Ingram's squad"
+LANG_SPANISH        "Reúnete con el pelotón del comandante Ingram"
+
+REFERENCE           OBJECTIVE_5_2
+LANG_ENGLISH        "Secure the underground garage"
+LANG_SPANISH        "Asegura el garaje subterráneo"
+
+REFERENCE           OBJECTIVE_6_0
+LANG_ENGLISH        "Find the documents"
+LANG_SPANISH        "Encuentra los documentos"
+
+REFERENCE           OBJECTIVE_7_0
+LANG_ENGLISH        "Get on the elevator"
+LANG_SPANISH        "Entra en el ascensor"
+
+REFERENCE           OBJECTIVE_7_1
+LANG_ENGLISH        "Find the cliff gun emplacements"
+LANG_SPANISH        "Encuentra el emplazamiento de los cañones del acantilado"
+
+REFERENCE           OBJECTIVE_8
+LANG_ENGLISH        "Plant the charges on the guns (%s of 3 remaining)"
+LANG_SPANISH        "Coloca las cargas en los cañones (faltan %s de 3)"
+
+REFERENCE           OBJECTIVE_9_0
+LANG_ENGLISH        "Find the munitions magazine for the guns"
+LANG_SPANISH        "Encuentra las municiones de los cañones"
+
+REFERENCE           OBJECTIVE_9_1
+LANG_ENGLISH        "Plant the charges in the magazine (%s of 3 remaining)"
+LANG_SPANISH        "Coloca las cargas en las municiones (faltan %s de 3)"
+
+REFERENCE           OBJECTIVE_10_0
+LANG_ENGLISH        "Get back to the elevator"
+LANG_SPANISH        "Vuelve al ascensor"
+
+REFERENCE           OBJECTIVE_10_1
+LANG_ENGLISH        "Regroup in the garage"
+LANG_SPANISH        "Reagrúpate en el garaje"
+
+REFERENCE           OBJECTIVE_10_2
+LANG_ENGLISH        "Head out to the courtyard"
+LANG_SPANISH        "Salir al patio."
+
+REFERENCE           OBJECTIVE_10_3
+LANG_ENGLISH        "Get in the sidecar of the motorbike"
+LANG_SPANISH        "Entra en el sidecar de la motocicleta"
+
+REFERENCE           DONT_GO_TOO_FAR
+LANG_ENGLISH        "You are in danger of disobeying orders!"
+LANG_SPANISH        "¡Corres el peligro de desobedecer órdenes!"
+
+REFERENCE           YOU_WENT_TOO_FAR
+LANG_ENGLISH        "You disobeyed orders by leaving the squad behind!"
+LANG_SPANISH        "¡Al dejar atrás al pelotón, desobedeciste órdenes!"
+
+REFERENCE           GET_ON_BIKE
+LANG_ENGLISH        "Press [USE] to get on the motorcycle"
+LANG_SPANISH        "Pulsa [USAR] para subirte a la motocicleta."
+
+REFERENCE           OBJECTIVE_0
+LANG_ENGLISH        "Stay concealed until the docks sentry is eliminated."
+LANG_SPANISH        "Permanece oculto hasta que el guardia de los muelles sea eliminado."
+
+
+ENDMARKER
+
+

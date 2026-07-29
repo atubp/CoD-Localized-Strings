@@ -1,0 +1,175 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WHEN_YOU_HAVE_TO_KILL
+LANG_ENGLISH        ""When you have to kill a man it costs nothing to be polite." - Winston Churchill"
+LANG_SPANISH         ""Cuando tienes que matar a un hombre, no cuesta nada ser educado". - Winston Churchill"
+
+REFERENCE           BATTLES_ARE_WON_BY_SLAUGHTER
+LANG_ENGLISH        ""Battles are won by slaughter and maneuver. The greater the general, the more he contributes in maneuver, the less he demands in slaughter." - Winston Churchill"
+LANG_SPANISH         ""Las batallas se ganan con matanzas y maniobras. Cuanto mejor es el general, más contribuye a las maniobras y menos matanzas precisa". - Winston Churchill"
+
+REFERENCE           HISTORY_WILL_BE_KIND
+LANG_ENGLISH        ""History will be kind to me for I intend to write it." - Winston Churchill"
+LANG_SPANISH         ""La historia será amable conmigo, porque tengo intención de escribirla". - Winston Churchill"
+
+REFERENCE           NOTHING_IN_LIFE_IS_SO
+LANG_ENGLISH        ""Nothing in life is so exhilarating as to be shot at without result." - Winston Churchill"
+LANG_SPANISH         ""Nada en la vida es tan estimulante como el que te disparen y no te acierten". - Winston Churchill"
+
+REFERENCE           SUCCESS_IS_NOT_FINAL
+LANG_ENGLISH        ""Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill"
+LANG_SPANISH         ""El éxito no es definitivo, el fracaso no es fatídico: lo que cuenta es el valor para continuar". - Winston Churchill"
+
+REFERENCE           WE_SHALL_DEFEND_OUR_ISLAND
+LANG_ENGLISH        ""We shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender." - Winston Churchill"
+LANG_SPANISH         ""Defenderemos nuestra isla, cueste lo que cueste, lucharemos en las playas, lucharemos en las zonas de aterrizaje, lucharemos en los campos y en las calles, lucharemos en las colinas; nunca nos rendiremos". - Winston Churchill"
+
+REFERENCE           WHEN_YOU_GET_TO_THE_END
+LANG_ENGLISH        ""When you get to the end of your rope, tie a knot and hang on." - Franklin D. Roosevelt"
+LANG_SPANISH         ""Cuando llegues al límite de tus fuerzas, haz acopio de lo que te reste y aguanta". - Franklin D. Roosevelt"
+
+REFERENCE           THE_REAL_AND_LASTING
+LANG_ENGLISH        ""The real and lasting victories are those of peace, and not of war." - Ralph Waldo Emerson"
+LANG_SPANISH         ""Las victorias auténticas y duraderas son las de la paz, no las de la guerra". - Ralph Waldo Emerson"
+
+REFERENCE           A_HERO_IS_NO_BRAVER_THAN
+LANG_ENGLISH        ""A hero is no braver than an ordinary man, but he is brave five minutes longer." - Ralph Waldo Emerson"
+LANG_SPANISH         ""Un héroe no es más valiente que un hombre normal, pero es valiente cinco minutos más". - Ralph Waldo Emerson"
+
+REFERENCE           OUR_GREATEST_GLORY_IS
+LANG_ENGLISH        ""Our greatest glory is not in never failing, but in rising up every time we fail." - Ralph Waldo Emerson"
+LANG_SPANISH         ""Nuestra mayor gloria no radica en no haber caído jamás, sino en habernos levantado después de cada caída". - Ralph Waldo Emerson"
+
+REFERENCE           THE_CHARACTERISTIC_OF
+LANG_ENGLISH        ""The characteristic of a genuine heroism is its persistency. All men have wandering impulses, fits and starts of generosity. But when you have resolved to be great, abide by yourself, and do not weakly try to reconcile yourself with the world. The heroic cannot be the common, nor the common the heroic." - Ralph Waldo Emerson"
+LANG_SPANISH         ""La característica del auténtico heroísmo es la persistencia. Todos los hombres tienen impulsos erráticos, momentos puntuales de generosidad. Pero cuando has decidido ser grande, cumple contigo mismo y no trates de reconciliarte con el mundo. El heroico no puede ser común, ni el común heroico". - Ralph Waldo Emerson"
+
+REFERENCE           IF_THE_OPPOSITION_DISARMS
+LANG_ENGLISH        ""If the opposition disarms, well and good. If it refuses to disarm, we shall disarm it ourselves." - Joseph Stalin"
+LANG_SPANISH         ""Si los adversarios se desarman, tanto mejor. Si rehúsan desarmarse, los desarmaremos nosotros". - Joseph Stalin"
+
+REFERENCE           THE_OBJECT_OF_WAR_IS
+LANG_ENGLISH        ""The object of war is not to die for your country but to make the other bastard die for his." - General George S. Patton"
+LANG_SPANISH         ""El objeto de la guerra no es morir por tu país, sino hacer que otro cabronazo muera por el suyo". - General George S. Patton"
+
+REFERENCE           BETTER_TO_FIGHT_FOR_SOMETHING
+LANG_ENGLISH        ""Better to fight for something than live for nothing." - General George S. Patton"
+LANG_SPANISH         ""Mejor luchar por algo que vivir para nada". - General George S. Patton"
+
+REFERENCE           COURAGE_IS_FEAR_HOLDING
+LANG_ENGLISH        ""Courage is fear holding on a minute longer." - General George S. Patton"
+LANG_SPANISH         ""El coraje es el miedo contenido un minuto más". - General George S. Patton"
+
+REFERENCE           IF_A_MAN_DOES_HIS_BEST
+LANG_ENGLISH        ""If a man does his best, what else is there?" - General George S. Patton"
+LANG_SPANISH         ""Si un hombre da lo mejor de sí, ¿qué más se le puede pedir?" - General George S. Patton"
+
+REFERENCE           IT_IS_FOOLISH_AND_WRONG
+LANG_ENGLISH        ""It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived." - General George S. Patton"
+LANG_SPANISH         ""Es una tontería y un error llorar a los hombres que han muerto. En su lugar, deberíamos agradecer a Dios que esos hombres hayan vivido". - General George S. Patton"
+
+REFERENCE           EVERY_MANS_LIFE_ENDS
+LANG_ENGLISH        ""Every man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another." - Ernest Hemingway"
+LANG_SPANISH         ""La vida de todos los hombres termina igual. Son solo los detalles de cómo vive y cómo muere lo que distingue a un hombre de otro". - Ernest Hemingway"
+
+REFERENCE           ALL_WARS_ARE_CIVIL_WARS
+LANG_ENGLISH        ""All wars are civil wars, because all men are brothers." - Francois Fenelon"
+LANG_SPANISH         ""Todas las guerras son guerras civiles, porque todos los hombres son iguales". - François Fenelón"
+
+REFERENCE           I_HAVE_NEVER_ADVOCATED
+LANG_ENGLISH        ""I have never advocated war except as a means of peace." - Ulysses S. Grant"
+LANG_SPANISH         ""Nunca he abogado por la guerra, excepto como medio para la paz". - Ulysses S. Grant"
+
+REFERENCE           WE_HAPPY_FEW_WE_BAND
+LANG_ENGLISH        ""We happy few, we band of brothers/For he today that sheds his blood with me/Shall be my brother." - William Shakespeare, King Henry V"
+LANG_SPANISH         ""Nos pocos, nos felices pocos, nos banda de hermanos, porque aquel que vierta su sangre conmigo será mi hermano". - William Shakespeare, Enrique V"
+
+REFERENCE           COWARDS_DIE_MANY_TIMES
+LANG_ENGLISH        ""Cowards die many times before their deaths; The valiant never taste of death but once." - William Shakespeare, Julius Caesar"
+LANG_SPANISH         ""Los cobardes mueren muchas veces antes de su muerte. El valiente saborea la muerte una única vez". - William Shakespeare, Julio César"
+
+REFERENCE           NEVER_INTERRUPT_YOUR
+LANG_ENGLISH        ""Never interrupt your enemy when he is making a mistake." - Napoleon Bonaparte"
+LANG_SPANISH         ""Nunca interrumpas a tu enemigo cuando esté cometiendo un error". - Napoleón Bonaparte"
+
+REFERENCE           THERE_ARE_ONLY_TWO_FORCES
+LANG_ENGLISH        ""There are only two forces in the world, the sword and the spirit. In the long run the sword will always be conquered by the spirit." - Napoleon Bonaparte"
+LANG_SPANISH         ""Solo hay dos fuerzas en el mundo, la espada y el espíritu. A largo plazo, la espada será siempre conquistada por el espíritu". - Napoleón Bonaparte"
+
+REFERENCE           THERE_WILL_ONE_DAY_SPRING
+LANG_ENGLISH        ""There will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever." - Thomas A. Edison"
+LANG_SPANISH         ""Un día surgirá del cerebro de la ciencia una máquina o fuerza tan temible y terrorífica, que hasta el hombre, el guerrero, dispuesto a soportar muerte y tortura para infligir muerte y tortura, se horrorizará y abandonará la guerra por siempre". - Thomas A. Edison"
+
+REFERENCE           THERE_ARE_NO_ATHEISTS
+LANG_ENGLISH        """There are no atheists in foxholes" isn't an argument against atheism, it's an argument against foxholes." - James Morrow"
+LANG_SPANISH         """No hay ateos en las trincheras" no es un argumento contra el ateísmo, es un argumento contra las trincheras". - James Morrow"
+
+REFERENCE           IF_WE_DONT_END_WAR_WAR
+LANG_ENGLISH        ""If we don't end war, war will end us." - H. G. Wells"
+LANG_SPANISH         ""Si no terminamos con la guerra, la guerra terminará con nosotros". - H. G. Wells"
+
+REFERENCE           LIVE_AS_BRAVE_MEN_AND
+LANG_ENGLISH        ""Live as brave men; and if fortune is adverse, front its blows with brave hearts." - Cicero"
+LANG_SPANISH         ""Vivid como hombres valientes; y si la fortuna os es adversa, afrontad sus reveses con valentía". - Cicerón"
+
+REFERENCE           COURAGE_AND_PERSEVERANCE
+LANG_ENGLISH        ""Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." - John Quincy Adams"
+LANG_SPANISH         ""El valor y la perseverancia tienen un talismán mágico, ante el que las dificultades desaparecen y los obstáculos se desvanecen en el aire". - John Quincy Adams"
+
+REFERENCE           COURAGE_IS_BEING_SCARED
+LANG_ENGLISH        ""Courage is being scared to death - but saddling up anyway." - John Wayne"
+LANG_SPANISH         ""El valor significa estar muerto de miedo, pero actuar igualmente". - John Wayne"
+
+REFERENCE           ABOVE_ALL_THINGS_NEVER
+LANG_ENGLISH        ""Above all things, never be afraid. The enemy who forces you to retreat is himself afraid of you at that very moment." - Andre Maurois"
+LANG_SPANISH         ""Sobre todo, jamás os asustéis. El enemigo que os obliga a retiraros también está asustado de vosotros en ese preciso momento". - André Maurois"
+
+REFERENCE           I_HAVE_NEVER_MADE_BUT
+LANG_ENGLISH        ""I have never made but one prayer to God, a very short one: 'O Lord, make my enemies ridiculous.' And God granted it." - Voltaire"
+LANG_SPANISH         ""Una única cosa le he pedido a Dios, una nimiedad: "Oh, Señor, haz ridículos a mis enemigos". Y Dios me la concedió". - Voltaire"
+
+REFERENCE           SAFEGUARDING_THE_RIGHTS
+LANG_ENGLISH        ""Safeguarding the rights of others is the most noble and beautiful end of a human being." - Kahlil Gibran, "The Voice of the Poet""
+LANG_SPANISH         ""Salvaguardar los derechos de los demás es la meta más noble y hermosa de un ser humano". - Kahlil Gibran, "la voz del poeta""
+
+REFERENCE           HE_CONQUERS_WHO_ENDURES
+LANG_ENGLISH        ""He conquers who endures." - Persius"
+LANG_SPANISH         ""Conquista el que resiste". - Persio"
+
+REFERENCE           IT_IS_BETTER_TO_DIE_ON
+LANG_ENGLISH        ""It is better to die on your feet than to live on your knees!" - Emiliano Zapata"
+LANG_SPANISH         ""Mejor morir de pie que vivir de rodillas". - Emiliano Zapata"
+
+REFERENCE           YOU_KNOW_THE_REAL_MEANING
+LANG_ENGLISH        ""You know the real meaning of peace only if you have been through the war." - Kosovar"
+LANG_SPANISH         ""Solamente se aprecia el verdadero valor de la paz tras haber pasado por una guerra". - Kosovar"
+
+REFERENCE           THOSE_WHO_HAVE_LONG_ENJOYED
+LANG_ENGLISH        ""Those who have long enjoyed such privileges as we enjoy forget in time that men have died to win them." - Franklin D. Roosevelt"
+LANG_SPANISH         ""Aquellos que disfrutan mucho tiempo de privilegios como los que disfrutamos nosotros, acaban olvidando con el tiempo que para ganarlos tuvieron que morir hombres". - Franklin D. Roosevelt"
+
+REFERENCE           IN_WAR_THERE_IS_NO_SUBSTITUTE
+LANG_ENGLISH        ""In war there is no substitute for victory." - General Douglas MacArthur"
+LANG_SPANISH         ""Nada puede reemplazar en la guerra a la victoria". - General Douglas MacArthur"
+
+REFERENCE           WAR_IS_A_SERIES_OF_CATASTROPHES
+LANG_ENGLISH        ""War is a series of catastrophes which result in victory." - Georges Clemenceau"
+LANG_SPANISH         ""La guerra es una serie de catástrofes que desembocan en la victoria". - Georges Clemenceau"
+
+
+ENDMARKER
+
+

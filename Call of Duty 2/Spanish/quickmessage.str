@@ -1,0 +1,291 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           QUICK_MESSAGE
+LANG_ENGLISH        "Quick Message"
+LANG_SPANISH         "Mensaje rápido"
+
+REFERENCE           1_COMMANDS
+LANG_ENGLISH        "1. Commands"
+LANG_SPANISH         "1. Órdenes"
+
+REFERENCE           2_STATEMENTS
+LANG_ENGLISH        "2. Statements"
+LANG_SPANISH         "2. Comunicados"
+
+REFERENCE           3_RESPONSES
+LANG_ENGLISH        "3. Responses"
+LANG_SPANISH         "3. Respuestas"
+
+REFERENCE           ESC_EXIT
+LANG_ENGLISH        "Esc. Exit"
+LANG_SPANISH         "Esc. Salir"
+
+REFERENCE           1_FOLLOW_ME
+LANG_ENGLISH        "1. Follow me!"
+LANG_SPANISH         "1. ¡Seguidme!"
+
+REFERENCE           2_MOVE_IN
+LANG_ENGLISH        "2. Move in!"
+LANG_SPANISH         "2. ¡Avanzad!"
+
+REFERENCE           3_FALL_BACK
+LANG_ENGLISH        "3. Fall back!"
+LANG_SPANISH         "3. ¡Retirada!"
+
+REFERENCE           4_SUPPRESSING_FIRE
+LANG_ENGLISH        "4. Suppressing fire!"
+LANG_SPANISH         "4. ¡Fuego de contención!"
+
+REFERENCE           5_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Attack left flank!"
+LANG_SPANISH         "5. ¡Atacad el flanco izquierdo!"
+
+REFERENCE           6_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Attack right flank!"
+LANG_SPANISH         "6. ¡Atacad el flanco derecho!"
+
+REFERENCE           7_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Hold this position!"
+LANG_SPANISH         "7. ¡Mantén esta posición!"
+
+REFERENCE           8_REGROUP
+LANG_ENGLISH        "8. Regroup!"
+LANG_SPANISH         "8. ¡Reagrupaos!"
+
+REFERENCE           5_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Squad, attack left flank!"
+LANG_SPANISH         "5. ¡Pelotón, atacad el flanco izquierdo!"
+
+REFERENCE           6_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Squad, attack right flank!"
+LANG_SPANISH         "6. ¡Pelotón, atacad el flanco derecho!"
+
+REFERENCE           7_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Squad, hold this position!"
+LANG_SPANISH         "7. ¡Pelotón, mantened esta posición!"
+
+REFERENCE           8_SQUAD_REGROUP
+LANG_ENGLISH        "8. Squad, regroup!"
+LANG_SPANISH         "8. ¡Pelotón, reagrupaos!"
+
+REFERENCE           1_ENEMY_SPOTTED
+LANG_ENGLISH        "1. Enemy spotted!"
+LANG_SPANISH         "1. ¡Enemigo avistado!"
+
+REFERENCE           2_ENEMY_DOWN
+LANG_ENGLISH        "2. Enemy down!"
+LANG_SPANISH         "2. ¡Enemigo abatido!"
+
+REFERENCE           3_IM_IN_POSITION
+LANG_ENGLISH        "3. I'm in position."
+LANG_SPANISH         "3. Estoy en posición."
+
+REFERENCE           4_AREA_SECURE
+LANG_ENGLISH        "4. Area secure!"
+LANG_SPANISH         "4. ¡Zona asegurada!"
+
+REFERENCE           5_GRENADE
+LANG_ENGLISH        "5. Grenade!"
+LANG_SPANISH         "5. ¡Granada!"
+
+REFERENCE           6_SNIPER
+LANG_ENGLISH        "6. Sniper!"
+LANG_SPANISH         "6. ¡Francotirador!"
+
+REFERENCE           7_NEED_REINFORCEMENTS
+LANG_ENGLISH        "7. Need reinforcements!"
+LANG_SPANISH         "7. ¡Necesito refuerzos!"
+
+REFERENCE           8_HOLD_YOUR_FIRE
+LANG_ENGLISH        "8. Hold your fire!"
+LANG_SPANISH         "8. ¡Alto el fuego!"
+
+REFERENCE           1_YES_SIR
+LANG_ENGLISH        "1. Yes Sir!"
+LANG_SPANISH         "1. ¡Sí, señor!"
+
+REFERENCE           2_NO_SIR
+LANG_ENGLISH        "2. No Sir!"
+LANG_SPANISH         "2. ¡No, señor!"
+
+REFERENCE           3_IM_ON_MY_WAY
+LANG_ENGLISH        "3. I'm on my way."
+LANG_SPANISH         "3. Estoy en camino."
+
+REFERENCE           3_ON_MY_WAY
+LANG_ENGLISH        "3. On my way."
+LANG_SPANISH         "3. Estoy en camino."
+
+REFERENCE           4_SORRY
+LANG_ENGLISH        "4. Sorry."
+LANG_SPANISH         "4. Lo siento."
+
+REFERENCE           5_GREAT_SHOT
+LANG_ENGLISH        "5. Great shot!"
+LANG_SPANISH         "5. ¡Gran tiro!"
+
+REFERENCE           6_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "6. Took long enough!"
+LANG_SPANISH         "6. ¡Sí que has tardado!"
+
+REFERENCE           7_ARE_YOU_CRAZY
+LANG_ENGLISH        "7. Are you crazy?"
+LANG_SPANISH         "7. ¿Estás loco?"
+
+REFERENCE           FOLLOW_ME
+LANG_ENGLISH        "Follow Me!"
+LANG_SPANISH         "¡Sígueme!"
+
+REFERENCE           MOVE_IN
+LANG_ENGLISH        "Move in!"
+LANG_SPANISH         "¡Avanzad!"
+
+REFERENCE           FALL_BACK
+LANG_ENGLISH        "Fall back!"
+LANG_SPANISH         "¡Retirada!"
+
+REFERENCE           SUPPRESSING_FIRE
+LANG_ENGLISH        "Suppressing fire!"
+LANG_SPANISH         "¡Fuego de contención!"
+
+REFERENCE           ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Attack right flank!"
+LANG_SPANISH         "¡Atacad el flanco derecho!"
+
+REFERENCE           ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Attack left flank!"
+LANG_SPANISH         "¡Atacad el flanco izquierdo!"
+
+REFERENCE           HOLD_THIS_POSITION
+LANG_ENGLISH        "Hold this position!"
+LANG_SPANISH         "¡Mantén esta posición!"
+
+REFERENCE           REGROUP
+LANG_ENGLISH        "Regroup!"
+LANG_SPANISH         "¡Reagrupaos!"
+
+REFERENCE           STICK_TOGETHER
+LANG_ENGLISH        "Stick together!"
+LANG_SPANISH         "¡No se separen!"
+
+REFERENCE           SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Squad, attack right flank!"
+LANG_SPANISH         "¡Pelotón, atacad el flanco derecho!"
+
+REFERENCE           SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Squad, attack left flank!"
+LANG_SPANISH         "¡Pelotón, atacad el flanco izquierdo!"
+
+REFERENCE           SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "Squad, hold this position!"
+LANG_SPANISH         "¡Pelotón, mantened esta posición!"
+
+REFERENCE           SQUAD_REGROUP
+LANG_ENGLISH        "Squad, regroup!"
+LANG_SPANISH         "¡Pelotón, reagrupaos!"
+
+REFERENCE           SQUAD_STICK_TOGETHER
+LANG_ENGLISH        "Squad, stick together!"
+LANG_SPANISH         "¡Pelotón, permaneced juntos!"
+
+REFERENCE           ENEMY_SPOTTED
+LANG_ENGLISH        "Enemy spotted!"
+LANG_SPANISH         "¡Enemigo avistado!"
+
+REFERENCE           ENEMY_DOWN
+LANG_ENGLISH        "Enemy down!"
+LANG_SPANISH         "¡Enemigo abatido!"
+
+REFERENCE           IM_IN_POSITION
+LANG_ENGLISH        "I'm in position."
+LANG_SPANISH         "Estoy en posición."
+
+REFERENCE           AREA_SECURE
+LANG_ENGLISH        "Area secure!"
+LANG_SPANISH         "¡Zona asegurada!"
+
+REFERENCE           GRENADE
+LANG_ENGLISH        "Grenade!"
+LANG_SPANISH         "¡Granada!"
+
+REFERENCE           ENEMY_GRENADE
+LANG_ENGLISH        "Enemy grenade!"
+LANG_SPANISH         "¡Granada enemiga!"
+
+REFERENCE           SNIPER
+LANG_ENGLISH        "Sniper!"
+LANG_SPANISH         "¡Francotirador!"
+
+REFERENCE           NEED_REINFORCEMENTS
+LANG_ENGLISH        "Need reinforcements!"
+LANG_SPANISH         "¡Necesito refuerzos!"
+
+REFERENCE           HOLD_YOUR_FIRE
+LANG_ENGLISH        "Hold your fire!"
+LANG_SPANISH         "¡Alto el fuego!"
+
+REFERENCE           YES_SIR
+LANG_ENGLISH        "Yes Sir!"
+LANG_SPANISH         "¡Sí, señor!"
+
+REFERENCE           NO_SIR
+LANG_ENGLISH        "No Sir!"
+LANG_SPANISH         "¡No, señor!"
+
+REFERENCE           IM_ON_MY_WAY
+LANG_ENGLISH        "I'm on my way."
+LANG_SPANISH         "Estoy en camino."
+
+REFERENCE           ON_MY_WAY
+LANG_ENGLISH        "On my way."
+LANG_SPANISH         "Estoy en camino."
+
+REFERENCE           SORRY
+LANG_ENGLISH        "Sorry."
+LANG_SPANISH         "Lo siento."
+
+REFERENCE           GREAT_SHOT
+LANG_ENGLISH        "Great shot!"
+LANG_SPANISH         "¡Gran tiro!"
+
+REFERENCE           TOOK_YOU_LONG_ENOUGH
+LANG_ENGLISH        "Took you long enough!"
+LANG_SPANISH         "¡Cuánto has tardado!"
+
+REFERENCE           TOOK_LONG_ENOUGH
+LANG_ENGLISH        "Took long enough!"
+LANG_SPANISH         "¡Sí que has tardado!"
+
+REFERENCE           YOURE_CRAZY
+LANG_ENGLISH        "You're crazy!"
+LANG_SPANISH         "¡Estás loco!"
+
+REFERENCE           YOU_OUTTA_YOUR_MIND
+LANG_ENGLISH        "You outta your mind?"
+LANG_SPANISH         "¿Has perdido la cabeza?"
+
+REFERENCE           YOURE_NUTS
+LANG_ENGLISH        "You're nuts!"
+LANG_SPANISH         "¡Estás chiflado!"
+
+REFERENCE           ARE_YOU_CRAZY
+LANG_ENGLISH        "Are you crazy?"
+LANG_SPANISH         "¿Estás loco?"
+
+
+ENDMARKER
+
+

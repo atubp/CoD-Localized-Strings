@@ -1,0 +1,63 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PRESSTHEFORWARDBUTTON
+LANG_ENGLISH        "Hold [%s] to move the tank forward"
+LANG_SPANISH        "Mantener [%s] para mover el tanque hacia delante"
+
+REFERENCE           PRESSTHEBACKBUTTON
+LANG_ENGLISH        "Hold [%s] to move the tank backwards"
+LANG_SPANISH        "Mantener [%s] para mover el tanque hacia atrás"
+
+REFERENCE           PRESSTHESTRAFERIGHT
+LANG_ENGLISH        "Hold [%s] to turn the tank right"
+LANG_SPANISH        "Mantener [%s] para girar el tanque a la derecha"
+
+REFERENCE           PRESSTHESTRAFELEFT
+LANG_ENGLISH        "Hold [%s] to turn the tank left"
+LANG_SPANISH        "Mantener [%s] para girar el tanque a la izquierda"
+
+REFERENCE           PRESSTHEJUMPBUTTON
+LANG_ENGLISH        "Hold [%s] to turn the base of the tank to line up with the turret."
+LANG_SPANISH        "Mantener [%s] Para alinear la base del tanque con la torreta"
+
+REFERENCE           OBJ_GETTOTOWN
+LANG_ENGLISH        "Reach the outskirts of the next town."
+LANG_SPANISH        "Llegar a las afueras de la siguiente ciudad."
+
+REFERENCE           GREENBAR
+LANG_ENGLISH        "The Green box with the red bar on the right shows how much damage your tank has taken."
+LANG_SPANISH        "La caja verde con la barra roja a la derecha muestra el daño que ha sufrido el tanque."
+
+REFERENCE           MACHINEGUNHINT
+LANG_ENGLISH        "The Machine Gun on your tank will automatically fire at troops in front of your tank."
+LANG_SPANISH        "La ametralladora de tu tanque disparará automáticamente a las tropas en frente del mismo."
+
+REFERENCE           PRESSUSETOLOOK
+LANG_ENGLISH        "Press [%s] to open your hatch and look around"
+LANG_SPANISH        "Pulsa [%s] para abrir tu escotilla y echar un vistazo a tu alrededor."
+
+REFERENCE           HATCHOPENHINT
+LANG_ENGLISH        "You can use your regular weapons while the hatch is open."
+LANG_SPANISH        "Puedes usar tus armas regulares mientras la escotilla esté abierta."
+
+REFERENCE           PRESSMOVEME
+LANG_ENGLISH        "Use your movement keys to move and turn the tank."
+LANG_SPANISH        "Usa tus teclas de movimiento para mover y girar el tanque."
+
+
+ENDMARKER
+
+

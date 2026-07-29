@@ -1,0 +1,303 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PLACE
+LANG_ENGLISH        "Moving North, Approaching Prokhorovka"
+LANG_SPANISH        "Moviéndonos hacia el norte, llegando a Prokhorovka"
+
+REFERENCE           DATE
+LANG_ENGLISH        "July 12, 1943"
+LANG_SPANISH        "12 de julio de 1943"
+
+REFERENCE           TIME
+LANG_ENGLISH        "1710 hrs"
+LANG_SPANISH        "17:10 hrs"
+
+REFERENCE           COMMANDER_INTRO
+LANG_ENGLISH        "Attention!  Listen up!  The Germans are retreating, but we have to stop them before they reach the River Psel.  There is no time to lose."
+LANG_SPANISH        "¡Atención! ¡Escuchad! Los alemanes se retiran, pero debemos detenerlos antes de que alcancen el río Psel. No hay tiempo que perder. ¡Moveos!"
+
+REFERENCE           CREW_CHATTER1
+LANG_ENGLISH        "Fascist bastards..."
+LANG_SPANISH        "Bastardos fascistas..."
+
+REFERENCE           CREW_CHATTER2
+LANG_ENGLISH        "To hell with ‘em..."
+LANG_SPANISH        "Al diablo con ellos..."
+
+REFERENCE           CREW_CHATTER3
+LANG_ENGLISH        "Don't get too happy, we're not done yet."
+LANG_SPANISH        "No os alegréis tanto, aún no habéis acabado con nosotros."
+
+REFERENCE           CREW_CONVOY
+LANG_ENGLISH        "There's their convoy!"
+LANG_SPANISH        "¡Ahí está su convoy!"
+
+REFERENCE           COMMANDER_ACROSSRIVER
+LANG_ENGLISH        "Retreating column - across the river!  Don't let them regroup!"
+LANG_SPANISH        "¡Columna en retirada, a través del río! ¡No dejéis que se reagrupen!"
+
+REFERENCE           COMMANDER_BRIDGEOUT
+LANG_ENGLISH        "The bridge is out! Push through the river! Take out those guns!"
+LANG_SPANISH        "¡El puente se ha caído! ¡Id por el río! ¡Sacad las armas!"
+
+REFERENCE           COMMANDER_AMBUSH1
+LANG_ENGLISH        "Panzers! Ambush! - Spread out! Move!"
+LANG_SPANISH        "¡Panzers! ¡Emboscada! ¡Dispersaos, rápido!"
+
+REFERENCE           CREW_RETREATING
+LANG_ENGLISH        "Damn fascists, I thought they were retreating..."
+LANG_SPANISH        "Malditos fascistas, pensaba que se estaban retirando..."
+
+REFERENCE           COMMANDER_GOAROUND
+LANG_ENGLISH        "They've blocked off the road! Get around it to the left!"
+LANG_SPANISH        "¡Han bloqueado la carretera! ¡Rodeadla por la izquierda!"
+
+REFERENCE           COMMANDER_GOAROUND2
+LANG_ENGLISH        "Go around to the left!"
+LANG_SPANISH        "¡Id por la izquierda!"
+
+REFERENCE           COMMANDER_TEARINTOTHEM
+LANG_ENGLISH        "We've got ‘em! Finish them off!"
+LANG_SPANISH        "¡Ya son nuestros! ¡Acabad con ellos!"
+
+REFERENCE           COMMANDER_TURNTOFIGHT
+LANG_ENGLISH        "It looks like Fritz wants to fight. Let's not disappoint him comrades..."
+LANG_SPANISH        "Parece que Fritz quiere luchar. No le decepcionemos, camaradas..."
+
+REFERENCE           COMMANDER_EYES_OPEN
+LANG_ENGLISH        "Keep your eyes open men..."
+LANG_SPANISH        "Mantened los ojos bien abiertos, muchachos..."
+
+REFERENCE           COMMANDER_PRESSON
+LANG_ENGLISH        "We have to get to the bridge - to cut off their retreat!  Vladimir - Yuri - get into that town and clear it.  Watch your backs..."
+LANG_SPANISH        "¡Tenemos que llegar al puente para parar su retirada! Vladimir, Yuri: entrad en esa ciudad y despejadla. Vigilad vuestras espaldas..."
+
+REFERENCE           SASHA_TREAD
+LANG_ENGLISH        "Everybody out! We've thrown a track!  We'll have to get to that bridge on foot."
+LANG_SPANISH        ":¡Todos fuera! ¡Se ha soltado una oruga! Deberemos llegar al puente a pie."
+
+REFERENCE           SASHA_TREAD2
+LANG_ENGLISH        "We must continue the assault!  Even without our armor the Germans must be stopped.  Let's move!"
+LANG_SPANISH        "¡Tenemos que seguir con el asalto! Incluso sin nuestro tanque debemos parar a los alemanes. ¡Andando!"
+
+REFERENCE           SASHA_WEAPONRY
+LANG_ENGLISH        "This place is crawling with them!  How the hell are we supposed to get through?!"
+LANG_SPANISH        "¡Este sitio está lleno de ellos! ¿Cómo diablos vamos a pasar por aquí?"
+
+REFERENCE           SASHA_FALLBACK2
+LANG_ENGLISH        "This is their last defense... find cover!"
+LANG_SPANISH        "Ésta es su última defensa. ¡Cubríos!"
+
+REFERENCE           SASHA_GIVETHEMHELL
+LANG_ENGLISH        "Our tanks have got their hands full! Don't let the Germans cross that bridge! Courage, comrades -- give ‘em hell!"
+LANG_SPANISH        "¡Nuestros tanques tienen trabajo de sobra! ¡No dejéis que los alemanes crucen el puente! ¡Valor, camaradas! ¡Dadles caña!"
+
+REFERENCE           SASHA_GIVETHEMHELL2
+LANG_ENGLISH        "Our armor has arrived! Now we finish them!"
+LANG_SPANISH        "¡Nuestro tanque ha llegado! ¡Ahora sí que terminaremos con ellos!"
+
+REFERENCE           COMMANDER_OUTRO
+LANG_ENGLISH        "Attention, please... may I have your attention. In twenty years in this great army, I have never seen a group of men fight with the kind of bravery you have shown today.  I am honored to call you my comrades."
+LANG_SPANISH        "Atención, por favor. Escuchadme un momento. Durante veinte años en este glorioso ejército, nunca había visto a un grupo de hombres luchar con tanta valentía como la que habéis mostrado hoy. Me siento muy orgulloso de llamaros mis camaradas."
+
+REFERENCE           CREW_SHOUT1
+LANG_ENGLISH        "Nice shot!"
+LANG_SPANISH        "¡Buen disparo!"
+
+REFERENCE           CREW_SHOUT2
+LANG_ENGLISH        "Good job, comrades!"
+LANG_SPANISH        "¡Buen trabajo, camaradas!"
+
+REFERENCE           CREW_MUTTER1
+LANG_ENGLISH        "There are more of them than I expected."
+LANG_SPANISH        "Hay más de los que esperaba."
+
+REFERENCE           CREW_MUTTER2
+LANG_ENGLISH        "I've got a bad feeling about this."
+LANG_SPANISH        "Esto me da mala espina."
+
+REFERENCE           CREW_COWARDS
+LANG_ENGLISH        "Look at the cowards run!"
+LANG_SPANISH        "¡Mirad cómo corren los muy cobardes!"
+
+REFERENCE           CREW_GUNS
+LANG_ENGLISH        "Take out those guns!"
+LANG_SPANISH        "¡Destruid esos cañones!"
+
+REFERENCE           COMMANDER_CONT1
+LANG_ENGLISH        "Press on!"
+LANG_SPANISH        "¡Seguid!"
+
+REFERENCE           COMMANDER_CONT2
+LANG_ENGLISH        "Keep moving, comrades!"
+LANG_SPANISH        "¡Seguid, camaradas!"
+
+REFERENCE           COMMANDER_CONT3
+LANG_ENGLISH        "Go! Go! Go!"
+LANG_SPANISH        "¡Venga, venga!"
+
+REFERENCE           COMMANDER_CONT4
+LANG_ENGLISH        "To the bridge!"
+LANG_SPANISH        "¡Al puente!"
+
+REFERENCE           COMMANDER_CONT5
+LANG_ENGLISH        "On to the bridge!"
+LANG_SPANISH        "¡Subid al puente!"
+
+REFERENCE           COMMANDER_CONT6
+LANG_ENGLISH        "We have them on the run!  Keep the pressure on them!"
+LANG_SPANISH        "¡Los hemos puesto en fuga! ¡Seguid presionándolos!"
+
+REFERENCE           COMMANDER_CONT7
+LANG_ENGLISH        "Keep them on the run!  Victory will be ours!"
+LANG_SPANISH        "¡Seguid haciendo que huyan! ¡La victoria será nuestra!"
+
+REFERENCE           COMMANDER_CONT8
+LANG_ENGLISH        "Their delaying actions are no match for us!"
+LANG_SPANISH        "¡Sus tácticas dilatorias no podrán con nosotros!"
+
+REFERENCE           COMMANDER_CONT9
+LANG_ENGLISH        "The convoy is crushed.  We must push on towards the river crossing!"
+LANG_SPANISH        "El convoy está destrozado. ¡Avancemos hasta el cruce de ríos!"
+
+REFERENCE           COMMANDER_CONT10
+LANG_ENGLISH        "Crush them comrades, they are trying to stall us!"
+LANG_SPANISH        "¡Machacadles, camaradas! ¡Están intentando detenernos!"
+
+REFERENCE           COMMANDER_CONT11
+LANG_ENGLISH        "They are trying to slow us down! Push through!"
+LANG_SPANISH        "¡Intentan frenarnos! ¡Avanzad!"
+
+REFERENCE           COMMANDER_RALLY1
+LANG_ENGLISH        "For the motherland!!"
+LANG_SPANISH        "¡Todo por la patria!"
+
+REFERENCE           COMMANDER_RALLY2
+LANG_ENGLISH        "Destroy them!!"
+LANG_SPANISH        "¡Destruidlos!"
+
+REFERENCE           COMMANDER_RALLY3
+LANG_ENGLISH        "Death to the fascists!"
+LANG_SPANISH        "¡Muerte a los fascistas!"
+
+REFERENCE           COMMANDER_RALLY4
+LANG_ENGLISH        "Watch out!!"
+LANG_SPANISH        "¡Cuidado!"
+
+REFERENCE           COMMANDER_RALLY5
+LANG_ENGLISH        "Fire at will!"
+LANG_SPANISH        "¡Fuego a discrección!"
+
+REFERENCE           SASHA_RALLY1
+LANG_ENGLISH        "Kill them as they retreat, comrades!"
+LANG_SPANISH        "¡Matadles mientras se retiran, camaradas!"
+
+REFERENCE           SASHA_RALLY2
+LANG_ENGLISH        "We must push them back!"
+LANG_SPANISH        "¡Hay que hacerles retroceder!"
+
+REFERENCE           SASHA_RALLY3
+LANG_ENGLISH        "They are in full retreat... Let none of them escape!"
+LANG_SPANISH        "Se retiran en masa. ¡Que no escape ni uno!"
+
+REFERENCE           SASHA_RALLY4
+LANG_ENGLISH        "Push through that covering fire... they must not cross the bridge!"
+LANG_SPANISH        "¡Abriros paso por ese fuego de cobertura! ¡No deben cruzar el puente!"
+
+REFERENCE           SASHA_RALLY5
+LANG_ENGLISH        "They continue to retreat... we must keep them on the run!"
+LANG_SPANISH        "Siguen retirándose. ¡Que sigan huyendo!"
+
+REFERENCE           COMMANDER_HINT_BUILDING
+LANG_ENGLISH        "Anti-tank infantry in the buildings!"
+LANG_SPANISH        "¡Infantería antitanque en los edificios!"
+
+REFERENCE           COMMANDER_HINT_RUBBLE
+LANG_ENGLISH        "Anti-tank infantry in the rubble!"
+LANG_SPANISH        "¡Infantería antitanque entre los escombros!"
+
+REFERENCE           COMMANDER_HINT_PFBUILDING
+LANG_ENGLISH        "Panzerfausts in the buildings!"
+LANG_SPANISH        "¡Panzerfausts en los edificios!"
+
+REFERENCE           COMMANDER_HINT_PFRUBBLE
+LANG_ENGLISH        "Panzerfausts in the rubble!"
+LANG_SPANISH        "¡Panzerfausts entre los escombros!"
+
+REFERENCE           COMMANDER_HINT_ANTITANK
+LANG_ENGLISH        "Anti-tank guns!"
+LANG_SPANISH        "¡Cañones antitanque!"
+
+REFERENCE           COMMANDER_HINT_FLANK
+LANG_ENGLISH        "Flank the enemy!"
+LANG_SPANISH        "¡Flanquead al enemigo!"
+
+REFERENCE           COMMANDER_HINT_WRONGWAY1
+LANG_ENGLISH        "Not this way!"
+LANG_SPANISH        "¡Por ahí no!"
+
+REFERENCE           COMMANDER_HINT_WRONGWAY2
+LANG_ENGLISH        "You're going the wrong way!"
+LANG_SPANISH        "¡Vas en dirección contraria!"
+
+REFERENCE           COMMANDER_HINT_WRONGWAY3
+LANG_ENGLISH        "The Germans are the other direction, Comrade!"
+LANG_SPANISH        "¡Los alemanes están en la otra dirección, camarada!"
+
+REFERENCE           OBJECTIVE1
+LANG_ENGLISH        "Proceed to the town of Prokhorovka."
+LANG_SPANISH        "Dirígete al pueblo de Prokhorovka."
+
+REFERENCE           OBJECTIVE2
+LANG_ENGLISH        "Destroy the PAK guns (%s remaining)."
+LANG_SPANISH        "Destruye los cañones PAK (quedan %s)."
+
+REFERENCE           OBJECTIVE3
+LANG_ENGLISH        "Eliminate the German resistance across the stream."
+LANG_SPANISH        "Elimina la resistencia alemana al otro lado del río."
+
+REFERENCE           OBJECTIVE4
+LANG_ENGLISH        "Destroy the German tanks in the farm area."
+LANG_SPANISH        "Destruye los tanques alemanes en la zona de la granja."
+
+REFERENCE           OBJECTIVE5
+LANG_ENGLISH        "Eliminate all German infantry in the farm area."
+LANG_SPANISH        "Elimina toda la infantería alemana en la zona de la granja."
+
+REFERENCE           OBJECTIVE6
+LANG_ENGLISH        "Eliminate all German resistance in your path."
+LANG_SPANISH        "Elimina toda la resistencia alemana en tu camino."
+
+REFERENCE           OBJECTIVE7
+LANG_ENGLISH        "Destroy all German tanks at the crossroad."
+LANG_SPANISH        "Destruye todos los tanques alemanes en la encrucijada."
+
+REFERENCE           OBJECTIVE8
+LANG_ENGLISH        "Destroy all German tanks in the clearing."
+LANG_SPANISH        "Destruye todos los tanques alemanes en el claro."
+
+REFERENCE           OBJECTIVE9
+LANG_ENGLISH        "Eliminate the German roadblock."
+LANG_SPANISH        "Elimina el bloqueo de carretera alemán."
+
+REFERENCE           OBJECTIVE10
+LANG_ENGLISH        "Destroy all remaining German armor."
+LANG_SPANISH        "Destruye los blindados alemanes que quedan."
+
+
+ENDMARKER
+
+

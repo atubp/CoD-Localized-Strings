@@ -1,0 +1,73 @@
+// Dumped from fastfile "see2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_REJOIN_ARMY
+LANG_ENGLISH        "Rejoin the main Russian Army"
+
+REFERENCE           SEE2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Blood & Iron'"
+
+REFERENCE           SEE2_ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "Advance towards Seelow"
+
+REFERENCE           SEE2_DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "Destroy surviving tanks"
+
+REFERENCE           SEE2_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           SEE2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Seelow Heights, Germany"
+
+REFERENCE           SEE2_ASSAULT_THE_TOWN
+LANG_ENGLISH        "Assault the town"
+
+REFERENCE           SEE2_INTROSCREEN_INFO
+LANG_ENGLISH        "3rd Shock Army"
+
+REFERENCE           SEE2_INTROSCREEN_DATE
+LANG_ENGLISH        "April 16, 1945"
+
+REFERENCE           SEE2_COMMANDEER_THE_TIGER
+LANG_ENGLISH        "Commandeer the Tiger tank"
+
+REFERENCE           SEE2_DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "Destroy incoming Panther tanks"
+
+REFERENCE           SEE2_CLEAR_TRAIN_AREA
+LANG_ENGLISH        "Clear enemy tanks around train"
+
+REFERENCE           SEE2_DESTROY_ARTILLERY
+LANG_ENGLISH        "Neutralize all enemy artillery (&&1 remaining)"
+
+REFERENCE           SEE2_PROCEED_RADIOTOWER
+LANG_ENGLISH        "Proceed to the Radio Tower"
+
+REFERENCE           SEE2_DESTROY_RADIOTOWER
+LANG_ENGLISH        "Destroy Radio Tower"
+
+REFERENCE           SEE2_ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "Advance towards Seelow using the Tiger tank"
+
+REFERENCE           SEE2_BREAK_THE_LINE
+LANG_ENGLISH        "Break the German line and reach the train station"
+
+REFERENCE           SEE2_SCOUT_AHEAD
+LANG_ENGLISH        "Scout ahead for any retreating enemies"
+
+REFERENCE           SEE2_DESTROY_FUELCACHES
+LANG_ENGLISH        "Destroy the fuel supplies"
+
+REFERENCE           SEE2_ADS_HINT
+LANG_ENGLISH        "Aim Down Sight (ADS) to look at distant targets"
+
+REFERENCE           SEE2_FLAMETHROWER_HINT
+LANG_ENGLISH        "Press [{+frag}] to fire your flamethrower"
+
+REFERENCE           SEE2_MG_COOP_HINT
+LANG_ENGLISH        "Press [{+frag}] to fire your machinegun"
+
+ENDMARKER

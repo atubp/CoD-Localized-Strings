@@ -1,0 +1,73 @@
+// Dumped from fastfile "see2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_REJOIN_ARMY
+LANG_ENGLISH        "Vuelve al Ejército Rojo."
+
+REFERENCE           SEE2_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Sangre y hierro\""
+
+REFERENCE           SEE2_ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "Avanza hacia Seelow."
+
+REFERENCE           SEE2_DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "Destruye los tanques supervivientes."
+
+REFERENCE           SEE2_INTROSCREEN_NAME
+LANG_ENGLISH        "Sld. Petrenko"
+
+REFERENCE           SEE2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Seelow Heights, Alemania"
+
+REFERENCE           SEE2_ASSAULT_THE_TOWN
+LANG_ENGLISH        "Asalta el pueblo."
+
+REFERENCE           SEE2_INTROSCREEN_INFO
+LANG_ENGLISH        "3er ejército de choque"
+
+REFERENCE           SEE2_INTROSCREEN_DATE
+LANG_ENGLISH        "16 de abril de 1945"
+
+REFERENCE           SEE2_COMMANDEER_THE_TIGER
+LANG_ENGLISH        "Toma el mando del tanque Tiger."
+
+REFERENCE           SEE2_DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "Destruye los tanques Panther enemigos."
+
+REFERENCE           SEE2_CLEAR_TRAIN_AREA
+LANG_ENGLISH        "Elimina los tanques enemigos alrededor del tren."
+
+REFERENCE           SEE2_DESTROY_ARTILLERY
+LANG_ENGLISH        "Neutraliza la artillería enemiga. (Quedan: &&1)"
+
+REFERENCE           SEE2_PROCEED_RADIOTOWER
+LANG_ENGLISH        "Ve a la torre de radio."
+
+REFERENCE           SEE2_DESTROY_RADIOTOWER
+LANG_ENGLISH        "Destruye la torre de radio."
+
+REFERENCE           SEE2_ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "Avanza hacia Seelow con el tanque Tiger."
+
+REFERENCE           SEE2_BREAK_THE_LINE
+LANG_ENGLISH        "Rompe las líneas alemanas y alcanza la estación de tren."
+
+REFERENCE           SEE2_SCOUT_AHEAD
+LANG_ENGLISH        "Explora por si hay enemigos en retirada."
+
+REFERENCE           SEE2_DESTROY_FUELCACHES
+LANG_ENGLISH        "Destruye los suministros de combustible."
+
+REFERENCE           SEE2_ADS_HINT
+LANG_ENGLISH        "Apuntar con la mira para mirar a objetivos lejanos"
+
+REFERENCE           SEE2_FLAMETHROWER_HINT
+LANG_ENGLISH        "Pulsa [{+frag}] para disparar el lanzallamas"
+
+REFERENCE           SEE2_MG_COOP_HINT
+LANG_ENGLISH        "Pulsa [{+frag}] para disparar la ametralladora."
+
+ENDMARKER

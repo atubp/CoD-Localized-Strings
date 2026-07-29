@@ -1,0 +1,87 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVE_1
+LANG_ENGLISH        "Follow Sgt. Moody to the ridge"
+LANG_SPANISH        "Sigue al sargento Moody al risco"
+
+REFERENCE           OBJECTIVE_2
+LANG_ENGLISH        "Protect Sgt. Moody"
+LANG_SPANISH        "Protege al sargento Moody"
+
+REFERENCE           OBJECTIVE_3
+LANG_ENGLISH        "Clear the forest"
+LANG_SPANISH        "Despeja el bosque"
+
+REFERENCE           OBJECTIVE_4
+LANG_ENGLISH        "Follow Sgt. Moody and squad  "
+LANG_SPANISH        "Sigue al sargento Moody"
+
+REFERENCE           OBJECTIVE_5
+LANG_ENGLISH        "Assault the mg42 nest"
+LANG_SPANISH        "Despeja el nido de MG42"
+
+REFERENCE           OBJECTIVE_6
+LANG_ENGLISH        "Clear courtyard"
+LANG_SPANISH        "Despejar el patio."
+
+REFERENCE           OBJECTIVE_7
+LANG_ENGLISH        "Clear farm house."
+LANG_SPANISH        "Despeja la casa de la granja"
+
+REFERENCE           OBJECTIVE_8
+LANG_ENGLISH        "Interrogate German officer"
+LANG_SPANISH        "Interroga al oficial alemán"
+
+REFERENCE           OBJECTIVE_9
+LANG_ENGLISH        "Rescue the allied prisoners"
+LANG_SPANISH        "Rescata a los prisioneros aliados"
+
+REFERENCE           OBJECTIVE_10
+LANG_ENGLISH        "Get to the crossroads"
+LANG_SPANISH        "Llegar a la encrucijada."
+
+REFERENCE           OBJECTIVE_11
+LANG_ENGLISH        "Clear the crossroads"
+LANG_SPANISH        "Despeja la encrucijada"
+
+REFERENCE           OBJECTIVE_12
+LANG_ENGLISH        "Ambush convoy"
+LANG_SPANISH        "Tiende una emboscada al convoy"
+
+REFERENCE           OBJECTIVE_13
+LANG_ENGLISH        "Destroy tank"
+LANG_SPANISH        "Destruye el tanque"
+
+REFERENCE           OBJECTIVE_14
+LANG_ENGLISH        "Return back to crossroads"
+LANG_SPANISH        "Regresa a la encrucijada"
+
+REFERENCE           FAIL_MOODY
+LANG_ENGLISH        "Failed to protect Sgt. Moody"
+LANG_SPANISH        "No protegiste al sargento Moody"
+
+REFERENCE           FAIL_PRISONERS
+LANG_ENGLISH        "Failed to protect prisoners"
+LANG_SPANISH        "No protegiste a los prisioneros"
+
+REFERENCE           TEMP_FIRE_EARLY
+LANG_ENGLISH        "Moody: What are you doing Riley? You'll get us all killed!"
+LANG_SPANISH        "Moody: ¿Qué estás haciendo, Riley? ¡Lograrás que nos maten!"
+
+
+ENDMARKER
+
+

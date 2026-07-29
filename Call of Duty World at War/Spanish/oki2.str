@@ -1,0 +1,58 @@
+// Dumped from fastfile "oki2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI2_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Antorcha y sacacorchos\""
+
+REFERENCE           OKI2_OBJ_1
+LANG_ENGLISH        "Asalta Wana Ridge."
+
+REFERENCE           OKI2_INTROSCREEN_WHO
+LANG_ENGLISH        "Sld. Miller"
+
+REFERENCE           OKI2_INTROSCREEN_DATE
+LANG_ENGLISH        "14 de mayo de 1945"
+
+REFERENCE           OKI2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Wana Ridge, Okinawa"
+
+REFERENCE           OKI2_OBJ_2_4
+LANG_ENGLISH        "Elimina los cañones de 200mm. (Quedan 4)"
+
+REFERENCE           OKI2_INTROSCREEN_WHAT
+LANG_ENGLISH        "1ª división de marines"
+
+REFERENCE           OKI2_OBJ_2
+LANG_ENGLISH        "Elimina los cañones de 200mm."
+
+REFERENCE           OKI2_OBJ_2_2
+LANG_ENGLISH        "Elimina los cañones de 200mm. (Quedan 2)"
+
+REFERENCE           OKI2_OBJ_2_3
+LANG_ENGLISH        "Elimina los cañones de 200mm. (Quedan 3)"
+
+REFERENCE           OKI2_OBJ_2_1
+LANG_ENGLISH        "Elimina los cañones de 200mm. (Queda 1)"
+
+REFERENCE           OKI2_DESTROY_GUN
+LANG_ENGLISH        "Mantén [{+activate}] para colocar la carga."
+
+REFERENCE           OKI2_OBJ_4
+LANG_ENGLISH        "Localiza la entrada al búnker."
+
+REFERENCE           OKI2_OBJ_5
+LANG_ENGLISH        "Asegura el búnker."
+
+REFERENCE           OKI2_OBJ_3
+LANG_ENGLISH        "Reúnete con el sargento."
+
+REFERENCE           OKI2_SATCHEL_HINT1
+LANG_ENGLISH        "Pulsa [{+actionslot 3}] para seleccionar la carga explosiva."
+
+REFERENCE           OKI2_SATCHEL_HINT2
+LANG_ENGLISH        "Pulsa [{+toggleads_throw}] para lanzar la carga explosiva. Pulsa [{+attack}] para detonarla."
+
+ENDMARKER

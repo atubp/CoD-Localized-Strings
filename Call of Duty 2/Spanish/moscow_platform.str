@@ -1,0 +1,195 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd_PC.cfg"
+FILENOTES           ""
+
+REFERENCE           USE_TO_FIRE
+LANG_ENGLISH        "Press [[{+attack}]] to fire."
+LANG_SPANISH         "Pulsa [[{+attack}]] para disparar."
+
+REFERENCE           HOLD_TO_ADS
+LANG_ENGLISH        "Hold [[{+speed}]] to aim down your sight."
+LANG_SPANISH         "Mantén pulsado [[{+speed}]] para apuntar con la mira."
+
+REFERENCE           PUSH_TO_MELEE_NORM
+LANG_ENGLISH        "Press [[{+melee}]] to strike the mannequin with the butt of your weapon."
+LANG_SPANISH         "Pulsa [[{+melee}]] para golpear el maniquí con la culata del arma."
+
+REFERENCE           SWITCH_WEAPONS
+LANG_ENGLISH        "Press [[{weapnext}]] to switch weapons."
+LANG_SPANISH         "Pulsa [[{weapnext}]] para cambiar de arma."
+
+REFERENCE           THROW_GRENADE
+LANG_ENGLISH        "Press [[{+smoke}]] to throw a smoke grenade."
+LANG_SPANISH         "Pulsa [[{+smoke}]] para lanzar una granada de humo."
+
+REFERENCE           SWITCH_GRENADES
+LANG_ENGLISH        "Press [[{cycleoffhand}]] to switch grenades."
+LANG_SPANISH         "Pulsa [[{cycleoffhand}]] para cambiar de granadas."
+
+REFERENCE           PUSH_TWICE_TO_CRAWL
+LANG_ENGLISH        "Press [[{lowerstance}]] twice to crawl."
+LANG_SPANISH         "Pulsa [[{lowerstance}]] dos veces para arrastrarte."
+
+REFERENCE           PUSH_TWICE_TO_STAND
+LANG_ENGLISH        "Press [[{raisestance}]] twice to stand back up."
+LANG_SPANISH         "Pulsa [[{raisestance}]] dos veces para levantarte."
+
+REFERENCE           USE_TO_LOOK_AROUND
+LANG_ENGLISH        "Use the [MOUSE] to turn and look around."
+LANG_SPANISH         "Usa el [RATÓN] para girar y mirar a tu alrededor."
+
+REFERENCE           USE_TO_MOVE
+LANG_ENGLISH        "Use [[{+forward}], [{+moveleft}], [{+back}], [{+moveright}]] together to move around."
+LANG_SPANISH         "Usa [[{+forward}], [{+moveleft}], [{+back}], [{+moveright}]] a la vez para moverte alrededor."
+
+REFERENCE           PRESS_TO_MANTLE_GOSTAND
+LANG_ENGLISH        "Touch the low wall and press [[{+gostand}]] to climb over it."
+LANG_SPANISH         "Toca el muro bajo y pulsa [[{+gostand}]] para trepar por él."
+
+REFERENCE           TOGGLE_ADS
+LANG_ENGLISH        "Press [[{toggleads}]] to aim down the sight. To stop, press it again."
+LANG_SPANISH         "Pulsa [[{toggleads}]] para apuntar con la mira. Bájala pulsando de nuevo."
+
+REFERENCE           GO_CROUCH
+LANG_ENGLISH        "Press [[{gocrouch}]] to crouch."
+LANG_SPANISH         "Pulsa [[{gocrouch}]] para agacharte."
+
+REFERENCE           TOGGLE_CROUCH
+LANG_ENGLISH        "Press [[{togglecrouch}]] to toggle crouching."
+LANG_SPANISH         "Pulsa [[{togglecrouch}]] para activar agacharse."
+
+REFERENCE           HOLD_CROUCH
+LANG_ENGLISH        "Hold [[{+movedown}]] to crouch."
+LANG_SPANISH         "Mantén pulsado [[{+movedown}]] para agacharte."
+
+REFERENCE           GO_PRONE
+LANG_ENGLISH        "Press [[{goprone}]] to crawl."
+LANG_SPANISH         "Pulsa [[{goprone}]] para arrastrarte."
+
+REFERENCE           TOGGLE_PRONE
+LANG_ENGLISH        "Press [[{toggleprone}]] to toggle crawling."
+LANG_SPANISH         "Pulsa [[{toggleprone}]] para activar arrastrarse."
+
+REFERENCE           HOLD_PRONE
+LANG_ENGLISH        "Hold [[{+prone}]] to crawl."
+LANG_SPANISH         "Mantén pulsado [[{+prone}]] para arrastrarte."
+
+REFERENCE           GO_STAND
+LANG_ENGLISH        "Press [[{+gostand}]] to stand back up."
+LANG_SPANISH         "Pulsa [[{+gostand}]] para levantarte."
+
+REFERENCE           TOGGLE_STAND
+LANG_ENGLISH        "Press [[{togglecrouch}]] again to toggle back to standing."
+LANG_SPANISH         "Pulsa [[{togglecrouch}]] de nuevo para volver a ponerte de pie."
+
+REFERENCE           HOLD_STAND
+LANG_ENGLISH        "Let go of [[{+movedown}]] to stand back up."
+LANG_SPANISH         "Suelta [[{+movedown}]] para levantarte."
+
+REFERENCE           SWAP_WEAPON
+LANG_ENGLISH        "Press [[{+activate}]] over a weapon to swap it with your current one."
+LANG_SPANISH         "Mantén pulsado [[{+activate}]] junto a un arma para cambiarla por la que tienes."
+
+REFERENCE           USE_TO_RELOAD
+LANG_ENGLISH        "Press [[{+reload}]] to reload your weapon."
+LANG_SPANISH         "Pulsa [[{+reload}]] para recargar el arma."
+
+REFERENCE           GRAB_WEAPON
+LANG_ENGLISH        "Press [[{+activate}]] over a weapon to pick it up."
+LANG_SPANISH         "Pulsa [[{+activate}]] junto a un arma para recogerla."
+
+REFERENCE           OBJECTIVES
+LANG_ENGLISH        "Hold [[{+scores}]] to check your objectives."
+LANG_SPANISH         "Mantén pulsado [[{+scores}]] para revisar los objetivos."
+
+REFERENCE           EXPLOSIVES
+LANG_ENGLISH        "Approach the glowing explosives marker \nand Press [[{+activate}]] to plant the explosives."
+LANG_SPANISH         "Acércate al marcador luminoso de explosivos \ny pulsa [[{+activate}]] para colocar los explosivos."
+
+REFERENCE           RELOAD_HINT
+LANG_ENGLISH        "Pressing [[{+reload}]] also pops\nup your ammo and grenade count."
+LANG_SPANISH         "Pulsando [[{+reload}]] también se\nmuestra tu total de munición y granadas."
+
+REFERENCE           UNBOUND
+LANG_ENGLISH        "[&&1] is not bound to a key."
+LANG_SPANISH         "[&&1] no tiene ninguna tecla asignada."
+
+REFERENCE           UNBOUND_MOVE
+LANG_ENGLISH        "One of the movement keys is unbound."
+LANG_SPANISH         "Una de las teclas de movimiento no está asignada."
+
+REFERENCE           PUSH_TO_MELEE_BREATH
+LANG_ENGLISH        "Press [[{+melee_breath}]] to strike the mannequin with the butt of your weapon."
+LANG_SPANISH         "Pulsa [[{+melee_breath}]] para golpear el maniquí con la culata del arma."
+
+REFERENCE           PRESS_TO_MANTLE_MOVEUP
+LANG_ENGLISH        "Touch the low wall and press [[{+moveup}]] to climb over it."
+LANG_SPANISH         "Toca el muro bajo y pulsa [[{+moveup}]] para trepar por él."
+
+REFERENCE           PRESS_TO_MANTLE_RAISE
+LANG_ENGLISH        "Touch the low wall and press [[{raisestance}]] to climb over it."
+LANG_SPANISH         "Pégate al muro bajo y pulsa [[{raisestance}]] para trepar por él."
+
+REFERENCE           GO_CROUCH_LOWER
+LANG_ENGLISH        "Press [[{lowerstance}]] to crouch."
+LANG_SPANISH         "Pulsa [[{lowerstance}]] para agacharte."
+
+REFERENCE           GO_STAND_RAISE
+LANG_ENGLISH        "Press [[{raisestance}]] to stand back up."
+LANG_SPANISH         "Pulsa [[{raisestance}]] para levantarte."
+
+REFERENCE           GO_STAND_MOVEUP
+LANG_ENGLISH        "Press [[{+moveup}]] to stand back up."
+LANG_SPANISH         "Pulsa [[{+moveup}]] para levantarte."
+
+REFERENCE           HOLD_STAND_PRONE
+LANG_ENGLISH        "Let go of [[{+prone}]] to stand back up."
+LANG_SPANISH         "Suelta [[{+prone}]] para levantarte."
+
+REFERENCE           TOGGLE_STAND_PRONE
+LANG_ENGLISH        "Press [[{toggleprone}]] again to toggle back to standing."
+LANG_SPANISH         "Pulsa [[{toggleprone}]] de nuevo para volver a ponerte de pie."
+
+REFERENCE           PUSH_TWICE_TO_STAND_MOVEUP
+LANG_ENGLISH        "Press [[{+moveup}]] twice to stand back up."
+LANG_SPANISH         "Pulsa [[{+moveup}]] dos veces para levantarte."
+
+REFERENCE           THROW_POTATO
+LANG_ENGLISH        "Press [[{+frag}]] to throw a potato \ninto the areas marked by the arrows."
+LANG_SPANISH         "Pulsa [[{+frag}]] para lanzar una patata \na las zonas señaladas por las flechas."
+
+REFERENCE           MELEE_APPROACH
+LANG_ENGLISH        "Approach the glowing mannequin."
+LANG_SPANISH         "Acércate al maniquí brillante."
+
+REFERENCE           MOVE_FORWARD
+LANG_ENGLISH        "Use [[{+forward}]] to step forward."
+LANG_SPANISH         "Usa [[{+forward}]] para dar un paso adelante."
+
+REFERENCE           MOVE_BACKWARD
+LANG_ENGLISH        "Use [[{+back}]] to step backward."
+LANG_SPANISH         "Usa [[{+back}]] para dar un paso atrás."
+
+REFERENCE           MOVE_RIGHT
+LANG_ENGLISH        "Use [[{+moveright}]] to step to the right."
+LANG_SPANISH         "Usa [[{+moveright}]] para dar un paso a la derecha."
+
+REFERENCE           MOVE_LEFT
+LANG_ENGLISH        "Use [[{+moveleft}]] to step to the left."
+LANG_SPANISH         "Usa [[{+moveleft}]] para dar un paso a la izquierda."
+
+
+ENDMARKER
+
+

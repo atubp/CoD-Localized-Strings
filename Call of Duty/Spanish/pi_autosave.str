@@ -1,0 +1,83 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PONYRI1
+LANG_ENGLISH        "Assault The Rail Station"
+LANG_SPANISH        "Asalta la estación de tren"
+
+REFERENCE           PONYRI2
+LANG_ENGLISH        "Flush Out Left Flank"
+LANG_SPANISH        "Despeja el flanco izquierdo"
+
+REFERENCE           PONYRI3
+LANG_ENGLISH        "Clear The Station"
+LANG_SPANISH        "Despeja la estación"
+
+REFERENCE           PONYRI4
+LANG_ENGLISH        "Advance On The Town"
+LANG_SPANISH        "Entra en la ciudad"
+
+REFERENCE           PONYRI5
+LANG_ENGLISH        "Entering The School"
+LANG_SPANISH        "Entrando en la escuela"
+
+REFERENCE           PONYRI6
+LANG_ENGLISH        "Leaving The School"
+LANG_SPANISH        "Abandonando la escuela"
+
+REFERENCE           PONYRI7
+LANG_ENGLISH        "Helping Boris Destroy The Panzer"
+LANG_SPANISH        "Ayudando a Boris a destruir el Panzer"
+
+REFERENCE           PONYRI8
+LANG_ENGLISH        "Flushing The Out Machinegun Nest"
+LANG_SPANISH        "Despejando el nido de ametralladoras"
+
+REFERENCE           PONYRI9
+LANG_ENGLISH        "Entering The Factory"
+LANG_SPANISH        "Entrando en la fábrica"
+
+REFERENCE           PONYRI10
+LANG_ENGLISH        "The Factory Assembly Room"
+LANG_SPANISH        "Sala de reuniones de la fábrica"
+
+REFERENCE           KURSK1
+LANG_ENGLISH        "Find a place to cross the stream"
+LANG_SPANISH        "Busca un punto por el que cruzar el río"
+
+REFERENCE           KURSK2
+LANG_ENGLISH        "German resistance at the stream eliminated"
+LANG_SPANISH        "Resistencia alemana del río eliminada"
+
+REFERENCE           KURSK3
+LANG_ENGLISH        "German ambush repulsed"
+LANG_SPANISH        "Emboscada alemana rechazada"
+
+REFERENCE           KURSK4
+LANG_ENGLISH        "Tigers!"
+LANG_SPANISH        "¡Tigers!"
+
+REFERENCE           KURSK5
+LANG_ENGLISH        "Clearing secured"
+LANG_SPANISH        "Zona asegurada"
+
+REFERENCE           KURSK6
+LANG_ENGLISH        "Approaching Prokhorovka"
+LANG_SPANISH        "Aproximación a Prokhorovka"
+
+
+ENDMARKER
+
+

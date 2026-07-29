@@ -1,0 +1,179 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           LADDER
+LANG_ENGLISH        "Move towards the ladder to climb it."
+LANG_SPANISH         "Muévete hacia la escalerilla para trepar por ella."
+
+REFERENCE           OBJ_HINT
+LANG_ENGLISH        "The location of your current objective is \nmarked on your compass by a gold star."
+LANG_SPANISH         "La posición de tu objetivo actual aparece \nseñalada en la brújula mediante una estrella amarilla."
+
+REFERENCE           AXIS_OPTION_MENU1
+LANG_ENGLISH        "Reverse your controls"
+LANG_SPANISH         "Invierte los controles"
+
+REFERENCE           AXIS_OPTION_MENU2
+LANG_ENGLISH        "Switch your controls"
+LANG_SPANISH         "Intercambia los controles"
+
+REFERENCE           AXIS_OPTION_MENU1B
+LANG_ENGLISH        "for looking up and down?"
+LANG_SPANISH         "para alzar y bajar la vista?"
+
+REFERENCE           AXIS_OPTION_MENU2B
+LANG_ENGLISH        "back to how they were?"
+LANG_SPANISH         "de vuelta a como estaban?"
+
+REFERENCE           SKILL_REC_REG
+LANG_ENGLISH        "Recommended Difficulty: Skilled"
+LANG_SPANISH         "Dificultad recomendada: Experto"
+
+REFERENCE           SKILL_QUESTION
+LANG_ENGLISH        "Would you like to change difficulty?"
+LANG_SPANISH         "¿Quieres cambiar la dificultad?"
+
+REFERENCE           SKILL_REC_HARD
+LANG_ENGLISH        "Recommended Difficulty: Hardened"
+LANG_SPANISH         "Dificultad recomendada: Curtido"
+
+REFERENCE           SKILL_REC_VET
+LANG_ENGLISH        "Recommended Difficulty: Veteran"
+LANG_SPANISH         "Dificultad recomendada: Veterano"
+
+REFERENCE           SKILL_CUR_HARD
+LANG_ENGLISH        "Current Difficulty: Hardened"
+LANG_SPANISH         "Dificultad actual: Curtido"
+
+REFERENCE           SKILL_CUR_REG
+LANG_ENGLISH        "Current Difficulty: Skilled"
+LANG_SPANISH         "Dificultad actual: Experto"
+
+REFERENCE           SKILL_CUR_VET
+LANG_ENGLISH        "Current Difficulty: Veteran"
+LANG_SPANISH         "Dificultad actual: Veterano"
+
+REFERENCE           SKILL_CUR_EASY
+LANG_ENGLISH        "Current Difficulty: Regular"
+LANG_SPANISH         "Dificultad actual: Profesional"
+
+REFERENCE           SKILL_REC_EASY
+LANG_ENGLISH        "Recommended Difficulty: Regular"
+LANG_SPANISH         "Dificultad recomendada: Profesional"
+
+REFERENCE           STANCE_HINT
+LANG_ENGLISH        "Your current stance is shown near the compass."
+LANG_SPANISH         "Tu postura actual se indica junto a la brújula."
+
+REFERENCE           OBJ_GRABGUN
+LANG_ENGLISH        "Go to the storeroom and obtain a pistol and a rifle."
+LANG_SPANISH         "Ve al almacén y consigue una pistola y un rifle."
+
+REFERENCE           OBJ_BEARS
+LANG_ENGLISH        "Shoot the two teddy bears."
+LANG_SPANISH         "Dispara a los dos osos de peluche."
+
+REFERENCE           OBJ_SHOOT
+LANG_ENGLISH        "Shoot the bottles and plates."
+LANG_SPANISH         "Dispara a las botellas y platos."
+
+REFERENCE           OBJ_TEST
+LANG_ENGLISH        "Shoot as many helmets as you can in 15 seconds."
+LANG_SPANISH         "Dispara a tantos cascos como puedas en 15 segundos."
+
+REFERENCE           OBJ_MELEE
+LANG_ENGLISH        "Melee Attack the mannequin with your weapon."
+LANG_SPANISH         "Ataca cuerpo a cuerpo al maniquí con tu arma."
+
+REFERENCE           OBJ_POTATO1
+LANG_ENGLISH        "Throw potatoes at the marked targets. [&&1 remaining]"
+LANG_SPANISH         "Lanza patatas a los blancos señalados. [&&1 restantes]"
+
+REFERENCE           OBJ_POTATO2
+LANG_ENGLISH        "Throw potatoes at the marked targets."
+LANG_SPANISH         "Lanza patatas a los blancos señalados."
+
+REFERENCE           OBJ_FOLLOW
+LANG_ENGLISH        "Follow the Commissar."
+LANG_SPANISH         "Sigue al comisario."
+
+REFERENCE           OBJ_ARMORY
+LANG_ENGLISH        "Make your way to the armory."
+LANG_SPANISH         "Dirígete al arsenal."
+
+REFERENCE           OBJ_SMG
+LANG_ENGLISH        "Pick up a sub-machine gun, and both frag and smoke grenades."
+LANG_SPANISH         "Coge un subfusil y granadas de humo y de fragmentación."
+
+REFERENCE           OBJ_LADDER
+LANG_ENGLISH        "Climb the ladder."
+LANG_SPANISH         "Sube por la escalerilla."
+
+REFERENCE           OBJ_SMOKE1
+LANG_ENGLISH        "Throw a smoke grenade to cross the street safely."
+LANG_SPANISH         "Lanza una granada de humo para cruzar la calle a salvo."
+
+REFERENCE           OBJ_SMOKE2
+LANG_ENGLISH        "Wait for the smoke to fill the intersection."
+LANG_SPANISH         "Espera a que la intersección se llene de humo."
+
+REFERENCE           OBJ_PANZER
+LANG_ENGLISH        "Plant your explosives on the Panzerwerfer."
+LANG_SPANISH         "Coloca explosivos en el Panzerwerfer."
+
+REFERENCE           EXPLOSIVES_WARN
+LANG_ENGLISH        "Explosives Planted. Stand Back!"
+LANG_SPANISH         "Explosivos colocados. ¡Atrás!"
+
+REFERENCE           AXIS_OPTION_MENU1_ALL
+LANG_ENGLISH        "Reverse your controls for looking up and down?"
+LANG_SPANISH         "¿Invertir los controles para alzar y bajar la vista?"
+
+REFERENCE           AXIS_OPTION_MENU2_ALL
+LANG_ENGLISH        "Keep your controls like this?"
+LANG_SPANISH         "¿Mantener los controles así?"
+
+REFERENCE           MISSION_FAIL_PRISONER
+LANG_ENGLISH        "Killing prisoners of war will not be tolerated."
+LANG_SPANISH         "Matar a los prisioneros de guerra es inadmisible."
+
+REFERENCE           GRAB_POTATO
+LANG_ENGLISH        "Approach the open crates to pick up a potato."
+LANG_SPANISH         "Acércate a las cajas abiertas para coger una patata."
+
+REFERENCE           MELEE_APPROACH
+LANG_ENGLISH        "Approach the glowing mannequin."
+LANG_SPANISH         "Acércate al maniquí brillante."
+
+REFERENCE           SMOKE_PLACEMENT
+LANG_ENGLISH        "Throw the smoke grenade into the \nstreet to conceal your movement."
+LANG_SPANISH         "Lanza la granada de humo a la \ncalle para ocultar tu movimiento."
+
+REFERENCE           OBJ_WALK_TABLE
+LANG_ENGLISH        "Walk over to the table by Commissar Letlev."
+LANG_SPANISH         "Dirígete a la mesa junto al comisario Letlev."
+
+REFERENCE           OBJ_GOBACK
+LANG_ENGLISH        "Report to Commissar Letlev."
+LANG_SPANISH         "Preséntate ante el comisario Letlev."
+
+REFERENCE           OBJ_SHOOTB
+LANG_ENGLISH        "Shoot the bottles and plates while aiming down the sight."
+LANG_SPANISH         "Dispara a las botellas y platos mientras apuntas con la mira."
+
+
+ENDMARKER
+
+

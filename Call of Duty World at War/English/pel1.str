@@ -1,0 +1,61 @@
+// Dumped from fastfile "pel1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1_OBJECTIVE2A
+LANG_ENGLISH        "Push through the Japanese defenses."
+
+REFERENCE           PEL1_INTROSCREEN_PLACE
+LANG_ENGLISH        "White Beach, Peleliu"
+
+REFERENCE           PEL1_OBJECTIVE1
+LANG_ENGLISH        "Assault the beach."
+
+REFERENCE           PEL1_INTROSCREEN_DATE
+LANG_ENGLISH        "Sept. 15, 1944"
+
+REFERENCE           PEL1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Little Resistance'"
+
+REFERENCE           PEL1_INTROSCREEN_INFO
+LANG_ENGLISH        "1st Marine Division"
+
+REFERENCE           PEL1_OBJECTIVE2B
+LANG_ENGLISH        "Gain entrance to the Japanese bunker."
+
+REFERENCE           PEL1_OBJECTIVE1A
+LANG_ENGLISH        "Call in a rocket strike on the tree line."
+
+REFERENCE           PEL1_OBJECTIVE2C
+LANG_ENGLISH        "Clear the Japanese bunker."
+
+REFERENCE           PEL1_OBJECTIVE2D
+LANG_ENGLISH        "Regroup with your squad."
+
+REFERENCE           PEL1_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           PEL1_ROCKETS_AVAIL
+LANG_ENGLISH        "Rocket strikes are now available."
+
+REFERENCE           PEL1_ROCKETS_ALWAYS_AVAIL
+LANG_ENGLISH        "Rocket strikes can now be used on enemy positions at will."
+
+REFERENCE           PEL1_ROCKET_HOWTO
+LANG_ENGLISH        "Press [{+actionslot 4}] then [{+attack}] to radio in a rocket strike on Japanese defenses."
+
+REFERENCE           PEL1_OBJECTIVE2E
+LANG_ENGLISH        "Eliminate Japanese in and around the mortar pit."
+
+REFERENCE           PEL1_OBJECTIVE2F
+LANG_ENGLISH        "Call in rocket strike on Japanese tanks. [2 of 2]"
+
+REFERENCE           PEL1_OBJECTIVE2G
+LANG_ENGLISH        "Call in rocket strike on Japanese tanks. [1 of 2]"
+
+REFERENCE           PEL1_OBJECTIVE2H
+LANG_ENGLISH        "Call in rocket strike on Japanese tanks."
+
+ENDMARKER

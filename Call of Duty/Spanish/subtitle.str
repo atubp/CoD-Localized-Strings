@@ -1,0 +1,2287 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\mk\source_data\string_resources\StringEd.cfg"
+FILENOTES           "Subtitle text should go in this file."
+
+REFERENCE           BURNVILLE_FOLEY_GETREADY
+LANG_ENGLISH        "All right guys, get set to move, on my command!"
+LANG_SPANISH        "De acuerdo, chicos, preparaos para moveros. ¡¡¡Cuando yo diga!!!"
+
+REFERENCE           BURNVILLE_FOLEY_LETSGO
+LANG_ENGLISH        "Let's go, let's go!"
+LANG_SPANISH        "¡Adelante! ¡Adelante!"
+
+REFERENCE           BURNVILLE_FOLEY_MG42
+LANG_ENGLISH        "MG42s! Hit the dirt!"
+LANG_SPANISH        "¡MG42! ¡Cuerpo a tierra!"
+
+REFERENCE           BURNVILLE_FOLEY_SUPPRESS
+LANG_ENGLISH        "Get suppressing fire on those '42s!"
+LANG_SPANISH        "Fuego de contención sobre esos 42!"
+
+REFERENCE           BURNVILLE_FOLEY_4
+LANG_ENGLISH        "Mortars!"
+LANG_SPANISH        "¡Morteros!"
+
+REFERENCE           BURNVILLE_FOLEY_5
+LANG_ENGLISH        "Keep your heads down!"
+LANG_SPANISH        "¡Mantened las cabezas agachadas!"
+
+REFERENCE           BURNVILLE_FOLEY_6
+LANG_ENGLISH        "Incoming!"
+LANG_SPANISH        "¡Atención!"
+
+REFERENCE           BURNVILLE_FOLEY_7
+LANG_ENGLISH        "Down, dammit! Stay down!"
+LANG_SPANISH        "¡Agachaos, maldición, agachaos!"
+
+REFERENCE           BURNVILLE_FOLEY_8
+LANG_ENGLISH        "Everybody move! Come on!"
+LANG_SPANISH        "¡Todo el mundo en marcha! ¡Vamos!"
+
+REFERENCE           BURNVILLE_FOLEY_9
+LANG_ENGLISH        "Faster! Keep moving forward! We get caught here, we're dead!"
+LANG_SPANISH        "¡Más rápido! ¡Seguid avanzando!¡Si nos cogen aquí... estamos muertos!"
+
+REFERENCE           BURNVILLE_FOLEY_10
+LANG_ENGLISH        "Take the left flank!"
+LANG_SPANISH        "¡Tomad el flanco izquierdo!"
+
+REFERENCE           BURNVILLE_FOLEY_11
+LANG_ENGLISH        "Jerry on the right!"
+LANG_SPANISH        "¡Jerry a la derecha!"
+
+REFERENCE           BURNVILLE_FOLEY_12
+LANG_ENGLISH        "Watch your angles!"
+LANG_SPANISH        "¡Vigilad vuestros ángulos!"
+
+REFERENCE           BURNVILLE_FOLEY_13
+LANG_ENGLISH        "Get some grenades in those windows!"
+LANG_SPANISH        "¡Arrojad algunas granadas en esas ventanas!"
+
+REFERENCE           BURNVILLE_FOLEY_CLEARBUILDING
+LANG_ENGLISH        "Martin, help clear that building!"
+LANG_SPANISH        "Martin, ¡ayude a despejar el edificio!"
+
+REFERENCE           BURNVILLE_FOLEY_MOVINGON
+LANG_ENGLISH        "Good job! All right guys, we're moving on!"
+LANG_SPANISH        "Buen trabajo. De acuerdo, chicos, en marcha."
+
+REFERENCE           BURNVILLE_FOLEY_UPATWINDOW
+LANG_ENGLISH        "Up at that window!"
+LANG_SPANISH        "¡Arriba, a esa ventana!"
+
+REFERENCE           BURNVILLE_FOLEY_14
+LANG_ENGLISH        "Clear that building. Get that gunner on the halftrack and let's go!"
+LANG_SPANISH        "¡Despejad ese edificio; eliminad al artillero del semi-oruga y seguid avanzando!"
+
+REFERENCE           BURNVILLE_FOLEY_HOLDRIGHTHERE
+LANG_ENGLISH        "Hold right here."
+LANG_SPANISH        "Paraos aquí."
+
+REFERENCE           BURNVILLE_FOLEY_LEFTFLANK
+LANG_ENGLISH        "Martin, take the left flank. Clear that building. Move it - go!"
+LANG_SPANISH        "Martin, tome el flanco izquierdo. Despeje ese edificio. ¡Muévase, ahora!"
+
+REFERENCE           BURNVILLE_FOLEY_15
+LANG_ENGLISH        "Good job, son."
+LANG_SPANISH        "Buen trabajo, hijo."
+
+REFERENCE           BURNVILLE_FOLEY_16
+LANG_ENGLISH        "Squad, move up!  Go!  Go! Go!"
+LANG_SPANISH        "¡Escuadra, en marcha! ¡Vamos, vamos, vamos!"
+
+REFERENCE           BURNVILLE_FOLEY_17
+LANG_ENGLISH        "Lay down a base of fire!  Martin, take their left flank."
+LANG_SPANISH        "¡Estableced una base de fuego! Martin, tome el flanco izquierdo."
+
+REFERENCE           BURNVILLE_FOLEY_18
+LANG_ENGLISH        "Base of fire, shift right!"
+LANG_SPANISH        "Base de fuego, ¡cambio a la derecha!"
+
+REFERENCE           BURNVILLE_FOLEY_19
+LANG_ENGLISH        "We're gotta cut through these houses! Move it! Go!"
+LANG_SPANISH        "¡Tenemos que atravesar esas casas! ¡Moveos!"
+
+REFERENCE           BURNVILLE_FOLEY_20
+LANG_ENGLISH        "Flakpanzer covered by '42s! We gotta flank 'em!"
+LANG_SPANISH        "Un Flakpanzer, ¡cubierto por 42! Tenemos que flanquearlos."
+
+REFERENCE           BURNVILLE_FOLEY_21
+LANG_ENGLISH        "Martin, check the church!"
+LANG_SPANISH        "Martin, ¡compruebe la iglesia!"
+
+REFERENCE           BURNVILLE_FOLEY_22
+LANG_ENGLISH        "Way to chuck, Private!"
+LANG_SPANISH        "¡Atraviéselo, soldado!"
+
+REFERENCE           BURNVILLE_FOLEY_23
+LANG_ENGLISH        "Martin, plant your explosives and take that Flakpanzer out!"
+LANG_SPANISH        "Martin, coloque sus explosivos y elimine a ese maldito Flakpanzer!"
+
+REFERENCE           BURNVILLE_FOLEY_STANDBACK
+LANG_ENGLISH        "Stand back! Fire in the hole!"
+LANG_SPANISH        "¡Atrás! ¡Fuego en el objetivo!"
+
+REFERENCE           BURNVILLE_FOLEY_24
+LANG_ENGLISH        "Okay, move!  Move!"
+LANG_SPANISH        "Bien. ¡Moveos! ¡Moveos!"
+
+REFERENCE           BURNVILLE_FOLEY_NUMBERNEXT
+LANG_ENGLISH        "Okay, number next! Let's take 'er out!"
+LANG_SPANISH        "Bien. ¡Nombrad al siguiente! ¡Acabemos con él!"
+
+REFERENCE           BURNVILLE_FOLEY_TOTHERIGHT
+LANG_ENGLISH        "Martin, to the right! We'll lay down covering fire!"
+LANG_SPANISH        "¡Martin, a la derecha! ¡Daremos fuego de cobertura!"
+
+REFERENCE           BURNVILLE_FOLEY_25
+LANG_ENGLISH        "You did good, son. Blow 'er up!"
+LANG_SPANISH        "Buen trabajo, hijo. ¡Hágalo volar!"
+
+REFERENCE           BURNVILLE_FOLEY_26
+LANG_ENGLISH        "There's one more! Get your butt moving!"
+LANG_SPANISH        "¡Hay uno más! ¡Moved el culo!"
+
+REFERENCE           BURNVILLE_FOLEY_WORKTOWARD
+LANG_ENGLISH        "Work your way toward it! Shut 'er down!"
+LANG_SPANISH        "Abríos paso hasta él y eliminadlo."
+
+REFERENCE           BURNVILLE_FOLEY_EXPLOSIVESGO
+LANG_ENGLISH        "Martin - explosives - go!!"
+LANG_SPANISH        "Martin... explosivos, ¡¡Adelante!!"
+
+REFERENCE           BURNVILLE_FOLEY_ENDING
+LANG_ENGLISH        "All right fellas, take five, but listen up.  We'll hold this place 'til reinforced, but this is just one tiny village in a war and country full of 'em, so our work has just begun.  For those of you who've seen your first action - welcome to the Big Time.  For those of you who've seen it before, trust me - you ain't seen nothin' yet.  We'll redeploy those German machine guns, setting up a defensive perimeter.  Keep your guard up and your buddies in mind.  Good work."
+LANG_SPANISH        "De acuerdo, soldados descansen, pero atentos. Aguantaremos hasta que recibamos refuerzos, pero éste no es más que un pequeño pueblo. Nuestro trabajo acaba de empezar."
+
+REFERENCE           BURNVILLE_END_DISTANTFRIENDLY1
+LANG_ENGLISH        "I want an aid station over here!"
+LANG_SPANISH        "¡Quiero un puesto de ayuda aquí!"
+
+REFERENCE           BURNVILLE_END_DISTANTFRIENDLY2
+LANG_ENGLISH        "Clear up!"
+LANG_SPANISH        "¡Despejad arriba!"
+
+REFERENCE           BURNVILLE_END_DISTANTFRIENDLY3
+LANG_ENGLISH        "Clear down!"
+LANG_SPANISH        "¡Despejad abajo!"
+
+REFERENCE           BURNVILLE_END_DISTANTFRIENDLY4
+LANG_ENGLISH        "Secure the area!"
+LANG_SPANISH        "¡Área segura!"
+
+REFERENCE           BURNVILLE_END_DISTANTFRIENDLY5
+LANG_ENGLISH        "Clear over here, boss."
+LANG_SPANISH        "¡Aquí despejado, jefe."
+
+REFERENCE           BURNVILLE_FOLEY_29A
+LANG_ENGLISH        "All right fellas, take five, but listen up.  We'll hold this place 'til reinforced, but this is just one tiny village in a war and country full of 'em, so our work has just begun."
+LANG_SPANISH        ""De acuerdo, soldados descansen, pero atentos. Aguantaremos hasta que recibamos refuerzos, pero éste no es más que un pequeño pueblo. Nuestro trabajo acaba de empezar."
+
+REFERENCE           BURNVILLE_FOLEY_29B
+LANG_ENGLISH        "For those of you who've seen your first action - welcome to the Big Time.  For those of you who've seen it before, trust me - you ain't seen nothin' yet."
+LANG_SPANISH        "Para aquéllos que sea la primera vez, bienvenidos al espectáculo. Para aquéllos que ya lo habían hecho antes, créanme no han visto nada todavía."
+
+REFERENCE           BURNVILLE_FOLEY_29C
+LANG_ENGLISH        "We'll redeploy those German machine guns, setting up a defensive perimeter.  Keep your guard up and your buddies in mind.  Good work."
+LANG_SPANISH        "Volveremos a colocar las ametralladoras alemanas en un perímetro defensivo. Mantengan la guardia y a sus compañeros en mente. Buen trabajo."
+
+REFERENCE           CHATEAU_MOODY_DIDNTSEEME
+LANG_ENGLISH        "There's an MG42 on the left, with a guard house on the right.  They didn't spot me."
+LANG_SPANISH        "Hay un MG42 a la izquierda, con una caseta de guardias a la derecha. No me descubrieron."
+
+REFERENCE           CHATEAU_MOODY_INBIGHOUSE
+LANG_ENGLISH        "Probably in the big house up the road."
+LANG_SPANISH        "Probablemente en la casa grande subiendo la carretera."
+
+REFERENCE           CHATEAU_FOLEY_LETSHOPE
+LANG_ENGLISH        "Let's hope.  Captain Price and Major Ingram?"
+LANG_SPANISH        "Esperemos que así sea. ¿Capitán Price y mayor Ingram?"
+
+REFERENCE           CHATEAU_FOLEY_THEPLAN
+LANG_ENGLISH        "Martin, you take point, knock out that '42.  Harding and Brooks, go get the truck - meet us at the front of the chateau.  Everyone else, follow Martin. Move!"
+LANG_SPANISH        "Martin, usted al frente, elimine ese 42. Harding y Brooks, vayan y cojan el camión; reúnanse con nosotros en la parte delantera del chateau. El resto, sigan a Martin. ¡MUÉVANSE!"
+
+REFERENCE           CHATEAU_FOLEY_CATCHBREATH
+LANG_ENGLISH        "Good work, Martin.  Everyone breathe deep, catch your breath.  Now, let's do it all over again."
+LANG_SPANISH        "Buen trabajo, Martin. Que todo el mundo respire hondo, y aguante la respiración. Ahora, vamos a darles otra paliza."
+
+REFERENCE           CHATEAU_FOLEY_ENTRY
+LANG_ENGLISH        "Martin, get in there, grab any docs, knock out their communications, then meet back up with us.  Sergeant Moody and I will find Price and Ingram."
+LANG_SPANISH        "Martin, entre ahí, coja cualquier documento, corte sus comunicaciones y vuelva con nosotros. El sargento Moody y yo encontraremos a Price y a Ingram."
+
+REFERENCE           CHATEAU_FOLEY_BLOWDOORS
+LANG_ENGLISH        "Don't stop now - Price and Ingram are behind these doors! Stand back! We're gonna blow 'em!"
+LANG_SPANISH        "No os paréis ahora. ¡Price e Ingram están detrás de esas puertas! Retroceded ¡vamos a volarlas!"
+
+REFERENCE           CHATEAU_FOLEY_INGRAM
+LANG_ENGLISH        "Captain Price, Captain Foley. Where's Major Ingram?"
+LANG_SPANISH        "Capitán Price, capitán Foley. ¿Dónde está el mayor Ingram?"
+
+REFERENCE           CHATEAU_FOLEY_HELPPRICE
+LANG_ENGLISH        "Excellent.  Help Captain Price out the window. He's been hurt."
+LANG_SPANISH        "Ayudad al capitán Price a salir por la ventana, está herido."
+
+REFERENCE           CHATEAU_FOLEY_PILEIN
+LANG_ENGLISH        "Let's pile in. We're getting out."
+LANG_SPANISH        "Subid, nos vamos de aquí."
+
+REFERENCE           CHATEAU_FOLEY_BACKFORHIM
+LANG_ENGLISH        "We'll be back for him. Get in."
+LANG_SPANISH        "Volveremos a por él y lo recogeremos, subid."
+
+REFERENCE           CHATEAU_PRICE_GOODNESS
+LANG_ENGLISH        "Well, goodness me, Americans! "
+LANG_SPANISH        "Sed bondadosos conmigo, americanos. Habéis armado un buen barullo, ¿no? Está bien. Aún puedo caminar."
+
+REFERENCE           CHATEAU_PRICE_RACKET
+LANG_ENGLISH        "Made quite a racket, didn't you? That's quite all right, I can still walk."
+LANG_SPANISH        "Lo han trasladado a un campamento. No se preocupen, alcancé a oír dónde."
+
+REFERENCE           CHATEAU_PRICE_MOVEDTOCAMP
+LANG_ENGLISH        "They moved him to a camp. Not to worry, I overheard where."
+LANG_SPANISH        "Lo han trasladado a un campamento. No se preocupen, alcancé a oír dónde."
+
+REFERENCE           CHATEAU_BROOKS_TRUCKOUTFRONT
+LANG_ENGLISH        "Truck's out front, sir."
+LANG_SPANISH        "El camión está delante, señor."
+
+REFERENCE           CHATEAU_BROOKS_WHATABOUTINGRAM
+LANG_ENGLISH        "Captain, what about Major Ingram?"
+LANG_SPANISH        "Capitán, ¿qué hay del mayor Ingram?"
+
+REFERENCE           PATHFINDER_USA_PARA1_PERIMETER
+LANG_ENGLISH        "Move out! Secure the perimeter!"
+LANG_SPANISH        "¡Moveos! ¡Asegurad el perímetro!"
+
+REFERENCE           PATHFINDER_USA_PARA2_DEFENSIVE
+LANG_ENGLISH        "You guys, over here! By the wall! Defensive positions, get down!"
+LANG_SPANISH        "¡Muchachos, por aquí, junto el muro! ¡Posiciones defensivas! ¡Agachaos!"
+
+REFERENCE           PATHFINDER_USA_PARA3_JERRIES
+LANG_ENGLISH        "Jerries to the south! Suppressing fire! Behind us! Cover the rear!"
+LANG_SPANISH        "¡Jerries al sur! ¡Fuego de contención! ¡Detrás nuestro! ¡Cubrid la retaguardia!"
+
+REFERENCE           BRECOURT_MOODY_067
+LANG_ENGLISH        "Third squad, get your thirty cal to cover our flank.  Second squad, follow in reserve."
+LANG_SPANISH        "Tercer pelotón, cojan sus armas de calibre .30 para cubrir nuestro flanco. Segunda escuadra, sigan a la espera."
+
+REFERENCE           BRECOURT_MOODY_068
+LANG_ENGLISH        "I got point.  Elder and Martin, on my tail."
+LANG_SPANISH        "Yo voy al frente... Elder y Martin, detrás de mí."
+
+REFERENCE           BRECOURT_MOODY_069
+LANG_ENGLISH        "Everybody set?  Let's go."
+LANG_SPANISH        "Todos listos, ¡adelante!"
+
+REFERENCE           BRECOURT_MOODY_070
+LANG_ENGLISH        "They got two MG42s up ahead.  Third squad, draw their fire from the left, second squad, hit 'em from the right.  Go!"
+LANG_SPANISH        "Tienen dos MG42 ahí arriba. Tercera escuadra: atraigan su fuego desde la izquierda. Segunda escuadra: golpéenles desde la derecha. ¡Vamos, vamos!"
+
+REFERENCE           BRECOURT_MOODY_071
+LANG_ENGLISH        "Move back and take cover!  This cannon's about to go boom!"
+LANG_SPANISH        "Retroceded y cubríos. ¡Este cañón está a punto de estallar!"
+
+REFERENCE           BRECOURT_MOODY_071B
+LANG_ENGLISH        "All right, down the trench! Move out!"
+LANG_SPANISH        "De acuerdo, ¡abajo en la trinchera! ¡Salid!"
+
+REFERENCE           BRECOURT_MOODY_072
+LANG_ENGLISH        "Heads up!  Get back!"
+LANG_SPANISH        "¡Cuidado! ¡Volved!"
+
+REFERENCE           BRECOURT_MOODY_073
+LANG_ENGLISH        "We ain't done yet.  Keep it goin'!"
+LANG_SPANISH        "¡Todavía no lo hemos terminado! ¡Seguid en ello!"
+
+REFERENCE           BRECOURT_MOODY_074
+LANG_ENGLISH        "Martin, grab those enemy documents! Quick! The documents! Hurry up!"
+LANG_SPANISH        "Martin, coja esos documentos enemigos, ¡rápido! ¡Los documentos! ¡Deprisa!"
+
+REFERENCE           BRECOURT_MOODY_075
+LANG_ENGLISH        "Let's get outta here."
+LANG_SPANISH        "¡Salgamos de aquí!"
+
+REFERENCE           BRECOURT_MOODY_076
+LANG_ENGLISH        "Medic, there's a wounded man by that tree!  What the hell is wrong with you?"
+LANG_SPANISH        "¡Médico! ¡Hay un hombre herido en ese árbol! ¡¿Qué demonios pasa con usted?!"
+
+REFERENCE           BRECOURT_MOODY_077_ALT2
+LANG_ENGLISH        "Move it!"
+LANG_SPANISH        "¡Muévase!"
+
+REFERENCE           BRECOURT_MOODY_079
+LANG_ENGLISH        "Martin, Elder, gimme covering fire!"
+LANG_SPANISH        "Martin, Elder; ¡denme fuego de cobertura!"
+
+REFERENCE           BRECOURT_MOODY_080
+LANG_ENGLISH        "You guys move on with 2 squad.  Martin, take these explosives and try to shut their artillery down.  I'll stay behind and patch this guy up."
+LANG_SPANISH        "¡Muchachos, id con el segundo pelotón! Martin, tome estos explosivos y trate de acabar con su artillería. Yo me quedaré atrás para ayudar a este tipo."
+
+REFERENCE           BRECOURT_ELDER_SARGEDOWN
+LANG_ENGLISH        "The Sarge is down! Martin, get the explosives!"
+LANG_SPANISH        "¡El sargento ha caído! ¡Martin, coge los explosivos!"
+
+REFERENCE           BRECOURT_MEDIC_SORRY
+LANG_ENGLISH        "Sarge, I'm sorry -- I can't -- Oh, God! So many guys are getting killed! Oh God..."
+LANG_SPANISH        "Sargento, lo siento -- no puedo -- ¡Oh, Dios, está muriendo tanta gente! Oh, Dios.."
+
+REFERENCE           BRECOURT_MEDIC_NORULES
+LANG_ENGLISH        "Man, they're shootin' medics too! They're not -"
+LANG_SPANISH        "Eh, están disparando también a los médicos, no están respetando las reglas."
+
+REFERENCE           BRECOURT_30CAL_GUNNER
+LANG_ENGLISH        "Ok guys, hit their left flank! I'll keep their heads down!"
+LANG_SPANISH        "De acuerdo, chicos; ¡atacad su flanco izquierdo! Yo mantendré sus cabezas agachadas!"
+
+REFERENCE           BRECOURT_LIEUT_MOVEIN
+LANG_ENGLISH        "2nd platoon! Move in and secure these buildings! Now! Let's go!"
+LANG_SPANISH        "Segundo pelotón, ¡muévanse y aseguren esos edificios! ¡Vamos!"
+
+REFERENCE           BRECOURT_LIEUT_GRABDOCS
+LANG_ENGLISH        "Private! Grab those enemy docs!"
+LANG_SPANISH        "¡Soldado! ¡Coja esos documentos enemigos!"
+
+REFERENCE           BRECOURT_LIEUT_HEADSUP
+LANG_ENGLISH        "Heads up! Jerry's outside! Grab that MG42 and use it!"
+LANG_SPANISH        "¡Arriba! ¡Hay jerries fuera! ¡Coja el MG42 y úselo!"
+
+REFERENCE           BRECOURT_LIEUT_OUTTAHERE
+LANG_ENGLISH        "That's their last gun.  Let's mop up and get out of here."
+LANG_SPANISH        "Ésa es su última arma. ¡Acabemos con ella y salgamos de aquí!"
+
+REFERENCE           CARRIDE_MOODY_047
+LANG_ENGLISH        "Gee I don't know, how about you try shootin' the bastards!"
+LANG_SPANISH        "No sé. ¡¿Qué te parece tratar de disparar a esos bastardos?!"
+
+REFERENCE           CARRIDE_MOODY_048
+LANG_ENGLISH        "Adios, amigos!"
+LANG_SPANISH        "Adiós, ¡amigos!"
+
+REFERENCE           CARRIDE_MOODY_049
+LANG_ENGLISH        "I don't know, sure hope it works!"
+LANG_SPANISH        "No lo sé. ¡Esperemos que funcione!"
+
+REFERENCE           CARRIDE_MOODY_050
+LANG_ENGLISH        "Come on guys, stop 'em!"
+LANG_SPANISH        "Vamos chicos, ¡paradlos!"
+
+REFERENCE           CARRIDE_MOODY_051
+LANG_ENGLISH        "Shut up Elder, and get your ass out! Let's go Martin, move it, move!"
+LANG_SPANISH        "¡Cállese, Elder, y saque su trasero de aquí! ¡Vamos, Martin, muévase!"
+
+REFERENCE           CARRIDE_MOODY_052
+LANG_ENGLISH        "You didn't, remember? You were volunteered."
+LANG_SPANISH        "¿No lo recuerda? Se presentó voluntario."
+
+REFERENCE           CARRIDE_MOODY_053
+LANG_ENGLISH        "Elder, ever steal a car?"
+LANG_SPANISH        "¡Elder! ¿Alguna vez ha robado un coche?"
+
+REFERENCE           CARRIDE_MOODY_054
+LANG_ENGLISH        "Martin cover him! Damn it Elder, hurry up!"
+LANG_SPANISH        "Martin -cúbralo! ¡Maldición, Elder, dése prisa!"
+
+REFERENCE           CARRIDE_MOODY_055
+LANG_ENGLISH        "Quit working and get done!"
+LANG_SPANISH        "¡Déjese de intentarlo, y hágalo ya!"
+
+REFERENCE           CARRIDE_MOODY_056
+LANG_ENGLISH        "God's busy! This is on you!"
+LANG_SPANISH        "¡Dios no puede, así que esto es cosa suya!"
+
+REFERENCE           CARRIDE_MOODY_057
+LANG_ENGLISH        "Yeah, well don't get it on me!"
+LANG_SPANISH        "Sí, bueno, ¡no me lo tenga en cuenta!"
+
+REFERENCE           CARRIDE_MOODY_058
+LANG_ENGLISH        "In the car!  Martin, cover us!"
+LANG_SPANISH        "¡Al coche! ¡Martin, cúbranos!"
+
+REFERENCE           CARRIDE_MOODY_059
+LANG_ENGLISH        "Step on it! Get us outta here!"
+LANG_SPANISH        "¡Acelere y sáquenos de aquí!"
+
+REFERENCE           CARRIDE_MOODY_060
+LANG_ENGLISH        "Come on Elder, faster! Hit it!"
+LANG_SPANISH        "Vamos Elder, ¡más rápido! ¡Pise a fondo!"
+
+REFERENCE           CARRIDE_MOODY_061
+LANG_ENGLISH        "Turn right. Right up there."
+LANG_SPANISH        "Gire a la derecha, justo ahí."
+
+REFERENCE           CARRIDE_MOODY_062
+LANG_ENGLISH        "You mean besides getting us killed?!"
+LANG_SPANISH        "¡¿Quiere decir además de hacer que nos maten?!"
+
+REFERENCE           CARRIDE_MOODY_063
+LANG_ENGLISH        "We cleared the German lines. You can slow down Private."
+LANG_SPANISH        "Hemos despejado las líneas alemanas. Puede ir más despacio, soldado."
+
+REFERENCE           CARRIDE_MOODY_064
+LANG_ENGLISH        "I said you can slow down!"
+LANG_SPANISH        "¡He dicho que puede ir más despacio!"
+
+REFERENCE           CARRIDE_MOODY_065
+LANG_ENGLISH        "Right turn, right here."
+LANG_SPANISH        "Gire a la derecha, justo aquí."
+
+REFERENCE           CARRIDE_MOODY_066
+LANG_ENGLISH        "I gotta go report in to Major Sheppard and get our orders. Take five, but stay put."
+LANG_SPANISH        "Tengo que informar al mayor Sheppard y recibir nuestras órdenes. Tomaos un respiro, pero quedos aquí."
+
+REFERENCE           CARRIDE_ELDER_ROADBLOCK
+LANG_ENGLISH        "Uh...uh...that's a German roadblock! What now?"
+LANG_SPANISH        "Oh, oh. Eso es un bloqueo alemán. ¿Qué hacemos ahora?"
+
+REFERENCE           CARRIDE_ELDER_WHATTHEHELL
+LANG_ENGLISH        "What the hell are you doing Sarge?"
+LANG_SPANISH        "¿Qué demonios está haciendo, sargento?"
+
+REFERENCE           CARRIDE_ELDER_HITIT
+LANG_ENGLISH        "Hit it! Go! Go! Go!"
+LANG_SPANISH        "¡¡¡A fondo!!! ¡¡¡Vamos, vamos, vamos!!!"
+
+REFERENCE           CARRIDE_ELDER_GOODMOVE
+LANG_ENGLISH        "Oh hey, great. Good move! Remind me to thank the captain."
+LANG_SPANISH        "Eh, vaya un movimiento. Recuérdame que se lo agradezca al capitán."
+
+REFERENCE           CARRIDE_ELDER_CANTBELIEVE
+LANG_ENGLISH        "I can't believe I agreed to do this."
+LANG_SPANISH        "¡No puedo creer que haya accedido a hacer esto!"
+
+REFERENCE           CARRIDE_ELDER_ONLYWHEN
+LANG_ENGLISH        "Only when I need one Sarge."
+LANG_SPANISH        "Cuando necesito uno, sargento."
+
+REFERENCE           CARRIDE_ELDER_WORKIN
+LANG_ENGLISH        "Workin' Sarge, I'm workin on it!"
+LANG_SPANISH        "Estoy en ello, sargento, estoy en ello."
+
+REFERENCE           CARRIDE_ELDER_OURFATHER
+LANG_ENGLISH        "Our father who art in heaven..."
+LANG_SPANISH        "Padre nuestro que estás..."
+
+REFERENCE           CARRIDE_ELDER_IGOTIT
+LANG_ENGLISH        "I got it! I got it!"
+LANG_SPANISH        "¡Lo tengo! ¡Lo tengo!"
+
+REFERENCE           CARRIDE_ELDER_DRIVINGFASTER
+LANG_ENGLISH        "I AM driving faster!"
+LANG_SPANISH        "¡Estoy conduciendo más deprisa!"
+
+REFERENCE           CARRIDE_ELDER_WHATSITLOOK
+LANG_ENGLISH        "What's it look like I'm doing, dammit?"
+LANG_SPANISH        "¡Maldición! ¿Qué cree que estoy haciendo?"
+
+REFERENCE           CARRIDE_ELDER_FINISHJOB
+LANG_ENGLISH        "Well hey, you didn't finish the job!"
+LANG_SPANISH        "Bueno, eh, ¡no ha terminado el trabajo!"
+
+REFERENCE           CARRIDE_ELDER_SORRYSARGE
+LANG_ENGLISH        "Oh yeah, right. Sorry Sarge."
+LANG_SPANISH        "Oh, cierto. Eh, lo siento, sargento."
+
+REFERENCE           CARRIDE_ELDER_YOUGOTIT
+LANG_ENGLISH        "Yup, you got it. You got it."
+LANG_SPANISH        "Lo tiene, lo tiene."
+
+REFERENCE           CARRIDE_ELDER_OKIEDOKE
+LANG_ENGLISH        "Okie doke Sarge. What the hell else am I gonna do?"
+LANG_SPANISH        "Listo, sargento. ¿Qué otra cosa se supone que tengo que hacer?"
+
+REFERENCE           TRAINING_FOLEY_START1
+LANG_ENGLISH        "All right, listen up. Private Martin, you're on the obstacle course and doing weapons training today."
+LANG_SPANISH        "De acuerdo, atención. Soldado Martin, está en el circuito de obstáculos y hoy se entrenará con las armas."
+
+REFERENCE           TRAINING_FOLEY_START2
+LANG_ENGLISH        "Before starting the obstacle course, read each of these important signs, and do what they tell you."
+LANG_SPANISH        "Antes de empezar el circuito de obstáculos, lea cada una de estas importantes señales y haga lo que le digan."
+
+REFERENCE           TRAINING_FOLEY_MOVE01
+LANG_ENGLISH        "Move five paces to the left."
+LANG_SPANISH        "Muévase cinco pasos a la izquierda."
+
+REFERENCE           TRAINING_FOLEY_MOVE02
+LANG_ENGLISH        "Now five to the right."
+LANG_SPANISH        ""Ahora cinco a la derecha."
+
+REFERENCE           TRAINING_FOLEY_MOVE03
+LANG_ENGLISH        "Five paces backwards."
+LANG_SPANISH        "Cinco pasos hacia atrás."
+
+REFERENCE           TRAINING_FOLEY_MOVE04
+LANG_ENGLISH        "Five paces forwards."
+LANG_SPANISH        "Cinco pasos al frente."
+
+REFERENCE           TRAINING_FOLEY_MOVE05
+LANG_ENGLISH        "Good. Now check your objectives."
+LANG_SPANISH        "Bien, ahora compruebe sus objetivos."
+
+REFERENCE           TRAINING_FOLEY_MOVE06
+LANG_ENGLISH        "You'll notice that your current objective is highlighted."
+LANG_SPANISH        "Comprobará que su objetivo actual está resaltado."
+
+REFERENCE           TRAINING_FOLEY_MOVE07
+LANG_ENGLISH        "In addition, the location of your current objective is marked by the star on your compass."
+LANG_SPANISH        "Además, su objetivo actual se encuentra señalado por la estrella de su brújula."
+
+REFERENCE           TRAINING_FOLEY_MOVE08
+LANG_ENGLISH        "As you approach your current objective, the star will move towards the center of your compass."
+LANG_SPANISH        "Según se aproxime a su objetivo actual, la estrella se moverá hacia el centro de la brújula."
+
+REFERENCE           TRAINING_FOLEY_MOVE09
+LANG_ENGLISH        "Approach your current objective."
+LANG_SPANISH        "Aproxímese a su objetivo actual."
+
+REFERENCE           TRAINING_FOLEY_MOVE10
+LANG_ENGLISH        "That's it. Close enough. You will notice that objective is checked off and you now have a new one."
+LANG_SPANISH        "Ya está bastante cerca. Se dará cuenta de que el objetivo ha quedado tachado y que en su lugar tiene otro nuevo."
+
+REFERENCE           TRAINING_FOLEY_MOVE11
+LANG_ENGLISH        "All right Martin, open the gate, and run the obstacle course! Go! Go! Go!"
+LANG_SPANISH        "De acuerdo, Martin, abra la puerta y corra hacia el circuito de obstáculos. ¡Vamos, vamos, vamos!"
+
+REFERENCE           TRAINING_ELDER1
+LANG_ENGLISH        "Martin, good to see ya. They've got your sorry butt here too huh?"
+LANG_SPANISH        "Martin, me alegro de verte. Veo que han pateado tu lastimoso trasero hasta aquí, ¿eh?"
+
+REFERENCE           TRAINING_ELDER2
+LANG_ENGLISH        "Hey, good luck."
+LANG_SPANISH        "¡Eh, buena suerte!"
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE01
+LANG_ENGLISH        "Move it ladies! This is not your Aunt Fanny's dance!"
+LANG_SPANISH        "¡Muévanse señoritas, éste no es el baile de su tía Fanny!"
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE02
+LANG_ENGLISH        "Duck through those concrete pipes and under that barrier. Move it Elder!"
+LANG_SPANISH        "Pase a través de esas tuberías de hormigón y bajo la barrera. ¡Muévase, Elder!"
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE03
+LANG_ENGLISH        "Jump over 'em! Come on Elder, get the lead out!"
+LANG_SPANISH        "Salte por encima, vamos Elder, ¡mueva el culo!"
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE04
+LANG_ENGLISH        "Not bad. Now hit the dirt and crawl forward under the barbed wire!"
+LANG_SPANISH        "No está mal. Ahora cuerpo a tierra y arrástrese por debajo de la alambrada."
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE05
+LANG_ENGLISH        "Sergeant, fire up those machine guns!"
+LANG_SPANISH        "¡Sargento, dispare esas ametralladoras!"
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE06
+LANG_ENGLISH        "Those are live rounds boys - stay low!"
+LANG_SPANISH        "Ésa es munición real, muchachos, ¡agáchense!"
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE07
+LANG_ENGLISH        "Stay down!"
+LANG_SPANISH        "¡Agáchense!"
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE08
+LANG_ENGLISH        "Climb these ladders, Privates! Lets go! Lets go! Let's go!"
+LANG_SPANISH        "¡Suban por estas escaleras! ¡Vamos, vamos, vamos!"
+
+REFERENCE           TRAINING_FOLEY_OBSTACLE09
+LANG_ENGLISH        "Private Martin, proceed through that door. Sergeant Moody's gonna take you through weapons training. The rest of you ladies stay right here."
+LANG_SPANISH        "Soldado Martin, cruce esa puerta. El sargento Moody le guiará en el entrenamiento con las armas. El resto, permanezcan aquí."
+
+REFERENCE           TRAINING_MOODY_CARBINE01
+LANG_ENGLISH        "Eyes up, Private. I'm up here, in the observation tower."
+LANG_SPANISH        "Mire arriba, soldado, estoy aquí, en la torre de observación."
+
+REFERENCE           TRAINING_MOODY_CARBINE02
+LANG_ENGLISH        "Grab one of those M1A1 Carbines from the table."
+LANG_SPANISH        "Coja una de esas carabinas M1A1 de la mesa."
+
+REFERENCE           TRAINING_MOODY_CARBINE03
+LANG_ENGLISH        "Approach the fence and fire 6 rounds at your target."
+LANG_SPANISH        "¡Acérquese a la valla y dispare 6 tiros contra su objetivo!"
+
+REFERENCE           TRAINING_MOODY_CARBINE04
+LANG_ENGLISH        "Your accuracy will be defined by the tightness of your crosshairs."
+LANG_SPANISH        "Su precisión dependerá de lo ajustado que esté el puntos de mira."
+
+REFERENCE           TRAINING_MOODY_CARBINE05
+LANG_ENGLISH        "You will be more accurate while not moving and in the crouching or prone positions. These skills could mean your life."
+LANG_SPANISH        "Será más preciso cuando no se mueva, y en posiciones de agachado o tumbado. Estas habilidades pueden salvarle la vida."
+
+REFERENCE           TRAINING_MOODY_CARBINE06
+LANG_ENGLISH        "Fire 6 more rounds at your target, in different stances and while moving."
+LANG_SPANISH        "Dispare 6 balas más a su objetivo, en posiciones distintas y mientras se mueve."
+
+REFERENCE           TRAINING_MOODY_CARBINE07
+LANG_ENGLISH        "When your magazine is empty, your weapon will reload automatically."
+LANG_SPANISH        "Cuando su cargador se vacíe, su arma se recargará automáticamente."
+
+REFERENCE           TRAINING_MOODY_CARBINE08
+LANG_ENGLISH        "The number of rounds in your weapon and the number of rounds you are carrying are displayed in the lower right corner of your HUD. Keep tabs on it, soldier!"
+LANG_SPANISH        "El número de balas en su arma y el de la munición que lleva se muestra en la esquina inferior derecha de su pantalla. Tome nota de ello, soldado."
+
+REFERENCE           TRAINING_MOODY_CARBINE09
+LANG_ENGLISH        "To get more ammo, grab it from any loose weapon of the same type you are carrying."
+LANG_SPANISH        "Para hacerse con más munición, coja la de cualquier arma abandonada que se encuentre, del mismo tipo de la que lleve."
+
+REFERENCE           TRAINING_MOODY_CARBINE09_2
+LANG_ENGLISH        "What are you waiting for? Do it now."
+LANG_SPANISH        "¿Qué espera? ¡Hágalo ahora!"
+
+REFERENCE           TRAINING_MOODY_CARBINE10
+LANG_ENGLISH        "All right, Private. Move on to the next area."
+LANG_SPANISH        "De acuerdo, soldado, vaya a la siguiente zona."
+
+REFERENCE           TRAINING_MOODY_SNIPER01
+LANG_ENGLISH        "Grab up a Springfield rifle from the table, switching it for your carbine."
+LANG_SPANISH        "Coja un rifle Springfield de la mesa, y cámbielo por la carabina."
+
+REFERENCE           TRAINING_MOODY_SNIPER02
+LANG_ENGLISH        "Turn to the left, move to the fence, and fire 2 rounds at your target."
+LANG_SPANISH        "Gire a la izquierda, muévase hacia la valla y dispare dos veces a su objetivo."
+
+REFERENCE           TRAINING_MOODY_SNIPER03
+LANG_ENGLISH        "Pretty tough, huh? Now - aim down your gun sight."
+LANG_SPANISH        "Bastante duro, ¿eh? Ahora apunte usando la mira del arma."
+
+REFERENCE           TRAINING_MOODY_SNIPER04
+LANG_ENGLISH        "Now we're talking! Aim through your scope, you can do some business!"
+LANG_SPANISH        "¡Esto es otra cosa! ¡Apuntando con la mira, puede hacer mucho daño!"
+
+REFERENCE           TRAINING_MOODY_SNIPER05
+LANG_ENGLISH        "Take a few steps while aiming down your sight. You're gonna move slower this way."
+LANG_SPANISH        "Retroceda unos pasos mientras apunta con la mira. Se moverá más lento de esta manera."
+
+REFERENCE           TRAINING_MOODY_SNIPER06
+LANG_ENGLISH        "Now fire 2 rounds at your target while aiming down your sight."
+LANG_SPANISH        "Ahora, dispare dos veces a su objetivo usando la mira."
+
+REFERENCE           TRAINING_MOODY_SNIPER07
+LANG_ENGLISH        "All right! I hope it's clear to you that you will be more accurate while aiming down the sight."
+LANG_SPANISH        "¡Muy bien! Espero que le haya quedado claro que tendrá mejor puntería si utiliza la mira del arma."
+
+REFERENCE           TRAINING_MOODY_SNIPER08
+LANG_ENGLISH        "All right Private, move on to the next area."
+LANG_SPANISH        "De acuerdo, soldado. Muévase a la siguiente zona."
+
+REFERENCE           TRAINING_MOODY_SMG01
+LANG_ENGLISH        "Exchange your Springfield for one of the Thompson Submachine Guns on the table."
+LANG_SPANISH        "Cambie su Springfield por una de las Metralletas Thompson de la mesa."
+
+REFERENCE           TRAINING_MOODY_SMG02
+LANG_ENGLISH        "Unless you've got three hands, you can only carry two weapons, besides your sidearm and grenades."
+LANG_SPANISH        "Salvo que tenga tres manos, solo puede llevar dos armas, además de su pistola y las granadas."
+
+REFERENCE           TRAINING_MOODY_SMG03
+LANG_ENGLISH        "Move to the fence Private Martin, and aim down the sight of your Thompson."
+LANG_SPANISH        "Muévase a la valla, soldado Martin, apunte usando la mira de su Thompson."
+
+REFERENCE           TRAINING_MOODY_SMG04
+LANG_ENGLISH        "You notice a slight zoom effect when you raise and aim down the sight of a weapon without a scope."
+LANG_SPANISH        "Notará un ligero efecto de zoom cuando apunte un arma sin usar la mira."
+
+REFERENCE           TRAINING_MOODY_SMG05
+LANG_ENGLISH        "Fire 10 rounds at your target, first from the hip, then aiming down the gun sight. Compare your accuracy. Get used to firing both ways."
+LANG_SPANISH        "Dispare 10 balas a su objetivo. Primero desde la cadera, y luego  con la mira del arma. Compare su puntería, y acostúmbrese a disparar en ambos modos."
+
+REFERENCE           TRAINING_MOODY_SMG06
+LANG_ENGLISH        "In close quarters combat, you can hit your enemy with the butt end of your weapon. This is called a melee attack. Try it with your Thompson. Don't screw around kid, this is for real."
+LANG_SPANISH        "En un combate a corta distancia, puede golpear a sus enemigos con la culata del arma. Esto se llama combate cuerpo a cuerpo. Pruebe con su Thompson. No la fastidie, hijo. Esto va en serio."
+
+REFERENCE           TRAINING_MOODY_SMG07
+LANG_ENGLISH        "Now switch weapons private. Unless you're as dumb as you are ugly, it may dawn on you that each weapon is good for different situations. Make the wrong choice and you could buy the farm."
+LANG_SPANISH        "Ahora cambie de arma, soldado. A no ser que sea tan tonto como feo, se dará cuenta de que cada una es útil en determinadas circunstancias. Hacer una elección errónea puede llevarle a la tumba."
+
+REFERENCE           TRAINING_MOODY_SMG08
+LANG_ENGLISH        "Fire 3 more rounds at your target."
+LANG_SPANISH        "Dispare tres veces más a su objetivo."
+
+REFERENCE           TRAINING_MOODY_SMG09
+LANG_ENGLISH        "Outstanding private. Proceed to the next area."
+LANG_SPANISH        "Excepcional, soldado. Proceda a la siguiente zona."
+
+REFERENCE           TRAINING_MOODY_GRENADE01
+LANG_ENGLISH        "Pick up the frag grenades from the table. Pick 'em up!"
+LANG_SPANISH        "Coja las granadas de fragmentación de la mesa. ¡Cójalas!"
+
+REFERENCE           TRAINING_MOODY_GRENADE02
+LANG_ENGLISH        "Move behind the concrete post and lean out to the left, then the right. This will help protect you from the enemy."
+LANG_SPANISH        "Muévase detrás del poste de hormigón y asómese primero a la izquierda, y luego a la derecha. Eso le protegerá del enemigo."
+
+REFERENCE           TRAINING_MOODY_GRENADE03
+LANG_ENGLISH        "Leaning can help protect you from the enemy."
+LANG_SPANISH        "Inclinarse le ayudará a protegerse del enemigo."
+
+REFERENCE           TRAINING_MOODY_GRENADE04
+LANG_ENGLISH        "Throw a grenade into each of the openings before you. Rock and fire!"
+LANG_SPANISH        "Arroje una granada a cada una de las aberturas en frente suya. ¡Fuerte y sin dudas!"
+
+REFERENCE           TRAINING_MOODY_HEALTH01
+LANG_ENGLISH        "Remember private, if you get hurt, grab one of those health kits and use it. Don't be a hero, they will save your life."
+LANG_SPANISH        "Recuerde, soldado, si le hieren, coja uno de esos botiquines y úselo. No se haga el héroe, le salvarán su vida."
+
+REFERENCE           TRAINING_MOODY_MG01
+LANG_ENGLISH        "All right, Private. Move to the machine gun, prepare to fire, then take out your target."
+LANG_SPANISH        "De acuerdo, soldado. Vaya a la ametralladora, prepárese para disparar y elimine a su objetivo."
+
+REFERENCE           TRAINING_MOODY_EXPLOSIVES01
+LANG_ENGLISH        "Our last station will be explosives."
+LANG_SPANISH        "Nuestra última parada serán los explosivos."
+
+REFERENCE           TRAINING_MOODY_EXPLOSIVES02A
+LANG_ENGLISH        "Pick 'em up partner. "
+LANG_SPANISH        "Cójalos, soldado."
+
+REFERENCE           TRAINING_MOODY_EXPLOSIVES02B
+LANG_ENGLISH        "That's a lot of firepower there, treat it with respect. That stuff doesn't care what it blows up."
+LANG_SPANISH        "Tienen una gran potencia de fuego, así que manéjelos con cuidado. Cuando explotan, no les importa quién tienen al lado."
+
+REFERENCE           TRAINING_MOODY_EXPLOSIVES03
+LANG_ENGLISH        "You will see a picture of your explosives in the upper right corner of your HUD."
+LANG_SPANISH        "Verá una imagen de sus explosivos en la esquina superior derecha de la pantalla."
+
+REFERENCE           TRAINING_MOODY_EXPLOSIVES04
+LANG_ENGLISH        "Place your explosives on the cinder block wall."
+LANG_SPANISH        "Coloque sus explosivos en el muro de ladrillo."
+
+REFERENCE           TRAINING_MOODY_EXPLOSIVES05
+LANG_ENGLISH        "Note that a stopwatch has appeared. This will tell you how much time you have to get your butt out of there, unless you want it blown off!"
+LANG_SPANISH        "Fíjese que aparecerá un cronómetro. En él verá el tiempo que tiene para sacar su culo de ahí, salvo que quiera que se lo vuelen."
+
+REFERENCE           TRAINING_MOODY_EXPLOSIVES06
+LANG_ENGLISH        "Fire in the hole!"
+LANG_SPANISH        "¡Fuego en el objetivo!"
+
+REFERENCE           TRAINING_MOODY_EXPLOSIVES07
+LANG_ENGLISH        "Good job Private, well done. Keep your weapons with you and clean at all times. You are dismissed."
+LANG_SPANISH        "Buen trabajo, soldado. Bien hecho. Mantenga sus armas limpias y cerca de usted todo el tiempo. Puede retirarse."
+
+REFERENCE           DAWNVILLE_FRIENDLY1_WAKEIT
+LANG_ENGLISH        "Up! Get up! Wake it and shake it! The Germans are bringing your coffee!"
+LANG_SPANISH        "Arriba, arriba, levantaros y afeitaros, que los alemanes os traen el café."
+
+REFERENCE           DAWNVILLE_FRIENDLY3_GOTCOMPANY
+LANG_ENGLISH        "We got company! Tiger, moving in from the east!"
+LANG_SPANISH        "Tenemos compañía, ¡Tigre moviéndose desde el Este!"
+
+REFERENCE           DAWNVILLE_FRIENDLY1_INCOMING
+LANG_ENGLISH        "Mortars, incoming!"
+LANG_SPANISH        "Morteros, ¡se acercan!"
+
+REFERENCE           DAWNVILLE_FRIENDLY3_TAKECOVER
+LANG_ENGLISH        "Incoming!"
+LANG_SPANISH        "¡Se acercan!"
+
+REFERENCE           DAWNVILLE_FOLEY_OFFSTREETS
+LANG_ENGLISH        "Off the streets! Mortars!"
+LANG_SPANISH        "¡Fuera de las calles! ¡Morteros!"
+
+REFERENCE           DAWNVILLE_FOLEY_TAKINGBREAK
+LANG_ENGLISH        "All right, the mortars are taking a break. Johnson, go have a look."
+LANG_SPANISH        "Muy bien, los morteros han hecho una pausa. Johnson, vaya a echar un vistazo."
+
+REFERENCE           DAWNVILLE_JOHNSON_RIGHTCAPTAIN
+LANG_ENGLISH        "Right, Captain."
+LANG_SPANISH        "Sí, Capitán."
+
+REFERENCE           DAWNVILLE_FOLEY_THEYGOTHIMDAMN
+LANG_ENGLISH        "They got him! Damn!"
+LANG_SPANISH        "¡Les han alcanzado! ¡Maldición!"
+
+REFERENCE           DAWNVILLE_FOLEY_JACKSON
+LANG_ENGLISH        "Jackson, Baker, we'll draw their fire! Go!"
+LANG_SPANISH        "¡Jackson, Baker, síganme! ¡Atraeremos su fuego! ¡Ahora!"
+
+REFERENCE           DAWNVILLE_FOLEY_GETPANZERFAUST
+LANG_ENGLISH        "That's a Tiger! Martin, get a Panzerfaust from the church and take that mother out!"
+LANG_SPANISH        "Ese es un tigre. Martin, ¡coja un Panzerfoust de la iglesia y acabe con él!"
+
+REFERENCE           DAWNVILLE_FOLEY_FAUSTREMIND
+LANG_ENGLISH        "Martin! The Panzerfausts are in the church! Go!"
+LANG_SPANISH        "Martin, los Panzerfausts están en la iglesia. ¡Vaya!"
+
+REFERENCE           DAWNVILLE_FOLEY_GOREMIND
+LANG_ENGLISH        "Martin! The church! Go! Go! Go!"
+LANG_SPANISH        "¡Martin, la iglesia! ¡Corra, corra, corra!"
+
+REFERENCE           DAWNVILLE_FRIENDLY1_ENEMYTANK
+LANG_ENGLISH        "Enemy tank! Look out!"
+LANG_SPANISH        "¡Tanque enemigo! ¡Cuidado!"
+
+REFERENCE           DAWNVILLE_FRIENDLY1_AREACOVERED1
+LANG_ENGLISH        "We're takin' some light action, but we've got this area covered!"
+LANG_SPANISH        "¡Tenemos alguna escaramuza, pero esta zona está cubierta!"
+
+REFERENCE           DAWNVILLE_FRIENDLY1_AREACOVERED2
+LANG_ENGLISH        "No sweat - we're good - we got the church covered!"
+LANG_SPANISH        "Sin sudar, somos buenos. ¡Hemos cubierto la iglesia!"
+
+REFERENCE           DAWNVILLE_FRIENDLY1_AREACOVERED3
+LANG_ENGLISH        "Tell Foley we're takin' some action, but don't need help."
+LANG_SPANISH        "Dígale a Foley que nos atacan, pero que no necesitamos ayuda."
+
+REFERENCE           DAWNVILLE_FRIENDLY1_CHURCHFALL
+LANG_ENGLISH        "Sir! The Germans are at the church! It's gonna fall!"
+LANG_SPANISH        "¡Señor! ¡Los alemanes están en la iglesia! ¡Se va a caer!"
+
+REFERENCE           DAWNVILLE_FOLEY_BACKTOCHURCH
+LANG_ENGLISH        "Martin - back to the church with me! The rest of you hold this position!"
+LANG_SPANISH        "Martin, ¡vuelva a la iglesia conmigo! ¡El resto, mantened esa posición!"
+
+REFERENCE           DAWNVILLE_FRIENDLY3_GETWITHIT
+LANG_ENGLISH        "Come on, wake up! Get with it!"
+LANG_SPANISH        "Vamos, ¡despierte! ¡Adelante con ello!"
+
+REFERENCE           DAWNVILLE_ELDER_THISISNUTS
+LANG_ENGLISH        "This is nuts! I can't believe I'm doing this."
+LANG_SPANISH        "¡Esto es absurdo! No puedo creer que esté haciendo esto."
+
+REFERENCE           DAWNVILLE_FOLEY_PULLINGBACK
+LANG_ENGLISH        "They're pullin' back! Alright! Good work, but don't let down. They'll be back."
+LANG_SPANISH        "¡Bien, se retiran! Buen trabajo, pero no os confiéis. Volverán."
+
+REFERENCE           DAWNVILLE_FOLEY_LEWISFRANK
+LANG_ENGLISH        "Lewis, Franklin, hold the church."
+LANG_SPANISH        "Lewis, Franklin, mantengan la iglesia."
+
+REFERENCE           DAWNVILLE_FOLEY_LEWIS
+LANG_ENGLISH        "Lewis, hold the church."
+LANG_SPANISH        "Lewis, mantenga la iglesia."
+
+REFERENCE           DAWNVILLE_FOLEY_FRANKLIN
+LANG_ENGLISH        "Franklin, hold the church."
+LANG_SPANISH        "Franklin, mantenga la iglesia."
+
+REFERENCE           DAWNVILLE_FOLEY_ELSEFOLLOW
+LANG_ENGLISH        "Everyone else, follow me!"
+LANG_SPANISH        "El resto, ¡seguidme!"
+
+REFERENCE           DAWNVILLE_FOLEY_EVERYONEFOLLOW
+LANG_ENGLISH        "Everyone follow me!"
+LANG_SPANISH        "Todo el mundo, ¡seguidme!"
+
+REFERENCE           DAWNVILLE_FOLEY_BEHINDYOU
+LANG_ENGLISH        "Behind you!"
+LANG_SPANISH        "¡Detrás de ti!"
+
+REFERENCE           DAWNVILLE_FOLEY_GOTTAGETTANK
+LANG_ENGLISH        "Martin, we gotta get that tank!"
+LANG_SPANISH        "Martin,¡tenemos que acabar con ese tanque!"
+
+REFERENCE           DAWNVILLE_FRIENDLY1_GRENADEINTHERE
+LANG_ENGLISH        "Get a grenade in there!"
+LANG_SPANISH        "¡Colocad una granada ahí!"
+
+REFERENCE           DAWNVILLE_FOLEY_PUSHEMOUT
+LANG_ENGLISH        "They're fallin' back! Push 'em outta here! Move it -- go!"
+LANG_SPANISH        "¡Se están retirando! ¡Expulsadlos de aquí! Moveos, ¡ahora!"
+
+REFERENCE           DAWNVILLE_FOLEY_REGROUP
+LANG_ENGLISH        "Regroup! Regroup! Over here! Nice work!"
+LANG_SPANISH        "Reagruparse, reagruparse, por aquí. Buen trabajo."
+
+REFERENCE           DAWNVILLE_FOLEY_TIGERTANKCOVER
+LANG_ENGLISH        "Tank!!! Take cover!!!"
+LANG_SPANISH        "¡¡¡Tanque!!! ¡¡¡A cubierto!!!"
+
+REFERENCE           DAWNVILLE_FOLEY_HOLDOFFINFANTRY
+LANG_ENGLISH        "Martin, get another Panzerfaust and take it out! We'll hold off their infantry!"
+LANG_SPANISH        "Martin, consigue otro Panzerfaust y elimínalo. Nosotros contendremos a su infantería."
+
+REFERENCE           DAWNVILLE_FOLEY_NICESHOT
+LANG_ENGLISH        "Nice shot, Martin."
+LANG_SPANISH        "Buen tiro, Martin."
+
+REFERENCE           DAWNVILLE_PARKER_TEAMS
+LANG_ENGLISH        "Sir! We just spotted German mortar teams to the south! I say we move in quick, and take 'em out!"
+LANG_SPANISH        "Señor, hemos descubierto morteros alemanes hacia el sur, debemos movernos rápido y eliminarlos."
+
+REFERENCE           DAWNVILLE_FOLEY_GETMORTARS
+LANG_ENGLISH        "Nice one, Parker. Ok guys...be ready to use any grenades you have left! Put down suppressing fire only if you need to - do not waste your ammo! All right, let's put those mortars outta business!"
+LANG_SPANISH        "Muy bonito, Parker. Chicos. Preparaos para usar cualquier granada que os quede. Proporcionad fuego de contención si lo necesitáis, no malgastéis munición. ¡Pongamos esos morteros fuera de la circulación!"
+
+REFERENCE           DAWNVILLE_FOLEY_HANDTHIS
+LANG_ENGLISH        "Hand this directly to Major Sheppard.  Tell him Baker Company has secured the town, but won't be able to hold it long - if we don't get relieved soon.  Got that, Sergeant?"
+LANG_SPANISH        "Entréguela directamente al mayor Sheppard. Dígale que la Compañía Baker ha asegurado la ciudad, pero que no será capaz de mantenerla mucho tiempo si no somos relevados pronto. ¿Lo ha entendido, sargento?"
+
+REFERENCE           DAWNVILLE_FOLEY_PRETTYSURE
+LANG_ENGLISH        "Pretty sure that won't be necessary, Sarge.  So unless you got a better idea - or a radio that works, carry on. Good luck."
+LANG_SPANISH        "Ja, ja, ja. Es casi seguro que no será necesario, sargento. Así que, a menos que tenga una idea mejor o una radio que funcione... adelante. Buena suerte."
+
+REFERENCE           DAWNVILLE_MOODY_ASSUP
+LANG_ENGLISH        "Martin, get your ass up. We gotta get the hell off the streets."
+LANG_SPANISH        "¡Martin, mueva el culo! ¡Tenemos que largarnos de las calles!"
+
+REFERENCE           DAWNVILLE_MOODY_GETCHURCH
+LANG_ENGLISH        "Damnit Martin, get to the church with Foley. We got this area covered."
+LANG_SPANISH        "Maldición Martin, vaya a la iglesia con Foley. Tenemos esta zona cubierta."
+
+REFERENCE           DAWNVILLE_MOODY_GETINCAR
+LANG_ENGLISH        "Martin, over here. Get in the car."
+LANG_SPANISH        "Martin, aquí. Entre en el coche."
+
+REFERENCE           DAWNVILLE_MOODY_ROLLINGJUNKYARD
+LANG_ENGLISH        "Ok Captain, assuming that we get back to battalion in this rolling junkyard, what do I tell 'em?"
+LANG_SPANISH        "De acuerdo, capitán, en el caso de que consigamos volver al batallón en esta chatarra rodante, ¿qué les digo?"
+
+REFERENCE           DAWNVILLE_MOODY_TINCAN
+LANG_ENGLISH        "Oh, yes sir, you bet. We ride through enemy lines in a French tin can. Wanna paint a bullseye on it, sir?"
+LANG_SPANISH        "Oh, sí, señor, délo por hecho. Conducimos por detrás del enemigo en una tartana francesa. ¿Quiere que le pinte una diana, señor?"
+
+REFERENCE           DAWNVILLE_MOODY_SPROUTWINGS
+LANG_ENGLISH        "Believe it! Unless you sprout wings and wanna fly. It's only six miles Private, just shut up and do your job."
+LANG_SPANISH        "Créame: a no ser que le broten alas y quiera volar. Son solo seis millas, soldado. Limítese a callarse y a hacer su trabajo."
+
+REFERENCE           DAWNVILLE_FRIENDLY2_HERETHEY
+LANG_ENGLISH        "Here they come!"
+LANG_SPANISH        "¡Aquí vienen!"
+
+REFERENCE           DAWNVILLE_FRIENDLY2_WITHFOLEY
+LANG_ENGLISH        "Martin, you're with Captain Foley!"
+LANG_SPANISH        "Martin, ¡estás con el capitán Foley!"
+
+REFERENCE           POWCAMP_FOLEY_READYTORAM1
+LANG_ENGLISH        "Ok Martin, we're about ready to ram the gate, with less than ten minutes from your first shot to pull this off."
+LANG_SPANISH        "Martin, vamos a embestir la puerta, lo que deja menos de 10 minutos desde el primer disparo para cumplir la misión."
+
+REFERENCE           POWCAMP_FOLEY_READYTORAM2
+LANG_ENGLISH        "Take any longer, they'll be sending someone to rescue us!  You take out the front guards, concentrating on the machine gun nests."
+LANG_SPANISH        "Si tarda más, mandarán a alguien a rescatarnos. Elimine a los guardias del frente, concentrándose en los nidos de ametralladoras."
+
+REFERENCE           POWCAMP_FOLEY_READYTORAM3
+LANG_ENGLISH        "Once the gate is down, get in there and find the Major. Then rendezvous back at the truck."
+LANG_SPANISH        "Cuando la puerta esté derribada, entre y encuentre al mayor. Luego vuelva al camión."
+
+REFERENCE           POWCAMP_FOLEY_GOGETINGRAM
+LANG_ENGLISH        "Alright, now go get the Major! I'll stay here and secure the truck!"
+LANG_SPANISH        "De acuerdo; ahora reúnase con el mayor. ¡Yo me quedaré y aseguraré el camión!"
+
+REFERENCE           POWCAMP_INGRAM1
+LANG_ENGLISH        "Yanks! Now there's a spot of luck. Come to collect me, have you?"
+LANG_SPANISH        "¡Yanquis! Al fin un poco de suerte. Venís a recogerme, ¿verdad?"
+
+REFERENCE           POWCAMP_INGRAM2
+LANG_ENGLISH        "Lead on lads, no time for handshakes and hellos."
+LANG_SPANISH        "Vamos, amigos. No hay tiempo para apretones de manos."
+
+REFERENCE           POWCAMP_INGRAM3
+LANG_ENGLISH        "Good show Captain, to you and your boys! Well done, well done!"
+LANG_SPANISH        "Un buen trabajo, capitán. A usted y a sus muchachos. ¡Bien hecho! ¡Bien hecho!"
+
+REFERENCE           DAM_PRICE_GOODMAN
+LANG_ENGLISH        "Evans! Good man - in the truck, hop on!"
+LANG_SPANISH        "¡EVANS! Bien, en el camión, ¡suba!"
+
+REFERENCE           TRUCKRIDE_WATERS_READYMATE
+LANG_ENGLISH        "Are you ready, mate? Take this Panzerfaust! "
+LANG_SPANISH        "¿Estás listo, compañero? ¡Toma este Panzerfaust! "
+
+REFERENCE           TRUCKRIDE_WATERS_KNOWWHATTODO
+LANG_ENGLISH        "There. You do know what to do with it, don't you?"
+LANG_SPANISH        "Ahí. ¿Sabe lo que tiene que hacer con él, no?"
+
+REFERENCE           TRUCKRIDE_WATERS_GERMANLORRY
+LANG_ENGLISH        "German lorry behind us!"
+LANG_SPANISH        "¡Camión alemán detrás!"
+
+REFERENCE           TRUCKRIDE_WATERS_FIREITDAMMIT
+LANG_ENGLISH        "Fire it, dammit!"
+LANG_SPANISH        "¡Fuego, maldición!"
+
+REFERENCE           TRUCKRIDE_WATERS_COMINGUPFAST
+LANG_ENGLISH        "German lorry coming up fast!"
+LANG_SPANISH        "¡Camión alemán se acerca rápido!"
+
+REFERENCE           TRUCKRIDE_WATERS_INSIGHTS
+LANG_ENGLISH        "We're in his sights - take him out!"
+LANG_SPANISH        "Estamos a su vista, ¡acabad con él!"
+
+REFERENCE           TRUCKRIDE_WATERS_ANOTHERLORRY
+LANG_ENGLISH        "Another lorry and a Kubelwagen, coming on fast!"
+LANG_SPANISH        "Otro camión y un Kubelwagen. ¡Vienen muy rápidos!"
+
+REFERENCE           TRUCKRIDE_WATERS_ONEDOWN
+LANG_ENGLISH        "One down, one to go!"
+LANG_SPANISH        "Uno menos, ¡queda otro!"
+
+REFERENCE           TRUCKRIDE_WATERS_KUBELSTILL
+LANG_ENGLISH        "That Kubelwagen's still there!"
+LANG_SPANISH        "¡Ese Kubelwagen sigue ahí!"
+
+REFERENCE           TRUCKRIDE_WATERS_LORRYSTILL
+LANG_ENGLISH        "That lorry's still there!"
+LANG_SPANISH        "Ese camión sigue ahí!"
+
+REFERENCE           TRUCKRIDE_WATERS_HEREYOUGO
+LANG_ENGLISH        "Here you go!"
+LANG_SPANISH        "¡Aquí tienes!"
+
+REFERENCE           TRUCKRIDE_WATERS_TAKEIT
+LANG_ENGLISH        "Take it!"
+LANG_SPANISH        "¡Toma esto!"
+
+REFERENCE           TRUCKRIDE_WATERS_KEEPFIRING
+LANG_ENGLISH        "Keep firing, I'll keep them coming!"
+LANG_SPANISH        "Seguid disparando. ¡Haré que vengan!"
+
+REFERENCE           TRUCKRIDE_WATERS_LOCKANDLOAD
+LANG_ENGLISH        "Lock and load! Fire! Fire!"
+LANG_SPANISH        "¡Cargado y en mira! ¡Fuego! ¡Fuego!"
+
+REFERENCE           TRUCKRIDE_WATERS_COULDYOUGO
+LANG_ENGLISH        "Could you go any slower?  Great shot!"
+LANG_SPANISH        "¿Podrías ir más despacio? ¡Gran tiro!"
+
+REFERENCE           TRUCKRIDE_WATERS_MAKEITACROSS
+LANG_ENGLISH        "We just have to make it across! It's booby trapped to blow when we do!"
+LANG_SPANISH        "¡Tenemos que hacerlo cruzar! Está preparado para explotar cuando lo hagamos."
+
+REFERENCE           TRUCKRIDE_WATERS_SOGGYBASTARD
+LANG_ENGLISH        "Dammit! The soggy bastard didn't blow! Take this sniper rifle! Cover me while I do it by hand!"
+LANG_SPANISH        "¡Maldición! ¡Ese gusano no explotó! Tome este rifle de francotirador. ¡Cúbrame mientras lo hago a mano!"
+
+REFERENCE           TRUCKRIDE_WATERS_BLOODYBIKES
+LANG_ENGLISH        "Bloody motorbikes! Take 'em out!"
+LANG_SPANISH        "Jodidas motos, ¡acabe con ellas!"
+
+REFERENCE           TRUCKRIDE_WATERS_LASTFAUSTS
+LANG_ENGLISH        "We're out! That's the last of the Panzerfausts!"
+LANG_SPANISH        "¡Estamos fuera! ¡Éste es el último de los Panzerfausts!"
+
+REFERENCE           TRUCKRIDE_WATERS_ROADBLOCKAHEAD
+LANG_ENGLISH        "Evans!  Roadblock, dead ahead!  Hold on tight!"
+LANG_SPANISH        "¡Evans!  ¡Control carretera delante! ¡Mantenga la marcha!"
+
+REFERENCE           TRUCKRIDE_WATERS_HELLHEDOING
+LANG_ENGLISH        "What the bloody hell's he doing?!"
+LANG_SPANISH        "¡¿Qué demonios está haciendo?!"
+
+REFERENCE           TRUCKRIDE_WATERS_WEMADEIT
+LANG_ENGLISH        "My God, we made it.  I don't bloody believe it."
+LANG_SPANISH        "Díos mío, lo hemos hecho. No me puedo creer que lo hayamos hecho."
+
+REFERENCE           TRUCKRIDE_PRICE_BEAUTIFUL
+LANG_ENGLISH        "Beautiful lad - good job!"
+LANG_SPANISH        "Precioso, chaval. ¡Buen trabajo!"
+
+REFERENCE           TRUCKRIDE_PRICE_BRACEYOURSELVES
+LANG_ENGLISH        "Gentlemen, brace yourselves back there!"
+LANG_SPANISH        "Caballeros, ¡prepárense ahí detrás!"
+
+REFERENCE           TRUCKRIDE_PRICE_HANGON
+LANG_ENGLISH        "Hang on back there!"
+LANG_SPANISH        "¡Agárrense!"
+
+REFERENCE           AIRFIELD_WATERS_COMINGUPAIRFIELD
+LANG_ENGLISH        "We're coming up on that airfield, where the rest of the team has assembled!  They radioed that they're finding us an escape plane!"
+LANG_SPANISH        "Vamos a ese aeródromo, donde el resto del equipo ya se ha reunido. Nos han dicho por radio que nos están consiguiendo un avión para huir."
+
+REFERENCE           AIRFIELD_WATERS_BLIMEYBEAUTY
+LANG_ENGLISH        "There they are! That's our plane! Blimey, she's a beauty!"
+LANG_SPANISH        "Allí están ¡Ése es nuestro avión! ¡Diantres, es una preciosidad...!"
+
+REFERENCE           AIRFIELD_WATERS_DONTSHOOTPLANE
+LANG_ENGLISH        "Evans! Don't shoot that plane! That's our ride out of here!"
+LANG_SPANISH        "¡Evans, no dispare a ese avión! ¡Es nuestro billete de salida!"
+
+REFERENCE           AIRFIELD_WATERS_LIGHTUPSTUKAS
+LANG_ENGLISH        "Sergeant Evans, light up those bloody Stukas with the flak gun!"
+LANG_SPANISH        "Sargento Evans, ¡haga brillar a esos malditos Stukas con el antiaéreo!"
+
+REFERENCE           AIRFIELD_WATERS_DIVEBOMBERS
+LANG_ENGLISH        "Stuka dive bombers! Take them out!"
+LANG_SPANISH        "¡Bombarderos Stuka! ¡Elimínenlos!"
+
+REFERENCE           AIRFIELD_WATERS_KEEPSTUKASOFF
+LANG_ENGLISH        "Dammit Evans, keep those Stukas off us!"
+LANG_SPANISH        "Maldita sea, Evans-- ¡aleje a esos Stukas!"
+
+REFERENCE           AIRFIELD_WATERS_OUTOFTIME
+LANG_ENGLISH        "Evans - in the truck!  We've run out of time!  We've got to go, now!"
+LANG_SPANISH        "Evans, ¡al camión! ¡Debemos irnos ahora!"
+
+REFERENCE           AIRFIELD_PRICE_BLOODYSTUKAS
+LANG_ENGLISH        "Take those bloody Stukas down!"
+LANG_SPANISH        "¡Derribad a esos malditos Stukas!"
+
+REFERENCE           AIRFIELD_PRICE_PLANEISREADY
+LANG_ENGLISH        "Come on boys, back in the truck - our plane is ready!"
+LANG_SPANISH        "Vamos chicos, de vuelta al camión, ¡nuestro avión está listo!"
+
+REFERENCE           SHIP_PRICE_HOLDRIGHTHERE
+LANG_ENGLISH        "Hold right here."
+LANG_SPANISH        "Esperad aquí."
+
+REFERENCE           SHIP_PRICE_WERECLEARTOAPPROACH
+LANG_ENGLISH        "Ok, we're clear to approach.  Evans, you and I will need to get below decks and find the armory, before we can cripple the engines.  Stick with me, and unless your German's improved let me handle the talking.  Waters, you stay here.  Be ready to leave at a moment's notice."
+LANG_SPANISH        "Bien, estamos listos para la aproximación. Evans, usted y yo necesitamos ir bajo las cubiertas y encontrar el arsenal antes de que podamos parar los motores. Permanezca a mi lado y, a no ser que su alemán haya mejorado, déjeme a mí las conversaciones. Waters, permanezca aquí. Esté preparado para partir en cualquier momento."
+
+REFERENCE           SHIP_PRICE_GER_PERMISSION
+LANG_ENGLISH        "Permission to come aboard."
+LANG_SPANISH        "Permiso para subir a bordo."
+
+REFERENCE           SHIP_PRICE_GER_DONITZ
+LANG_ENGLISH        "He was called to an emergency meeting with Admiral Donitz."
+LANG_SPANISH        "Ha sido llamado para mantener un encuentro de emergencia con el Almirante Donitz."
+
+REFERENCE           SHIP_WARRANT_GRANTED
+LANG_ENGLISH        "Permission granted."
+LANG_SPANISH        "Permiso concedido."
+
+REFERENCE           SHIP_WARRANT_SEEYOURPAPERS
+LANG_ENGLISH        "May I see your papers please?"
+LANG_SPANISH        "¿Puedo ver sus papeles, por favor?"
+
+REFERENCE           SHIP_WARRANT_SCHMIDT
+LANG_ENGLISH        "Where is Schmidt?"
+LANG_SPANISH        "¿Dónde está Schmidt?"
+
+REFERENCE           SHIP_WARRANT_WELCOMEABOARD
+LANG_ENGLISH        "Everything seems to be in order.  Welcome aboard, sir."
+LANG_SPANISH        "Todo parece en orden. Bienvenido a bordo, señor."
+
+REFERENCE           SHIP_PRICE_THROUGHHANGAR
+LANG_ENGLISH        "We should be able to get below through that hangar."
+LANG_SPANISH        "Deberíamos ir Abajo a través de ese hangar."
+
+REFERENCE           SHIP_ARMORY_SHOWMEPAPERS
+LANG_ENGLISH        "May I see your identification please?"
+LANG_SPANISH        "¿Puedo ver su identificación, por favor?"
+
+REFERENCE           SHIP_ARMORY_HAVETOCHECKTHIS
+LANG_ENGLISH        "I have to check on this - one moment please."
+LANG_SPANISH        "Tengo que comprobarlas; un momento, por favor."
+
+REFERENCE           SHIP_ARMORY_OFFICERSWITHME
+LANG_ENGLISH        "I have officers here with me, who say that they have proper papers."
+LANG_SPANISH        "Hay aquí unos oficiales conmigo, que dicen que tienen los papeles adecuados."
+
+REFERENCE           SHIP_PHONE_SOUNDTHEALARM
+LANG_ENGLISH        "Hello? Hello? Sound the alarm!"
+LANG_SPANISH        "¿Hola? ¿Hola? ¡Sonad la alarma!"
+
+REFERENCE           SHIP_PRICE_BOILERSLINE
+LANG_ENGLISH        "Grab a weapon and explosives - quick!  The ship's boilers line these passageways!  Place your charges as we go.  This place will be crawling with Krauts."
+LANG_SPANISH        "Rápido. Coja un arma y explosivos. Las calderas del barco bordean estos pasillos! Coloque sus cargas según avancemos. Esta zona estará llena de comedores de salchichas."
+
+REFERENCE           SHIP_PRICE_CONNINGTOWER
+LANG_ENGLISH        "Right then, to the bridge, quickly!"
+LANG_SPANISH        "Correcto entonces, al puente, ¡rápido!"
+
+REFERENCE           SHIP_PRICE_MORTALWOUND
+LANG_ENGLISH        "Never mind - I'm all right.  Carry on, Sergeant, and finish the job.  I'll hold them off from here."
+LANG_SPANISH        "No importa. Estoy bien. Siga adelante, sargento, y termine el trabajo. Yo los mantendré fuera."
+
+REFERENCE           SHIP_WATERS_FINEMAN
+LANG_ENGLISH        "We lost the Captain?  Damn!  That was a very fine man. Let's get the hell out of here."
+LANG_SPANISH        "Hemos perdido al capitán. Maldición. Era un hombre muy bueno. Salgamos de aquí cagando leches."
+
+REFERENCE           SHIP_PRICE_GER_ASYOUWERE1
+LANG_ENGLISH        "As you were."
+LANG_SPANISH        "Como si estuvieras."
+
+REFERENCE           FACTORY_PRIVATE2_BLASTTHISDOOR
+LANG_ENGLISH        "Blast this door open!"
+LANG_SPANISH        "¡Volad esta puerta!"
+
+REFERENCE           FACTORY_PRIVATE1_GENERALSRACING
+LANG_ENGLISH        "I heard that our generals are racing to Berlin!"
+LANG_SPANISH        "Oí que nuestros generales se dirigen a toda velocidad a Berlín."
+
+REFERENCE           FACTORY_PRIVATE2_WOMENCHAMPAGNE
+LANG_ENGLISH        "Yeah, for the women and the French champagne."
+LANG_SPANISH        "Da, por las mujeres y el champán francés."
+
+REFERENCE           FACTORY_PRIVATE1_THELASTGENERAL
+LANG_ENGLISH        "The general who gets to Berlin last will be sent for re-education!"
+LANG_SPANISH        "¡El último general que llegue a Berlín será mandado a reeducación!"
+
+REFERENCE           FACTORY_PRIVATE2_NKVD
+LANG_ENGLISH        "We'll be re-educated with them if the NKVD hears us!"
+LANG_SPANISH        "También nos reeducarán a nosotros si el NKVD nos oye."
+
+REFERENCE           FACTORY_PRIVATE1_IDIOT
+LANG_ENGLISH        "We can't go that way, idiot!"
+LANG_SPANISH        "No podemos ir por ahí, ¡idiota!"
+
+REFERENCE           FACTORY_PRIVATE1_OVERHERE1
+LANG_ENGLISH        "Over here!"
+LANG_SPANISH        "¡Por aquí!"
+
+REFERENCE           FACTORY_PRIVATE1_THISWAY
+LANG_ENGLISH        "This way!"
+LANG_SPANISH        "¡Por este camino!"
+
+REFERENCE           FACTORY_PRIVATE1_WRONGWAY
+LANG_ENGLISH        "That's the wrong way!"
+LANG_SPANISH        "¡Ese es el camino equivocado!"
+
+REFERENCE           RAILYARD_PRIVATE1_WHOSEARTY
+LANG_ENGLISH        "Whose artillery is that?!"
+LANG_SPANISH        "¡¿De quién es esa artillería?!"
+
+REFERENCE           RAILYARD_PRIVATE2_MATTERS
+LANG_ENGLISH        "It's ours! Not that that matters! They don't know we're here!"
+LANG_SPANISH        "¡Es nuestra! ¡Pero eso no importa! ¡No saben que estamos aquí!"
+
+REFERENCE           RAILYARD_PRIVATE1_IFTHEYDIDKNOW
+LANG_ENGLISH        "Would they stop if they did know?"
+LANG_SPANISH        "¿Pararían si lo supiesen?"
+
+REFERENCE           RAILYARD_PRIVATE2_HARDTOSAY
+LANG_ENGLISH        "Hard to say, Comrade."
+LANG_SPANISH        "Difícil de decir, Camarada."
+
+REFERENCE           RAILYARD_CAPTAIN_GOODFORYOU
+LANG_ENGLISH        "Still alive? Well, uh. . .good! That's good! Good for you!"
+LANG_SPANISH        "¿Aún vive? Bien bueno. Eso es bueno. Bueno para ti."
+
+REFERENCE           RAILYARD_CAPTAIN_BEFORETHEARTYSTARTS
+LANG_ENGLISH        "We must get out of here quickly, before the artillery starts again!"
+LANG_SPANISH        "Debemos salir de aquí rápidamente, ¡antes de que la artillería comience de nuevo!"
+
+REFERENCE           HURTGEN_FOLEY_INDULGEME
+LANG_ENGLISH        "Gentlemen, we've fought a whole bunch of these, so I know you know what to do.  But indulge me.  Move quickly, cover your buddies, don't bunch up - and for heavens' sake don't stop 'till we reach those bunkers."
+LANG_SPANISH        "Caballeros, hemos peleado en unas cuantas como ésta, así que sé que saben qué hacer.  Pero permítanme.  Muévanse deprisa, cubran a sus compañeros, no se agrupen y, por el amor de Dios, no se paren hasta llegar a esos búnkeres."
+
+REFERENCE           HURTGEN_PARATROOPER_MINES
+LANG_ENGLISH        "Not there! Watch out for those mines!"
+LANG_SPANISH        "¡Ahí no! ¡Cuidado con esas minas!"
+
+REFERENCE           HURTGEN_FOLEY_KEEPMOVINGGUYS
+LANG_ENGLISH        "KEEP MOVING GUYS!! DON'T STOP!!!"
+LANG_SPANISH        "¡¡¡MOVEOS MUCHACHOS!!! ¡NO PARÉIS!"
+
+REFERENCE           HURTGEN_FOLEY_THATBUNKERSYOURS
+LANG_ENGLISH        "Martin! That bunker's yours! Grab any documents you find!"
+LANG_SPANISH        "Martin, ese bunker es suyo. Coja cualquier documento que encuentre."
+
+REFERENCE           HURTGEN_FOLEY_SAMEDRILLDOCS
+LANG_ENGLISH        "Same drill Martin, clear this bunker and search for documents!"
+LANG_SPANISH        "La misma tarea, Martin, ¡despeje este búnker y busque documentos!"
+
+REFERENCE           HURTGEN_FOLEY_QUICKPANZERS
+LANG_ENGLISH        "Martin, quick! We've got two Panzers comin' over the ridge!  Get on one of those 88's and take 'em out!"
+LANG_SPANISH        "¡Martin! ¡Tenemos dos Panzers viniendo por la cima! ¡Coja uno de esos 88 y elimínelos!"
+
+REFERENCE           HURTGEN_FOLEY_PROUDBELIEVE
+LANG_ENGLISH        "Great job on those tanks.  Private Martin, you've done yourself proud.  I can hardly believe. . .we've done it."
+LANG_SPANISH        "Gran trabajo con esos tanques, soldado Martin... Es para enorgullecerse. Apenas puedo creerlo... lo conseguimos."
+
+REFERENCE           ROCKET_WATERS_BRENSUPPORT
+LANG_ENGLISH        "All right Evans, we'll head east, destroying any targets of opportunity.  Then we'll meet up with the rest of the squad as planned.  You take point.  I'll provide support with the Bren gun."
+LANG_SPANISH        "De acuerdo Evans, vamos hacia el este, destruyendo cualquier objetivo. Nos encontraremos con el resto de la escuadra, como estaba previsto. Usted irá primero, mientras que yo le apoyaré con el fusil ametrallador."
+
+REFERENCE           ROCKET_WATERS_NEEDTOBLOWUP
+LANG_ENGLISH        "Evans - we need to blow up that Flak gun! Go!"
+LANG_SPANISH        "¡Evans, necesitamos volar esa arma antiaérea! ¡Vaya!"
+
+REFERENCE           ROCKET_WATERS_DEAFDUMBBLIND1
+LANG_ENGLISH        "Evans, are you deaf and blind - or just dumb?  Move your arse and take out that bloody Flak gun!"
+LANG_SPANISH        "Evans, ¿está ciego y sordo? ¿O es tonto? Mueva su culo y acabe con esa puñetera arma antiaérea."
+
+REFERENCE           ROCKET_WATERS_FOUNDCAREER
+LANG_ENGLISH        "Good show, Evans! Bloody decent work. You may have just found a career!"
+LANG_SPANISH        "¡Muy bien, Evans! Un trabajo jodidamente bueno; acabas de encontrar una carrera."
+
+REFERENCE           ROCKET_WATERS_HELLOBOYS
+LANG_ENGLISH        "Hello boys, smashing good use of mines. No time to chat - we'll be moving north to find those V2s now. All right then, move it!  Move along!"
+LANG_SPANISH        "Hola, chicos, un buen uso de las minas. No hay tiempo para charlas, nos moveremos al norte, para encontrar ahora esos V2. De acuerdo, entonces vamos. Adelante."
+
+REFERENCE           ROCKET_WATERS_V2FUEL
+LANG_ENGLISH        "Evans! We don't have enough explosives to destroy these V2s completely.  We'll need to get them fully fueled first, so they can blow their own arses up.  Go find the controls in those bunkers and get those V2s fueled!"
+LANG_SPANISH        "Evans, no tenemos bastantes explosivos para destruir totalmente estos V2 . Necesitamos el depósito de combustible a tope para que puedan volarse su propio culo. Encuentre los controles en esos búnkeres y ponga combustible en los V2."
+
+REFERENCE           ROCKET_WATERS_PLACEBOMBS
+LANG_ENGLISH        "Good, now place your bombs on them!"
+LANG_SPANISH        "¡Bien, ahora colocad sus bombas en ellos!"
+
+REFERENCE           ROCKET_WATERS_BRILLIANT
+LANG_ENGLISH        "Brilliant! Out through the north bunker, quickly!"
+LANG_SPANISH        "¡Genial!. Salid a través del búnker del norte, rápido."
+
+REFERENCE           BERLIN_RUSSIAN5_VICTORYDEATH
+LANG_ENGLISH        "Victory or death!"
+LANG_SPANISH        "¡Victoria o muerte!"
+
+REFERENCE           BERLIN_RUSSIAN1_ONTOREICHSTAG
+LANG_ENGLISH        "On to the Reichstag!"
+LANG_SPANISH        "¡Al Reichstag!"
+
+REFERENCE           BERLIN_RUSSIAN3_DEATHTOFASCISTS
+LANG_ENGLISH        "Death to the Fascists!"
+LANG_SPANISH        "¡Muerte a los fascistas!"
+
+REFERENCE           BERLIN_RUSSIAN1_NORETREAT
+LANG_ENGLISH        "No retreat!"
+LANG_SPANISH        "¡Sin retirada!"
+
+REFERENCE           BERLIN_RUSSIAN4_NEEDTOGETFLAKS
+LANG_ENGLISH        "We need to get those flak guns to get our tanks through!"
+LANG_SPANISH        "¡Tenemos que acabar con esas armas antiaéreas para que nuestros tanques puedan pasar!"
+
+REFERENCE           BERLIN_RUSSIAN3_LETSGETTHENEXTONE
+LANG_ENGLISH        "Blow this gun up and let's get the next one!"
+LANG_SPANISH        "¡Volad esta arma y vamos a por la siguiente!"
+
+REFERENCE           BERLIN_RUSSIAN1_TOTHENEXTGUN
+LANG_ENGLISH        "Keep moving comrades! To the next gun!"
+LANG_SPANISH        "¡Seguid avanzando, camaradas! ¡A la siguiente arma!"
+
+REFERENCE           BERLIN_RUSSIAN4_HOLDTHELINE
+LANG_ENGLISH        "Hang on! Hold the line, comrades, until our tanks get through!"
+LANG_SPANISH        "¡Aguantad! ¡Mantened la línea, camaradas! ¡Hasta que nuestros tanques pasen!"
+
+REFERENCE           BERLIN_RUSSIAN2_UNTILTANKSTHRU
+LANG_ENGLISH        "Hold this position!  Wait for the tanks!"
+LANG_SPANISH        "¡Mantened esta posición! ¡Esperad a los tanques!"
+
+REFERENCE           BERLIN_RUSSIAN1_COMEONLETSGO
+LANG_ENGLISH        "Come on comrades! Let's go!"
+LANG_SPANISH        "¡Vamos, camaradas! ¡Adelante!"
+
+REFERENCE           BERLIN_RUSSIAN2_FORWARDREICHSTAG
+LANG_ENGLISH        "Forward! To the Reichstag!"
+LANG_SPANISH        "¡Adelante! ¡Al Reichstag!"
+
+REFERENCE           BERLIN_RUSSIAN3_DOWNWITHFASCISM
+LANG_ENGLISH        "Down with fascism! Charge!"
+LANG_SPANISH        "¡Abajo el fascismo! ¡Cargad!"
+
+REFERENCE           BERLIN_RUSSIAN3_WATCHOUTGETDOWN
+LANG_ENGLISH        "Watch out! Get down!"
+LANG_SPANISH        "¡Cuidado! ¡Abajo!"
+
+REFERENCE           BERLIN_RUSSIAN4_SUPRESSWINDOWS
+LANG_ENGLISH        "Get suppressing fire on those windows!"
+LANG_SPANISH        "¡Fuego de contención sobre esas ventanas!"
+
+REFERENCE           BERLIN_RUSSIAN1_UPTOTHEROOFTOP
+LANG_ENGLISH        "Come on comrades!  Up to the rooftop!  Go!"
+LANG_SPANISH        "¡Vamos, camaradas! ¡Arriba, al tejado! ¡Vamos!"
+
+REFERENCE           BERLIN_RUSSIAN2_FLAGTOROOF
+LANG_ENGLISH        "Keep moving!  We have to get onto that roof!  Get that flag up to the roof!"
+LANG_SPANISH        "¡Seguid moviéndoos! ¡Tenemos que llegar a ese tejado! ¡Llevad esa bandera al tejado!"
+
+REFERENCE           BERLIN_RUSSIAN1_BERLINISOURS
+LANG_ENGLISH        "Get that flag up - fast!  Hurry comrade! Berlin is ours!"
+LANG_SPANISH        "¡Subid esa bandera, rápido! ¡¡Date prisa, camarada!! ¡¡Berlín es nuestra!!"
+
+REFERENCE           TANKDRIVE_DAMAGED_1
+LANG_ENGLISH        "Aaagh!"
+LANG_SPANISH        "¡Arggh!"
+
+REFERENCE           TANKDRIVE_DAMAGED_3
+LANG_ENGLISH        "Those 'kraut eating bastards hit us!"
+LANG_SPANISH        "¡Esos bastardos nos han dado!"
+
+REFERENCE           TANKDRIVE_DAMAGED_4
+LANG_ENGLISH        "We've been hit!"
+LANG_SPANISH        "¡Nos han dado!"
+
+REFERENCE           TANKDRIVE_DAMAGED_6
+LANG_ENGLISH        "Somebody get me out of here!"
+LANG_SPANISH        "¡Que alguien me saque de aquí!"
+
+REFERENCE           TANKDRIVE_DAMAGED_7
+LANG_ENGLISH        "My leg! Aah! Somebody help me!"
+LANG_SPANISH        "¡Mi puerna! ¡Argh! ¡Qué alguien me ayude!"
+
+REFERENCE           TANKDRIVE_DAMAGED_8
+LANG_ENGLISH        "We're taking fire!"
+LANG_SPANISH        "¡Nos disparan!"
+
+REFERENCE           TANKDRIVE_DAMAGED_9
+LANG_ENGLISH        "We're hit!"
+LANG_SPANISH        "¡Nos han dado!"
+
+REFERENCE           TANKDRIVE_DAMAGED_12
+LANG_ENGLISH        "Aaugh!"
+LANG_SPANISH        "¡Argh!"
+
+REFERENCE           TANKDRIVE_KILL_1
+LANG_ENGLISH        "Don't let up comrades!"
+LANG_SPANISH        "¡No cedáis, camaradas!"
+
+REFERENCE           TANKDRIVE_KILL_2
+LANG_ENGLISH        "Good shooting!"
+LANG_SPANISH        "¡Buen disparo!"
+
+REFERENCE           TANKDRIVE_KILL_3
+LANG_ENGLISH        "Got him!"
+LANG_SPANISH        "¡Lo tengo!"
+
+REFERENCE           TANKDRIVE_KILL_4
+LANG_ENGLISH        "You can heil Hitler in hell!"
+LANG_SPANISH        "¡Saluda a Hitler en el infierno!"
+
+REFERENCE           TANKDRIVE_KILL_5
+LANG_ENGLISH        "How do you like that, Franz?"
+LANG_SPANISH        "¿Te ha gustado eso, Franz?"
+
+REFERENCE           TANKDRIVE_KILL_9
+LANG_ENGLISH        "One down, more to come!"
+LANG_SPANISH        "Uno fuera, ¡que pase el siguiente!"
+
+REFERENCE           TANKDRIVE_KILL_10
+LANG_ENGLISH        "Keep them coming!"
+LANG_SPANISH        "¡Que sigan viniendo!"
+
+REFERENCE           TANKDRIVE_SIGHTED_EAST_1
+LANG_ENGLISH        "Enemy tanks to the east!"
+LANG_SPANISH        "¡Tanques enemigos al este!"
+
+REFERENCE           TANKDRIVE_SIGHTED_WEST_1
+LANG_ENGLISH        "Enemy tanks to the west!"
+LANG_SPANISH        "¡Tanques enemigos al oeste!"
+
+REFERENCE           TANKDRIVE_SIGHTED_NORTH_1
+LANG_ENGLISH        "Enemy tanks to the north!"
+LANG_SPANISH        "¡Tanques enemigos al norte!"
+
+REFERENCE           TANKDRIVE_SIGHTED_SOUTH_1
+LANG_ENGLISH        "Enemy tanks to the south!"
+LANG_SPANISH        "¡Tanques enemigos al sur!"
+
+REFERENCE           TANKDRIVE_SIGHTED_STREAM_1
+LANG_ENGLISH        "Enemy tanks across the stream!"
+LANG_SPANISH        "¡Tanques enemigos cruzando el arroyo!"
+
+REFERENCE           TANKDRIVE_SIGHTED_ENEMY_1
+LANG_ENGLISH        "Enemy tank!"
+LANG_SPANISH        "¡Tanque enemigo!"
+
+REFERENCE           TANKDRIVE_SIGHTED_GERMAN_1
+LANG_ENGLISH        "German tank!"
+LANG_SPANISH        "¡Tanque alemán!"
+
+REFERENCE           TANKDRIVE_SIGHTED_PANZER_1
+LANG_ENGLISH        "Panzer tank!"
+LANG_SPANISH        "¡Panzer!"
+
+REFERENCE           TANKDRIVE_SIGHTED_TIGER_1
+LANG_ENGLISH        "Tiger tank!"
+LANG_SPANISH        "¡Tanque Tigre!"
+
+REFERENCE           TANKDRIVE_WRONGWAY_1
+LANG_ENGLISH        "There's no way through there!"
+LANG_SPANISH        "¡Por ahí no se puede pasar!"
+
+REFERENCE           TANKDRIVE_WRONGWAY_4
+LANG_ENGLISH        "Turn it around!"
+LANG_SPANISH        "Da la vuelta."
+
+REFERENCE           TANKDRIVE_WRONGWAY_5
+LANG_ENGLISH        "Turn it! Turn!"
+LANG_SPANISH        "¡Gíralo!¡Gíralo!"
+
+REFERENCE           TANKDRIVE_WRONGWAY_6
+LANG_ENGLISH        "That way is blocked!"
+LANG_SPANISH        "¡Ese camino está bloqueado!"
+
+REFERENCE           TANKDRIVE_WRONGWAY_7
+LANG_ENGLISH        "Where are you going?!"
+LANG_SPANISH        "¿Dónde vas?!"
+
+REFERENCE           TANKDRIVE_WRONGWAY_9
+LANG_ENGLISH        "Hurry up! Get moving!"
+LANG_SPANISH        "¡Deprisa! ¡Moveos!"
+
+REFERENCE           TANKDRIVE_WRONGWAY_10
+LANG_ENGLISH        "Are you blind?!"
+LANG_SPANISH        "¡¿Estás ciego?!"
+
+REFERENCE           TANKDRIVE_WRONGWAY_11
+LANG_ENGLISH        "That way is blocked!"
+LANG_SPANISH        "¡Ese camino está bloqueado!"
+
+REFERENCE           PEGNIGHT_GLIDER1
+LANG_ENGLISH        "No. 3 glider ready for separation - casting off."
+LANG_SPANISH        "Planeador Número 3 listo para separarse, desprendiéndose."
+
+REFERENCE           PEGNIGHT_GLIDER2
+LANG_ENGLISH        "I can't see the Bois de Bavent!"
+LANG_SPANISH        "¡No puedo ver Bois de Bavent!"
+
+REFERENCE           PEGNIGHT_GLIDER3
+LANG_ENGLISH        "Oh, for God's sake Jack, it's the biggest forest in Normandy! Pay attention!"
+LANG_SPANISH        "Por el amor de Dios, Jack, ¡es el mayor bosque de Normandía! ¡Presta atención!"
+
+REFERENCE           PEGNIGHT_GLIDER4
+LANG_ENGLISH        "I am! It's not there!"
+LANG_SPANISH        "¡Lo hago! ¡No está ahí!"
+
+REFERENCE           PEGNIGHT_GLIDER5
+LANG_ENGLISH        "Well, perhaps they moved it. By my calculations, we're on course. You'll want to bank north two degrees at five, four, three, two, one, and bingo."
+LANG_SPANISH        "Bueno, quizás lo han movido. Según mis cálculos, seguimos el rumbo. Tendrás que girar al norte dos grados en 5, 4, 3, 2, 1 bingo."
+
+REFERENCE           PEGNIGHT_GLIDER6
+LANG_ENGLISH        "Two degrees starboard onto course."
+LANG_SPANISH        "Dos grados a estribor, siguiendo el curso."
+
+REFERENCE           PEGNIGHT_GLIDER7
+LANG_ENGLISH        "All right everyone, brace for landing!"
+LANG_SPANISH        "¡De acuerdo, todos listos para el aterrizaje!"
+
+REFERENCE           PEGNIGHT_GLIDER8
+LANG_ENGLISH        "Stream!"
+LANG_SPANISH        "¡Saltad!"
+
+REFERENCE           PEGNIGHT_GLIDER9
+LANG_ENGLISH        "Jettison the chute!"
+LANG_SPANISH        "¡Soltad el paracaídas!"
+
+REFERENCE           PEGNIGHT_CRASH1
+LANG_ENGLISH        "Bloody hard landing, eh?"
+LANG_SPANISH        "Un aterrizaje duro, ¿eh?"
+
+REFERENCE           PEGNIGHT_CRASH2
+LANG_ENGLISH        "Is everyone all right? Mills!"
+LANG_SPANISH        "¿Se encuentra bien todo el mundo? ¿Mills?"
+
+REFERENCE           PEGNIGHT_CRASH3
+LANG_ENGLISH        "Yeah I'm fine, just great."
+LANG_SPANISH        "Sí, estoy bien, genial."
+
+REFERENCE           PEGNIGHT_CRASH4
+LANG_ENGLISH        "Button up! Let's go! Let's go!"
+LANG_SPANISH        "¡Levantad el culo! ¡Vamos! ¡Vamos!"
+
+REFERENCE           PEGNIGHT_CRASH5
+LANG_ENGLISH        "Move, move, move! Come on!"
+LANG_SPANISH        "¡Moveos, moveos, moveos! ¡Vamos!"
+
+REFERENCE           PEGNIGHT_PRICE1
+LANG_ENGLISH        "Sergeant Evans, glad you're still with us -- we're in luck. The Germans haven't responded to our stellar landing."
+LANG_SPANISH        "Sargento Evans, me alegro de que siga con nosotros; estamos de suerte, los alemanes no han respondido a nuestro aterrizaje estelar."
+
+REFERENCE           PEGNIGHT_PRICE2
+LANG_ENGLISH        "Find a good spot to suppress their bunker. We'll advance behind your base of fire."
+LANG_SPANISH        "Encontrad un buen punto desde el que eliminar su búnker. Avanzaremos detrás de vuestra base de fuego."
+
+REFERENCE           PEGNIGHT_PRICE3
+LANG_ENGLISH        "SUPPRESSING FIRE!"
+LANG_SPANISH        "¡FUEGO DE CONTENCIÓN!"
+
+REFERENCE           PEGNIGHT_PRICE4
+LANG_ENGLISH        "Sergeant Evans! Suppress that bunker! Keep their heads down!"
+LANG_SPANISH        "¡Sargento Evans! ¡Elimine ese búnker! ¡Mantened sus cabezas agachadas!"
+
+REFERENCE           PEGNIGHT_PRICE5
+LANG_ENGLISH        "Panzer! Take cover!"
+LANG_SPANISH        "¡Panzer! ¡Cubríos!"
+
+REFERENCE           PEGNIGHT_PRICE6
+LANG_ENGLISH        "Sergeant! Go back across! Get to their Flak gun and turn it on that tank! Find Private Mills and take him with you! Get him to free up the bloody thing!"
+LANG_SPANISH        "¡Sargento! ¡Retroceda hasta su arma antiaérea y úsela contra ese tanque! ¡Encuentre al soldado Mills y llévele con usted! ¡Que le ayude a hacerse con ella!"
+
+REFERENCE           PEGNIGHT_MILLS1
+LANG_ENGLISH        "No problem, I'll get it working! Follow me!"
+LANG_SPANISH        "Sin problemas,¡haré que funcione! ¡Seguidme!"
+
+REFERENCE           PEGNIGHT_MILLS2
+LANG_ENGLISH        "That ought to do it, Sarge! Try it now!"
+LANG_SPANISH        "¡Deberíafuncionar, sargento! ¡Pruebe ahora!"
+
+REFERENCE           PEGNIGHT_MILLS3
+LANG_ENGLISH        "That did it!"
+LANG_SPANISH        "¡Lo hizo!"
+
+REFERENCE           PEGNIGHT_MILLS4
+LANG_ENGLISH        "Nice shot, Sergeant!"
+LANG_SPANISH        "¡Buen tiro, sargento!"
+
+REFERENCE           PEGNIGHT_MILLS5
+LANG_ENGLISH        "Check those trenches!"
+LANG_SPANISH        "¡Comprobad aquellas trincheras!"
+
+REFERENCE           PEGNIGHT_MILLS6
+LANG_ENGLISH        "Bridge clear!"
+LANG_SPANISH        "¡Puente despejado!"
+
+REFERENCE           PEGNIGHT_VICTORY1
+LANG_ENGLISH        "They're pulling back!"
+LANG_SPANISH        "¡Retroceden!"
+
+REFERENCE           PEGNIGHT_VICTORY2
+LANG_ENGLISH        "Ham and jam! Bridge secured!"
+LANG_SPANISH        "¡Todo bajo control! ¡Puente asegurado!"
+
+REFERENCE           PEGNIGHT_VICTORY3
+LANG_ENGLISH        "All clear!"
+LANG_SPANISH        "¡Todo despejado!"
+
+REFERENCE           PEGNIGHT_VICTORY5
+LANG_ENGLISH        "Clear over here!"
+LANG_SPANISH        "¡Aquí despejado!"
+
+REFERENCE           PEGDAY_INTRO1
+LANG_ENGLISH        "Captain, we salvaged the area. Apart from some medical supplies, all we found were a couple of rifles and several Panzerfausts, which are woefully inaccurate."
+LANG_SPANISH        "Capitán, hemos registrado la zona. Aparte de algunos suministros médicos, solo hemos encontrado un par de rifles y varios Panzerfausts, totalmente imprecisos."
+
+REFERENCE           PEGDAY_INTRO2
+LANG_ENGLISH        "Thank God we still have that flak gun. We can use it to hold the bridge until our relief shows up."
+LANG_SPANISH        "Gracias a Dios que aún tenemos el arma antiaérea. La usaremos para mantener el puente hasta que llegue el relevo."
+
+REFERENCE           PEGDAY_INTRO3
+LANG_ENGLISH        "INCOMING!!"
+LANG_SPANISH        "¡¡ATENCIÓN!!"
+
+REFERENCE           PEGDAY_INTRO4
+LANG_ENGLISH        "TAKE COVER!!"
+LANG_SPANISH        "¡¡CUBRÍOS!!"
+
+REFERENCE           PEGDAY_INTRO5
+LANG_ENGLISH        "Everyone, take cover!"
+LANG_SPANISH        "¡Todo el mundo, cubríos!"
+
+REFERENCE           PEGDAY_INTRO6
+LANG_ENGLISH        "Come on, get out of there -- you! Move!"
+LANG_SPANISH        "Venid, salid de ahí! ¡Vosotros, moveos!"
+
+REFERENCE           PEGDAY_INTRO7
+LANG_ENGLISH        "Infantry, coming in from the west!"
+LANG_SPANISH        "¡Infantería, se acerca por el oeste!"
+
+REFERENCE           PEGDAY_INTRO8
+LANG_ENGLISH        "Bloody hell, watch the right flank!"
+LANG_SPANISH        "Maldito infierno, ¡vigilad el flanco derecho!"
+
+REFERENCE           PEGDAY_INTRO9
+LANG_ENGLISH        "Hold this position, men!  Fall back to the bridge on my command!"
+LANG_SPANISH        "¡Mantened la posición, muchachos!  ¡Volved al puente a mi orden!"
+
+REFERENCE           PEGDAY_RETREAT1
+LANG_ENGLISH        "Regroup, men! Back to the bridge! Fall back to the bridge! Let's go!"
+LANG_SPANISH        "¡Reagrupaos, muchachos. ¡Retiraos al puente! ¡Vamos!"
+
+REFERENCE           PEGDAY_RETREAT2
+LANG_ENGLISH        "Fall back across the bridge! Sergeant Evans! Get back to the machine gun and cover us!"
+LANG_SPANISH        "¡Retirada por el puente!  ¡Sargento Evans! ¡Vuelva a la ametralladora y cúbranos!"
+
+REFERENCE           PEGDAY_TANK_SOUTHWEST1
+LANG_ENGLISH        "Tank, southwest - across the canal! Sergeant Evans, take it out!"
+LANG_SPANISH        "¡Tanque al sureste, al otro lado del canal! Sargento Evans, ¡elimínelo!"
+
+REFERENCE           PEGDAY_TANK_SOUTHWEST2
+LANG_ENGLISH        "There's another tank! Southwest!"
+LANG_SPANISH        "¡Hay otro tanque! ¡Al sureste!"
+
+REFERENCE           PEGDAY_TANK_SOUTHEAST1
+LANG_ENGLISH        "Evans! Destroy that tank to the south!"
+LANG_SPANISH        "¡Evans! ¡Destruya ese tanque en el sur!"
+
+REFERENCE           PEGDAY_TANK_SOUTHEAST2
+LANG_ENGLISH        "Enemy tank on the southeast road!"
+LANG_SPANISH        "¡Tanque enemigo en la carretera del sureste!"
+
+REFERENCE           PEGDAY_TANK_NORTHEAST1
+LANG_ENGLISH        "Tank, northeast! Keep your eyes open Evans!"
+LANG_SPANISH        "Tanque al noreste! ¡Mantenga los ojos abiertos, Evans!"
+
+REFERENCE           PEGDAY_TANK_NORTHEAST2
+LANG_ENGLISH        "Northeast again! Another tank!"
+LANG_SPANISH        "¡Al noreste de nuevo! ¡Otro tanque!"
+
+REFERENCE           PEGDAY_TANK_NORTHEAST3
+LANG_ENGLISH        "Enemy tank! Moving in from the north!"
+LANG_SPANISH        "Tanque enemigo! ¡Moviéndose al norte!"
+
+REFERENCE           PEGDAY_VICTORY1
+LANG_ENGLISH        "Gentlemen, we have friendlies coming in from the west! Make sure of your targets! Watch your fire!"
+LANG_SPANISH        "Caballeros, ¡tenemos amigos que vienen del oeste! Aseguren sus objetivos. ¡Vigilen su fuego!"
+
+REFERENCE           PEGDAY_VICTORY2
+LANG_ENGLISH        "I believe that's the last of them.  Excellent work, lads, bloody well done!"
+LANG_SPANISH        "Creo que ese era el último. Excelente trabajo, soldados, ¡jodidamente bien hecho!"
+
+REFERENCE           PH_PAVLOV1
+LANG_ENGLISH        "Stay in the ditch and keep your head down! They've got snipers out there!"
+LANG_SPANISH        "¡Permaneced en la zanja y agachad la cabeza! ¡Hay francotiradores ahí fuera!"
+
+REFERENCE           PH_PAVLOV2
+LANG_ENGLISH        "Private Kovalenko, as the fastest man here, you will be the bait."
+LANG_SPANISH        "Soldado Kovalenko, como es el más rápido de los presentes, ¡será el cebo!"
+
+REFERENCE           PH_PAVLOV3
+LANG_ENGLISH        "Me? No thank you, comrade!"
+LANG_SPANISH        "¿Yo? ¡No gracias, camarada!"
+
+REFERENCE           PH_PAVLOV4
+LANG_ENGLISH        "That is an order! Alexei will cover you with the sniper rifle from here. Now go, before I shoot you myself!"
+LANG_SPANISH        "Es una orden. Alexei os cubrirá desde aquí con un rifle de francotirador. Ahora vete, antes de que te dispare yo mismo."
+
+REFERENCE           PH_PAVLOV5
+LANG_ENGLISH        "Snipers in the windows! Take them out!"
+LANG_SPANISH        "Francotiradores en las ventanas -¡eliminadlos!"
+
+REFERENCE           PH_PAVLOV6
+LANG_ENGLISH        "They've got us zeroed in! We're all dead if we stay here! Let's go comrades! Go! Get moving! All of you, go!"
+LANG_SPANISH        "¡Nos tienen atrapados! ¡Moriremos si nos quedamos! ¡Vamos camaradas! ¡No os paréis moveos!"
+
+REFERENCE           PH_PAVLOV7
+LANG_ENGLISH        "Secure the building! Clear it out, floor by floor!"
+LANG_SPANISH        "¡Asegurad el edificio! ¡Despejadlo, piso a piso!"
+
+REFERENCE           PH_PAVLOV_BASEMENT
+LANG_ENGLISH        "Basement all clear!"
+LANG_SPANISH        "¡Sotano despejado!"
+
+REFERENCE           PH_PAVLOV_FIRSTFLOOR
+LANG_ENGLISH        "First floor clear!"
+LANG_SPANISH        "¡Primer piso despejado!"
+
+REFERENCE           PH_PAVLOV_SECONDFLOOR
+LANG_ENGLISH        "Second floor is clear!"
+LANG_SPANISH        "¡Segundo piso despejado!"
+
+REFERENCE           PH_PAVLOV_THIRDFLOOR
+LANG_ENGLISH        "Clear on third floor!"
+LANG_SPANISH        "¡Tercer piso despejado!"
+
+REFERENCE           PH_PAVLOV_FOURTHFLOOR
+LANG_ENGLISH        "Fourth floor is secure!"
+LANG_SPANISH        "¡Cuarto piso despejado!"
+
+REFERENCE           PH_PAVLOV_TOPFLOOR
+LANG_ENGLISH        "Top floor is clear!"
+LANG_SPANISH        "¡Techo despejado!"
+
+REFERENCE           PH_PAVLOV_LOOKING1
+LANG_ENGLISH        "Alexei, the Sergeant's looking for you!"
+LANG_SPANISH        "¡Alexei, el sargento te busca!"
+
+REFERENCE           PH_PAVLOV_LOOKING2
+LANG_ENGLISH        "Comrade! Regroup with the Sergeant on the fourth floor!"
+LANG_SPANISH        "¡Camarada! ¡Reúnase con el sargento en el cuarto piso!"
+
+REFERENCE           PH_PAVLOV_DEFEND1
+LANG_ENGLISH        "Comrade Alexei, we've got those anti-tank rifles on the second and third floor! You take out the tanks - we'll stop the troops!"
+LANG_SPANISH        "Camarada Alexei, tenemos esos rifles antitanque en los pisos segundo y tercero! Acabe con los tanques. ¡Nosotros nos encargaremos de las tropas!"
+
+REFERENCE           PH_PAVLOV_DEFEND2
+LANG_ENGLISH        "Here they come! Ready on the anti-tank rifles!"
+LANG_SPANISH        "¡Aquí vienen! ¡Preparad los rifles antitanque!"
+
+REFERENCE           PH_PAVLOV_DEFEND3
+LANG_ENGLISH        "Anti-tank rifles ready!"
+LANG_SPANISH        "¡Rifles antitanque listos!"
+
+REFERENCE           PH_PAVLOV_DEFEND4
+LANG_ENGLISH        "Machine guns!!"
+LANG_SPANISH        "¡¡Ametralladoras!!"
+
+REFERENCE           PH_PAVLOV_DEFEND5
+LANG_ENGLISH        "Machine guns ready!"
+LANG_SPANISH        "¡Ametralladoras listas!"
+
+REFERENCE           PH_PAVLOV_DEFEND6
+LANG_ENGLISH        "Get ready, comrades!!"
+LANG_SPANISH        "¡¡Preparaos, camaradas!!"
+
+REFERENCE           PH_PAVLOV_DEFEND7
+LANG_ENGLISH        "Hold this position!"
+LANG_SPANISH        "¡Mantened la posición!"
+
+REFERENCE           REDSQUARE_CLEVER1
+LANG_ENGLISH        "Listen, comrade! We're both dead men, whether we stay here, or go back! Let's you and I find a way to flank them!"
+LANG_SPANISH        "¡Escuchad, camaradas! ¡Somos ambos hombres muertos, tanto si nos quedemos como si volvemos! ¡Encontremos un modo de flanquearles!"
+
+REFERENCE           REDSQUARE_CLEVER2
+LANG_ENGLISH        "Alexei, over there!"
+LANG_SPANISH        "Alexei, por aquí!"
+
+REFERENCE           REDSQUARE_CLEVER3
+LANG_ENGLISH        "Take down the officers first! They're calling in reinforcements!"
+LANG_SPANISH        "¡Eliminad primero a los oficiales! ¡Están pidiendo refuerzos!"
+
+REFERENCE           REDSQUARE_CLEVER4
+LANG_ENGLISH        "Get word to Major Zubov that we've retaken Red Square. You'll report to him from here on out."
+LANG_SPANISH        "Avisad al mayor Zubov. Hemos recapturado la Plaza Roja. Le informarás a él directamente de aquí en adelante."
+
+REFERENCE           REDSQUARE_COMMISSAR1_01
+LANG_ENGLISH        "Turn around! Keep going forward!"
+LANG_SPANISH        "¡Daos la vuelta! ¡Seguid avanzando!"
+
+REFERENCE           REDSQUARE_COMMISSAR2_02
+LANG_ENGLISH        "No retreat! Not one step back!"
+LANG_SPANISH        "¡No os retiréis, no retrocedáis ni un paso!"
+
+REFERENCE           REDSQUARE_COMMISSAR2_03
+LANG_ENGLISH        "No mercy for cowards!"
+LANG_SPANISH        "¡No hay piedad para los cobardes!"
+
+REFERENCE           REDSQUARE_COMMISSAR1_04
+LANG_ENGLISH        "Open fire!"
+LANG_SPANISH        "¡Abrid fuego!"
+
+REFERENCE           REDSQUARE_COMMISSAR2_05
+LANG_ENGLISH        "No mercy for deserters!"
+LANG_SPANISH        "¡No hay piedad para los desertores!"
+
+REFERENCE           REDSQUARE_COMMISSAR1_06
+LANG_ENGLISH        "FIRE!"
+LANG_SPANISH        "¡FUEGO!"
+
+REFERENCE           REDSQUARE_COMMISSAR1_07
+LANG_ENGLISH        "Traitors!"
+LANG_SPANISH        "¡Traidores!"
+
+REFERENCE           REDSQUARE_COMMISSAR3_08
+LANG_ENGLISH        "Pick up your gun and shoot!"
+LANG_SPANISH        "¡Coged vuestras armas y disparad!"
+
+REFERENCE           REDSQUARE_COMMISSAR3_09
+LANG_ENGLISH        "No hesitation comrades! Do not take one step backwards!"
+LANG_SPANISH        "No dudéis, camaradas, ¡no retrocedáis ni un paso!"
+
+REFERENCE           REDSQUARE_COMMISSAR1_10
+LANG_ENGLISH        "Come on, come on, come on!"
+LANG_SPANISH        "¡Vamos, vamos, vamos!"
+
+REFERENCE           REDSQUARE_COMMISSAR1_11
+LANG_ENGLISH        "For Mother Russia comrades! Do not turn your back on her!"
+LANG_SPANISH        "¡Por la Madre Rusia, camaradas! ¡No le deis la espalda!"
+
+REFERENCE           REDSQUARE_COMMISSAR2_12
+LANG_ENGLISH        "Victory or death!!"
+LANG_SPANISH        "¡¡Victoria o muerte!!"
+
+REFERENCE           REDSQUARE_COMM_DEFEND_1
+LANG_ENGLISH        "Stop those traitors!"
+LANG_SPANISH        "¡Parad a esos traidores!"
+
+REFERENCE           REDSQUARE_COMM_DEFEND_2
+LANG_ENGLISH        "Traitor!"
+LANG_SPANISH        "¡Traidor!"
+
+REFERENCE           REDSQUARE_COMM_DEFEND_3
+LANG_ENGLISH        "Traitor! Traitor!"
+LANG_SPANISH        "¡Traidor! ¡Traidor!"
+
+REFERENCE           REDSQUARE_COMM_DEFEND_4
+LANG_ENGLISH        "Kill him! Death to traitors!"
+LANG_SPANISH        "¡Matadlo! ¡Muerte a los traidores!"
+
+REFERENCE           REDSQUARE_COMM_DEFEND_5
+LANG_ENGLISH        "Do not retreat! Cowards and traitors will be shot!!"
+LANG_SPANISH        "¡No os retiréis! ¡¡Se disparará a los cobardes y a los traidores!!"
+
+REFERENCE           REDSQUARE_COMM_DEFEND_12
+LANG_ENGLISH        "Fire!!"
+LANG_SPANISH        "¡¡Fuego!!"
+
+REFERENCE           REDSQUARE_COMM_DEFEND_13
+LANG_ENGLISH        "Kill the deserters! Open fire!"
+LANG_SPANISH        "¡Matad a los desertores! ¡Abran fuego!"
+
+REFERENCE           REDSQUARE_CONSCRIPT_INTRO1
+LANG_ENGLISH        "It's no use! Fall back, comrades! Fall back!"
+LANG_SPANISH        "No sirve. ¡Retirada, camaradas! ¡Retirada!"
+
+REFERENCE           REDSQUARE_CONSCRIPT_INTRO2
+LANG_ENGLISH        "Retreat! Retreat!"
+LANG_SPANISH        "¡Retirada! ¡Retirada!"
+
+REFERENCE           REDSQUARE_CONSCRIPT_INTRO3
+LANG_ENGLISH        "We're getting slaughtered up there! Fall back!"
+LANG_SPANISH        "¡Nos están masacrando! ¡Retirada!"
+
+REFERENCE           STALINGRAD_BOAT01
+LANG_ENGLISH        "Comrades! This day will be the proudest day you have ever lived! You will fight the fascist Nazi invaders with all your strength! For each and every fallen Soviet soldier, you will make them pay with ten of theirs! There will be no mercy for defeatists, cowards, or traitors! Anyone caught deserting his post will be shot!"
+LANG_SPANISH        "Camaradas, este día será el que os sentiréis más orgullosos de haber vivido. Combatiréis contra los invasores fascistas nazis con todas vuestras fuerzas. Por cada soldado soviético que caiga, se lo haréis pagar con diez de los suyos. No habrá piedad para los derrotistas, cobardes y traidores. Cualquiera que sea sorprendido desertando de su puesto, ¡será fusilado! "
+
+REFERENCE           STALINGRAD_BOAT02A
+LANG_ENGLISH        "Remember great Comrade Stalin's order - not one step backwards! You will be well equipped for the battles that lie ahead. You will have food, water, weapons, and plenty of ammunition! What do you suppose the Germans have?"
+LANG_SPANISH        "Recordad la orden del gran camarada Stalin: ni un paso atrás. Estaréis bien equipados para las batallas que os esperan. Tendréis comida, agua, armas y gran cantidad de munición. ¿Qué creéis que tienen los alemanes? "
+
+REFERENCE           STALINGRAD_BOAT02B
+LANG_ENGLISH        "Nothing! Their supply lines are stretched too thin! Their dash to the Volga has left them without the means to bring us a proper fight! With our superior strength in numbers, and our boundless courage, victory is ours! We shall stop the fascist invaders there - at Stalingrad!"
+LANG_SPANISH        "¡Nada! Sus líneas de suministros se han estirado demasiado. Su carrera hacia el Volga les ha dejado sin los medios adecuados para sostener una lucha adecuada. Con nuestra fuerza superior y nuestro número, así como con nuestro coraje sin límites, ¡la victoria es nuestra! ¡Pararemos a los invasores fascistas, allí, en Stalingrado!"
+
+REFERENCE           STALINGRAD_LOOKOUT
+LANG_ENGLISH        "Look out!"
+LANG_SPANISH        "¡Cuidado!"
+
+REFERENCE           STALINGRAD_COMINGBACK
+LANG_ENGLISH        "They're coming back!"
+LANG_SPANISH        "¡Vuelven!"
+
+REFERENCE           STALINGRAD_ABANDONSHIP
+LANG_ENGLISH        "We must get out of here! Abandon ship!!!"
+LANG_SPANISH        "¡Debemos salir de aquí! ¡¡¡Abandonen el barco!!!"
+
+REFERENCE           STALINGRAD_COM1_LINE40
+LANG_ENGLISH        "Traitor!!"
+LANG_SPANISH        "¡¡Traidor!!"
+
+REFERENCE           STALINGRAD_COM3_LINE28
+LANG_ENGLISH        "No retreat! Kill them! Kill the deserters!"
+LANG_SPANISH        "¡Sin retirada! ¡Matadles, matad a los desertores!"
+
+REFERENCE           STALINGRAD_COM1_LINE26
+LANG_ENGLISH        "Traitor! Traitor!"
+LANG_SPANISH        "¡Traidor! ¡Traidor!"
+
+REFERENCE           STALINGRAD_COM1_LINE29
+LANG_ENGLISH        "Stop those traitors!"
+LANG_SPANISH        "¡Parad a esos traidores!"
+
+REFERENCE           STALINGRAD_COM4_LINE27
+LANG_ENGLISH        "No mercy for deserters! No mercy!!"
+LANG_SPANISH        "¡¡No hay piedad para los desertores!!"
+
+REFERENCE           STALINGRAD_COM3_LINE33
+LANG_ENGLISH        "Let's go comrades, out of the boat!"
+LANG_SPANISH        "Vamos, camaradas, ¡salid del bote!"
+
+REFERENCE           STALINGRAD_COM1_LINE31
+LANG_ENGLISH        "Everyone out of the boat!"
+LANG_SPANISH        "¡Todo el mundo fuera del bote!"
+
+REFERENCE           STALINGRAD_COM1_LINE34
+LANG_ENGLISH        "What are you waiting for? Get off the boat!"
+LANG_SPANISH        "¿Qué estáis esperando? ¡Salid del bote!"
+
+REFERENCE           STALINGRAD_COM2_LINE51
+LANG_ENGLISH        "Move, damn you, move! Don't fall back!"
+LANG_SPANISH        "¡Moveos, maldita sea, moveos! ¡No retrocedáis!"
+
+REFERENCE           STALINGRAD_COM4_LINE32
+LANG_ENGLISH        "I won't ask you again, comrade! Get out of the boat!"
+LANG_SPANISH        "¡No te lo volveré a pedir, camarada! ¡Fuera del bote!"
+
+REFERENCE           STALINGRAD_CAPTAIN_LINE57
+LANG_ENGLISH        "Where is my artillery support, Major? How long is that going to take? I am losing too many men up here! Are you trying to lose the docks? I told you already, you idiot! The Germans are breaking through to the riverbank! We need artillery support now!!!"
+LANG_SPANISH        "¿¡Dónde está mi soporte de artillería, mayor!? ¡¿Cuánto le va a llevar!? ¡Estoy perdiendo demasiados hombres aquí! ¿Pretende perder los puertos? Ya se lo dije, ¡idiota! Los alemanes están irrumpiendo por la ribera. Necesitamos soporte de artillería, ¡ahora!"
+
+REFERENCE           STALINGRAD_CAPTAIN_LINE58
+LANG_ENGLISH        "Get me Colonel Petrenko, Major!"
+LANG_SPANISH        "¡Póngame con el coronel Pertranko, mayor!"
+
+REFERENCE           STALINGRAD_CAPTAIN_LINE59
+LANG_ENGLISH        "That damn Stuka is coming back for another run! Open fire!!"
+LANG_SPANISH        "Ese maldito Stuka está regresando para hacer otra pasada. ¡Abran fuego!"
+
+REFERENCE           STALINGRAD_SNIPER_LINE60
+LANG_ENGLISH        "Comrade! I can't get a clear shot at those machine gunners up there! I need you to draw their fire for me! You see that truck over there? Wait for them to reload, then run for it and don't stop! On my signal - ready..."
+LANG_SPANISH        "Camarada, no tengo una línea de visión clara de esos artilleros de allí. Necesito que atraiga su fuego. ¿Ve ese camión de allí? Espere a que recarguen y entonces corra hacia él sin detenerse por nada. A mi señal... Preparado..."
+
+REFERENCE           STALINGRAD_SNIPER_LINE61
+LANG_ENGLISH        "Okay! Go, go, go!"
+LANG_SPANISH        "Muy bien, ¡corra! ¡Corra!"
+
+REFERENCE           STALINGRAD_SNIPER_LINE62
+LANG_ENGLISH        "Okay comrade, same thing!  You go first!  Let's head for that wrecked car over there!  Wait for them to change out their barrels! Ready..."
+LANG_SPANISH        "Muy bien, camarada; lo mismo, vas el primero. Vamos a ese coche destruido que se ve allí. Espera a que tengan que recargar sus cañones. ¿Listo?"
+
+REFERENCE           STALINGRAD_SNIPER_LINE63
+LANG_ENGLISH        "Okay! Go, go!"
+LANG_SPANISH        "¡De acuerdo, vamos!"
+
+REFERENCE           STALINGRAD_SNIPER_LINE64
+LANG_ENGLISH        "Well, my friend, you are either very lucky, or you have a small head!  We'll be safer in that building down there!  Don't worry about that commissar, I'll take care of him! Ready..."
+LANG_SPANISH        "Vaya amigo, o tienes mucha suerte o una cabeza muy pequeña. Estaremos más seguros en ese edificio de ahí. No te preocupes por ese comisario. Yo me ocuparé de él, ¿Listo?"
+
+REFERENCE           STALINGRAD_SNIPER_LINE67
+LANG_ENGLISH        "Get us some artillery support Sergeant! I am almost out of ammunition! We are going to lose the docks!"
+LANG_SPANISH        "Consíganos algo de soporte artillero, sargento, estoy casi sin munición. ¡Vamos a perder los muelles!"
+
+REFERENCE           SPOTTER_LINE66
+LANG_ENGLISH        "What the hell do you mean, 'approved coordinates'?? Are you all blind over there? No!! Of course I don't have any paperwork, you idiot!"
+LANG_SPANISH        "¿Qué demonios quieren decir con lo de coordenadas confirmadas? ¿Están ahí todos ciegos? No, por supuesto que no tengo tiempo para ningún papeleo, ¡idiota!"
+
+REFERENCE           SPOTTER_LINE68
+LANG_ENGLISH        "What the hell do you think I am trying to do, comrade?"
+LANG_SPANISH        "¿Qué demonios piensa que estoy intentando hacer, camarada?"
+
+REFERENCE           SPOTTER_LINE69
+LANG_ENGLISH        "What? Repeat your last message! I can barely hear you, Major! Speak up! Artillery...is...in...position! About damn time! "
+LANG_SPANISH        "¿Qué? Repita su último mensaje. Apenas puedo oírle, mayor. ¡Hable más alto! La artillería está... en... posición. ¡En buena hora! "
+
+REFERENCE           SPOTTER_LINE70
+LANG_ENGLISH        "I want a full barrage along the top of the riverbank, immediately! Smash those fascist bastards! Fire at will!"
+LANG_SPANISH        "Quiero una barrera de artillería en lo alto de la ribera del río inmediatamente. ¡Aplastad a esos fascistas! ¡Fuego a discreción!"
+
+REFERENCE           SPOTTER_LINE71
+LANG_ENGLISH        "Everyone, get your heads down!"
+LANG_SPANISH        "¡Agachad todos la cabeza!"
+
+REFERENCE           STALINGRAD_LEADCONS_LINE72
+LANG_ENGLISH        "The Germans are pulling back! Come on comrades, we're retaking Red Square!!"
+LANG_SPANISH        "¡Los alemanes se retiran! Vamos, camaradas, ¡estamos retomando la Plaza Roja!"
+
+REFERENCE           US_INTROBRIEF_1
+LANG_ENGLISH        "Baker Company, listen up."
+LANG_SPANISH        "Compañía Baker, atención."
+
+REFERENCE           US_INTROBRIEF_2
+LANG_ENGLISH        "This is the big one."
+LANG_SPANISH        "Esta es la importante."
+
+REFERENCE           US_INTROBRIEF_3
+LANG_ENGLISH        "Operation Overlord.  The air and sea borne invasion of Normandy."
+LANG_SPANISH        "La Operación Overlord, la invasión por aire y mar de Normandía."
+
+REFERENCE           US_INTROBRIEF_4
+LANG_ENGLISH        "On H-hour, D-Day, sea borne infantry will attack five beaches codenamed Utah, Omaha, Gold, Juno, and Sword, here on the coast of Normandy."
+LANG_SPANISH        "En la Hora H del Día D, unidades de infantería transportada atacarán cinco playas, nombre en código Utah, Omaha, Gold, Juno y Sword, aquí, en la costa de Normandía."
+
+REFERENCE           US_INTROBRIEF_5
+LANG_ENGLISH        "Utah and Omaha beaches will be attacked by three of our infantry divisions."
+LANG_SPANISH        "Las playas Utah y Omaha serán atacadas por tres de nuestras divisiones de infantería."
+
+REFERENCE           US_INTROBRIEF_6
+LANG_ENGLISH        "At the same time, two British and one Canadian division will hit Gold, Juno, and Sword beaches."
+LANG_SPANISH        "Al mismo tiempo, dos divisiones británicas y una canadiense atacarán las playas Juno, Gold y Sword."
+
+REFERENCE           US_INTROBRIEF_7
+LANG_ENGLISH        "The airborne will be landing six hours before H-Hour, before the air and naval bombardments."
+LANG_SPANISH        "Las aerotransportadas aterrizarán 6 horas antes de la Hora H. Antes de los bombardeos aéreos y navales."
+
+REFERENCE           US_INTROBRIEF_8
+LANG_ENGLISH        "Yes, Private?"
+LANG_SPANISH        "¿Sí, soldado?"
+
+REFERENCE           US_INTROBRIEF_9
+LANG_ENGLISH        "The time and date will be specified later."
+LANG_SPANISH        "La hora y la fecha se especificarán más adelante."
+
+REFERENCE           US_INTROBRIEF_10
+LANG_ENGLISH        "The British 6th Airborne division will be landing here.  At the same time the 101st and the 82nd Airborne will be landing in these areas."
+LANG_SPANISH        "La 6ª División británica aerotransportada aterrizará aquí, al tiempo que el 101 y el 82 lo hacen en estas zonas."
+
+REFERENCE           US_INTROBRIEF_11
+LANG_ENGLISH        "The Douze River estuary, here, divides Utah and Omaha beach."
+LANG_SPANISH        "El estuario del río Douze, aquí, divide las playas de Utah y Omaha."
+
+REFERENCE           US_INTROBRIEF_12
+LANG_ENGLISH        "The mission of the 101st is to capture the Douze River crossings, linking Utah and Omaha beach, and to protect the flanks of Utah beach."
+LANG_SPANISH        "La misión del 101 es capturar el paso del río Douze que une las playas Utah y Omaha y proteger los flancos de la playa Utah."
+
+REFERENCE           US_INTROBRIEF_13
+LANG_ENGLISH        "This road here is the main highway that connects the entire Cotentin peninsula."
+LANG_SPANISH        "Esta carretera de aquí es la vía principal que conecta a toda la península de Cotenin."
+
+REFERENCE           US_INTROBRIEF_14
+LANG_ENGLISH        "The Germans have troop concentrations in this region.  When those troops are mobilized into a counter-attack on the beaches, they'll have to move along this road."
+LANG_SPANISH        "Los alemanes tienen tropas concentradas en esta región. Cuando esas tropas se movilicen para contraatacar en las playas, tendrán que desplazarse por esta carretera."
+
+REFERENCE           US_INTROBRIEF_15
+LANG_ENGLISH        "The 101st is going to make sure that doesn't happen."
+LANG_SPANISH        "El 101 se asegurará de que eso no pase."
+
+REFERENCE           US_INTROBRIEF_16
+LANG_ENGLISH        "Baker Company, that's us, has been assigned this causeway here."
+LANG_SPANISH        "La compañía Baker, o sea nosotros, ha sido asignada a esta carretera, aquí.""
+
+REFERENCE           US_INTROBRIEF_17
+LANG_ENGLISH        "The pathfinders, like Private Martin, will be dropped ahead of the main force and will plant beacons on the ground to mark the landing zones."
+LANG_SPANISH        "Los exploradores, como Martin, saltarán antes que la fuerza principal y colocarán balizas en el suelo para marcar las zonas de aterrizaje."
+
+REFERENCE           US_INTROBRIEF_18
+LANG_ENGLISH        "However, there is no telling what will happen once we're on the ground.  So I want all of you to learn the objectives of every unit in both the 101st and 82nd."
+LANG_SPANISH        "Sin embargo, ni qué decir tiene lo que ocurrirá una vez nos encontremos en el suelo, por lo que quiero que todos sepan los objetivos de cada unidad, tanto del 101 como del 82."
+
+REFERENCE           US_INTROBRIEF_19
+LANG_ENGLISH        "I also want you to study these maps and photographs until you've memorized them."
+LANG_SPANISH        "También quiero que estudien estos mapas y fotografías hasta que los hayan memorizado."
+
+REFERENCE           US_INTROBRIEF_20
+LANG_ENGLISH        "We will be landing behind the Atlantic Wall, between several German garrisons.  We can't expect to be relieved until at least several hours after H-Hour."
+LANG_SPANISH        "Aterrizaremos detrás del Muro del Atlántico, en medio de varias guarniciones alemanas. No podremos esperar ser relevados hasta al menos varías horas después de la Hora H."
+
+REFERENCE           US_INTROBRIEF_21
+LANG_ENGLISH        "This is what we've been training for."
+LANG_SPANISH        "Para esto se nos ha entrenado."
+
+REFERENCE           US_INTROBRIEF_22
+LANG_ENGLISH        "Good luck."
+LANG_SPANISH        "Buena suerte."
+
+REFERENCE           US_MIDBRIEF_1
+LANG_ENGLISH        "First platoon, listen up!  Sgt. Moody owes me fifty bucks 'cause it looks like Operation Overlord was a success."
+LANG_SPANISH        "Primer Pelotón, atención. El sargento Moody me debe 50 pavos porque parece que la Operación Overlord ha sido un éxito."
+
+REFERENCE           US_MIDBRIEF_2
+LANG_ENGLISH        "Our British and Canadian friends took most of their objectives."
+LANG_SPANISH        "Británicos y canadienses han tomado la mayoría de sus objetivos."
+
+REFERENCE           US_MIDBRIEF_3
+LANG_ENGLISH        "And except for Omaha, all the beach landings went pretty smoothly."
+LANG_SPANISH        "Y exceptuando Omaha, todos los desembarcos en las playas se han desarrollado sin problemas."
+
+REFERENCE           US_MIDBRIEF_4
+LANG_ENGLISH        "The airborne was miss dropped everywhere but the men formed mixed units and accomplished most of the airborne D-Day objectives."
+LANG_SPANISH        "Los hombres formaron unidades mixtas y lograron cumplir la mayoría de los objetivos que tenían previstos para el Día D."
+
+REFERENCE           US_MIDBRIEF_5
+LANG_ENGLISH        "I am extremely proud of all of you."
+LANG_SPANISH        "Estoy muy orgulloso de vosotros."
+
+REFERENCE           US_MIDBRIEF_6
+LANG_ENGLISH        "As you know, Sgt. Moody and Privates Elder and Martin broke through German lines to get word to battalion headquarters.  If it wasn't for their success, HQ probably would not have sent the reinforcements that helped us hold Ste Mere Eglise."
+LANG_SPANISH        "El sargento Moody y los soldados Elder y Martin atravesaron las líneas alemanas para llegar a los cuarteles generales del batallón. Sin ellos, el CG probablemente no hubiera mandado los refuerzos que nos ayudaron a mantener Ste Mere Eglise."
+
+REFERENCE           US_MIDBRIEF_7
+LANG_ENGLISH        "At headquarters, Moody, Elder, and Martin were assigned to silence a German battery at Brecourt Manor and faced an entire platoon of Germans with only a handful of men."
+LANG_SPANISH        "A Moody, Elder y Martin se les ordenó silenciar una batería alemana en Brecourt Manor y enfrentarse a todo un pelotón de alemanes, con solo un puñado de hombres."
+
+REFERENCE           US_MIDBRIEF_8
+LANG_ENGLISH        "Well, it seems that someone at command noticed your actions.  Our unit has been detached from the rest of the 101st so that it can be used for some special missions behind enemy lines."
+LANG_SPANISH        "Alguien del mando ha tomado nota de esto. Nuestra unidad ha sido separada del resto del 101 para que pueda llevar a cabo algunas misiones especiales detrás de las líneas enemigas."
+
+REFERENCE           US_MIDBRIEF_9
+LANG_ENGLISH        "I suggest that you brush on your German, gentlemen, and enjoy your R and R while you can."
+LANG_SPANISH        "Les sugiero que pongan a punto su alemán y que disfruten de sus permisos mientras puedan."
+
+REFERENCE           ALLIEDBRIEF_1
+LANG_ENGLISH        "Since June of 1944, the Allies have made enormous advances through Europe.  Sweeping through much of France, Belgium, and Holland, almost to the banks of the Rhine."
+LANG_SPANISH        "Desde junio de 1944, los Aliados han hecho enormes avances a través de Europa, recorriendo la mayoría de Francia, Bélgica y Holanda, llegando casi a la ribera del Rin."
+
+REFERENCE           ALLIEDBRIEF_2
+LANG_ENGLISH        "Much of their success must be credited to the Russians, who at Stalingrad, during the winter of 1943, destroyed many of the German's best Panzer divisions."
+LANG_SPANISH        "Muchos de sus éxitos se deben a los rusos, que durante el invierno de 1943, en Stalingrado, destruyeron muchas de las mejores divisiones Panzer alemanas."
+
+REFERENCE           ALLIEDBRIEF_3
+LANG_ENGLISH        "On the Eastern Front, the Russians have continued to push the Germans back through Russia and much of Poland, and will soon be on the banks of the Oder River and the border of Germany."
+LANG_SPANISH        "En el frente Este, los rusos han seguido empujando a los alemanes a través de Rusia y gran parte de Polonia, y pronto estarán en las orillas del río Oder, en la frontera con Alemania."
+
+REFERENCE           ALLIEDBRIEF_4
+LANG_ENGLISH        "The situation for the Germans has grown desperate."
+LANG_SPANISH        "La situación se hace cada vez más desesperada para los alemanes."
+
+REFERENCE           ALLIEDBRIEF_5
+LANG_ENGLISH        "Allied Bombers have reduced many major German cities to rubble."
+LANG_SPANISH        "Los aliados han reducido la mayoría de las capitales alemanas."
+
+REFERENCE           ALLIEDBRIEF_6
+LANG_ENGLISH        " The German air force, the Luftwaffe, is a mere shadow of the power it once was and can do little to stop the bombers, much less fight the Allied armies."
+LANG_SPANISH        "La fuerza aérea alemana, la Luftwaffe, es una mera sombra de lo que fue en su día, y poco puede hacer para parar los bombardeos, menos para luchar contra los ejércitos aliados."
+
+REFERENCE           ALLIEDBRIEF_7
+LANG_ENGLISH        "The Kriegsmarine, the German navy, is mostly sunk.  Its U-Boats destroyed and its sailors pressed into the army."
+LANG_SPANISH        "La Kriegsmarine, la marina alemana, está hundida en su mayor parte, sus submarinos U destruidos y sus marineros, añadidos al ejército."
+
+REFERENCE           ALLIEDBRIEF_8
+LANG_ENGLISH        "However, the enemy refuses to surrender."
+LANG_SPANISH        "Sin embargo, el enemigo se niega a rendirse."
+
+REFERENCE           ALLIEDBRIEF_9
+LANG_ENGLISH        "Unable to stop the Allied advance, Hitler has turned to vengeance weapons, the V1 and now the V2 rockets."
+LANG_SPANISH        "Incapaz de parar el avance aliado, Hitler se ha volcado en armas vengativas; los cohetes V1 y, más recientemente, los V2."
+
+REFERENCE           ALLIEDBRIEF_10
+LANG_ENGLISH        "These rockets, although some of the most advanced weapons of the war, are too inaccurate to hit military targets.  Instead, they are being used to terrorize London."
+LANG_SPANISH        "Estos cohetes, aunque son de las armas más avanzadas del conflicto, son demasiado imprecisos para alcanzar objetivos militares. En lugar de eso, se están usando para aterrorizar Londres."
+
+REFERENCE           UKAIRBORNE_BRIEF_1
+LANG_ENGLISH        "Gentlemen, thus far you've been training hard at Exeter for a special purpose.  This special purpose... obviously... has something to do with the capturing of bridges.  What I'm about to explain is Top Secret material.  If any of you blokes mention the word 'bridge' outside of this room and I hear of it - and I will - you'll be RTU'd on the spot."
+LANG_SPANISH        "Caballeros: hasta el momento han estado entrenado duro en Exeter por un motivo especial. Obviamente… tiene algo que ver con la captura de puentes. Lo que voy a explicarles ahora es material de Alto Secreto. Si cualquiera de ustedes menciona la palabra "puente" fuera de esta habitación y le oigo -y lo haré- será retirado del servicio, inmediatamente."
+
+REFERENCE           UKAIRBORNE_BRIEF_2
+LANG_ENGLISH        "The invasion of Europe will take place across five main beaches across the Normandy coast of France.  Elements of the British 2nd Army will strike at Gold and Sword beaches, along with the 3rd Canadian Infantry Division at Juno.  To the west, the Yanks will take Utah and Omaha beach."
+LANG_SPANISH        "La invasión de Europa tendrá lugar en cinco playas de la costa francesa, en Normandía. Integrantes del Segundo Batallón Británico atacarán las playas Gold y Sword y, junto con la Tercera División de Infantería Canadiense, la de Juno. Al oeste, los yanquis tomarán las playas de Utah y Omaha."
+
+REFERENCE           UKAIRBORNE_BRIEF_3
+LANG_ENGLISH        "Now the entire eastern flank of the invasion will be exposed to a German counterattack from the Calais region.  Should the Germans break through, they could very well have tanks rolling through Sword beach and all the way down to Utah, wiping out the entire beachhead."
+LANG_SPANISH        "Todo el flanco este de la invasión estará expuesto a un contraataque alemán desde la región de Calais. Si los alemanes logran abrirse paso, podrían llevar tanques a la playa Sword y descender a la de Utah, eliminando a toda la cabeza de playa."
+
+REFERENCE           UKAIRBORNE_BRIEF_4
+LANG_ENGLISH        "Our task, along with the rest of the 6th Airborne Division, is to secure that flank at all costs, by capturing and holding key bridges along the axis of approach.  D Company's objective is this bridge over the Caen Canal."
+LANG_SPANISH        "Nuestra tarea, junto con el resto de la Sexta División Aerotransportada, es asegurar ese flanco a toda costa, capturando y manteniendo los puentes de ese eje de aproximación. El objetivo de la Compañía "D" es el puente sobre el Canal de Caen."
+
+REFERENCE           UKAIRBORNE_BRIEF_5
+LANG_ENGLISH        "Under cover of darkness, the gliders will put us down in the field next to the bridge."
+LANG_SPANISH        "Aprovechando la cobertura de la oscuridad, los planeadores nos dejarán en el campo cercano al puente."
+
+REFERENCE           UKAIRBORNE_BRIEF_6
+LANG_ENGLISH        "From there, we rush the pillbox and prevent the Germans from blowing the bridge.  At least one Bren gun will provide a base of fire while we flank it from both sides."
+LANG_SPANISH        "Desde allí, tomaremos la posición e impediremos que los alemanes vuelen el puente. Al menos un fusil ametrallador nos proporcionará una base de fuego mientras flanqueamos por ambos lados."
+
+REFERENCE           UKAIRBORNE_BRIEF_7
+LANG_ENGLISH        "Once we've captured the bridge, we hold it until relieved, which will be several hours.  During that time, we may find ourselves using the Germans' own weapons against them, so I suggest you familiarize yourselves with the captured ones we have on base.  Good luck, and Godspeed.  Dismissed!"
+LANG_SPANISH        "Una vez hayamos capturado el puente, lo mantendremos hasta que nos releven, lo que podría llevar varias horas. Durante ese tiempo, podría ser que acabásemos usando las propias armas de los alemanes contra ellos, por lo que les sugiero que se familiaricen con las que tenemos capturadas en la base. Buena suerte y buen viaje. ¡Retírense!"
+
+REFERENCE           UKSAS_BRIEF_1
+LANG_ENGLISH        "All right, settle down.  We've got new orders straight from SOE, as well as two new transfers from the 6th Airborne to help us carry 'em out.  They were highly recommended for this operation as a result of their actions on D-Day.  Captain Price, Sgt. Evans - welcome to 3 Troop.  Now, let's get down to business."
+LANG_SPANISH        "De acuerdo, tranquilos. Tenemos nuevas órdenes, directas del Mando de Operaciones Especiales, y dos nuevas incorporaciones del Sexto Aerotransportado para ayudarnos a llevarlas a cabo. Han sido especialmente recomendados para esta operación como resultado de sus acciones en el Día D. Capitán Price, sargento Evans, bienvenidos al Tercero de Paracaidistas. Ahora, manos a la obra."
+
+REFERENCE           UKSAS_BRIEF_2
+LANG_ENGLISH        "These are the locations of the major hydroelectric dams in the Ruhr industrial region of Germany.  Their main purpose is to provide electrical power to the factories and cities throughout the area."
+LANG_SPANISH        "Éstas son las localizaciones de las mayores presas hidroeléctricas de la región industrial alemana del Ruhr. Su función principal es proporcionar energía eléctrica a las fábricas y ciudades de la zona."
+
+REFERENCE           UKSAS_BRIEF_3
+LANG_ENGLISH        "Last year a clever fellow by the name of Dr. Barnes Wallis created an odd sort of bomb that was specially designed to breach these dams."
+LANG_SPANISH        "El pasado año, un tipo listo que responde al nombre de Dr. Barnes Neville Wallis creó un tipo de bomba para romper estas presas."
+
+REFERENCE           UKSAS_BRIEF_4
+LANG_ENGLISH        "Using these bombs, the Dambusters from 617 Squadron successfully breached the Mohne and Eder dams, causing extensive flooding and damage to the industrial heart of Germany.  The bad news is the bastards have already repaired the damage done, and Bomber Command wants to have another crack at these targets."
+LANG_SPANISH        "Usando estas bombas, los "Dambusters" del Escuadrón 617 lograron destruir las presas de Mohne y Eder, causando grandes inundaciones y daños al corazón industrial de Alemania. Las malas noticias son que los bastardos ya han reparado los daños y el Mando de Bombardeos quiere que se vuelva a atacar estos objetivos."
+
+REFERENCE           UKSAS_BRIEF_5
+LANG_ENGLISH        "This is the Eder Dam.  We're to make a night drop on this one.  From the DZ, it's a day's tab through unpopulated areas around the dam's reservoir."
+LANG_SPANISH        "Ésta es la presa Eder. Saltaremos durante la noche. Desde el punto de inserción, hay un día de viaje por zonas deshabitadas alrededor del embalse de la presa."
+
+REFERENCE           UKSAS_BRIEF_6
+LANG_ENGLISH        "Dropping in any closer is impossible, as the enemy flak is simply too concentrated around the dam itself."
+LANG_SPANISH        "No pueden dejarnos más cerca, ya que el fuego antiaéreo enemigo está demasiado concentrado alrededor de la presa."
+
+REFERENCE           UKSAS_BRIEF_7
+LANG_ENGLISH        "Our mission is to locate as many of these anti-air guns as possible, wipe them out so that the bombers can make their runs."
+LANG_SPANISH        "Nuestra misión es localizar todas las armas antiaéreas que podamos y eliminarlas para que los bombarderos puedan hacer su incursión."
+
+REFERENCE           UKSAS_BRIEF_8
+LANG_ENGLISH        "This building at the foot of the dam houses the electrical generators.  Our orders are to blow this structure in the event that the bombers fail to breach the dam.  We set the explosives on a short timer, then get the hell out of there by truck to a nearby airfield and appropriate suitable air transport from the enemy."
+LANG_SPANISH        "Este edificio alberga los generadores eléctricos. Debemos volar esta estructura en el caso de que los bombarderos fallen al destruir la presa. Armaremos las cargas para que exploten en poco tiempo y saldremos a toda velocidad de allí en un camión que nos llevará a un aeródromo cercano, donde nos apropiaremos de un avión enemigo."
+
+REFERENCE           UKSAS_BRIEF_9
+LANG_ENGLISH        "You all know what to do."
+LANG_SPANISH        "Sabéis lo que tenéis que hacer."
+
+REFERENCE           UKSAS_BRIEF_10
+LANG_ENGLISH        "Check and test your magazines, zero your sights, and review the maps and photographs carefully.  We'll recieve signals and embarkation details within the next two hours.  Good luck."
+LANG_SPANISH        "Comprobad los cargadores, revisad las miras y examinad los mapas y las fotografías. Recibiremos más detalles sobre el embarque en las próximas dos horas. Buena suerte."
+
+REFERENCE           RUSSIA_BRIEF_1
+LANG_ENGLISH        "Comrades of the Soviet Union, almost one year has passed since the German invaders set foot upon the soil of our Motherland."
+LANG_SPANISH        "Camaradas de la Unión Soviética, casi ha pasado un año desde que los alemanes pusieron sus pies sobre el suelo de nuestra Madre Patria."
+
+REFERENCE           RUSSIA_BRIEF_2
+LANG_ENGLISH        "They have advanced deep into the Soviet Union, capturing city after city, raping, murdering, and robbing the Soviet people.  Although our situation grows desperate, we have one last hope of defense."
+LANG_SPANISH        "Se han adentrado hasta lo más profundo de la Unión Soviética, capturando ciudad tras ciudad, violando, asesinando, y robando a los soviéticos. Aunque nuestra situación se hace cada vez más desesperada, tenemos una última esperanza de defensa."
+
+REFERENCE           RUSSIA_BRIEF_3
+LANG_ENGLISH        "The city that bears our great leader's name.. Stalingrad!  Comrades, many of your countrymen are already there defying the Germans at every step.  Soon, you will stand along side them and you will not fail to defeat our fascist enemies."
+LANG_SPANISH        "La ciudad que lleva el nombre de nuestro gran líder.. ¡Stalingrado!  Camaradas, muchos de nuestros compatriotas ya están allí desafiando a los alemanes a cada paso que dan. Pronto, estaréis con ellos y no fallaréis al derrotar a nuestros enemigos fascistas."
+
+REFERENCE           RUSSIA_BRIEF_4
+LANG_ENGLISH        "No one shall take even one step backwards.  Commissars will execute cowards on sight, giving faithful soldiers a chance to do their duty.  The motherland is counting on you to achieve victory at Stalingrad."
+LANG_SPANISH        "Nadie retrocederá ni un paso. Los comisarios ejecutarán a los cobardes que vean, dando a los soldados leales una posibilidad de hacer su tarea. La Madre Patria cuenta con vosotros para conseguir la victoria en Stalingrado."
+
+REFERENCE           END_MOVIE_1
+LANG_ENGLISH        "Mother, a few days ago we waved the flag of the Motherland over the top of the Reichstag in Berlin.  The war, at last, seems to be coming to an end.  There is very little fighting left in the enemy."
+LANG_SPANISH        "Madre, hace unos pocos días izamos la bandera de nuestra patria en lo más alto del Reichstag de Berlín.  La guerra, al fin, parece que va a acabar.Al enemigo le queda muy poco espíritu combativo."
+
+REFERENCE           END_MOVIE_2
+LANG_ENGLISH        "Soon I will be returning to our home.  There are German prisoners of war everywhere.   Today, I crossed the Elbe River in Germany and shook hands with an American soldier."
+LANG_SPANISH        "Pronto estaré de vuelta en casa. Hay prisioneros de guerra alemanes por todas partes. Hoy, he cruzado el río Elba y he estrechado la mano de un soldado americano."
+
+REFERENCE           END_MOVIE_3
+LANG_ENGLISH        "Although I could not understand anything he said, I felt this man was my brother...  and I think he felt the same."
+LANG_SPANISH        "Aunque no pude entender nada de lo que dijo, sentí que este hombre era mi hermano...  Y creo que él sintió lo mismo."
+
+
+ENDMARKER
+
+

@@ -1,0 +1,423 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MOSCOW_TITLE
+LANG_ENGLISH        ""Red Army Training""
+LANG_SPANISH         ""Instrucción del Ejército rojo""
+
+REFERENCE           MOSCOW_PLACE
+LANG_ENGLISH        "U.S.S.R."
+LANG_SPANISH         "U.R.S.S."
+
+REFERENCE           MOSCOW_DATE
+LANG_ENGLISH        "Dec 17, 1941"
+LANG_SPANISH         "17 de diciembre de 1941"
+
+REFERENCE           MOSCOW_INFO
+LANG_ENGLISH        "20 miles west of Moscow"
+LANG_SPANISH         "32 kilómetros al oeste de Moscú"
+
+REFERENCE           DECOYTRENCHES_TITLE
+LANG_ENGLISH        ""The Diversionary Raid""
+LANG_SPANISH         ""Asalto de distracción""
+
+REFERENCE           DECOYTRENCHES_PLACE
+LANG_ENGLISH        "Northern Egypt"
+LANG_SPANISH         "Norte de Egipto"
+
+REFERENCE           DECOYTRENCHES_DATE
+LANG_ENGLISH        "October 29, 1942"
+LANG_SPANISH         "29 de octubre de 1942"
+
+REFERENCE           DECOYTRENCHES_INFO
+LANG_ENGLISH        "25 miles south of El Alamein"
+LANG_SPANISH         "40 kilómetros al sur de El Alamein"
+
+REFERENCE           DECOYTOWN_TITLE
+LANG_ENGLISH        ""Hold the Line""
+LANG_SPANISH         ""Defender las líneas""
+
+REFERENCE           DECOYTOWN_PLACE
+LANG_ENGLISH        "Northern Egypt"
+LANG_SPANISH         "Norte de Egipto"
+
+REFERENCE           DECOYTOWN_DATE
+LANG_ENGLISH        "October 29, 1942"
+LANG_SPANISH         "29 de octubre de 1942"
+
+REFERENCE           DECOYTOWN_INFO
+LANG_ENGLISH        "30 miles south of El Alamein"
+LANG_SPANISH         "48 kilómetros al sur de El Alamein"
+
+REFERENCE           ELALAMEIN_TITLE
+LANG_ENGLISH        ""Operation Supercharge""
+LANG_SPANISH         ""Operación Sobrecarga""
+
+REFERENCE           ELALAMEIN_PLACE
+LANG_ENGLISH        "Northern Egypt"
+LANG_SPANISH         "Norte de Egipto"
+
+REFERENCE           ELALAMEIN_DATE
+LANG_ENGLISH        "November 3, 1942"
+LANG_SPANISH         "3 de noviembre de 1942"
+
+REFERENCE           ELALAMEIN_INFO
+LANG_ENGLISH        "Approaching the Alamein Line"
+LANG_SPANISH         "Cerca de la línea de El Alamein"
+
+REFERENCE           ELDABA_TITLE
+LANG_ENGLISH        ""The End of the Beginning""
+LANG_SPANISH         ""El fin del principio""
+
+REFERENCE           ELDABA_PLACE
+LANG_ENGLISH        "El Daba, Egypt"
+LANG_SPANISH         "El Daba, Egipto"
+
+REFERENCE           ELDABA_DATE
+LANG_ENGLISH        "November 6, 1942"
+LANG_SPANISH         "6 de noviembre de 1942"
+
+REFERENCE           ELDABA_INFO
+LANG_ENGLISH        "Near the Mediterranean coast"
+LANG_SPANISH         "Cerca de la costa mediterránea"
+
+REFERENCE           DEMOLITION_TITLE
+LANG_ENGLISH        ""Demolition""
+LANG_SPANISH         ""Demolición""
+
+REFERENCE           DEMOLITION_PLACE
+LANG_ENGLISH        "Stalingrad, U.S.S.R."
+LANG_SPANISH         "Stalingrado, U.R.S.S."
+
+REFERENCE           DEMOLITION_DATE
+LANG_ENGLISH        "December 2, 1942"
+LANG_SPANISH         "2 de diciembre de 1942"
+
+REFERENCE           DEMOLITION_INFO
+LANG_ENGLISH        "Three blocks north of Solechnaya St."
+LANG_SPANISH         "Tres manzanas al norte de la calle Solechnaya"
+
+REFERENCE           TANKHUNT_INFO
+LANG_ENGLISH        "1300 hrs"
+LANG_SPANISH         "13:00 horas"
+
+REFERENCE           TANKHUNT_TITLE
+LANG_ENGLISH        ""Repairing the Wire""
+LANG_SPANISH         ""Repara el cable""
+
+REFERENCE           TANKHUNT_PLACE
+LANG_ENGLISH        "Stalingrad, U.S.S.R."
+LANG_SPANISH         "Stalingrado, U.R.S.S."
+
+REFERENCE           TANKHUNT_DATE
+LANG_ENGLISH        "December 8, 1942"
+LANG_SPANISH         "8 de diciembre de 1942"
+
+REFERENCE           TRAINYARD_TITLE
+LANG_ENGLISH        ""The Pipeline""
+LANG_SPANISH         ""El conducto""
+
+REFERENCE           TRAINYARD_PLACE
+LANG_ENGLISH        "Stalingrad, U.S.S.R."
+LANG_SPANISH         "Stalingrado, U.R.S.S."
+
+REFERENCE           TRAINYARD_DATE
+LANG_ENGLISH        "December 8, 1942"
+LANG_SPANISH         "8 de diciembre de 1942"
+
+REFERENCE           TRAINYARD_INFO
+LANG_ENGLISH        "200 metres east of Railroad Station No. 1"
+LANG_SPANISH         "200 metros al este de la estación de ferrocarril Nº1"
+
+REFERENCE           DOWNTOWN_ASSAULT_TITLE
+LANG_ENGLISH        ""Downtown Assault""
+LANG_SPANISH         ""Asalto al centro""
+
+REFERENCE           DOWNTOWN_ASSAULT_PLACE
+LANG_ENGLISH        "Stalingrad, U.S.S.R."
+LANG_SPANISH         "Stalingrado, U.R.S.S."
+
+REFERENCE           DOWNTOWN_ASSAULT_DATE
+LANG_ENGLISH        "January 15, 1943"
+LANG_SPANISH         "15 de enero de 1943"
+
+REFERENCE           DOWNTOWN_ASSAULT_INFO
+LANG_ENGLISH        "1500 hrs"
+LANG_SPANISH         "15:00 horas"
+
+REFERENCE           CITYHALL_TITLE
+LANG_ENGLISH        ""City Hall""
+LANG_SPANISH         ""El ayuntamiento""
+
+REFERENCE           CITYHALL_PLACE
+LANG_ENGLISH        "Stalingrad, U.S.S.R."
+LANG_SPANISH         "Stalingrado, U.R.S.S."
+
+REFERENCE           CITYHALL_DATE
+LANG_ENGLISH        "January 15, 1943"
+LANG_SPANISH         "15 de enero de 1943"
+
+REFERENCE           CITYHALL_INFO
+LANG_ENGLISH        "1420 hrs"
+LANG_SPANISH         "14:20 horas"
+
+REFERENCE           DOWNTOWN_SNIPER_TITLE
+LANG_ENGLISH        ""Comrade Sniper""
+LANG_SPANISH         ""Camarada francotirador""
+
+REFERENCE           DOWNTOWN_SNIPER_PLACE
+LANG_ENGLISH        "Stalingrad, U.S.S.R."
+LANG_SPANISH         "Stalingrado, U.R.S.S."
+
+REFERENCE           DOWNTOWN_SNIPER_DATE
+LANG_ENGLISH        "January 15, 1943"
+LANG_SPANISH         "15 de enero de 1943"
+
+REFERENCE           DOWNTOWN_SNIPER_INFO
+LANG_ENGLISH        "1630 hrs"
+LANG_SPANISH         "16:30 horas"
+
+REFERENCE           TOUJANE_RIDE_TITLE
+LANG_ENGLISH        ""Outnumbered and Outgunned""
+LANG_SPANISH         ""Superados en número y armamento""
+
+REFERENCE           TOUJANE_RIDE_PLACE
+LANG_ENGLISH        "Toujane, Tunisia"
+LANG_SPANISH         "Toujane, Túnez"
+
+REFERENCE           TOUJANE_RIDE_DATE
+LANG_ENGLISH        "March 10, 1943"
+LANG_SPANISH         "10 de marzo de 1943"
+
+REFERENCE           TOUJANE_RIDE_INFO
+LANG_ENGLISH        "1800 hrs"
+LANG_SPANISH         "18:00 horas"
+
+REFERENCE           TOUJANE_TITLE
+LANG_ENGLISH        ""Retaking Lost Ground""
+LANG_SPANISH         ""Recuperando terreno perdido""
+
+REFERENCE           TOUJANE_PLACE
+LANG_ENGLISH        "Toujane, Tunisia"
+LANG_SPANISH         "Toujane, Túnez"
+
+REFERENCE           TOUJANE_DATE
+LANG_ENGLISH        "March 11, 1943"
+LANG_SPANISH         "11 de marzo de 1943"
+
+REFERENCE           TOUJANE_INFO
+LANG_ENGLISH        "1100 hrs"
+LANG_SPANISH         "11:00 horas"
+
+REFERENCE           MATMATA_TITLE
+LANG_ENGLISH        ""Assault on Matmata""
+LANG_SPANISH         ""Asalto a Matmata""
+
+REFERENCE           MATMATA_PLACE
+LANG_ENGLISH        "Matmata, Tunisia"
+LANG_SPANISH         "Matmata, Túnez"
+
+REFERENCE           MATMATA_DATE
+LANG_ENGLISH        "March 30, 1943"
+LANG_SPANISH         "30 de marzo de 1943"
+
+REFERENCE           LIBYA_TITLE
+LANG_ENGLISH        ""Crusader Charge""
+LANG_SPANISH         ""Carga de Crusader""
+
+REFERENCE           LIBYA_PLACE
+LANG_ENGLISH        "Northwestern Libya"
+LANG_SPANISH         "Noroeste de Libia"
+
+REFERENCE           LIBYA_DATE
+LANG_ENGLISH        "January 15, 1943"
+LANG_SPANISH         "15 de enero de 1943"
+
+REFERENCE           LIBYA_INFO
+LANG_ENGLISH        "160 miles southeast of Tripoli"
+LANG_SPANISH         "257 kilómetros al sureste de Trípoli"
+
+REFERENCE           88RIDGE_TITLE
+LANG_ENGLISH        ""88 Ridge""
+LANG_SPANISH         ""Cresta 88""
+
+REFERENCE           88RIDGE_PLACE
+LANG_ENGLISH        "Northwestern Libya"
+LANG_SPANISH         "Noroeste de Libia"
+
+REFERENCE           88RIDGE_DATE
+LANG_ENGLISH        "January 18, 1943"
+LANG_SPANISH         "18 de enero de 1943"
+
+REFERENCE           88RIDGE_INFO
+LANG_ENGLISH        "65 miles southeast of Tripoli"
+LANG_SPANISH         "104 kilómetros al sureste de Trípoli"
+
+REFERENCE           DUHOC_ASSAULT_TITLE
+LANG_ENGLISH        ""The Battle of Pointe du Hoc""
+LANG_SPANISH         ""La batalla de Pointe du Hoc""
+
+REFERENCE           DUHOC_ASSAULT_PLACE
+LANG_ENGLISH        "Normandy, France"
+LANG_SPANISH         "Normandía, Francia"
+
+REFERENCE           DUHOC_ASSAULT_DATE
+LANG_ENGLISH        "June 6, 1944"
+LANG_SPANISH         "6 de junio de 1944"
+
+REFERENCE           DUHOC_ASSAULT_INFO
+LANG_ENGLISH        "3 miles west of Omaha Beach"
+LANG_SPANISH         "5 kilómetros al oeste de la playa de Omaha"
+
+REFERENCE           DUHOC_DEFEND_TITLE
+LANG_ENGLISH        ""Retreat? We're Advancing In Another Direction""
+LANG_SPANISH         ""¿Retirada? Estamos avanzando en otra dirección""
+
+REFERENCE           DUHOC_DEFEND_PLACE
+LANG_ENGLISH        "Normandy, France"
+LANG_SPANISH         "Normandía, Francia"
+
+REFERENCE           DUHOC_DEFEND_DATE
+LANG_ENGLISH        "June 7, 1944"
+LANG_SPANISH         "7 de junio de 1944"
+
+REFERENCE           SILOTOWN_ASSAULT_TITLE
+LANG_ENGLISH        ""The Silo""
+LANG_SPANISH         ""El silo""
+
+REFERENCE           SILOTOWN_ASSAULT_PLACE
+LANG_ENGLISH        "Beaumont-Hague, France"
+LANG_SPANISH         "Beaumont-Hague, Francia"
+
+REFERENCE           SILOTOWN_ASSAULT_DATE
+LANG_ENGLISH        "July 14, 1944"
+LANG_SPANISH         "14 de julio de 1944"
+
+REFERENCE           BELTOT_TITLE
+LANG_ENGLISH        ""Prisoners of War""
+LANG_SPANISH         ""Prisioneros de guerra""
+
+REFERENCE           BELTOT_PLACE
+LANG_ENGLISH        "Beltot, France"
+LANG_SPANISH         "Beltot, Francia"
+
+REFERENCE           BELTOT_DATE
+LANG_ENGLISH        "June 11th, 1944"
+LANG_SPANISH         "11 de junio de 1944"
+
+REFERENCE           BELTOT_INFO
+LANG_ENGLISH        "18 miles east of Caen"
+LANG_SPANISH         "29 kilómetros al este de Caen"
+
+REFERENCE           CROSSROADS_TITLE
+LANG_ENGLISH        ""The Crossroads""
+LANG_SPANISH         ""El cruce""
+
+REFERENCE           CROSSROADS_PLACE
+LANG_ENGLISH        "Anctoville, France"
+LANG_SPANISH         "Anctoville, Francia"
+
+REFERENCE           CROSSROADS_DATE
+LANG_ENGLISH        "June 12th, 1944"
+LANG_SPANISH         "12 de junio de 1944"
+
+REFERENCE           CROSSROADS_INFO
+LANG_ENGLISH        "17 miles east of Caen"
+LANG_SPANISH         "27 kilómetros al este de Caen"
+
+REFERENCE           NEWVILLERS_TITLE
+LANG_ENGLISH        ""The Tiger""
+LANG_SPANISH         ""El Tiger""
+
+REFERENCE           NEWVILLERS_PLACE
+LANG_ENGLISH        "St. Louet, France"
+LANG_SPANISH         "St. Louet, Francia"
+
+REFERENCE           NEWVILLERS_DATE
+LANG_ENGLISH        "June 12th, 1944"
+LANG_SPANISH         "12 de junio de 1944"
+
+REFERENCE           NEWVILLERS_INFO
+LANG_ENGLISH        "15 miles east of Caen"
+LANG_SPANISH         "24 kilómetros al este de Caen"
+
+REFERENCE           BREAKOUT_TITLE
+LANG_ENGLISH        ""The Brigade Box""
+LANG_SPANISH         ""La carga de la brigada""
+
+REFERENCE           BREAKOUT_PLACE
+LANG_ENGLISH        "Amaye sur Seulles, France"
+LANG_SPANISH         "Amaye sur Seulles, Francia"
+
+REFERENCE           BREAKOUT_DATE
+LANG_ENGLISH        "June 14th, 1944"
+LANG_SPANISH         "14 de junio de 1944"
+
+REFERENCE           BERGSTEIN_TITLE
+LANG_ENGLISH        ""Approaching Hill 400""
+LANG_SPANISH         ""Cerca de la Colina 400""
+
+REFERENCE           BERGSTEIN_PLACE
+LANG_ENGLISH        "Bergstein, Germany"
+LANG_SPANISH         "Bergstein, Alemania"
+
+REFERENCE           BERGSTEIN_DATE
+LANG_ENGLISH        "December 6, 1944"
+LANG_SPANISH         "6 de diciembre de 1944"
+
+REFERENCE           HILL400_ASSAULT_TITLE
+LANG_ENGLISH        ""Rangers Lead The Way""
+LANG_SPANISH         ""Los ranger siempre en cabeza""
+
+REFERENCE           HILL400_ASSAULT_PLACE
+LANG_ENGLISH        "Bergstein, Germany"
+LANG_SPANISH         "Bergstein, Alemania"
+
+REFERENCE           HILL400_ASSAULT_DATE
+LANG_ENGLISH        "December 7, 1944"
+LANG_SPANISH         "7 de diciembre de 1944"
+
+REFERENCE           HILL400_ASSAULT_INFO
+LANG_ENGLISH        "At the base of Hill 400"
+LANG_SPANISH         "Al pie de la Colina 400"
+
+REFERENCE           HILL400_DEFEND_TITLE
+LANG_ENGLISH        ""The Battle for Hill 400""
+LANG_SPANISH         ""La batalla de la Colina 400""
+
+REFERENCE           HILL400_DEFEND_PLACE
+LANG_ENGLISH        "Bergstein, Germany"
+LANG_SPANISH         "Bergstein, Alemania"
+
+REFERENCE           HILL400_DEFEND_DATE
+LANG_ENGLISH        "December 8, 1944"
+LANG_SPANISH         "8 de diciembre de 1944"
+
+REFERENCE           RHINE_TITLE
+LANG_ENGLISH        ""Crossing the Rhine""
+LANG_SPANISH         ""Cruzando el Rin""
+
+REFERENCE           RHINE_PLACE
+LANG_ENGLISH        "Wallendar, Germany"
+LANG_SPANISH         "Wallendar, Alemania"
+
+REFERENCE           RHINE_DATE
+LANG_ENGLISH        "March 24, 1945"
+LANG_SPANISH         "24 de marzo de 1945"
+
+
+ENDMARKER
+
+

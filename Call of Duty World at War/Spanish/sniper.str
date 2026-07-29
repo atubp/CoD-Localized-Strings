@@ -1,0 +1,58 @@
+// Dumped from fastfile "sniper".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SNIPER_OBJ_1
+LANG_ENGLISH        "Quédate con el sargento Reznov."
+
+REFERENCE           SNIPER_HINT_CROUCH
+LANG_ENGLISH        "Pulsa [{+stance}] para agacharte."
+
+REFERENCE           SNIPER_OBJ_2
+LANG_ENGLISH        "Elimina a todos los alemanes de la calle."
+
+REFERENCE           SNIPER_OBJ_3
+LANG_ENGLISH        "Sigue al sargento Reznov."
+
+REFERENCE           SNIPER_OBJ_5
+LANG_ENGLISH        "Apoya a tus compañeros con fuego de\ncobertura de francotirador."
+
+REFERENCE           SNIPER_INTROSCREEN_DATE
+LANG_ENGLISH        "17 de septiembre, 1942"
+
+REFERENCE           SNIPER_INTROSCREEN_PLACE
+LANG_ENGLISH        "Stalingrado, Rusia"
+
+REFERENCE           SNIPER_OBJ_6
+LANG_ENGLISH        "Mata al general Amsel."
+
+REFERENCE           SNIPER_INTROSCREEN_INFO
+LANG_ENGLISH        "Sld. Petrenko"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO2
+LANG_ENGLISH        "62º Ejército de Fusileros"
+
+REFERENCE           SNIPER_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Vendetta\""
+
+REFERENCE           SNIPER_OBJ_4
+LANG_ENGLISH        "Derrota al francotirador enemigo."
+
+REFERENCE           SNIPER_TO_BE_CONTINUED
+LANG_ENGLISH        "Continuará..."
+
+REFERENCE           SNIPER_GENERAL_ESCAPED
+LANG_ENGLISH        "¡El general ha escapado!"
+
+REFERENCE           SNIPER_REZNOV_KILLED
+LANG_ENGLISH        "Tus acciones han hecho que maten a Reznov."
+
+REFERENCE           SNIPER_JUMP_FARTHER
+LANG_ENGLISH        "S"
+
+REFERENCE           SNIPER_EASY_PRONE_DESC
+LANG_ENGLISH        "Pulsa [{goprone}] para echarte cuerpo a tierra."
+
+ENDMARKER

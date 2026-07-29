@@ -1,0 +1,95 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\COD\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TURRET_HINT
+LANG_ENGLISH        "Press [%s] to get into the dorsal turret"
+LANG_SPANISH        "Pulsa [Usar] para entrar en la torreta dorsal"
+
+REFERENCE           USE_TG_TURRET
+LANG_ENGLISH        "Press [%s] to activate the tailgun turret"
+LANG_SPANISH        "Pulsa [Usar] para activar la torreta de cola"
+
+REFERENCE           USE_BAY_CRANK
+LANG_ENGLISH        "Press [%s] to activate the bomb bay door manual crank"
+LANG_SPANISH        "Pulsa [Usar] para activar la palanca manual de la compuerta de bombas"
+
+REFERENCE           OBJECTIVE1
+LANG_ENGLISH        "Get to the Dorsal Turret, behind the Cockpit"
+LANG_SPANISH        "Ve a la torreta dorsal, tras la cabina"
+
+REFERENCE           OBJECTIVE2
+LANG_ENGLISH        "Man the Tail Gunner position"
+LANG_SPANISH        "Encárgate de la posición de artillero de cola"
+
+REFERENCE           OBJECTIVE3_E1
+LANG_ENGLISH        "Turn off the fuel to the No. 1 Engine"
+LANG_SPANISH        "Corta el combustible del primer motor"
+
+REFERENCE           OBJECTIVE3_E2
+LANG_ENGLISH        "Turn off the fuel to the No. 2 Engine"
+LANG_SPANISH        "Corta el combustible del segundo motor"
+
+REFERENCE           OBJECTIVE4
+LANG_ENGLISH        "Man the Tail Gun"
+LANG_SPANISH        "Encárgate del cañón de cola"
+
+REFERENCE           OBJECTIVE5
+LANG_ENGLISH        "Get back to the Dorsal position"
+LANG_SPANISH        "Vuelve a la posición dorsal"
+
+REFERENCE           OBJECTIVE6
+LANG_ENGLISH        "Return to the Tail Gun"
+LANG_SPANISH        "Vuelve al cañón de cola"
+
+REFERENCE           OBJECTIVE7
+LANG_ENGLISH        "Use the manual crank to open the Bomb Bay"
+LANG_SPANISH        "Usa la palanca manual para abrir la compuerta de bombas"
+
+REFERENCE           OBJECTIVE8
+LANG_ENGLISH        "Extinguish the fire in the Aft Compartment"
+LANG_SPANISH        "Apaga el fuego en el compartimento de cola"
+
+REFERENCE           OBJECTIVE9_E3
+LANG_ENGLISH        "Turn off the fuel to the No. 3 Engine"
+LANG_SPANISH        "Corta el combustible del tercer motor"
+
+REFERENCE           OBJECTIVE9_E4
+LANG_ENGLISH        "Turn off the fuel to the No. 4 Engine"
+LANG_SPANISH        "Corta el combustible del cuarto motor"
+
+REFERENCE           ABOUT_TO_DIE
+LANG_ENGLISH        "Hurry! Find the fuel shut off before the engine explodes!"
+LANG_SPANISH        "¡Rápido! ¡Encuentra el corte de combustible antes de que explote el motor!"
+
+REFERENCE           YOU_DIED
+LANG_ENGLISH        "Your bomber has taken too much damage!"
+LANG_SPANISH        "¡El motor ha explotado!"
+
+REFERENCE           OBJECTIVE0
+LANG_ENGLISH        "Defend the Bomber"
+LANG_SPANISH        "Defender el bombardero"
+
+REFERENCE           GET_OUT_OF_TURRET
+LANG_ENGLISH        "Press [%s] to exit the dorsal turret"
+LANG_SPANISH        "Pulsa [USAR] para salir de la torreta dorsal"
+
+REFERENCE           YOUR_HEAD_ASPLODE
+LANG_ENGLISH        "You were killed when your bomber was shot down!"
+LANG_SPANISH        "¡Resultaste muerto cuando tu bombardero fue derribado!"
+
+
+ENDMARKER
+
+

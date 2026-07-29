@@ -1,0 +1,43 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BREACH_CLEAR_BUNKERS
+LANG_ENGLISH        "Breach and clear the bunkers on Hill 400. [&&1 remaining]"
+LANG_SPANISH         "Penetra en los búnkeres de la Colina 400 y despéjalos. [&&1 restantes]"
+
+REFERENCE           ELIMINATE_THE_ENEMY_MORTAR
+LANG_ENGLISH        "Eliminate the mortar crews atop the hill. [&&1 remaining]"
+LANG_SPANISH         "Elimina los morteros de la cima de la colina. [&&1 restantes]"
+
+REFERENCE           ELIMINATE_PANZERWERFER
+LANG_ENGLISH        "Eliminate the Panzerwerfer armored vehicles. [&&1 remaining]"
+LANG_SPANISH         "Elimina los vehículos blindados Panzerwerfer. [&&1 restantes]"
+
+REFERENCE           SECURE_HILL
+LANG_ENGLISH        "Secure the top of Hill400."
+LANG_SPANISH         "Asegura la cima de la Colina 400."
+
+REFERENCE           EXPLOSIVES_PLANTED
+LANG_ENGLISH        "Explosives Planted. Stand Back!"
+LANG_SPANISH         "Explosivos colocados. ¡Atrás!"
+
+REFERENCE           FRIENDLY_FIRE_WILL_NOT
+LANG_ENGLISH        "Friendly fire will not be tolerated!"
+LANG_SPANISH         "¡No se permitirá el fuego amigo!"
+
+
+ENDMARKER
+
+

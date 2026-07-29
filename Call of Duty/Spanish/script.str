@@ -1,0 +1,279 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           "All game messages made by script should go in this file."
+
+REFERENCE           MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_ENGLISH        "You are a traitor to the motherland!"
+LANG_SPANISH        "¡Eres un traidor a la Madre patria!"
+
+REFERENCE           MISSIONFAIL_KILLTEAM_BRITISH
+LANG_ENGLISH        "Friendly fire will not be tolerated!"
+LANG_SPANISH        "¡No se permitirá el fuego amigo!"
+
+REFERENCE           MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_ENGLISH        "Friendly fire will not be tolerated!"
+LANG_SPANISH        "¡No se permitirá el fuego amigo!"
+
+REFERENCE           SHOT_TEAMMATE
+LANG_ENGLISH        "You shot a team mate!"
+LANG_SPANISH        "¡Disparaste a un compañero de equipo!"
+
+REFERENCE           HINT_OBJECTIVEKEY
+LANG_ENGLISH        "Press [%s] to see your objectives."
+LANG_SPANISH        "Pulsa [%s] para ver tus objetivos."
+
+REFERENCE           HINT_OBJECTIVEONCOMPASS
+LANG_ENGLISH        "The star on your compass marks your next objective"
+LANG_SPANISH        "La estrella de tu brújula señala tu siguiente objetivo"
+
+REFERENCE           HINT_PRONEKEY
+LANG_ENGLISH        "Press [%s] to go prone"
+LANG_SPANISH        "Pulsa [%s] para agacharte"
+
+REFERENCE           HINT_DOUBLETAPPRONEKEY
+LANG_ENGLISH        "Double tap [%s] to go prone"
+LANG_SPANISH        "Pulsa dos veces [%s] para ponerte cuerpo a tierra"
+
+REFERENCE           HINT_HOLDDOWNPRONEKEY
+LANG_ENGLISH        "Hold down [%s] to go prone"
+LANG_SPANISH        "Mantén pulsado [%s] para ponerte cuerpo a tierra"
+
+REFERENCE           HINT_ADSKEY
+LANG_ENGLISH        "Press [%s] to aim down the sight"
+LANG_SPANISH        "Pulsa [%s] para bajar la mira"
+
+REFERENCE           HINT_HOLDDOWNADSKEY
+LANG_ENGLISH        "Hold down [%s] to aim down the sight"
+LANG_SPANISH        "Mantén pulsado [%s] para bajar la mira"
+
+REFERENCE           HINT_STANDFROMPRONEKEY
+LANG_ENGLISH        "Press [%s] to stand up from prone"
+LANG_SPANISH        "Pulsa [%s] para levantarte del suelo"
+
+REFERENCE           HINT_DOUBLETAPSTANDKEY
+LANG_ENGLISH        "Double tap [%s] to stand from prone"
+LANG_SPANISH        "Pulsa dos veces [%s] para levantarte del suelo"
+
+REFERENCE           HINT_SWITCHTOGRENADE
+LANG_ENGLISH        "Press [%s] to switch to grenades"
+LANG_SPANISH        "Pulsa [%s] para cambiar a las granadas"
+
+REFERENCE           HINT_MELEEATTACK
+LANG_ENGLISH        "Press [%s] to do a melee attack"
+LANG_SPANISH        "Pulsa [%s] para hacer un ataque cuerpo a cuerpo"
+
+REFERENCE           HINT_PLANTEXPLOSIVES
+LANG_ENGLISH        "Look at the explosives spot and press [%s] to plant the explosives."
+LANG_SPANISH        "Mira al sitio en el que colocar los explosivos y pulsa [%s] para colocarlos."
+
+REFERENCE           OBJ_DESTROYFLAKPANZERS
+LANG_ENGLISH        "Destroy the 'Flakpanzer' Anti-Aircraft Tanks [%s remaining]."
+LANG_SPANISH        "Destruye los tanques antiaéreos "Flakpanzer"[%s restantes]."
+
+REFERENCE           OBJ_FOLEYDEBRIEF
+LANG_ENGLISH        "Debrief with Captain Foley at the crossroads."
+LANG_SPANISH        "Entrevístate con el capitán Foley en el cruce de caminos"
+
+REFERENCE           HINT_LEANOUTWINDOW
+LANG_ENGLISH        "Press USE [%s] to lean out of the window"
+LANG_SPANISH        "Pulsa USAR [%s] para inclinarte por la ventana"
+
+REFERENCE           HINT_CANT_OPEN_DOORS
+LANG_ENGLISH        "This door cannot be opened. You never need to try to open closed doors."
+LANG_SPANISH        "No se puede abrir esta puerta. Jamás necesitarás tener que abrir una puerta cerrada en Call of Duty."
+
+REFERENCE           HINT_FIRSTOBJECTIVE
+LANG_ENGLISH        "Look at your first objective and press USE [%s] to retrieve"
+LANG_SPANISH        "Mira tus objetivos principales y pulsa USAR [%s] para recuperarlos"
+
+REFERENCE           HINT_USEPRIVATEMILLS
+LANG_ENGLISH        "To get Private Mills'  attention, 'USE' him by pressing [%s]"
+LANG_SPANISH        "Para conseguir la atención del soldado Mills, "ÚSALO" pulsando [%s]"
+
+REFERENCE           HINT_STRAFELEFT
+LANG_ENGLISH        "Press your Move Left key [%s] to move left."
+LANG_SPANISH        "Pulsa tu tecla de Mover a la izquierda [%s] para moverte a la izquierda."
+
+REFERENCE           HINT_STRAFERIGHT
+LANG_ENGLISH        "Press your Move Right key [%s] to move right."
+LANG_SPANISH        "Pulsa tu tecla de Mover a la derecha [%s] para moverte a la derecha."
+
+REFERENCE           HINT_MOVEFORWARD
+LANG_ENGLISH        "Press your Move Forward key [%s] to move forward."
+LANG_SPANISH        "Pulsa tu tecla de Avanzar [%s] para moverte hacia delante."
+
+REFERENCE           HINT_MOVEBACKWARD
+LANG_ENGLISH        "Press your Move Back key [%s] to move backwards."
+LANG_SPANISH        "Pulsa tu tecla de Retroceder [%s] para moverte hacia atrás."
+
+REFERENCE           HINT_CHECKCURRENTOBJECTIVE
+LANG_ENGLISH        "Press [%s] to check your current objective."
+LANG_SPANISH        "Pulsa [%s] para comprobar tu objetivo actual."
+
+REFERENCE           HINT_SWITCHTOSECONDWEAPON
+LANG_ENGLISH        "You now have two weapons. Press [%s] to switch to your second weapon."
+LANG_SPANISH        "Ahora tienes dos armas. Pulsa [%s] para cambiar a tu segunda arma."
+
+REFERENCE           HINT_TRAINING_SWITCHTOGRENADE
+LANG_ENGLISH        "Press [%s] to switch to your grenades."
+LANG_SPANISH        "Pulsa [%s] para cambiar a tus granadas."
+
+REFERENCE           EXPLOSIVESPLANTED
+LANG_ENGLISH        "EXPLOSIVES PLANTED. STAND BACK!"
+LANG_SPANISH        "EXPLOSIVOS COLOCADOS. ¡RETROCEDED!"
+
+REFERENCE           HINT_USECINDERBLOCKWALL
+LANG_ENGLISH        "Approach the cinder block wall and press your USE key [%s] to plant the explosives."
+LANG_SPANISH        "Aproxímate al bloque de cemento y pulsa la tecla USAR [%s] para colocar los explosivos."
+
+REFERENCE           HINT_CROUCHKEY
+LANG_ENGLISH        "Press [%s] to crouch."
+LANG_SPANISH        "Pulsa [%s] para agacharte."
+
+REFERENCE           HINT_CROUCHTOGGLEFROM
+LANG_ENGLISH        "Press [%s] a second time to stand up from crouch."
+LANG_SPANISH        "Pulsa [%s] una segunda vez para levantarte desde la posición agachada."
+
+REFERENCE           HINT_HOLDDOWNCROUCHKEY
+LANG_ENGLISH        "Hold down [%s] to crouch."
+LANG_SPANISH        "Mantén pulsada [%s] para agacharte."
+
+REFERENCE           HINT_RAISEFROMPRONETOCROUCH
+LANG_ENGLISH        "Press [%s] to switch from crouch from prone."
+LANG_SPANISH        "Pulsa [%s] para cambiar de agachado a cuerpo a tierra."
+
+REFERENCE           HINT_STANDKEY
+LANG_ENGLISH        "Press [%s] to stand up."
+LANG_SPANISH        "Pulsa [%s] para levantarte."
+
+REFERENCE           HINT_STANDLETGOCROUCHKEY
+LANG_ENGLISH        "Let go of [%s] to stop crouching."
+LANG_SPANISH        "Deja de pulsar [%s] para dejar de agacharte."
+
+REFERENCE           HINT_STANDLETGOSECONDKEY
+LANG_ENGLISH        "If this makes you go prone, double tap [%s]."
+LANG_SPANISH        "Si esto te hace ponerte cuerpo a tierra, pulsa dos veces [%s]."
+
+REFERENCE           HINT_STANDFROMCROUCHKEY
+LANG_ENGLISH        "Double tap [%s] to stand up from crouch."
+LANG_SPANISH        "Pulsa dos veces [%s] para levantarte desde la posición agachada."
+
+REFERENCE           HINT_RAISEFROMCROUCHTOSTAND
+LANG_ENGLISH        "Single tap [%s] to stand from crouch."
+LANG_SPANISH        "Pulsa una vez [%s] para levantarte desde agachado."
+
+REFERENCE           HINT_STANDLETGOPRONEKEY
+LANG_ENGLISH        "Let go of [%s] to come out of prone."
+LANG_SPANISH        "Deja de pulsar [%s] para dejar de estar cuerpo a tierra."
+
+REFERENCE           HINT_ADSSTOP
+LANG_ENGLISH        "Press [%s] a second time to stop aiming down the sight."
+LANG_SPANISH        "Pulsa [%s] una segunda vez para dejar de bajar la mira."
+
+REFERENCE           HINT_FIRSTWEAPONKEY
+LANG_ENGLISH        "Press [%s] to switch to your first weapon."
+LANG_SPANISH        "Pulsa [%s] para cambiar a tu primera arma."
+
+REFERENCE           HINT_SECONDWEAPONKEY
+LANG_ENGLISH        "Press [%s] to switch to your second weapon."
+LANG_SPANISH        "Pulsa [%s] para cambiar a tu segunda arma."
+
+REFERENCE           HINT_SWAPWEAPONSKEY
+LANG_ENGLISH        "HOLD USE [%s] to swap your current weapon for another that you are looking at."
+LANG_SPANISH        "Mantén USAR [%s] para cambiar tu arma actual por otra que estés mirando."
+
+REFERENCE           HINT_PICKUPWEAPONKEY
+LANG_ENGLISH        "To pickup a weapon, look at it and press USE [%s]."
+LANG_SPANISH        "Para coger un arma, mírala y pulsa USAR [%s]."
+
+REFERENCE           HINT_PICKUPAMMOKEY
+LANG_ENGLISH        "To pickup ammo from another weapon, walk close to it or look at it and press USE [%s]."
+LANG_SPANISH        "Para coger munición de otro rifle, camina cerca de ella o mírala y pulsa USAR [%s]."
+
+REFERENCE           HINT_JUMPSTANDKEY
+LANG_ENGLISH        "While standing, press [%s] to jump."
+LANG_SPANISH        "Mientras estés erguido, pulsa [%s] para saltar."
+
+REFERENCE           HINT_LEANLEFTKEY
+LANG_ENGLISH        "Hold down [%s] to lean to the left."
+LANG_SPANISH        "Pulsa [%s] para inclinarte a la izquierda."
+
+REFERENCE           HINT_LEANRIGHTKEY
+LANG_ENGLISH        "Hold down [%s] to lean to the right."
+LANG_SPANISH        "Pulsa [%s] para inclinarte a la derecha."
+
+REFERENCE           HINT_LEANINGSLOWMOVE
+LANG_ENGLISH        "You move slower while leaning."
+LANG_SPANISH        "Mientras estés inclinado, te moverás más lento."
+
+REFERENCE           HINTSTR_PICKUPGRENADES
+LANG_ENGLISH        "Press [%s] to pick up the grenades."
+LANG_SPANISH        "Pulsa [%s] para coger las granadas."
+
+REFERENCE           HINTSTR_GRENADESFULL
+LANG_ENGLISH        "You can't carry anymore grenades."
+LANG_SPANISH        "No puedes llevar más granadas."
+
+REFERENCE           HINTSTR_PLANTEXPLOSIVES
+LANG_ENGLISH        "Press [%s] to plant the explosives."
+LANG_SPANISH        "Pulsa [%s] para colocar los explosivos."
+
+REFERENCE           HINTSTR_DOCUMENTS
+LANG_ENGLISH        "Press [%s] to pick up the documents."
+LANG_SPANISH        "Pulsa [%s] para coger los documentos."
+
+REFERENCE           HINTSTR_PICKUPEXPLOSIVES
+LANG_ENGLISH        "Press [%s] to pick up the explosives."
+LANG_SPANISH        "Pulsa [%s] para coger los explosivos."
+
+REFERENCE           HINTSTR_PICKUPPATROLLOGS
+LANG_ENGLISH        "Press [%s] to pick up the patrol log."
+LANG_SPANISH        "Pulsa [%s] para coger el cuaderno de bitácora de la patrullera."
+
+REFERENCE           PICKUPSTIELHANDGRANATES
+LANG_ENGLISH        "Picked up some Stielhandgranates."
+LANG_SPANISH        "Granadas de palo recogidas."
+
+REFERENCE           HINTSTR_USEELEVATOR
+LANG_ENGLISH        "Press [%s] to activate the elevator."
+LANG_SPANISH        "Pulsa [%s] para activar el ascensor."
+
+REFERENCE           GLOWING_MARKER
+LANG_ENGLISH        "Look for the glowing marker on the German anti-aircraft vehicle."
+LANG_SPANISH        "Busca el marcador destellante en el vehículo antiaéreo alemán."
+
+REFERENCE           CLEARBUILDING
+LANG_ENGLISH        "Clear the building with the Machine Guns in it."
+LANG_SPANISH        "Limpia el edificio con las ametralladoras en su interior."
+
+REFERENCE           TAKELEFTFLANK
+LANG_ENGLISH        "Take the left flank."
+LANG_SPANISH        "Toma el flanco izquierdo."
+
+REFERENCE           FIRE_TO_SKIP
+LANG_ENGLISH        "Press FIRE to Skip."
+LANG_SPANISH        "Pulsa FUEGO para saltar."
+
+REFERENCE           HINT_RELOAD
+LANG_ENGLISH        "Press [%s] to reload at any time."
+LANG_SPANISH        "Pulsa [%s] para recargar en cualquier momento."
+
+REFERENCE           USE_THE_PANZERFAUST_ANTITANK
+LANG_ENGLISH        "Use the Panzerfaust anti-tank weapons behind the bunker to destroy the tanks."
+LANG_SPANISH        "Usa las armas antitanque Panzerfaust de detrás del búnker para destruir los tanques."
+
+
+ENDMARKER
+
+

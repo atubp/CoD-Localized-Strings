@@ -1,0 +1,61 @@
+// Dumped from fastfile "pel1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1_OBJECTIVE2A
+LANG_ENGLISH        "Atraviesa las defensas japonesas."
+
+REFERENCE           PEL1_INTROSCREEN_PLACE
+LANG_ENGLISH        "White Beach, Peleliu"
+
+REFERENCE           PEL1_OBJECTIVE1
+LANG_ENGLISH        "Asalta la playa."
+
+REFERENCE           PEL1_INTROSCREEN_DATE
+LANG_ENGLISH        "15 de septiembre de 1944"
+
+REFERENCE           PEL1_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Pequeña resistencia\""
+
+REFERENCE           PEL1_INTROSCREEN_INFO
+LANG_ENGLISH        "1ª división de marines"
+
+REFERENCE           PEL1_OBJECTIVE2B
+LANG_ENGLISH        "Accede al búnker japonés."
+
+REFERENCE           PEL1_OBJECTIVE1A
+LANG_ENGLISH        "Solicita una descarga de cohetes sobre el comienzo de la selva."
+
+REFERENCE           PEL1_OBJECTIVE2C
+LANG_ENGLISH        "Despeja el búnker japonés."
+
+REFERENCE           PEL1_OBJECTIVE2D
+LANG_ENGLISH        "Reagrúpate con tu pelotón."
+
+REFERENCE           PEL1_INTROSCREEN_NAME
+LANG_ENGLISH        "Sld. Miller"
+
+REFERENCE           PEL1_ROCKETS_AVAIL
+LANG_ENGLISH        "Está disponible el ataque con cohetes."
+
+REFERENCE           PEL1_ROCKETS_ALWAYS_AVAIL
+LANG_ENGLISH        "Ahora se pueden usar ataques de cohetes sin restricciones."
+
+REFERENCE           PEL1_ROCKET_HOWTO
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] y, a continuación [{+attack}] para pedir por radio\nun ataque de cohetes sobre las defensas japonesas."
+
+REFERENCE           PEL1_OBJECTIVE2E
+LANG_ENGLISH        "Elimina a los japoneses del foso de mortero y sus alrededores."
+
+REFERENCE           PEL1_OBJECTIVE2F
+LANG_ENGLISH        "Pide un ataque con cohetes sobre los tanques japoneses. \n(2 de 2)"
+
+REFERENCE           PEL1_OBJECTIVE2G
+LANG_ENGLISH        "Pide un ataque con cohetes sobre los tanques japoneses. \n(1 de 2)"
+
+REFERENCE           PEL1_OBJECTIVE2H
+LANG_ENGLISH        "Pide un ataque con cohetes sobre los tanques japoneses."
+
+ENDMARKER

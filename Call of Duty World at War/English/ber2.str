@@ -1,0 +1,46 @@
+// Dumped from fastfile "ber2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER2_INTROSCREEN_INFO
+LANG_ENGLISH        "3rd Shock Army"
+
+REFERENCE           BER2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Berlin, Germany"
+
+REFERENCE           BER2_OBJ_REGROUP
+LANG_ENGLISH        "Regroup with your squad."
+
+REFERENCE           BER2_OBJ_FIGHT_THRU_METRO
+LANG_ENGLISH        "Fight through the Metro."
+
+REFERENCE           BER2_OBJ_MOVE_THRU_STREET
+LANG_ENGLISH        "Move up the street with the tanks."
+
+REFERENCE           BER2_INTROSCREEN_DATE
+LANG_ENGLISH        "April 24, 1945"
+
+REFERENCE           BER2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Eviction'"
+
+REFERENCE           BER2_OBJ_CLEAR_BLDGS
+LANG_ENGLISH        "Clear the buildings."
+
+REFERENCE           BER2_OBJ_STAY_WITH_TANK
+LANG_ENGLISH        "Stay close to the tank."
+
+REFERENCE           BER2_OBJ_DEFEND_SARGE
+LANG_ENGLISH        "Defend Reznov while he opens the door."
+
+REFERENCE           BER2_OBJ_EXECUTE
+LANG_ENGLISH        "Execute the wounded Germans."
+
+REFERENCE           BER2_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           BER2_OBJ_GET_TO_METRO
+LANG_ENGLISH        "Head into the Metro to escape the rockets!"
+
+ENDMARKER

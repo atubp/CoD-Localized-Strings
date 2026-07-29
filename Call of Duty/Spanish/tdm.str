@@ -1,0 +1,35 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TEAM_DEATHMATCH
+LANG_ENGLISH        "Team Deathmatch"
+LANG_SPANISH        "Duelo a muerte por equipos"
+
+REFERENCE           KILL_AXIS_PLAYERS
+LANG_ENGLISH        "Kill axis players."
+LANG_SPANISH        "Matar a los jugadores del eje."
+
+REFERENCE           KILL_ALLIED_PLAYERS
+LANG_ENGLISH        "Kill allied players."
+LANG_SPANISH        "Matar a los jugadores aliados."
+
+REFERENCE           ALLIES_KILL_AXIS_PLAYERS
+LANG_ENGLISH        "Allies: Kill axis players.\nAxis: Kill allied players."
+LANG_SPANISH        "Aliados: Matar a los jugadores del eje.\nEje: Matar a los jugadores aliados."
+
+
+ENDMARKER
+
+

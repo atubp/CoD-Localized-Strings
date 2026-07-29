@@ -1,0 +1,167 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           "Strings used in the weapon settings go in this file."
+
+REFERENCE           1_NEED_PICKUP
+LANG_ENGLISH        "1. Need a ride!"
+LANG_SPANISH        "1. ¡Necesito un medio de transporte!!"
+
+REFERENCE           2_GET_IN_JEEP
+LANG_ENGLISH        "2. Get in the jeep!"
+LANG_SPANISH        "2. ¡Entra en el jeep!"
+
+REFERENCE           3_JEEP_FULL
+LANG_ENGLISH        "3. Jeep full!"
+LANG_SPANISH        "3. ¡Al jeep!"
+
+REFERENCE           4_GET_ON_GUN
+LANG_ENGLISH        "4. Get on that machine gun!"
+LANG_SPANISH        "4. ¡Súbete a esa ametralladora!"
+
+REFERENCE           4_NEED_ARMOR
+LANG_ENGLISH        "4. Need armor support!"
+LANG_SPANISH        "4. ¡Necesito apoyo de blindados!"
+
+REFERENCE           5_JEEP_SPOTTED
+LANG_ENGLISH        "5. Enemy jeep spotted!"
+LANG_SPANISH        "5. ¡Jeep enemigo detectado!"
+
+REFERENCE           6_TANK_SPOTTED
+LANG_ENGLISH        "6. Enemy tank spotted!"
+LANG_SPANISH        "6. ¡Tanque enemigo detectado!"
+
+REFERENCE           7_HEAVY_TANK_SPOTTED
+LANG_ENGLISH        "7. Enemy heavy tank spotted!"
+LANG_SPANISH        "7. ¡Tanque pesado enemigo detectado!"
+
+REFERENCE           8_INCOMING_ARMOR
+LANG_ENGLISH        "8. Incoming armor!"
+LANG_SPANISH        "8. ¡Llegan blindados!"
+
+REFERENCE           5_VEHICLES
+LANG_ENGLISH        "5. Vehicles"
+LANG_SPANISH        "5. Vehículos"
+
+REFERENCE           NEED_PICKUP
+LANG_ENGLISH        "I need a ride!"
+LANG_SPANISH        " ¡Necesito un medio de transporte!"
+
+REFERENCE           JEEP_FULL
+LANG_ENGLISH        "Full jeep, go!"
+LANG_SPANISH        "¡Al jeep, vamos!"
+
+REFERENCE           GET_IN_JEEP
+LANG_ENGLISH        "Get in the jeep!"
+LANG_SPANISH        "¡Entra!"
+
+REFERENCE           GET_ON_GUN
+LANG_ENGLISH        "Get on that machine gun!"
+LANG_SPANISH        "¡Súbete a esa ametralladora!"
+
+REFERENCE           NEED_ARMOR
+LANG_ENGLISH        "I need armor support!"
+LANG_SPANISH        "¡Necesito apoyo de blindados!"
+
+REFERENCE           JEEP_SPOTTED
+LANG_ENGLISH        "Enemy jeep spotted!"
+LANG_SPANISH        "¡Jeep enemigo detectado!"
+
+REFERENCE           TANK_SPOTTED
+LANG_ENGLISH        "Enemy tank spotted!"
+LANG_SPANISH        "¡Tanque enemigo detectado!"
+
+REFERENCE           HEAVY_TANK_SPOTTED
+LANG_ENGLISH        "Enemy heavy tank spotted!"
+LANG_SPANISH        "¡Tanque pesado enemigo detectado!"
+
+REFERENCE           INCOMING_ARMOR
+LANG_ENGLISH        "Incoming armor!"
+LANG_SPANISH        "¡Llegan blindados!"
+
+REFERENCE           5_NEED_ARTILLERY
+LANG_ENGLISH        "5. Need artillery support!"
+LANG_SPANISH        "5. ¡Necesito el apoyo de los artilleros!"
+
+REFERENCE           NEED_ARTILLERY
+LANG_ENGLISH        "Need artillery support!"
+LANG_SPANISH        "¡Necesito apoyo de artillería!"
+
+REFERENCE           4_REQUESTS
+LANG_ENGLISH        "4. Requests"
+LANG_SPANISH        "4. Solicitudes"
+
+REFERENCE           9_REDEPLOY_FORWARD
+LANG_ENGLISH        "9. Redeploy forward!"
+LANG_SPANISH        "9. ¡Despliegue hacia delante!"
+
+REFERENCE           REDEPLOY_FORWARD
+LANG_ENGLISH        "Redeploy forward position!"
+LANG_SPANISH        "¡Despliegue! ¡Posición de vanguardia!"
+
+REFERENCE           7_SMOKE_OUT
+LANG_ENGLISH        "7. Smoke out!"
+LANG_SPANISH        "7. ¡Lanzad humo!"
+
+REFERENCE           SMOKE_OUT
+LANG_ENGLISH        "Smoke out!"
+LANG_SPANISH        "¡Lanzad humo!"
+
+REFERENCE           8_ENEMY_SPOTTED_AHEAD
+LANG_ENGLISH        "8. Enemy spotted ahead!"
+LANG_SPANISH        "8. ¡Detectado enemigo al frente!"
+
+REFERENCE           ENEMY_SPOTTED_AHEAD
+LANG_ENGLISH        "Enemy spotted ahead!"
+LANG_SPANISH        "¡Detectado enemigo al frente!"
+
+REFERENCE           9_ENEMY_BEHIND
+LANG_ENGLISH        "9. Enemy behind us!"
+LANG_SPANISH        "9. ¡Enemigo a nuestras espaldas!"
+
+REFERENCE           ENEMY_BEHIND
+LANG_ENGLISH        "They are behind us!"
+LANG_SPANISH        "¡Están detrás de nosotros!"
+
+REFERENCE           8_THANK_YOU
+LANG_ENGLISH        "8. Thank you!"
+LANG_SPANISH        "8. ¡Gracias!"
+
+REFERENCE           THANK_YOU
+LANG_ENGLISH        "Thank you!"
+LANG_SPANISH        "¡Gracias!"
+
+REFERENCE           3_NEED_BAZOOKA
+LANG_ENGLISH        "3. Need bazooka support!"
+LANG_SPANISH        "3. ¡Necesito una bazuca!"
+
+REFERENCE           NEED_BAZOOKA
+LANG_ENGLISH        "Need bazooka support!"
+LANG_SPANISH        "¡Necesito una bazuca!"
+
+REFERENCE           1_HOLD_YOUR_FIRE
+LANG_ENGLISH        "1. Hold your fire!"
+LANG_SPANISH        "1. ¡Alto el fuego!"
+
+REFERENCE           2_NEED_REINFORCEMENTS
+LANG_ENGLISH        "2. Need reinforcements!"
+LANG_SPANISH        "2. ¡Necesito refuerzos!"
+
+REFERENCE           NO
+LANG_ENGLISH        "4."
+LANG_SPANISH        "#same"
+
+
+ENDMARKER
+
+

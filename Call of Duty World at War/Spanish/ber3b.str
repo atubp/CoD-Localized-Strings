@@ -1,0 +1,67 @@
+// Dumped from fastfile "ber3b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3B_OBJ_3
+LANG_ENGLISH        "Sigue despejando el Reichstag."
+
+REFERENCE           BER3B_INTROSCREEN_INFO
+LANG_ENGLISH        "150ª División de infantería"
+
+REFERENCE           BER3B_INTROSCREEN_DATE
+LANG_ENGLISH        "30 de abril de 1945"
+
+REFERENCE           BER3B_INTROSCREEN_PLACE
+LANG_ENGLISH        "El Reichstag. Berlín, Alemania"
+
+REFERENCE           BER3B_OBJ_2
+LANG_ENGLISH        "Despeja la planta baja del parlamento."
+
+REFERENCE           BER3B_OBJ_1
+LANG_ENGLISH        "Asalta el Reichstag."
+
+REFERENCE           BER3B_OBJ_4
+LANG_ENGLISH        "Recoge la bandera rusa caída."
+
+REFERENCE           BER3B_OBJ_5
+LANG_ENGLISH        "Iza la bandera rusa en lo alto del Reichstag."
+
+REFERENCE           BER3B_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Caída\""
+
+REFERENCE           BER3B_OBJ_FLAG_RETRIEVE
+LANG_ENGLISH        "Recupera la bandera rusa."
+
+REFERENCE           BER3B_OBJ_FLAG_CARRY
+LANG_ENGLISH        "Lleva la bandera rusa al tejado."
+
+REFERENCE           BER3B_HINT_FLAG_PICKUP
+LANG_ENGLISH        "Mantén pulsado [{+activate}] para recoger la bandera."
+
+REFERENCE           BER3B_HINT_FLAG_DROP
+LANG_ENGLISH        "Mantén pulsado [{+usereload}] para soltar la bandera."
+
+REFERENCE           BER3B_FLAG_FAIL_DEADQUOTE
+LANG_ENGLISH        "¡Te has dejado atrás la bandera!"
+
+REFERENCE           BER3B_FLAG_FAIL_WARNING
+LANG_ENGLISH        "¡Camarada, no dejes atrás nuestra bandera!"
+
+REFERENCE           BER3B_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Dimitri Petrenko"
+
+REFERENCE           BER3B_OBJ_2A
+LANG_ENGLISH        "Súbete al balcón para proporcionar fuego de apoyo."
+
+REFERENCE           BER3B_DIARY_SKIP
+LANG_ENGLISH        "(Pulsa [{+activate}] para omitir.)"
+
+REFERENCE           BER3B_OBJ_2B
+LANG_ENGLISH        "Elimina a los alemanes del balcón sur."
+
+REFERENCE           BER3B_FLAG_PLANT_TRIGGER_HINT
+LANG_ENGLISH        "Pulsa [{+activate}] para izar la bandera."
+
+ENDMARKER

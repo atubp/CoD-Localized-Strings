@@ -1,0 +1,91 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJ1
+LANG_ENGLISH        "Break through the main gate."
+LANG_SPANISH        "Entrar por la puerta principal."
+
+REFERENCE           OBJ2
+LANG_ENGLISH        "Find a way into the chateau."
+LANG_SPANISH        "Encontrar un camino al Chateau."
+
+REFERENCE           OBJ3
+LANG_ENGLISH        "Secure any documents and plans."
+LANG_SPANISH        "Asegurar cualquier documento y los planes."
+
+REFERENCE           OBJ4
+LANG_ENGLISH        "Find the secret communications room."
+LANG_SPANISH        "Encontrar la sala de comunicaciones secreta."
+
+REFERENCE           OBJ5
+LANG_ENGLISH        "Sabotage enemy communications equipment with your weapon."
+LANG_SPANISH        "Sabotear los equipos de comunicaciones enemigos con tu arma"
+
+REFERENCE           OBJ6
+LANG_ENGLISH        "Find and secure the prisoners."
+LANG_SPANISH        "Encontrar y asegurar a los prisioneros."
+
+REFERENCE           OBJ7
+LANG_ENGLISH        "Clear the way to the extraction point."
+LANG_SPANISH        "Despejar el camino al punto de extracción."
+
+REFERENCE           OBJ4COUNT
+LANG_ENGLISH        "Destroy all enemy communications equipment. (%s remaining)"
+LANG_SPANISH        "Destruir todos los equipos de comunicaciones enemigos (%s remaining)"
+
+REFERENCE           PRICEKILLED
+LANG_ENGLISH        "Captain Price has been killed. Mission failed."
+LANG_SPANISH        "El capitán Price ha muerto. La misión ha fracasado."
+
+REFERENCE           SAVE_GATES
+LANG_ENGLISH        "Beyond the Chateau gates."
+LANG_SPANISH        "Más allá de las puertas del Chateau."
+
+REFERENCE           SAVE_INSIDE
+LANG_ENGLISH        "On the inside."
+LANG_SPANISH        "En el interior."
+
+REFERENCE           SAVE_KICKDOOR
+LANG_ENGLISH        "Hallway menace looms."
+LANG_SPANISH        "A medio camino surge una amenaza."
+
+REFERENCE           SAVE_OUTSIDEAGAIN
+LANG_ENGLISH        "Through twisted corridors."
+LANG_SPANISH        "A través de pasillos retorcidos."
+
+REFERENCE           SAVE_COM
+LANG_ENGLISH        "Sabotaging the communications room."
+LANG_SPANISH        "Saboteando la sala de comunicaciones."
+
+REFERENCE           SAVE_BOMB
+LANG_ENGLISH        "Foley and Moody lead the way."
+LANG_SPANISH        "Foley y Moody al frente."
+
+REFERENCE           SAVE_PRICE
+LANG_ENGLISH        "Captain Price must be escorted."
+LANG_SPANISH        "El capitán Price debe ser escoltado."
+
+REFERENCE           BUSTS
+LANG_ENGLISH        "Press [%s] to rotate the bust."
+LANG_SPANISH        "Pulsar [%s] para girar el busto."
+
+REFERENCE           PRICEOBJ
+LANG_ENGLISH        "Find and secure Captain Price."
+LANG_SPANISH        "Encontrar y asegurar al capitán Price."
+
+
+ENDMARKER
+
+

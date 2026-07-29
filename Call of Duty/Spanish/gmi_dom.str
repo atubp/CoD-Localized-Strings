@@ -1,0 +1,563 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\COD\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DOMINATION
+LANG_ENGLISH        "Domination"
+LANG_SPANISH        "Dominación"
+
+REFERENCE           MATCHSTARTING
+LANG_ENGLISH        "Match Starting"
+LANG_SPANISH        "Comienza la partida"
+
+REFERENCE           MATCHRESUMING
+LANG_ENGLISH        "Match Resuming"
+LANG_SPANISH        "Se reanuda la partida"
+
+REFERENCE           WAIT_TILL_MATCHSTART
+LANG_ENGLISH        "You must wait until the match is started."
+LANG_SPANISH        "Debes esperar hasta que la partida comience."
+
+REFERENCE           AXIS_CAP_FLAG_SOLO
+LANG_ENGLISH        "%s ^9Captured "
+LANG_SPANISH        "^9%s ^9capturado "
+
+REFERENCE           ALLIES_CAP_FLAG_SOLO
+LANG_ENGLISH        "%s ^8Captured "
+LANG_SPANISH        "^8%s ^8capturó "
+
+REFERENCE           ALLIES_CAP_FLAG_TEAM
+LANG_ENGLISH        "%s ^8was taken by"
+LANG_SPANISH        "^8%s fue tomado por"
+
+REFERENCE           AXIS_CAP_FLAG_TEAM
+LANG_ENGLISH        "%s ^9was taken by"
+LANG_SPANISH        "^9%s fue tomado por"
+
+REFERENCE           AXIS_FLAG_OVERRUN
+LANG_ENGLISH        "The ^9Axis ^7are overtaking "
+LANG_SPANISH        "El ^9Eje ^7toma la delantera "
+
+REFERENCE           ALLIES_FLAG_OVERRUN
+LANG_ENGLISH        "The ^8Allies ^7are overtaking "
+LANG_SPANISH        "Los ^8Aliados ^7toman la delantera  "
+
+REFERENCE           OBJ_ALLIES
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the ^9Axis"
+LANG_SPANISH        "Tu equipo debe capturar todas la banderas conocidas para derrotar al ^9Eje"
+
+REFERENCE           OBJ_AXIS
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the ^8Allies"
+LANG_SPANISH        "Tu equipo debe capturar todas la banderas conocidas para derrotar a los ^8Aliados"
+
+REFERENCE           OBJ_SPECTATOR
+LANG_ENGLISH        "^8Allies: ^7Capture all known flags.\n\n^9Axis: ^7Capture all known Flags."
+LANG_SPANISH        "^8Aliados: ^7captura todas las banderas conocidas.\n\n^9Eje: ^7captura todas las banderas conocidas."
+
+REFERENCE           OBJ_SPECTATOR_ALLIES
+LANG_ENGLISH        "^8Allies: ^7Capture all known flags.\n\n^9Axis: ^7Capture all known Flags."
+LANG_SPANISH        "^8Aliados: ^7captura todas las banderas conocidas.\n\n^9Eje: ^7captura todas las banderas conocidas."
+
+REFERENCE           OBJ_SPECTATOR_AXIS
+LANG_ENGLISH        "^8Allies: ^7Capture all known flags.\n\n^9Axis: ^7Capture all known Flags."
+LANG_SPANISH        "^8Aliados: ^7captura todas las banderas conocidas.\n\n^9Eje: ^7captura todas las banderas conocidas."
+
+REFERENCE           UNNAMED_FLAG0
+LANG_ENGLISH        "Flag 1"
+LANG_SPANISH        "Bandera 1"
+
+REFERENCE           UNNAMED_FLAG1
+LANG_ENGLISH        "Flag 2"
+LANG_SPANISH        "Bandera 2"
+
+REFERENCE           UNNAMED_FLAG2
+LANG_ENGLISH        "Flag 3"
+LANG_SPANISH        "Bandera 3"
+
+REFERENCE           UNNAMED_FLAG3
+LANG_ENGLISH        "Flag 4"
+LANG_SPANISH        "Bandera 4"
+
+REFERENCE           UNNAMED_FLAG4
+LANG_ENGLISH        "Flag 5"
+LANG_SPANISH        "Bandera 5"
+
+REFERENCE           FLAG1_MP_ARNHEM
+LANG_ENGLISH        "Allied Street"
+LANG_SPANISH        "Calle Aliada"
+
+REFERENCE           FLAG2_MP_ARNHEM
+LANG_ENGLISH        "Allied Headquarters"
+LANG_SPANISH        "Cuartel general Aliado"
+
+REFERENCE           FLAG3_MP_ARNHEM
+LANG_ENGLISH        "Church"
+LANG_SPANISH        "Iglesia"
+
+REFERENCE           FLAG4_MP_ARNHEM
+LANG_ENGLISH        "Axis Headquarters"
+LANG_SPANISH        "Cuartel general del Eje"
+
+REFERENCE           FLAG5_MP_ARNHEM
+LANG_ENGLISH        "Axis Street"
+LANG_SPANISH        "Calle del Eje"
+
+REFERENCE           FLAG1_MP_UO_CARENTAN
+LANG_ENGLISH        "Allied Base Exit"
+LANG_SPANISH        "Salida de la base Aliada"
+
+REFERENCE           FLAG2_MP_UO_CARENTAN
+LANG_ENGLISH        "Broken Home"
+LANG_SPANISH        "Hogar roto"
+
+REFERENCE           FLAG3_MP_UO_CARENTAN
+LANG_ENGLISH        "Grassy Courtyard"
+LANG_SPANISH        "Patio con hierba"
+
+REFERENCE           FLAG4_MP_UO_CARENTAN
+LANG_ENGLISH        "Arches Building"
+LANG_SPANISH        "Edificio con arcos"
+
+REFERENCE           FLAG5_MP_UO_CARENTAN
+LANG_ENGLISH        "Axis Base Exit"
+LANG_SPANISH        "Salida de la base del Eje"
+
+REFERENCE           FLAG1_MP_UO_DAWNVILLE
+LANG_ENGLISH        "Allied Base Exit"
+LANG_SPANISH        "Salida de la base Aliada"
+
+REFERENCE           FLAG2_MP_UO_DAWNVILLE
+LANG_ENGLISH        "Chicken Coop"
+LANG_SPANISH        "Gallinero"
+
+REFERENCE           FLAG3_MP_UO_DAWNVILLE
+LANG_ENGLISH        "Middle Half-Track"
+LANG_SPANISH        "Semioruga"
+
+REFERENCE           FLAG4_MP_UO_DAWNVILLE
+LANG_ENGLISH        "Cemetery"
+LANG_SPANISH        "Cementerio"
+
+REFERENCE           FLAG5_MP_UO_DAWNVILLE
+LANG_ENGLISH        "Axis Base Exit"
+LANG_SPANISH        "Salida de la base del Eje"
+
+REFERENCE           FLAG1_MP_UO_DEPOT
+LANG_ENGLISH        "Axis Flatbed Railcar"
+LANG_SPANISH        "Vagón plano del Eje"
+
+REFERENCE           FLAG2_MP_UO_DEPOT
+LANG_ENGLISH        "Warehouse"
+LANG_SPANISH        "Almacén"
+
+REFERENCE           FLAG3_MP_UO_DEPOT
+LANG_ENGLISH        "Rooftop"
+LANG_SPANISH        "Azotea"
+
+REFERENCE           FLAG4_MP_UO_DEPOT
+LANG_ENGLISH        "Motorpool"
+LANG_SPANISH        "Taller"
+
+REFERENCE           FLAG5_MP_UO_DEPOT
+LANG_ENGLISH        "Allied AA Railcar"
+LANG_SPANISH        "Vagón antiaéreo Aliado"
+
+REFERENCE           FLAG1_MP_UO_HARBOR
+LANG_ENGLISH        "Waterfront Warehouse"
+LANG_SPANISH        "Almacén del muelle"
+
+REFERENCE           FLAG2_MP_UO_HARBOR
+LANG_ENGLISH        "Storage Garage"
+LANG_SPANISH        "Garaje de almacenamiento"
+
+REFERENCE           FLAG3_MP_UO_HARBOR
+LANG_ENGLISH        "German 88 Gun"
+LANG_SPANISH        "Cañón 88 alemán"
+
+REFERENCE           FLAG4_MP_UO_HARBOR
+LANG_ENGLISH        "Crate and Barrel Alley"
+LANG_SPANISH        "Callejón con cajas y barriles"
+
+REFERENCE           FLAG5_MP_UO_HARBOR
+LANG_ENGLISH        "Russian Back Alley"
+LANG_SPANISH        "Callejón ruso"
+
+REFERENCE           FLAG1_MP_SWORD
+LANG_ENGLISH        "Beachhead Bunker"
+LANG_SPANISH        "Búnker en cabeza de playa"
+
+REFERENCE           FLAG2_MP_SWORD
+LANG_ENGLISH        "Artillery Bunker"
+LANG_SPANISH        "Búnker de artillería"
+
+REFERENCE           FLAG3_MP_SWORD
+LANG_ENGLISH        "Barnyard"
+LANG_SPANISH        "Corral"
+
+REFERENCE           FLAG4_MP_SWORD
+LANG_ENGLISH        "Backyard"
+LANG_SPANISH        "Patio trasero"
+
+REFERENCE           FLAG5_MP_SWORD
+LANG_ENGLISH        "Church"
+LANG_SPANISH        "Iglesia"
+
+REFERENCE           OBJ_SWORD_OBJ_ATTACKER
+LANG_ENGLISH        "The Allies must secure the town of Lion Sur-Mer."
+LANG_SPANISH        "Los Aliados deben asegurar el pueblo de Lion Sur-Mer"
+
+REFERENCE           OBJ_SWORD_OBJ_DEFENDER
+LANG_ENGLISH        "Protect the beachhead and the town of Lion Sur-Mer."
+LANG_SPANISH        "Protege la cabeza de playa y el pueblo de Lion Sur-Mer"
+
+REFERENCE           OBJ_SWORD_OBJ_SPECTATOR
+LANG_ENGLISH        "Join in the battle for the beachhead and Lion Sur-Mer."
+LANG_SPANISH        "Únete a la batalla por la cabeza de playa y Lion Sur-Mer"
+
+REFERENCE           OBJ_SWORD_SPAWN_ATTACKER
+LANG_ENGLISH        "The Allies must secure the town of Lion Sur-Mer."
+LANG_SPANISH        "Los Aliados deben asegurar el pueblo de Lion Sur-Mer"
+
+REFERENCE           OBJ_SWORD_SPAWN_DEFENDER
+LANG_ENGLISH        "Protect the beachhead and the town of Lion Sur-Mer."
+LANG_SPANISH        "Protege la cabeza de playa y el pueblo de Lion Sur-Mer"
+
+REFERENCE           OBJ_ARNHEM_OBJ_ATTACKER
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the Axis/Allies."
+LANG_SPANISH        "Tu equipo debe capturar todas las banderas conocidas para vencer al Eje/Aliados."
+
+REFERENCE           OBJ_ARNHEM_OBJ_DEFENDER
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the Axis/Allies."
+LANG_SPANISH        "Tu equipo debe capturar todas las banderas conocidas para vencer al Eje/Aliados."
+
+REFERENCE           OBJ_ARNHEM_OBJ_SPECTATOR
+LANG_ENGLISH        "Join in the battle for Arnhem."
+LANG_SPANISH        "Únete a la batalla por Arnhem"
+
+REFERENCE           OBJ_ARNHEM_SPAWN_ATTACKER
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the Axis/Allies."
+LANG_SPANISH        "Tu equipo debe capturar todas las banderas conocidas para vencer al Eje/Aliados."
+
+REFERENCE           OBJ_ARNHEM_SPAWN_DEFENDER
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the Axis/Allies."
+LANG_SPANISH        "Tu equipo debe capturar todas las banderas conocidas para vencer al Eje/Aliados."
+
+REFERENCE           ROUND_DRAW
+LANG_ENGLISH        "The round is a draw."
+LANG_SPANISH        "Este asalto es un empate"
+
+REFERENCE           CAPTURING_FLAG
+LANG_ENGLISH        "Capturing Flag"
+LANG_SPANISH        "Capturando bandera"
+
+REFERENCE           FLAG2_MP_KURSK
+LANG_ENGLISH        "The Allied Hill"
+LANG_SPANISH        "La colina Aliada\n"
+
+REFERENCE           FLAG1_MP_KURSK
+LANG_ENGLISH        "The Allied Well"
+LANG_SPANISH        "El pozo Aliado"
+
+REFERENCE           FLAG5_MP_KURSK
+LANG_ENGLISH        "The Axis Cemetery"
+LANG_SPANISH        "El cementerio del Eje\n"
+
+REFERENCE           FLAG4_MP_KURSK
+LANG_ENGLISH        "The Axis Windmill"
+LANG_SPANISH        "El molino del Eje\n"
+
+REFERENCE           FLAG3_MP_KURSK
+LANG_ENGLISH        "The Valley"
+LANG_SPANISH        "El valle\n"
+
+REFERENCE           FLAG4_MP_ITALY
+LANG_ENGLISH        "The Town Center"
+LANG_SPANISH        "El centro del pueblo"
+
+REFERENCE           FLAG2_MP_ITALY
+LANG_ENGLISH        "The Town Alley"
+LANG_SPANISH        "La calle del pueblo"
+
+REFERENCE           FLAG1_MP_ITALY
+LANG_ENGLISH        "The Allied Plains"
+LANG_SPANISH        "Las llanuras Aliadas"
+
+REFERENCE           FLAG5_MP_ITALY
+LANG_ENGLISH        "The Axis Plains"
+LANG_SPANISH        "Las llanuras del Eje"
+
+REFERENCE           FLAG1_MP_FOY
+LANG_ENGLISH        "The Cattle Pen"
+LANG_SPANISH        "el redil del ganado"
+
+REFERENCE           FLAG2_MP_FOY
+LANG_ENGLISH        "The Southern House"
+LANG_SPANISH        "la casa sur"
+
+REFERENCE           FLAG3_MP_FOY
+LANG_ENGLISH        "The East Courtyard"
+LANG_SPANISH        "el patio"
+
+REFERENCE           FLAG4_MP_FOY
+LANG_ENGLISH        "The West Courtyard"
+LANG_SPANISH        "el edificio quemado"
+
+REFERENCE           FLAG5_MP_FOY
+LANG_ENGLISH        "The Bridge"
+LANG_SPANISH        "el campo norte"
+
+REFERENCE           FLAG1_MP_KHARKOV
+LANG_ENGLISH        "the Russian State House"
+LANG_SPANISH        "Línea rusa primaria"
+
+REFERENCE           FLAG2_MP_KHARKOV
+LANG_ENGLISH        "the Embassy"
+LANG_SPANISH        "Línea rusa secundaria"
+
+REFERENCE           FLAG3_MP_KHARKOV
+LANG_ENGLISH        "the Leveled Houses"
+LANG_SPANISH        "Calle principal de Karhov"
+
+REFERENCE           FLAG4_MP_KHARKOV
+LANG_ENGLISH        "the Conscript Registration House"
+LANG_SPANISH        "Línea alemana primaria"
+
+REFERENCE           TIMEEXPIRED
+LANG_ENGLISH        "The time has expired."
+LANG_SPANISH        "El tiempo ha expirado"
+
+REFERENCE           ALLIEDMISSIONACCOMPLISHED
+LANG_ENGLISH        "^8The Allies have won the battle."
+LANG_SPANISH        "¡Los Aliados vencen!"
+
+REFERENCE           AXISMISSIONACCOMPLISHED
+LANG_ENGLISH        "^9The Axis Forces have won the battle."
+LANG_SPANISH        "¡El Eje vence!"
+
+REFERENCE           FLAG2_MP_BERLIN
+LANG_ENGLISH        "The Bunker"
+LANG_SPANISH        "el hotel"
+
+REFERENCE           FLAG1_MP_BERLIN
+LANG_ENGLISH        "The West Flak Gun"
+LANG_SPANISH        "el antiaéreo oeste"
+
+REFERENCE           FLAG3_MP_BERLIN
+LANG_ENGLISH        "The Central Flak Gun"
+LANG_SPANISH        "el antiaéreo central"
+
+REFERENCE           FLAG4_MP_BERLIN
+LANG_ENGLISH        "The Apartment Complex"
+LANG_SPANISH        "el complejo de apartamentos"
+
+REFERENCE           FLAG5_MP_BERLIN
+LANG_ENGLISH        "The Courtyard"
+LANG_SPANISH        "el patio"
+
+REFERENCE           OBJ_BERLIN_OBJ_ATTACKER
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the Axis/Allies."
+LANG_SPANISH        "Debes asegurar la ciudad de Berlín"
+
+REFERENCE           OBJ_BERLIN_OBJ_DEFENDER
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the Axis/Allies."
+LANG_SPANISH        "Debes defender la ciudad de Berlín"
+
+REFERENCE           OBJ_BERLIN_OBJ_SPECTATOR
+LANG_ENGLISH        "Join in the battle for Berlin."
+LANG_SPANISH        "Únete a la batalla por Berlín"
+
+REFERENCE           OBJ_BERLIN_SPAWN_ATTACKER
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the Axis/Allies."
+LANG_SPANISH        "Debes asegurar la ciudad de Berlín"
+
+REFERENCE           OBJ_BERLIN_SPAWN_DEFENDER
+LANG_ENGLISH        "Your team must capture all known flags in order to defeat the Axis/Allies."
+LANG_SPANISH        "Debes defender la ciudad de Berlín"
+
+REFERENCE           OBJ_FOY_OBJ_ATTACKER
+LANG_ENGLISH        "You must secure the town of Foy."
+LANG_SPANISH        "Debes asegurar el pueblo de Foy"
+
+REFERENCE           OBJ_FOY_OBJ_DEFENDER
+LANG_ENGLISH        "You must defend the town of Foy"
+LANG_SPANISH        "Debes defender el pueblo de Foy"
+
+REFERENCE           OBJ_FOY_OBJ_SPECTATOR
+LANG_ENGLISH        "Join in the battle for Foy."
+LANG_SPANISH        "Únete a la batalla de Foy"
+
+REFERENCE           OBJ_FOY_SPAWN_ATTACKER
+LANG_ENGLISH        "You must secure the town of Foy."
+LANG_SPANISH        "Debes asegurar el pueblo de Foy"
+
+REFERENCE           OBJ_FOY_SPAWN_DEFENDER
+LANG_ENGLISH        "You must defend the town of Foy."
+LANG_SPANISH        "Debes defender el pueblo de Foy"
+
+REFERENCE           FLAG1_MP_RHINEVALLEY
+LANG_ENGLISH        "the Eastern Vineyards"
+LANG_SPANISH        "Los viñedos del sur"
+
+REFERENCE           FLAG2_MP_RHINEVALLEY
+LANG_ENGLISH        "the Southern Village"
+LANG_SPANISH        "El rompeolas del sur"
+
+REFERENCE           FLAG3_MP_RHINEVALLEY
+LANG_ENGLISH        "Schloss Stolzenfels"
+LANG_SPANISH        "#same"
+
+REFERENCE           FLAG4_MP_RHINEVALLEY
+LANG_ENGLISH        "the Pass"
+LANG_SPANISH        "El rompeolas del norte"
+
+REFERENCE           FLAG5_MP_RHINEVALLEY
+LANG_ENGLISH        "the Western Vineyards"
+LANG_SPANISH        "Los viñedos del norte"
+
+REFERENCE           FLAG1_MP_UO_POWCAMP
+LANG_ENGLISH        "North Barracks"
+LANG_SPANISH        "Cuartel del norte"
+
+REFERENCE           FLAG2_MP_UO_POWCAMP
+LANG_ENGLISH        "Prison Motor Pool"
+LANG_SPANISH        "Taller de la prisión"
+
+REFERENCE           FLAG3_MP_UO_POWCAMP
+LANG_ENGLISH        "Central Guard Tower"
+LANG_SPANISH        "Torre de vigilancia central"
+
+REFERENCE           FLAG4_MP_UO_POWCAMP
+LANG_ENGLISH        "Supply Shed"
+LANG_SPANISH        "Cobertizo de suministros"
+
+REFERENCE           FLAG5_MP_UO_POWCAMP
+LANG_ENGLISH        "Outdoor Mess Yard"
+LANG_SPANISH        "Patio desordenado exterior"
+
+REFERENCE           FLAG1_MP_UO_HURTGEN
+LANG_ENGLISH        "German HQ Bunker"
+LANG_SPANISH        "Búnker del cuartel general alemán"
+
+REFERENCE           FLAG2_MP_UO_HURTGEN
+LANG_ENGLISH        "German Flak 88"
+LANG_SPANISH        "Flak 88 alemán"
+
+REFERENCE           FLAG3_MP_UO_HURTGEN
+LANG_ENGLISH        "Creekbed Outpost"
+LANG_SPANISH        "Puesto avanzado en el lecho del río"
+
+REFERENCE           FLAG4_MP_UO_HURTGEN
+LANG_ENGLISH        "Bridge Bunker"
+LANG_SPANISH        "Búnker del puente"
+
+REFERENCE           FLAG5_MP_UO_HURTGEN
+LANG_ENGLISH        "Far Woods Bunker"
+LANG_SPANISH        "Búnker del bosque lejano"
+
+REFERENCE           FLAG1_MP_PONYRI
+LANG_ENGLISH        "The School"
+LANG_SPANISH        "El colegio"
+
+REFERENCE           FLAG2_MP_PONYRI
+LANG_ENGLISH        "The Railyard"
+LANG_SPANISH        "La estación de tren"
+
+REFERENCE           FLAG3_MP_PONYRI
+LANG_ENGLISH        "The Central Hill"
+LANG_SPANISH        "La colina central"
+
+REFERENCE           FLAG4_MP_PONYRI
+LANG_ENGLISH        "The Farm"
+LANG_SPANISH        "La granja"
+
+REFERENCE           FLAG5_MP_PONYRI
+LANG_ENGLISH        "The Factory"
+LANG_SPANISH        "La fábrica"
+
+REFERENCE           FLAG6_MP_UO_HURTGEN
+LANG_ENGLISH        "Lone Road Outpost"
+LANG_SPANISH        "Puesto avanzado en carretera solitaria"
+
+REFERENCE           FLAG5_MP_KHARKOV
+LANG_ENGLISH        "the Estate Courtyard"
+LANG_SPANISH        "Patio de la finca"
+
+REFERENCE           FLAG6_MP_KHARKOV
+LANG_ENGLISH        "the Lenin House Library"
+LANG_SPANISH        "Biblioteca de la casa de Lenin"
+
+REFERENCE           FLAG1_MP_CASSINO
+LANG_ENGLISH        "The German Alley"
+LANG_SPANISH        "El callejón alemán"
+
+REFERENCE           FLAG2_MP_CASSINO
+LANG_ENGLISH        "The German Street"
+LANG_SPANISH        "La calle alemana"
+
+REFERENCE           FLAG3_MP_CASSINO
+LANG_ENGLISH        "The Courtyard"
+LANG_SPANISH        "El patio"
+
+REFERENCE           FLAG4_MP_CASSINO
+LANG_ENGLISH        "The Allied Alley"
+LANG_SPANISH        "El callejón de los Aliados"
+
+REFERENCE           FLAG5_MP_CASSINO
+LANG_ENGLISH        "The Allied Street"
+LANG_SPANISH        "La calle de los Aliados"
+
+REFERENCE           FLAG5_MP_STANJEL
+LANG_ENGLISH        "The Allied Gun Nest"
+LANG_SPANISH        "El nido de ametralladoras de los Aliados"
+
+REFERENCE           FLAG4_MP_STANJEL
+LANG_ENGLISH        "The Allied Underground Quarters"
+LANG_SPANISH        "El complejo subterráneo de los Aliados"
+
+REFERENCE           FLAG1_MP_STANJEL
+LANG_ENGLISH        "The Axis Headquarters"
+LANG_SPANISH        "El cuartel general del Eje"
+
+REFERENCE           FLAG2_MP_STANJEL
+LANG_ENGLISH        "The Axis Alley"
+LANG_SPANISH        "El callejón del Eje"
+
+REFERENCE           FLAG3_MP_STANJEL
+LANG_ENGLISH        "The Hill Ruins"
+LANG_SPANISH        "Las ruinas de la colina"
+
+REFERENCE           FLAG1_MP_SICILY
+LANG_ENGLISH        "the Allied Docks"
+LANG_SPANISH        "los muelles de los Aliados"
+
+REFERENCE           FLAG2_MP_SICILY
+LANG_ENGLISH        "the Allied Street"
+LANG_SPANISH        "la calle de los Aliados"
+
+REFERENCE           FLAG3_MP_SICILY
+LANG_ENGLISH        "the Amphitheatre"
+LANG_SPANISH        "el anfiteatro"
+
+REFERENCE           FLAG4_MP_SICILY
+LANG_ENGLISH        "the Axis Ruins"
+LANG_SPANISH        "las ruinas del Eje"
+
+REFERENCE           FLAG5_MP_SICILY
+LANG_ENGLISH        "the Axis Docks"
+LANG_SPANISH        "los muelles del Eje"
+
+
+ENDMARKER
+
+

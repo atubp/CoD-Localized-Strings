@@ -1,0 +1,91 @@
+// Dumped from fastfile "pel2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL2_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Aterrizaje duro\""
+
+REFERENCE           PEL2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Aeródromo, Peleliu"
+
+REFERENCE           PEL2_INTROSCREEN_DATE
+LANG_ENGLISH        "15 de septiembre de 1944"
+
+REFERENCE           PEL2_AA_BUNKER
+LANG_ENGLISH        "Asalta el búnker antiaéreo."
+
+REFERENCE           PEL2_ASSAULT_AIRFIELD
+LANG_ENGLISH        "Asalta el aeródromo."
+
+REFERENCE           PEL2_INTROSCREEN_NAME
+LANG_ENGLISH        "Sld. Miller"
+
+REFERENCE           PEL2_SECURE_MANGROVE_AREA
+LANG_ENGLISH        "Flanquea las posiciones\nde artillería japonesas."
+
+REFERENCE           PEL2_INTROSCREEN_INFO
+LANG_ENGLISH        "1ª división de marines"
+
+REFERENCE           PEL2_CLEAR_THE_BUILDING
+LANG_ENGLISH        "Despeja el edificio."
+
+REFERENCE           PEL2_BUNKER_REGROUP
+LANG_ENGLISH        "Cúbrete tras el pelotón."
+
+REFERENCE           PEL2_GET_BAZOOKA
+LANG_ENGLISH        "Coge la bazuca de la trinchera."
+
+REFERENCE           PEL2_CLEAR_BUNKERS
+LANG_ENGLISH        "Ataca los búnkeres."
+
+REFERENCE           PEL2_RETRIEVE_FLAME
+LANG_ENGLISH        "Recoge el lanzallamas."
+
+REFERENCE           PEL2_FLAME_MG
+LANG_ENGLISH        "Dispara fuego de supresión contra el búnker."
+
+REFERENCE           PEL2_FLAME_BUNKER
+LANG_ENGLISH        "Prende fuego al búnker."
+
+REFERENCE           PEL2_RIFLE_GRENADE_TEXT
+LANG_ENGLISH        "Pulsa [{+actionslot 3}] para añadir la granada propulsada."
+
+REFERENCE           PEL2_ADVANCE_TOWARDS_AIRFIELD
+LANG_ENGLISH        "Avanza hacia el aeródromo."
+
+REFERENCE           PEL2_BAZOOKA
+LANG_ENGLISH        "Destruye los tanques enemigos con bazucas."
+
+REFERENCE           PEL2_BAZOOKA_1
+LANG_ENGLISH        "Destruye los tanques tipo 97 con bazucas. (Queda 1 de 3)"
+
+REFERENCE           PEL2_BAZOOKA_2
+LANG_ENGLISH        "Destruye los tanques tipo 97 con bazucas. (Quedan 2 de 3)"
+
+REFERENCE           PEL2_BAZOOKA_3
+LANG_ENGLISH        "Destruye los tanques tipo 97 con bazucas. (Quedan 3 de 3)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS
+LANG_ENGLISH        "Elimina a las dotaciones de los AA. "
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_1
+LANG_ENGLISH        "Elimina a las dotaciones de los AA. (Queda 1 de 4)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_2
+LANG_ENGLISH        "Elimina a las dotaciones de los AA. (Quedan 2 de 4)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_3
+LANG_ENGLISH        "Elimina a las dotaciones de los AA. (Quedan 2 de 4)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_4
+LANG_ENGLISH        "Elimina a las dotaciones de los AA. (Quedan 4 de 4)"
+
+REFERENCE           PEL2_SECURE_AABUNKER
+LANG_ENGLISH        "Asegura el búnker antiaéreo."
+
+REFERENCE           PEL2_COUNTERATTACK
+LANG_ENGLISH        "Rechaza el contraataque."
+
+ENDMARKER

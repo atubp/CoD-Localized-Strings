@@ -1,0 +1,79 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ASSEMBLE_WITH_SGT_PAVLOVS
+LANG_ENGLISH        "Assemble with Sgt. Pavlov's squad."
+LANG_SPANISH        "Reunirse con la escuadra del sargento Pavlov."
+
+REFERENCE           ELIMINATE_THE_SNIPERS
+LANG_ENGLISH        "Eliminate the snipers."
+LANG_SPANISH        "Eliminar a los francontiradores."
+
+REFERENCE           GET_ACROSS_THE_FIELD
+LANG_ENGLISH        "Get across the field."
+LANG_SPANISH        "Cruzar el campo."
+
+REFERENCE           RETAKE_THE_APARTMENT
+LANG_ENGLISH        "Retake the apartment building."
+LANG_SPANISH        "Retomar el edificio de apartamentos."
+
+REFERENCE           REGROUP_WITH_SGT_PAVLOV
+LANG_ENGLISH        "Regroup with Sgt. Pavlov on the fourth floor."
+LANG_SPANISH        "Reunirse con el sargento Pavlov en el cuarto piso."
+
+REFERENCE           HOLD_THE_BUILDING_UNTIL
+LANG_ENGLISH        "Hold the building until relieved by friendly units."
+LANG_SPANISH        "Mantener el edificio hasta ser relevado por unidades amigas."
+
+REFERENCE           CLEAR_THE_AREA_OF_ANY
+LANG_ENGLISH        "Clear the area of any remaining enemy forces."
+LANG_SPANISH        "Limpiar la zona de cualquier fuerza enemiga restante."
+
+REFERENCE           ELIMINATE_THE_SNIPERS1
+LANG_ENGLISH        "Eliminate the snipers. (%s remaining)"
+LANG_SPANISH        "Eliminar a los francontiradores. (%s restantes)"
+
+REFERENCE           CLEAR_OUT_THE_APARTMENT
+LANG_ENGLISH        "Clear out the apartment building. (%s floors remaining)"
+LANG_SPANISH        "Limpiar el edificio de apartamentos. (%s pisos restantes)"
+
+REFERENCE           CLEAR_THE_AREA_OF_ANY1
+LANG_ENGLISH        "Clear the area of any remaining enemy forces. (%s remaining)"
+LANG_SPANISH        "Limpiar la zona de cualquier fuerza enemiga restante. (%s restantes)"
+
+REFERENCE           CLEAR_OUT_THE_APARTMENT1
+LANG_ENGLISH        "Clear out the apartment building. (%s floor remaining)"
+LANG_SPANISH        "Limpiar el edificio de apartamentos. (%s pisos restantes)"
+
+REFERENCE           REINFORCEMENTS_ARRIVING
+LANG_ENGLISH        "Reinforcements arriving in: "
+LANG_SPANISH        "Los refuerzos llegarán en: "
+
+REFERENCE           USE_THE_2ND_FLOOR_ANTITANK
+LANG_ENGLISH        "Use the 2nd floor anti-tank rifle to destroy the tank."
+LANG_SPANISH        "Usar el rifle antitanque del segundo piso para destruir el tanque."
+
+REFERENCE           USE_THE_3RD_FLOOR_ANTITANK
+LANG_ENGLISH        "Use the 3rd floor anti-tank rifle to destroy the tank."
+LANG_SPANISH        "Usar el rifle antitanque del tercer piso para destruir el tanque."
+
+REFERENCE           ASSEMBLE_WITH_THE_REINFORCEMENTS
+LANG_ENGLISH        "Assemble with the reinforcements out front."
+LANG_SPANISH        "Reunirse con los refuerzos en la parte delantera."
+
+
+ENDMARKER
+
+

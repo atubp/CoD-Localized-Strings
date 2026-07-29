@@ -1,0 +1,47 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJ_HOUSES
+LANG_ENGLISH        "Eliminate enemy resistance in the houses."
+LANG_SPANISH         "Elimina la resistencia enemiga en las casas."
+
+REFERENCE           OBJ_ASSEMBLE
+LANG_ENGLISH        "Assemble with Sergeant Randall on the road."
+LANG_SPANISH         "Reúnete con el sargento Randall en la carretera."
+
+REFERENCE           OBJ_EASTHP
+LANG_ENGLISH        "Take over the German hard point to the east."
+LANG_SPANISH         "Toma el punto fuerte alemán del este."
+
+REFERENCE           OBJ_MORTAR
+LANG_ENGLISH        "Eliminate the enemy mortar crew."
+LANG_SPANISH         "Elimina la dotación de mortero enemiga."
+
+REFERENCE           OBJ_LASTHOUSE
+LANG_ENGLISH        "Clear the house of enemy resistance."
+LANG_SPANISH         "Elimina toda resistencia enemiga en la casa."
+
+REFERENCE           OBJ_PANZERW
+LANG_ENGLISH        "Destroy the Panzerwerfer."
+LANG_SPANISH         "Destruye el Panzerwerfer."
+
+REFERENCE           OBJ_CHURCH
+LANG_ENGLISH        "Take over the church."
+LANG_SPANISH         "Toma la iglesia."
+
+
+ENDMARKER
+
+

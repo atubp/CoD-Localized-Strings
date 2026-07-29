@@ -1,0 +1,79 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MATCHSTARTING
+LANG_ENGLISH        "Match starting"
+LANG_SPANISH        "Iniciando encuentro"
+
+REFERENCE           MATCHRESUMING
+LANG_ENGLISH        "Match resuming"
+LANG_SPANISH        "Resumiendo encuentro"
+
+REFERENCE           ROUNDDRAW
+LANG_ENGLISH        "Round draw"
+LANG_SPANISH        "Empate"
+
+REFERENCE           ALLIEDMISSIONACCOMPLISHED
+LANG_ENGLISH        "Allied mission accomplished"
+LANG_SPANISH        "Misión de Los Aliados completada"
+
+REFERENCE           AXISMISSIONACCOMPLISHED
+LANG_ENGLISH        "Axis mission accomplished"
+LANG_SPANISH        "Misión de El Eje completada"
+
+REFERENCE           ALLIESHAVEBEENELIMINATED
+LANG_ENGLISH        "Allies have been eliminated"
+LANG_SPANISH        "Los Aliados han sido eliminados"
+
+REFERENCE           AXISHAVEBEENELIMINATED
+LANG_ENGLISH        "Axis have been eliminated"
+LANG_SPANISH        "El Eje ha sido eliminado"
+
+REFERENCE           TIMEHASEXPIRED
+LANG_ENGLISH        "Time has expired"
+LANG_SPANISH        "El tiempo se ha agotado"
+
+REFERENCE           EXPLOSIVESPLANTED
+LANG_ENGLISH        "Explosives planted"
+LANG_SPANISH        "Explosives colocados"
+
+REFERENCE           EXPLOSIVESDEFUSED
+LANG_ENGLISH        "Explosives defused"
+LANG_SPANISH        "Explosivos desactivados"
+
+REFERENCE           SEARCH_AND_DESTROY
+LANG_ENGLISH        "Search and Destroy"
+LANG_SPANISH        "Buscar y Destruir"
+
+REFERENCE           OBJ_ATTACKERS
+LANG_ENGLISH        "Destroy target A or B by planting explosives at either location."
+LANG_SPANISH        "Destruir los objetivos A o B colocando explosivos en cualquiera de ellos."
+
+REFERENCE           OBJ_DEFENDERS
+LANG_ENGLISH        "Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode."
+LANG_SPANISH        "Evitar que los objetivos A y B sean destruidos. Si se colocan explosivos en cualquiera de esas localizaciones, desactívalos antes de que exploten."
+
+REFERENCE           OBJ_SPECTATOR_ALLIESATTACKING
+LANG_ENGLISH        "Allies: Destroy target A or B by planting explosives at either location.\n\nAxis: Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode."
+LANG_SPANISH        "Aliados: Destruir los objetivos A o B colocando explosivos en cualquiera de ellos.\n\nEje: Evitar que los objetivos A y B sean destruidos. Si se colocan explosivos en cualquiera de esas localizaciones, desactívalos antes de que exploten."
+
+REFERENCE           OBJ_SPECTATOR_AXISATTACKING
+LANG_ENGLISH        "Allies: Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode.\n\nAxis: Destroy target A or B by planting explosives at either location."
+LANG_SPANISH        "Aliados: Evitar que los objetivos A y B sean destruidos. Si se colocan explosivos en cualquiera de esas localizaciones, desactívalos antes de que exploten.\n\nEje: Destruir los objetivos A o B colocando explosivos en cualquiera de ellos."
+
+
+ENDMARKER
+
+

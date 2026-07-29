@@ -1,0 +1,436 @@
+// Dumped from fastfile "localized_nazi_zombie_asylum".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 2.000)."
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Ronda"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Springfield con bayoneta (coste: 200)."
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir el archivador (coste: 2.000)."
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Pulsa &&1 para intercambiar armas"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Pulsa &&1 para comprar arma aleatoria (coste: 950)."
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Para arma [coste: &&1], para munición [coste: &&2]."
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "Que comience el ataque"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "Manicomio Wittenau "
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar tipo 99 (coste: 400)."
+
+REFERENCE           ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Nambu (coste: 50)."
+
+REFERENCE           ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar BAR (coste: 1.800)."
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "Has sobrevivido al ataque"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 500)."
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Mantén pulsado &&1 para volver a comprar barrera (coste: 10)."
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Has sobrevivido &&1 rondas."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Mantén pulsado &&1 para volver a comprar barrera (coste: 20)."
+
+REFERENCE           ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar PPSh-41 (coste: 2.000)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Mantén pulsado &&1 para volver a comprar barrera (coste: 50)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Mantén pulsado &&1 para volver a comprar barrera (coste: 100)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 100)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 200)."
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Mosin-Nagant (coste: 200)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 500)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 250)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 750)."
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Mantén pulsado &&1 para reconstruir barrera [recompensa: 40]."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 1.000)."
+
+REFERENCE           ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Tokarev TT-30 (coste: 50)."
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar carabina M1 con bayoneta (coste: 600)."
+
+REFERENCE           ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Colt pesado (coste: 100)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 1.250)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 1.500)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 1.250)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Mantén pulsado &&1 para quitar los escombros (coste: 1.750)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 100)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 200)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 1.750)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 1.000)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 500)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 250)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 750)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 1.000)."
+
+REFERENCE           ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Magnum .357 (coste: 100)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 1.500)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 2500)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 1.750)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 100)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la puerta (coste: 2.000)."
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Revivir (coste: 1.500)."
+
+REFERENCE           ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Colt (coste: 50)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 200)."
+
+REFERENCE           ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] y luego [{+attack}] para poner una Bouncing Betty."
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Kar98k (coste: 200)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 250)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 750)."
+
+REFERENCE           ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Colt zombi (coste: 25)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 1.200)."
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar tipo 99 con bayoneta (coste: 400)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 1.500)."
+
+REFERENCE           ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Gewehr 43 (coste: 600)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 2.000)."
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir el archivador (coste: 500)."
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar arma de rayos (coste: 10.000)."
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir el archivador (coste: 1.000)."
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Mosin-Nagant con granada propulsada (coste: 1.500)."
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir el archivador (coste: 1.500)."
+
+REFERENCE           ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Walther P38 (coste: 50)."
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Mosin-Nagant (coste: 200)."
+
+REFERENCE           ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar DP-28 (coste: 2.250)."
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Springfield (coste: 200)."
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Kar98k con bayoneta (coste: 200)."
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar carabina M1 (coste: 600)."
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar M1 Garand (coste: 600)."
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar M1 Garand con bayoneta (coste: 600)."
+
+REFERENCE           ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar SVT-40 (coste: 600)."
+
+REFERENCE           ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "Mantén pulsado &&1 para G. frag. M2 (coste: 250)."
+
+REFERENCE           ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Molotov (coste: 200)."
+
+REFERENCE           ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar BAR con bípode (coste: 2.500)."
+
+REFERENCE           ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar granada RGD-33 (coste: 250)."
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Has sobrevivido 1 ronda."
+
+REFERENCE           ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Stielhandgranate (coste: 250)."
+
+REFERENCE           ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar granada tipo 97 (coste: 250)."
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Kar98k con mira (coste: 750)."
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Kar98k con mira y bayoneta (coste: 750)."
+
+REFERENCE           ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Escopeta M1897 (coste: 1.500)."
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Mosin-Nagant con mira (coste: 750)."
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Mosin-Nagant con mira y bayoneta (coste: 750)."
+
+REFERENCE           ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar PTRS-41 (coste: 750)."
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Springfield con mira (coste: 700)."
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Springfield con mira y bayoneta (coste: 750)."
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Mantén pulsado &&1 para reconstruir barrera [recompensa: 10]."
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar tipo 99 con mira (coste: 750)."
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar tipo 99 con mira y bayoneta (coste: 750)."
+
+REFERENCE           ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar MP40 (coste: 1.000)."
+
+REFERENCE           ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar STG-44 (coste: 1.200)."
+
+REFERENCE           ZOMBIE_WEAPON_THOMPSON_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Thompson (coste: 1200)."
+
+REFERENCE           ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Tipo 100 (coste: 1.000)."
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar escopeta de dos cañones (coste: 1.200)."
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar escopeta recortada (coste: 1.200)."
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Browning M1919 (coste: 3.000)."
+
+REFERENCE           ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar FG42 (coste: 1.500)."
+
+REFERENCE           ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar carabina FG42 con mira (coste: 1.500)."
+
+REFERENCE           ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar MG42 (coste: 3.000)."
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar AML tipo 99 (coste: 1.750)."
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar M1 Garand con granada propulsada (coste: 1.500)."
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Browning M1919 con bípode (coste: 3.500)."
+
+REFERENCE           ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar DP-28 con bípode (coste: 2.500)."
+
+REFERENCE           ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar FG42 con bípode (coste: 2.000)."
+
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Zarzaparrilla Pulsación doble (coste: 2.000)"
+
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Refresco de cola rápido (coste: 3.000)."
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Bebida titán (coste: 2.500)."
+
+REFERENCE           ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar MG42 con bípode (coste: 3.500)."
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar AML tipo 99 con bípode (coste: 2.250)."
+
+REFERENCE           ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar bazuca M9A1 (coste: 2.000)."
+
+REFERENCE           ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar Panzerschrek (coste: 2.000)."
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "Septiembre, 1945"
+
+REFERENCE           ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar lanzallamas (coste: 3.000)."
+
+REFERENCE           ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar proyectiles de mortero (coste: 2.000)."
+
+REFERENCE           ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar carga explosiva (coste: 2.000)."
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "¡Zombi abatido!"
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Baja instantánea: "
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "¡Bombazo zombi!"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Puntos dobles: "
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "¡Munición máxima!"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Mantén pulsado &&1 para reconstruir barrera [recompensa: 20]."
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Mantén pulsado &&1 para reconstruir barrera [recompensa: 30]."
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "FIN DEL JUEGO"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Mantén pulsado &&1 para reconstruir barrera [recompensa: 50]."
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Pulsa &&1 para comprar arma aleatoria (coste: 850)."
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Pulsa &&1 para comprar arma aleatoria (coste: 750)."
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Pulsa &&1 para comprar arma aleatoria (coste: 650)."
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Mantén pulsado &&1 para reconstruir barrera."
+
+REFERENCE           ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "Primero hay que dar la potencia."
+
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Mantén pulsado &&1 para activar la barrera de llamas (coste: 500)."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Mantén pulsado &&1 para abrir la zona (coste: 2500)."
+
+REFERENCE           ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "Mantén pulsado &&1 para activar la barrera eléctrica (coste: 1.000)."
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Mantén pulsado &&1 para comprar una Bouncing Betty (coste: 1000, solo una vez)."
+
+REFERENCE           ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Ya has comprado Bouncing Bettys"
+
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Mantén pulsado &&1 para activar la torreta de fuente (coste: 750)."
+
+REFERENCE           ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Mantén pulsado &&1 para activar la electricidad."
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "Berlín, Alemania"
+
+ENDMARKER

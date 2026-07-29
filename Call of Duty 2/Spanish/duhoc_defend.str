@@ -1,0 +1,55 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           "Strings used in Duhoc defend go in this file."
+
+REFERENCE           OBJ_1
+LANG_ENGLISH        "Defend the south roadblock."
+LANG_SPANISH         "Defiende el control sur de carretera."
+
+REFERENCE           OBJ_1B
+LANG_ENGLISH        "Defend the west roadblock."
+LANG_SPANISH         "Defiende el control de carretera del oeste."
+
+REFERENCE           OBJ_2
+LANG_ENGLISH        "Fall back and defend the orchard."
+LANG_SPANISH         "Repliégate y defiende el huerto."
+
+REFERENCE           OBJ_3
+LANG_ENGLISH        "Fall back to the machine gun on the second floor and provide covering fire."
+LANG_SPANISH         "Repliégate a la ametralladora de la segunda planta y proporciona fuego de cobertura."
+
+REFERENCE           OBJ_4
+LANG_ENGLISH        "Fall back and defend the Pointe."
+LANG_SPANISH         "Repliégate y defiende Pointe."
+
+REFERENCE           OBJ_5
+LANG_ENGLISH        "Defend the Pointe until support arrives."
+LANG_SPANISH         "Defiende Pointe hasta que llegue el apoyo."
+
+REFERENCE           OBJ_6
+LANG_ENGLISH        "Deploy green smoke to mark friendly location."
+LANG_SPANISH         "Marca la posición aliada con humo verde."
+
+REFERENCE           SMOKE_REMINDER
+LANG_ENGLISH        "Go to the top of the bunker to deploy the green smoke."
+LANG_SPANISH         "Sube a lo alto del búnker para soltar el humo verde."
+
+REFERENCE           TIMER
+LANG_ENGLISH        "Reinforcements: "
+LANG_SPANISH         "Refuerzos: "
+
+
+ENDMARKER
+
+

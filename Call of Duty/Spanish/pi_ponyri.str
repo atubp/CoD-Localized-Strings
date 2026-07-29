@@ -1,0 +1,251 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PLACE
+LANG_ENGLISH        "Just outside Ponyri"
+LANG_SPANISH        "Justo a las afueras de Ponyri"
+
+REFERENCE           DATE
+LANG_ENGLISH        "July 11, 1943"
+LANG_SPANISH        "11 de julio de 1943"
+
+REFERENCE           TIME
+LANG_ENGLISH        "1100 hrs"
+LANG_SPANISH        "11:00 hrs"
+
+REFERENCE           ANTONOV_INTROSPEECH2
+LANG_ENGLISH        "Listen well, comrades. Just beyond this hill to the north, we will advance to a train station, where our tanks will gently persuade the enemy to abandon their posts, or die.  Once the station has been secured, we will press our advantage until the only Germans left in Ponyri are dead! Move out!"
+LANG_SPANISH        "Atended, camaradas. Justo tras esta colina, al norte, avanzaremos hacia una estación de tren donde nuestros tanques invitarán al enemigo a abandonar sus puestos... o morir. ¡Una vez asegurada la estación, aprovecharemos la ventaja hasta que los únicos alemanes al este de Ponyri sean sus muertos! ¡Vamos!"
+
+REFERENCE           ANTONOV_TANKSCOVER
+LANG_ENGLISH        "Fall in behind! Use the tanks for cover!"
+LANG_SPANISH        "¡Atrás! ¡Cubríos tras los tanques!"
+
+REFERENCE           ANTONOV_OUTFLANK
+LANG_ENGLISH        "Left flank - left flank!"
+LANG_SPANISH        "¡Flanco izquierdo! ¡Flanco izquierdo!"
+
+REFERENCE           ANTONOV_RAILSNIPERS2
+LANG_ENGLISH        "Sniper in the tower! Yuri - stop him - we will take care of the Germans in the station."
+LANG_SPANISH        "¡Tirador en la torre! Yuri, encárgate, los alemanes de la estación son nuestros.."
+
+REFERENCE           ANTONOV_INTOSTATION
+LANG_ENGLISH        "You men - into the station! Drive them out! Go! Go! Go!"
+LANG_SPANISH        "¡Vosotros, a la estación! ¡Echadlos! ¡Vamos, vamos, vamos!"
+
+REFERENCE           ANTONOV_SECURE
+LANG_ENGLISH        "Yuri, get back down!"
+LANG_SPANISH        "¡Yuri, vuelve!"
+
+REFERENCE           ANTONOV_REGROUP1
+LANG_ENGLISH        "Regroup!"
+LANG_SPANISH        "¡Reagrupaos!"
+
+REFERENCE           ANTONOV_REGROUP2
+LANG_ENGLISH        "To me!"
+LANG_SPANISH        "¡A mí!"
+
+REFERENCE           ANTONOV_SPEECH2
+LANG_ENGLISH        "Nicely done men, we have them on the run -- so let's keep it that way. Move out!"
+LANG_SPANISH        "Bien hecho, muchachos, huyen. Hagamos que sigan así, ¡vamos!"
+
+REFERENCE           VASSILI_TAKECOVER4
+LANG_ENGLISH        "Don't stop.  Keep moving forward."
+LANG_SPANISH        "No os pareís. Seguid avanzando."
+
+REFERENCE           VASSILI_HEADSDOWN
+LANG_ENGLISH        "Down - get down! Machineguns! Yuri get into that schoolhouse and teach them a lesson!"
+LANG_SPANISH        "¡Al suelo, abajo! ¡Ametralladoras! ¡Yuri, ve a esa escuela y dales una lección!"
+
+REFERENCE           BORIS_MEDIC
+LANG_ENGLISH        "Man Down! Medic!"
+LANG_SPANISH        "¡Hombre caído! ¡Médico!"
+
+REFERENCE           ANTONOV_EXPLOSIVES
+LANG_ENGLISH        "It's too late for that. Yuri, grab his explosives, we're going to need them."
+LANG_SPANISH        "Demasiado tarde para eso. Yuri, coge sus explosivos, los necesitaremos."
+
+REFERENCE           ANTONOV_EXPLOSIVES2
+LANG_ENGLISH        "Yuri, get those explosives - NOW!"
+LANG_SPANISH        "¡Yuri, coge esos explosivos, YA!"
+
+REFERENCE           ANTONOV_PANZER_MOVE
+LANG_ENGLISH        "Panzer! Get around it! Move!"
+LANG_SPANISH        "¡Panzer! ¡Rodeadlo! ¡Moveos!"
+
+REFERENCE           ANTONOV_KILLTANK1
+LANG_ENGLISH        "We have to get through here! Boris, flank right behind these buildings and plant your charges on that Panzer!"
+LANG_SPANISH        "Tenemos que salir de aquí. ¡Boris, rodea por la derecha tras esos edificios y coloca tus cargas en ese panzer!"
+
+REFERENCE           ANTONOV_KILLTANK2
+LANG_ENGLISH        "Yuri! Follow Boris and cover him while he destroys that tank!"
+LANG_SPANISH        "¡Yuri, sigue a Boris y cúbrelo mientras destruye ese tanque!"
+
+REFERENCE           ANTONOV_STOPMG
+LANG_ENGLISH        "Machine Gun! Flank left and move in behind it!"
+LANG_SPANISH        "¡Ametralladora! ¡Id por la izquierda y rodeadla!"
+
+REFERENCE           ANTONOV_STOPMG2
+LANG_ENGLISH        "Yuri! Flank left with Boris and get behind that machinegun!"
+LANG_SPANISH        "¡Yuri, rodea por la izquierda con Boris y colócate detrás de esa ametralladora!"
+
+REFERENCE           ANTONOV_ASSAULT
+LANG_ENGLISH        "Move in! The assault on the factory has begun!"
+LANG_SPANISH        "¡Entrad! ¡Ha empezado el asalto a la fábrica!"
+
+REFERENCE           ANTONOV_BASMENT
+LANG_ENGLISH        "Yuri - into the basement! We will hold off the Germans here!"
+LANG_SPANISH        "¡Yuri, al sótano! ¡Contendremos aquí a los alemanes!"
+
+REFERENCE           ANTONOV_BASMENT2
+LANG_ENGLISH        "Hurry - into the basement! You must go now!"
+LANG_SPANISH        "¡Rápido, al sótano! ¡Vete ya!"
+
+REFERENCE           ANON_THRUDOORS
+LANG_ENGLISH        "Get through those doors!"
+LANG_SPANISH        "¡Atraviesa esas puertas!"
+
+REFERENCE           ANON_TOOQUIET1
+LANG_ENGLISH        "It's too quiet, we've taken them by surprise!"
+LANG_SPANISH        "Demasiado tranquilo. ¡Los cogimos por sorpresa!"
+
+REFERENCE           ANON_TOOQUIET2
+LANG_ENGLISH        "Let's hurry to the factory floor!"
+LANG_SPANISH        "¡Corramos a la fábrica!"
+
+REFERENCE           ANON_TOOQUIET3
+LANG_ENGLISH        "Quickly! Move - move!"
+LANG_SPANISH        "¡Rápido! ¡Vamos, vamos!"
+
+REFERENCE           ANON_TOOQUIET4
+LANG_ENGLISH        "While our forces keep them occupied we'll slaughter them from within."
+LANG_SPANISH        "Mientras los nuestros los tienen ocupados, los mataremos desde dentro."
+
+REFERENCE           ANON_GOODSHOT
+LANG_ENGLISH        "Good shot! Keep going."
+LANG_SPANISH        "¡Buen tiro!."
+
+REFERENCE           ANON_ALMOSTTHERE
+LANG_ENGLISH        "Keep going.  We're almost there!"
+LANG_SPANISH        "Sigue, ¡casi hemos llegado!"
+
+REFERENCE           ANON_CATWALK
+LANG_ENGLISH        "We must get across that catwalk."
+LANG_SPANISH        "Debemos atravesar esa pasarela."
+
+REFERENCE           ANON_SERGEANT
+LANG_ENGLISH        "There's the sergeant below!  They made it!"
+LANG_SPANISH        "¡Ahí está el sargento, lo lograron!"
+
+REFERENCE           ANTONOV_PFAUST
+LANG_ENGLISH        "There's a man in that tank!  Find a Panzerfaust and take care of him!"
+LANG_SPANISH        "¡Hay un hombre en ese tanque! ¡Encontrad un panzerfaust y encargaos de él!"
+
+REFERENCE           ANTONOV_PFAUST2
+LANG_ENGLISH        "Take out that tank!"
+LANG_SPANISH        "¡Eliminad ese tanque!"
+
+REFERENCE           COMMISSAR_ENDING
+LANG_ENGLISH        "Comrades! We have driven the enemy from Ponyri, and will not rest until the whole German army has been driven off Russian soil!""
+LANG_SPANISH        "¡Camaradas! Hemos expulsado al enemigo de Ponyri, ¡y no descansaremos hasta que todo el ejército alemán esté fuera de Rusia!"
+
+REFERENCE           OBJECTIVE1
+LANG_ENGLISH        "Take the rail station"
+LANG_SPANISH        "Tomar la estación de tren."
+
+REFERENCE           OBJECTIVE1A
+LANG_ENGLISH        "Flank to the left of the rails"
+LANG_SPANISH        "Colocarse a la izquierda de los raíles."
+
+REFERENCE           OBJECTIVE1B
+LANG_ENGLISH        "Eliminate German sniper in the tower"
+LANG_SPANISH        "Eliminar al francotirador alemán de la torre."
+
+REFERENCE           OBJECTIVE1C
+LANG_ENGLISH        "Clear the rail station of German forces"
+LANG_SPANISH        "Despejar la estación de tren de fuerzas alemanas."
+
+REFERENCE           OBJECTIVE1D
+LANG_ENGLISH        "Rendezvous with Antonov"
+LANG_SPANISH        "Tener un encuentro con Antonov."
+
+REFERENCE           OBJECTIVE2
+LANG_ENGLISH        "Clear the town of German resistance"
+LANG_SPANISH        "Eliminar la resistencia alemana en la ciudad."
+
+REFERENCE           OBJECTIVE3
+LANG_ENGLISH        "Sweep the school and eliminate the machine gunners"
+LANG_SPANISH        "Investigar la escuela y eliminar a los artilleros."
+
+REFERENCE           OBJECTIVE3A
+LANG_ENGLISH        "Enter the school from the west"
+LANG_SPANISH        "Entrar en la escuela por el oeste."
+
+REFERENCE           OBJECTIVE3B
+LANG_ENGLISH        "Eliminate the machinegun nest upstairs"
+LANG_SPANISH        "Eliminar el nido de ametralladoras del piso de arriba."
+
+REFERENCE           OBJECTIVE3C
+LANG_ENGLISH        "Regroup with your squad"
+LANG_SPANISH        "Reunirse con tu pelotón."
+
+REFERENCE           OBJECTIVE4
+LANG_ENGLISH        "Get to the tractor factory"
+LANG_SPANISH        "Llegar a la fábrica de tractores."
+
+REFERENCE           OBJECTIVE4A
+LANG_ENGLISH        "Recover the explosives"
+LANG_SPANISH        "Recuperar las cargas."
+
+REFERENCE           OBJECTIVE4B
+LANG_ENGLISH        "Protect Semashko while he plants charges on the tank"
+LANG_SPANISH        "Protege a Semashko mientras coloca las cargas en el tanque."
+
+REFERENCE           OBJECTIVE4C
+LANG_ENGLISH        "Eliminate the machine gun emplacement"
+LANG_SPANISH        "Eliminar el emplazamiento de ametralladoras."
+
+REFERENCE           OBJECTIVE4F
+LANG_ENGLISH        "Clear the way to the factory"
+LANG_SPANISH        "Despejar el camino hasta la fábrica."
+
+REFERENCE           OBJECTIVE4G
+LANG_ENGLISH        "Assault the factory"
+LANG_SPANISH        "Asaltar la fábrica."
+
+REFERENCE           OBJECTIVE5A
+LANG_ENGLISH        "Enter the factory through the basement"
+LANG_SPANISH        "Entrar en la fábrica desde el sótano."
+
+REFERENCE           OBJECTIVE5B
+LANG_ENGLISH        "Get to the top floor catwalks"
+LANG_SPANISH        "Llegar a las pasarelas del piso de arriba."
+
+REFERENCE           OBJECTIVE5C
+LANG_ENGLISH        "Get the panzerfaust and destroy the tank"
+LANG_SPANISH        "Consegir el Panzerfaust y destruye el tanque."
+
+REFERENCE           OBJECTIVE5D
+LANG_ENGLISH        "Eliminate all German resistance"
+LANG_SPANISH        "Eliminar a toda la resistencia alemana."
+
+REFERENCE           OBJECTIVE5E
+LANG_ENGLISH        "Regroup with your troops"
+LANG_SPANISH        "Reunirse con las tropas."
+
+
+ENDMARKER
+
+

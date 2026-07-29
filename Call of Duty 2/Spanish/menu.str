@@ -1,0 +1,3107 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           "Strings displayed in the menus go in this file."
+
+REFERENCE           MULTI_GPU
+LANG_ENGLISH        "Using Multiple Video Cards"
+LANG_SPANISH         "Usar varias tarjetas de vídeo"
+
+REFERENCE           YES
+LANG_ENGLISH        "Yes"
+LANG_SPANISH         "Sí"
+
+REFERENCE           MULTIPLAYER
+LANG_ENGLISH        "Multiplayer"
+LANG_SPANISH         "Multijugador"
+
+REFERENCE           QUIT
+LANG_ENGLISH        "Quit"
+LANG_SPANISH         "Salir"
+
+REFERENCE           OPTIONS
+LANG_ENGLISH        "Options"
+LANG_SPANISH         "Opciones"
+
+REFERENCE           SAVELOADGAME
+LANG_ENGLISH        "Save/Load Game"
+LANG_SPANISH         "Guardar/Cargar partida"
+
+REFERENCE           LOADGAME
+LANG_ENGLISH        "Load Game"
+LANG_SPANISH         "Cargar partida"
+
+REFERENCE           NEWGAME
+LANG_ENGLISH        "New Game"
+LANG_SPANISH         "Nueva partida"
+
+REFERENCE           TRAINING
+LANG_ENGLISH        "Training"
+LANG_SPANISH         "Entrenamiento"
+
+REFERENCE           RESUMEGAME
+LANG_ENGLISH        "Resume Game"
+LANG_SPANISH         "Continuar partida"
+
+REFERENCE           BACKTOGAME
+LANG_ENGLISH        "Back To Game"
+LANG_SPANISH         "Volver a la partida"
+
+REFERENCE           CURRENTLYINAGAME
+LANG_ENGLISH        "You are currently in a game"
+LANG_SPANISH         "Ya estás en una partida"
+
+REFERENCE           DOYOUWISHTOCONTINUE
+LANG_ENGLISH        "Do you wish to continue?"
+LANG_SPANISH         "¿Continuar?"
+
+REFERENCE           CHOOSESKILLLEVEL
+LANG_ENGLISH        "Choose Your Skill Level"
+LANG_SPANISH         "Escoge tu nivel de habilidad"
+
+REFERENCE           GREENHORN
+LANG_ENGLISH        "Greenhorn"
+LANG_SPANISH         "Novato"
+
+REFERENCE           REGULAR
+LANG_ENGLISH        "Regular"
+LANG_SPANISH         "Profesional"
+
+REFERENCE           HARDENED
+LANG_ENGLISH        "Hardened"
+LANG_SPANISH         "Curtido"
+
+REFERENCE           VETERAN
+LANG_ENGLISH        "Veteran"
+LANG_SPANISH         "Veterano"
+
+REFERENCE           BACK
+LANG_ENGLISH        "Back"
+LANG_SPANISH         "Atrás"
+
+REFERENCE           STARTTRAINING
+LANG_ENGLISH        "Start training?"
+LANG_SPANISH         "¿Empezar entrenamiento?"
+
+REFERENCE           SWITCHTOMULTIPLAYER
+LANG_ENGLISH        "Switch to Multiplayer?"
+LANG_SPANISH         "¿Cambiar a multijugador?"
+
+REFERENCE           NO
+LANG_ENGLISH        "No"
+LANG_SPANISH         "#same"
+
+REFERENCE           SAVEGAMELIST
+LANG_ENGLISH        "Save Game List"
+LANG_SPANISH         "Lista de partidas guardadas"
+
+REFERENCE           SHOWAUTOSAVES
+LANG_ENGLISH        "Show Auto Saves"
+LANG_SPANISH         "Mostrar guardados automáticos"
+
+REFERENCE           SHOWMANUALSAVES
+LANG_ENGLISH        "Show Manual Saves"
+LANG_SPANISH         "Mostrar guardados manuales"
+
+REFERENCE           NAME
+LANG_ENGLISH        "Name"
+LANG_SPANISH         "Nombre"
+
+REFERENCE           DATE
+LANG_ENGLISH        "Date"
+LANG_SPANISH         "Fecha"
+
+REFERENCE           SAVEAS
+LANG_ENGLISH        "Save As:"
+LANG_SPANISH         "Guardar como:"
+
+REFERENCE           DELETE
+LANG_ENGLISH        "Delete"
+LANG_SPANISH         "Eliminar"
+
+REFERENCE           LOAD
+LANG_ENGLISH        "Load"
+LANG_SPANISH         "Cargar"
+
+REFERENCE           SAVE
+LANG_ENGLISH        "Save"
+LANG_SPANISH         "Guardar"
+
+REFERENCE           DEL_SEL_SAVEGAME
+LANG_ENGLISH        "Delete selected save game?"
+LANG_SPANISH         "¿Eliminar partida guardada seleccionada?"
+
+REFERENCE           OVERWRITE_EXISTING_FILE
+LANG_ENGLISH        "Overwrite existing file?"
+LANG_SPANISH         "¿Sobrescribir archivo existente?"
+
+REFERENCE           OK
+LANG_ENGLISH        "OK"
+LANG_SPANISH         "Aceptar"
+
+REFERENCE           YOU_MUST_SPECIFY_A_FILENAME
+LANG_ENGLISH        "You must specify a filename!"
+LANG_SPANISH         "¡Debes especificar un nombre de archivo!"
+
+REFERENCE           ARE_YOU_SURE_QUIT
+LANG_ENGLISH        "Are you sure you want to quit?"
+LANG_SPANISH         "¿Seguro que quieres salir?"
+
+REFERENCE           CONTROLS
+LANG_ENGLISH        "Controls"
+LANG_SPANISH         "Controles"
+
+REFERENCE           LOOK
+LANG_ENGLISH        "Look"
+LANG_SPANISH         "Mirar"
+
+REFERENCE           MOVE
+LANG_ENGLISH        "Move"
+LANG_SPANISH         "Mover"
+
+REFERENCE           SHOOT
+LANG_ENGLISH        "Shoot"
+LANG_SPANISH         "Disparar"
+
+REFERENCE           SAVE_INTERACT
+LANG_ENGLISH        "Save/Interact"
+LANG_SPANISH         "Guardar/Interactuar"
+
+REFERENCE           CONTROL_DEFAULTS
+LANG_ENGLISH        "Control Defaults"
+LANG_SPANISH         "Controles predeterminados"
+
+REFERENCE           SYSTEM
+LANG_ENGLISH        "System"
+LANG_SPANISH         "Sistema"
+
+REFERENCE           GRAPHICS
+LANG_ENGLISH        "Graphics"
+LANG_SPANISH         "Gráficos"
+
+REFERENCE           SOUND
+LANG_ENGLISH        "Sound"
+LANG_SPANISH         "Sonido"
+
+REFERENCE           PERFORMANCE
+LANG_ENGLISH        "Performance"
+LANG_SPANISH         "Rendimiento"
+
+REFERENCE           DRIVERINFO
+LANG_ENGLISH        "Driver Info"
+LANG_SPANISH         "Información sobre controladores"
+
+REFERENCE           RESET_SYSTEM_DEFAULTS
+LANG_ENGLISH        "Optimal System Settings"
+LANG_SPANISH         "Ajustes óptimos del sistema"
+
+REFERENCE           CREDITS
+LANG_ENGLISH        "Credits"
+LANG_SPANISH         "Créditos"
+
+REFERENCE           RESET_TO_DEFAULTS
+LANG_ENGLISH        "Reset to Default"
+LANG_SPANISH         "Restablecer predeterminado"
+
+REFERENCE           THIS_WILL_RESTORE_ALL_SETTINGS
+LANG_ENGLISH        "Each setting will be restored"
+LANG_SPANISH         "Cada ajuste volverá"
+
+REFERENCE           TO_THEIR_DEFAULT_VALUE
+LANG_ENGLISH        "to its default value."
+LANG_SPANISH         "a su valor predeterminado."
+
+REFERENCE           ARE_YOU_SURE
+LANG_ENGLISH        "Are you sure?"
+LANG_SPANISH         "¿Estás seguro?"
+
+REFERENCE           YOUR_CONTROLS_ARE_NOW_SET
+LANG_ENGLISH        "Your controls are now set"
+LANG_SPANISH         "Se han restablecido los controles"
+
+REFERENCE           TO_THEIR_ORIGINAL_DEFAULT_VALUES
+LANG_ENGLISH        "to their original default values."
+LANG_SPANISH         "a su valor predeterminado."
+
+REFERENCE           CLOSE
+LANG_ENGLISH        "Close"
+LANG_SPANISH         "Cerrar"
+
+REFERENCE           OPTIONS_SYSTEM
+LANG_ENGLISH        "Options - System"
+LANG_SPANISH         "Opciones - Sistema"
+
+REFERENCE           SET_RECOMMENDED
+LANG_ENGLISH        "Set Recommended"
+LANG_SPANISH         "Configuración recomendada"
+
+REFERENCE           QUALITY
+LANG_ENGLISH        "Quality"
+LANG_SPANISH         "Calidad"
+
+REFERENCE           QUALITY_RECOMMENDED
+LANG_ENGLISH        "Quality:  Recommended"
+LANG_SPANISH         "Calidad: Recomendada"
+
+REFERENCE           VIDEO_MODE
+LANG_ENGLISH        "Video Mode"
+LANG_SPANISH         "Modo de vídeo"
+
+REFERENCE           COLOR_DEPTH
+LANG_ENGLISH        "Color Depth"
+LANG_SPANISH         "Profundidad de color"
+
+REFERENCE           FULLSCREEN
+LANG_ENGLISH        "Full Screen"
+LANG_SPANISH         "Pantalla completa"
+
+REFERENCE           GEOMETRIC_DETAIL
+LANG_ENGLISH        "Geometric Detail"
+LANG_SPANISH         "Detalle geométrico"
+
+REFERENCE           CHARACTER_TEXTURES
+LANG_ENGLISH        "Character Textures"
+LANG_SPANISH         "Texturas de personajes"
+
+REFERENCE           GENERAL_TEXTURES
+LANG_ENGLISH        "General Textures"
+LANG_SPANISH         "Texturas generales"
+
+REFERENCE           TEXTURE_FILTER
+LANG_ENGLISH        "Texture Filter"
+LANG_SPANISH         "Filtro de texturas"
+
+REFERENCE           TEXTURE_QUALITY
+LANG_ENGLISH        "Texture Quality"
+LANG_SPANISH         "Calidad de textura"
+
+REFERENCE           NVIDIA_DISTANCE_FOG
+LANG_ENGLISH        "Nvidia Distance Fog"
+LANG_SPANISH         "Niebla de distancia nVidia"
+
+REFERENCE           BRIGHTNESS
+LANG_ENGLISH        "Brightness"
+LANG_SPANISH         "Brillo"
+
+REFERENCE           LANGUAGE
+LANG_ENGLISH        "Language"
+LANG_SPANISH         "Idioma"
+
+REFERENCE           APPLY_LANGUAGE_CHANGE
+LANG_ENGLISH        "Apply Language Change"
+LANG_SPANISH         "Aplicar cambio de idioma"
+
+REFERENCE           APPLY
+LANG_ENGLISH        "Apply"
+LANG_SPANISH         "Aplicar"
+
+REFERENCE           YOUR_SETTINGS_ARE_NOW_SET
+LANG_ENGLISH        "Your settings are now set"
+LANG_SPANISH         "Los ajustes se han establecido"
+
+REFERENCE           OPTIONS_CONTROLS
+LANG_ENGLISH        "Options - Controls"
+LANG_SPANISH         "Opciones - Controles"
+
+REFERENCE           LOOK_UP
+LANG_ENGLISH        "Look Up"
+LANG_SPANISH         "Alzar vista"
+
+REFERENCE           LOOK_DOWN
+LANG_ENGLISH        "Look Down"
+LANG_SPANISH         "Bajar vista"
+
+REFERENCE           MOUSE_LOOK
+LANG_ENGLISH        "Mouse Look"
+LANG_SPANISH         "Mirar con ratón"
+
+REFERENCE           CENTER_VIEW
+LANG_ENGLISH        "Center View"
+LANG_SPANISH         "Centrar vista"
+
+REFERENCE           FREE_LOOK
+LANG_ENGLISH        "Free Look"
+LANG_SPANISH         "Mirada libre"
+
+REFERENCE           INVERT_MOUSE
+LANG_ENGLISH        "Invert Mouse"
+LANG_SPANISH         "Invertir ratón"
+
+REFERENCE           SMOOTH_MOUSE
+LANG_ENGLISH        "Smooth Mouse"
+LANG_SPANISH         "Suavidad del ratón"
+
+REFERENCE           MOUSE_SENSITIVITY
+LANG_ENGLISH        "Mouse Sensitivity"
+LANG_SPANISH         "Sensibilidad del ratón"
+
+REFERENCE           SHOW_OBJECTIVES_SCORES
+LANG_ENGLISH        "Show Objectives/Scores"
+LANG_SPANISH         "Mostrar objetivos/puntuaciones"
+
+REFERENCE           USE
+LANG_ENGLISH        "Use"
+LANG_SPANISH         "Usar"
+
+REFERENCE           QUICK_SAVE
+LANG_ENGLISH        "Quick Save"
+LANG_SPANISH         "Guardado rápido"
+
+REFERENCE           QUICK_LOAD
+LANG_ENGLISH        "Quick Load"
+LANG_SPANISH         "Carga rápida"
+
+REFERENCE           SCREENSHOT
+LANG_ENGLISH        "Screenshot"
+LANG_SPANISH         "Captura de pantalla"
+
+REFERENCE           FORWARD
+LANG_ENGLISH        "Forward"
+LANG_SPANISH         "Avanzar"
+
+REFERENCE           BACKPEDAL
+LANG_ENGLISH        "Backpedal"
+LANG_SPANISH         "Retroceder"
+
+REFERENCE           MOVE_LEFT
+LANG_ENGLISH        "Move Left"
+LANG_SPANISH         "Mover a la izquierda"
+
+REFERENCE           MOVE_RIGHT
+LANG_ENGLISH        "Move Right"
+LANG_SPANISH         "Mover a la derecha"
+
+REFERENCE           LEAN_LEFT
+LANG_ENGLISH        "Lean Left"
+LANG_SPANISH         "Inclinarse a la izquierda"
+
+REFERENCE           LEAN_RIGHT
+LANG_ENGLISH        "Lean Right"
+LANG_SPANISH         "Inclinarse a la derecha"
+
+REFERENCE           STAND
+LANG_ENGLISH        "Stand"
+LANG_SPANISH         "Levantarse"
+
+REFERENCE           CROUCH
+LANG_ENGLISH        "Crouch"
+LANG_SPANISH         "Agacharse"
+
+REFERENCE           PRONE
+LANG_ENGLISH        "Prone"
+LANG_SPANISH         "Cuerpo a tierra"
+
+REFERENCE           JUMP_STANCE_UP
+LANG_ENGLISH        "Jump/Stance Up"
+LANG_SPANISH         "Saltar/Levantarse"
+
+REFERENCE           STANCE_DOWN
+LANG_ENGLISH        "Stance Down"
+LANG_SPANISH         "Agacharse"
+
+REFERENCE           STANCE_UP
+LANG_ENGLISH        "Stance Up"
+LANG_SPANISH         "Alzarse"
+
+REFERENCE           TOGGLE_CROUCH
+LANG_ENGLISH        "Toggle Crouch"
+LANG_SPANISH         "Activar agacharse"
+
+REFERENCE           TOGGLE_PRONE
+LANG_ENGLISH        "Toggle Prone"
+LANG_SPANISH         "Activar cuerpo a tierra"
+
+REFERENCE           HOLD_DOWN_CROUCH
+LANG_ENGLISH        "Hold Down Crouch"
+LANG_SPANISH         "Mantenerse agachado"
+
+REFERENCE           HOLD_DOWN_PRONE
+LANG_ENGLISH        "Hold Down Prone"
+LANG_SPANISH         "Mantenerse cuerpo a tierra"
+
+REFERENCE           TURN_LEFT
+LANG_ENGLISH        "Turn Left"
+LANG_SPANISH         "Girar a la izquierda"
+
+REFERENCE           TURN_RIGHT
+LANG_ENGLISH        "Turn Right"
+LANG_SPANISH         "Girar a la derecha"
+
+REFERENCE           STRAFE
+LANG_ENGLISH        "Strafe"
+LANG_SPANISH         "Desplazarse lateralmente"
+
+REFERENCE           WALL_MARKS
+LANG_ENGLISH        "Wall Marks"
+LANG_SPANISH         "Marcas en las paredes"
+
+REFERENCE           EJECTING_BRASS
+LANG_ENGLISH        "Ejecting Brass"
+LANG_SPANISH         "Proyectiles disparados"
+
+REFERENCE           DYNAMIC_LIGHTS
+LANG_ENGLISH        "Dynamic Lights"
+LANG_SPANISH         "Luces dinámicas"
+
+REFERENCE           LOW_QUALITY_SKY
+LANG_ENGLISH        "Low Quality Sky"
+LANG_SPANISH         "Cielo de baja calidad"
+
+REFERENCE           SYNC_EVERY_FRAME
+LANG_ENGLISH        "Sync Every Frame"
+LANG_SPANISH         "Sincronizar todas las imágenes"
+
+REFERENCE           NVIDIA_FOG_TYPE
+LANG_ENGLISH        "Nvidia fog type"
+LANG_SPANISH         "Tipo de niebla nVidia"
+
+REFERENCE           ATTACK
+LANG_ENGLISH        "Attack"
+LANG_SPANISH         "Atacar"
+
+REFERENCE           TOGGLE_AIM_DOWN_THE_SIGHT
+LANG_ENGLISH        "Toggle Aim Down the Sight"
+LANG_SPANISH         "Activar apuntar con la mira"
+
+REFERENCE           AIM_DOWN_THE_SIGHT
+LANG_ENGLISH        "Aim Down the Sight"
+LANG_SPANISH         "Apuntar con la mira"
+
+REFERENCE           MELEE_ATTACK
+LANG_ENGLISH        "Melee Attack"
+LANG_SPANISH         "Ataque cuerpo a cuerpo"
+
+REFERENCE           RELOAD_WEAPON
+LANG_ENGLISH        "Reload Weapon"
+LANG_SPANISH         "Recargar arma"
+
+REFERENCE           TOGGLE_SEMIAUTOMATIC
+LANG_ENGLISH        "Toggle Semi-Automatic "
+LANG_SPANISH         "Activar semiautomático "
+
+REFERENCE           SELECT_FIRST_WEAPON
+LANG_ENGLISH        "Select First Weapon"
+LANG_SPANISH         "Elegir arma principal"
+
+REFERENCE           SELECT_SECOND_WEAPON
+LANG_ENGLISH        "Select Second Weapon"
+LANG_SPANISH         "Elegir arma secundaria"
+
+REFERENCE           SELECT_PISTOL
+LANG_ENGLISH        "Select Pistol"
+LANG_SPANISH         "Elegir pistola"
+
+REFERENCE           SELECT_GRENADE
+LANG_ENGLISH        "Select Grenade"
+LANG_SPANISH         "Elegir granada"
+
+REFERENCE           NEXT_WEAPON
+LANG_ENGLISH        "Next Weapon"
+LANG_SPANISH         "Arma siguiente"
+
+REFERENCE           PREVIOUS_WEAPON
+LANG_ENGLISH        "Previous Weapon"
+LANG_SPANISH         "Arma anterior"
+
+REFERENCE           LAST_WEAPON_USED
+LANG_ENGLISH        "Last Weapon Used"
+LANG_SPANISH         "Última arma usada"
+
+REFERENCE           EFFECTS_VOLUME
+LANG_ENGLISH        "Effects Volume"
+LANG_SPANISH         "Volumen de los efectos"
+
+REFERENCE           MUSIC_VOLUME
+LANG_ENGLISH        "Music Volume"
+LANG_SPANISH         "Volumen de la música"
+
+REFERENCE           SOUND_QUALITY
+LANG_ENGLISH        "Sound Quality"
+LANG_SPANISH         "Calidad del sonido"
+
+REFERENCE           SOUND_PROVIDER
+LANG_ENGLISH        "Sound Provider"
+LANG_SPANISH         "Dispositivo de sonido"
+
+REFERENCE           THIS_WILL_APPLY_SOUND
+LANG_ENGLISH        "This will apply sound"
+LANG_SPANISH         "Se aplicarán los ajustes de vídeo"
+
+REFERENCE           SETTINGS_AND_RETURN
+LANG_ENGLISH        "settings and return"
+LANG_SPANISH         "y volverás"
+
+REFERENCE           TO_THE_MAIN_MENU
+LANG_ENGLISH        "to the Main Menu."
+LANG_SPANISH         "al menú principal."
+
+REFERENCE           NOTICE
+LANG_ENGLISH        "Notice"
+LANG_SPANISH         "Aviso"
+
+REFERENCE           ERROR
+LANG_ENGLISH        "Error"
+LANG_SPANISH         "#same"
+
+REFERENCE           EXIT
+LANG_ENGLISH        "Exit"
+LANG_SPANISH         "Salir"
+
+REFERENCE           THIS_WILL_APPLY_VIDEO
+LANG_ENGLISH        "This will apply video"
+LANG_SPANISH         "Se aplicarán los ajustes de sonido"
+
+REFERENCE           RESTART_LEVEL
+LANG_ENGLISH        "Restart Level"
+LANG_SPANISH         "Reiniciar nivel"
+
+REFERENCE           LOAD_LAST_SAVE
+LANG_ENGLISH        "Load Last Save"
+LANG_SPANISH         "Cargar última partida guardada"
+
+REFERENCE           MAIN_MENU
+LANG_ENGLISH        "Main Menu"
+LANG_SPANISH         "Menú principal"
+
+REFERENCE           CLICK_TO_START_THE_MISSION
+LANG_ENGLISH        "Click to Start the Mission"
+LANG_SPANISH         "Haz clic para iniciar la misión"
+
+REFERENCE           NEXT_LEVEL
+LANG_ENGLISH        "Next Level"
+LANG_SPANISH         "Siguiente nivel"
+
+REFERENCE           THIS_WILL_SET
+LANG_ENGLISH        "This will set"
+LANG_SPANISH         "Se establecerán los"
+
+REFERENCE           RECOMMENDED_VIDEO_SETTINGS
+LANG_ENGLISH        "recommended video settings"
+LANG_SPANISH         "ajustes de vídeo recomendados"
+
+REFERENCE           AND_RETURN_TO_THE_MAIN_MENU
+LANG_ENGLISH        "and return to the Main Menu."
+LANG_SPANISH         "y volverás al menú principal."
+
+REFERENCE           JOIN_AN_INTERNET_GAME
+LANG_ENGLISH        "Join an Internet Game"
+LANG_SPANISH         "Unirse a una partida por Internet"
+
+REFERENCE           JOIN_A_LAN_GAME
+LANG_ENGLISH        "Join a LAN Game"
+LANG_SPANISH         "Unirse a una partida LAN"
+
+REFERENCE           DISCONNECT
+LANG_ENGLISH        "Disconnect"
+LANG_SPANISH         "Desconectar"
+
+REFERENCE           START_NEW_SERVER
+LANG_ENGLISH        "Start New Server"
+LANG_SPANISH         "Iniciar un nuevo servidor"
+
+REFERENCE           MULTIPLAYER_OPTIONS
+LANG_ENGLISH        "Multiplayer Options"
+LANG_SPANISH         "Opciones de multijugador"
+
+REFERENCE           MODS
+LANG_ENGLISH        "Mods"
+LANG_SPANISH         "#same"
+
+REFERENCE           MODSWITHCOLON
+LANG_ENGLISH        "Mods:"
+LANG_SPANISH         "#same"
+
+REFERENCE           SINGLE_PLAYER
+LANG_ENGLISH        "Single Player"
+LANG_SPANISH         "Jugador individual"
+
+REFERENCE           CLICK_FOR_AUTOUPDATE
+LANG_ENGLISH        "Click for Auto-Update"
+LANG_SPANISH         "Hacer clic para autoactualización"
+
+REFERENCE           SWITCH_TO_SINGLE_PLAYER
+LANG_ENGLISH        "Switch to Single Player?"
+LANG_SPANISH         "¿Cambiar a jugador individual?"
+
+REFERENCE           DOWNLOAD_AUTOUPDATE_PATCH
+LANG_ENGLISH        "Download Auto-Update Patch?"
+LANG_SPANISH         "¿Descargar parche de autoactualización?"
+
+REFERENCE           VERSION_INSTALLED
+LANG_ENGLISH        "Version Installed:"
+LANG_SPANISH         "Versión instalada:"
+
+REFERENCE           VERSION_AVAILABLE
+LANG_ENGLISH        "Version Available:"
+LANG_SPANISH         "Versión disponible:"
+
+REFERENCE           CDKEY
+LANG_ENGLISH        "CD KEY"
+LANG_SPANISH         "CLAVE DE CD"
+
+REFERENCE           ENTER_YOUR_ENCRYPTION_KEY_IN_THE_FIELD_BELOW
+LANG_ENGLISH        "Enter your encryption key in the field below."
+LANG_SPANISH         "Introduce tu clave cifrada en el campo inferior."
+
+REFERENCE           KEY
+LANG_ENGLISH        "Key:"
+LANG_SPANISH         "Clave:"
+
+REFERENCE           CANCEL
+LANG_ENGLISH        "Cancel"
+LANG_SPANISH         "Cancelar"
+
+REFERENCE           VERIFY
+LANG_ENGLISH        "Verify"
+LANG_SPANISH         "Verificar"
+
+REFERENCE           NEW_FAVORITE
+LANG_ENGLISH        "New Favorite"
+LANG_SPANISH         "Nuevo favorito"
+
+REFERENCE           NAME1
+LANG_ENGLISH        "Name: "
+LANG_SPANISH         "Nombre: "
+
+REFERENCE           IP_ADDRESS
+LANG_ENGLISH        "IP Address: "
+LANG_SPANISH         "Dirección IP: "
+
+REFERENCE           FILTER_SERVERS
+LANG_ENGLISH        "Filter Servers"
+LANG_SPANISH         "Filtro de servidores"
+
+REFERENCE           VIEW_EMPTY
+LANG_ENGLISH        "View Empty:"
+LANG_SPANISH         "Ver vacíos:"
+
+REFERENCE           VIEW_FULL
+LANG_ENGLISH        "View Full:"
+LANG_SPANISH         "Ver completo:"
+
+REFERENCE           FRIENDLY_FIRE
+LANG_ENGLISH        "Friendly Fire:  "
+LANG_SPANISH         "Fuego amigo:  "
+
+REFERENCE           SHOW_MAX_LIVES
+LANG_ENGLISH        "Show Max Lives:"
+LANG_SPANISH         "Mostrar máx. de vidas:"
+
+REFERENCE           SHOW_TOURNEY
+LANG_ENGLISH        "Show Tourney:"
+LANG_SPANISH         "Mostrar torneo:"
+
+REFERENCE           TYPE
+LANG_ENGLISH        "Type:"
+LANG_SPANISH         "Tipo:"
+
+REFERENCE           SERVER NAME
+LANG_ENGLISH        "Server Name"
+LANG_SPANISH         "Nombre del servidor"
+
+REFERENCE           MAP_NAME
+LANG_ENGLISH        "Map Name"
+LANG_SPANISH         "Nombre del mapa"
+
+REFERENCE           NUMPLAYERS
+LANG_ENGLISH        "#Players"
+LANG_SPANISH         "Nº jugad."
+
+REFERENCE           PING
+LANG_ENGLISH        "Ping"
+LANG_SPANISH         "#same"
+
+REFERENCE           GET_NEW_LIST
+LANG_ENGLISH        "Get New List"
+LANG_SPANISH         "Obtener nueva lista"
+
+REFERENCE           REFRESH_LIST
+LANG_ENGLISH        "Refresh List"
+LANG_SPANISH         "Actualizar lista"
+
+REFERENCE           PASSWORD
+LANG_ENGLISH        "Password"
+LANG_SPANISH         "Contraseña"
+
+REFERENCE           ADD_TO_FAVORITES
+LANG_ENGLISH        "Add To Favorites"
+LANG_SPANISH         "Añadir a favoritos"
+
+REFERENCE           DEL_FAVORITE
+LANG_ENGLISH        "Del. Favorite"
+LANG_SPANISH         "Borrar favorito"
+
+REFERENCE           SERVER_INFO
+LANG_ENGLISH        "Server Info"
+LANG_SPANISH         "Información del servidor"
+
+REFERENCE           FIND_FRIEND
+LANG_ENGLISH        "Find Friend"
+LANG_SPANISH         "Encontrar amigo"
+
+REFERENCE           ACCEPT
+LANG_ENGLISH        "Accept"
+LANG_SPANISH         "Aceptar"
+
+REFERENCE           CONNECTION_TYPE
+LANG_ENGLISH        "Connection Type:"
+LANG_SPANISH         "Tipo de conexión:"
+
+REFERENCE           LAUNCH
+LANG_ENGLISH        "Launch"
+LANG_SPANISH         "Iniciar"
+
+REFERENCE           SELECT_MOD_NAME_TO_LAUNCH
+LANG_ENGLISH        "Select MOD name to Launch"
+LANG_SPANISH         "Elegir nombre de MOD para iniciar"
+
+REFERENCE           JOIN_SERVER
+LANG_ENGLISH        "Join Server"
+LANG_SPANISH         "Unirse a servidor"
+
+REFERENCE           CREATE_SERVER
+LANG_ENGLISH        "Create Server"
+LANG_SPANISH         "Crear servidor"
+
+REFERENCE           ENTER CD-KEY
+LANG_ENGLISH        "Enter CD-Key"
+LANG_SPANISH         "Introducir clave de CD"
+
+REFERENCE           SHOW_SCORES
+LANG_ENGLISH        "Show Scores:"
+LANG_SPANISH         "Mostrar puntuaciones:"
+
+REFERENCE           CHAT
+LANG_ENGLISH        "Chat"
+LANG_SPANISH         "#same"
+
+REFERENCE           TEAM_CHAT
+LANG_ENGLISH        "Team Chat"
+LANG_SPANISH         "Chat de equipo"
+
+REFERENCE           QUICK_CHAT
+LANG_ENGLISH        "Quick Chat"
+LANG_SPANISH         "Chat rápido"
+
+REFERENCE           SHOW_COMPASS
+LANG_ENGLISH        "Show Compass:"
+LANG_SPANISH         "Mostrar brújula:"
+
+REFERENCE           TEAM_OVERLAY
+LANG_ENGLISH        "Team Overlay:"
+LANG_SPANISH         "Superposición de equipo:"
+
+REFERENCE           CHAT_ICON_TIME
+LANG_ENGLISH        "Chat Icon Time:"
+LANG_SPANISH         "Icono de tiempo de chat:"
+
+REFERENCE           NET_DATA_RATE
+LANG_ENGLISH        "Net Data Rate:"
+LANG_SPANISH         "Tasa neta de datos:"
+
+REFERENCE           PLAYER_NAME
+LANG_ENGLISH        "Player Name"
+LANG_SPANISH         "Nombre del jugador"
+
+REFERENCE           REFRESH
+LANG_ENGLISH        "Refresh"
+LANG_SPANISH         "Actualizar"
+
+REFERENCE           CONTINUE
+LANG_ENGLISH        "Continue"
+LANG_SPANISH         "Continuar"
+
+REFERENCE           HIGHQUALITY
+LANG_ENGLISH        "High Quality"
+LANG_SPANISH         "Alta calidad"
+
+REFERENCE           NORMAL
+LANG_ENGLISH        "Normal"
+LANG_SPANISH         "#same"
+
+REFERENCE           FAST
+LANG_ENGLISH        "Fast"
+LANG_SPANISH         "Rápida"
+
+REFERENCE           FASTEST
+LANG_ENGLISH        "Fastest"
+LANG_SPANISH         "La más rápida"
+
+REFERENCE           CUSTOM
+LANG_ENGLISH        "Custom"
+LANG_SPANISH         "Personalizado"
+
+REFERENCE           INTERACT
+LANG_ENGLISH        "Interact"
+LANG_SPANISH         "Interactuar"
+
+REFERENCE           SET_DEFAULT_CONTROLS
+LANG_ENGLISH        "Set Default Controls"
+LANG_SPANISH         "Establecer controles predeterminados"
+
+REFERENCE           STANDJUMP
+LANG_ENGLISH        "Stand/Jump"
+LANG_SPANISH         "Levantarse/Saltar"
+
+REFERENCE           GO_TO_CROUCH
+LANG_ENGLISH        "Go to Crouch"
+LANG_SPANISH         "Agacharse"
+
+REFERENCE           GO_TO_PRONE
+LANG_ENGLISH        "Go to Prone"
+LANG_SPANISH         "Cuerpo a tierra"
+
+REFERENCE           LOAD_SELECTED_GAME
+LANG_ENGLISH        "Load selected game?"
+LANG_SPANISH         "¿Cargar partida seleccionada?"
+
+REFERENCE           DEL_SEL_FAVORITE
+LANG_ENGLISH        "Delete selected favorite from list?"
+LANG_SPANISH         "¿Eliminar favorito seleccionado de la lista?"
+
+REFERENCE           VOTE_YES
+LANG_ENGLISH        "Vote Yes"
+LANG_SPANISH         "Votar sí"
+
+REFERENCE           VOTE_NO
+LANG_ENGLISH        "Vote No"
+LANG_SPANISH         "Votar no"
+
+REFERENCE           CHANGE_RATE_OF_FIRE
+LANG_ENGLISH        "Change Rate of Fire"
+LANG_SPANISH         "Cambiar cadencia de disparo"
+
+REFERENCE           DRAW_HUD
+LANG_ENGLISH        "Draw HUD"
+LANG_SPANISH         "Mostrar HUD"
+
+REFERENCE           DRAW_CROSSHAIR
+LANG_ENGLISH        "Draw Crosshair"
+LANG_SPANISH         "Mostrar punto de mira"
+
+REFERENCE           QUICK_REFRESH
+LANG_ENGLISH        "Quick Refresh"
+LANG_SPANISH         "Actualización rápida"
+
+REFERENCE           WORLD_DYNAMIC_LIGHT_QUALITY
+LANG_ENGLISH        "World Dynamic Light Quality"
+LANG_SPANISH         "Calidad de la iluminación dinámica del mundo"
+
+REFERENCE           SHOW_BLOOD
+LANG_ENGLISH        "Show Blood"
+LANG_SPANISH         "Mostrar sangre"
+
+REFERENCE           THIS_WILL_APPLY_THE
+LANG_ENGLISH        "This will apply the"
+LANG_SPANISH         "Esto aplicará el cambio"
+
+REFERENCE           LANGUAGE_CHANGE_AND_RETURN
+LANG_ENGLISH        "language change and return"
+LANG_SPANISH         "de idioma y volverá"
+
+REFERENCE           640480
+LANG_ENGLISH        "640*480"
+LANG_SPANISH         "#same"
+
+REFERENCE           800600
+LANG_ENGLISH        "800*600"
+LANG_SPANISH         "#same"
+
+REFERENCE           1024768
+LANG_ENGLISH        "1024*768"
+LANG_SPANISH         "#same"
+
+REFERENCE           1152864
+LANG_ENGLISH        "1152*864"
+LANG_SPANISH         "#same"
+
+REFERENCE           12801024
+LANG_ENGLISH        "1280*1024"
+LANG_SPANISH         "#same"
+
+REFERENCE           16001200
+LANG_ENGLISH        "1600*1200"
+LANG_SPANISH         "#same"
+
+REFERENCE           20481536
+LANG_ENGLISH        "2048*1536"
+LANG_SPANISH         "#same"
+
+REFERENCE           LOW
+LANG_ENGLISH        "Low"
+LANG_SPANISH         "Bajo"
+
+REFERENCE           HIGH
+LANG_ENGLISH        "High"
+LANG_SPANISH         "Alto"
+
+REFERENCE           EXTRA
+LANG_ENGLISH        "Extra"
+LANG_SPANISH         "#same"
+
+REFERENCE           BILINEAR
+LANG_ENGLISH        "Bilinear"
+LANG_SPANISH         "Bilineal"
+
+REFERENCE           TRILINEAR
+LANG_ENGLISH        "Trilinear"
+LANG_SPANISH         "Trilineal"
+
+REFERENCE           ANISOTROPIC
+LANG_ENGLISH        "Anisotropic"
+LANG_SPANISH         "Anisotrópico"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH        "Default"
+LANG_SPANISH         "Predeterminado"
+
+REFERENCE           16BIT
+LANG_ENGLISH        "16 bit"
+LANG_SPANISH         "16 bits"
+
+REFERENCE           32BIT
+LANG_ENGLISH        "32 bit"
+LANG_SPANISH         "32 bits"
+
+REFERENCE           ENGLISH
+LANG_ENGLISH        "English"
+LANG_SPANISH         "Inglés"
+
+REFERENCE           FRENCH
+LANG_ENGLISH        "French"
+LANG_SPANISH         "Francés"
+
+REFERENCE           GERMAN
+LANG_ENGLISH        "German"
+LANG_SPANISH         "Alemán"
+
+REFERENCE           ITALIAN
+LANG_ENGLISH        "Italian"
+LANG_SPANISH         "Italiano"
+
+REFERENCE           SPANISH
+LANG_ENGLISH        "Spanish"
+LANG_SPANISH         "Español"
+
+REFERENCE           BRITISH
+LANG_ENGLISH        "British"
+LANG_SPANISH         "Británico"
+
+REFERENCE           RUSSIAN
+LANG_ENGLISH        "Russian"
+LANG_SPANISH         "Ruso"
+
+REFERENCE           KOREAN
+LANG_ENGLISH        "Korean"
+LANG_SPANISH         "Coreano"
+
+REFERENCE           TAIWANESE
+LANG_ENGLISH        "Taiwanese"
+LANG_SPANISH         "Taiwanés"
+
+REFERENCE           JAPANESE
+LANG_ENGLISH        "Japanese"
+LANG_SPANISH         "Japonés"
+
+REFERENCE           CHINESE
+LANG_ENGLISH        "Chinese"
+LANG_SPANISH         "Chino"
+
+REFERENCE           THAI
+LANG_ENGLISH        "Thai"
+LANG_SPANISH         "Tailandés"
+
+REFERENCE           ON
+LANG_ENGLISH        "On"
+LANG_SPANISH         "Sí"
+
+REFERENCE           OFF
+LANG_ENGLISH        "Off"
+LANG_SPANISH         "No"
+
+REFERENCE           EVERYTHING
+LANG_ENGLISH        "Everything"
+LANG_SPANISH         "Todo"
+
+REFERENCE           MODELS_ONLY
+LANG_ENGLISH        "Models Only"
+LANG_SPANISH         "Solo modelos"
+
+REFERENCE           NONE
+LANG_ENGLISH        "None"
+LANG_SPANISH         "Ninguno"
+
+REFERENCE           NICEST
+LANG_ENGLISH        "Nicest"
+LANG_SPANISH         "Los mejores"
+
+REFERENCE           NV_RADIAL
+LANG_ENGLISH        "NV Radial"
+LANG_SPANISH         "#same"
+
+REFERENCE           NV_PLANE
+LANG_ENGLISH        "NV Plane"
+LANG_SPANISH         "#same"
+
+REFERENCE           11KHZ__
+LANG_ENGLISH        "11khz (Low Quality, Least Memory)"
+LANG_SPANISH         "11 KHz (calidad baja, memoria mínima)"
+
+REFERENCE           22KHZ__
+LANG_ENGLISH        "22khz (Normal Quality, Medium Memory)"
+LANG_SPANISH         "22 KHz (calidad normal, memoria media)"
+
+REFERENCE           44KHZ__
+LANG_ENGLISH        "44khz (High Quality, Most Memory)"
+LANG_SPANISH         "44 KHz (calidad alta, memoria máxima)"
+
+REFERENCE           CREATIVE_LABS_EAX_3
+LANG_ENGLISH        "Creative Labs EAX 3 (TM)"
+LANG_SPANISH         "#same"
+
+REFERENCE           CREATIVE_LABS_EAX_2
+LANG_ENGLISH        "Creative Labs EAX 2 (TM)"
+LANG_SPANISH         "#same"
+
+REFERENCE           CREATIVE_LABS_EAX
+LANG_ENGLISH        "Creative Labs EAX (TM)"
+LANG_SPANISH         "#same"
+
+REFERENCE           MILES_FAST_2D_POSITIONAL_AUDIO
+LANG_ENGLISH        "Miles Fast 2D Positional Audio"
+LANG_SPANISH         "#same"
+
+REFERENCE           GAME_TYPE_SETTINGS
+LANG_ENGLISH        "Game Type Settings"
+LANG_SPANISH         "Ajustes del tipo de juego"
+
+REFERENCE           SERVER_SETTINGS
+LANG_ENGLISH        "Server Settings"
+LANG_SPANISH         "Ajustes del servidor"
+
+REFERENCE           GAME_TYPE
+LANG_ENGLISH        "Game Type:  "
+LANG_SPANISH         "Tipo de partida:  "
+
+REFERENCE           SERVER_NAME
+LANG_ENGLISH        "Server Name:  "
+LANG_SPANISH         "Nombre del servidor:  "
+
+REFERENCE           DEDICATED
+LANG_ENGLISH        "Dedicated:  "
+LANG_SPANISH         "Dedicado:  "
+
+REFERENCE           PURE
+LANG_ENGLISH        "Pure:  "
+LANG_SPANISH         "Puro:  "
+
+REFERENCE           MAXIMUM_PLAYERS
+LANG_ENGLISH        "Maximum Players:  "
+LANG_SPANISH         "Máximo número de jugadores:  "
+
+REFERENCE           MINIMUM_PING
+LANG_ENGLISH        "Minimum Ping:  "
+LANG_SPANISH         "Ping mínimo:  "
+
+REFERENCE           MAXIMUM_PING
+LANG_ENGLISH        "Maximum Ping:  "
+LANG_SPANISH         "Ping máximo:  "
+
+REFERENCE           MAXIMUM_RATE
+LANG_ENGLISH        "Maximum Rate:  "
+LANG_SPANISH         "Tasa máxima:  "
+
+REFERENCE           PASSWORD1
+LANG_ENGLISH        "Password:  "
+LANG_SPANISH         "Contraseña:  "
+
+REFERENCE           BOTH
+LANG_ENGLISH        "Both"
+LANG_SPANISH         "Ambos"
+
+REFERENCE           288K
+LANG_ENGLISH        "<=28.8k"
+LANG_SPANISH         "<=28.8 k"
+
+REFERENCE           336K
+LANG_ENGLISH        "33.6k"
+LANG_SPANISH         "33.6 k"
+
+REFERENCE           56K
+LANG_ENGLISH        "56k"
+LANG_SPANISH         "56 k"
+
+REFERENCE           ISDN
+LANG_ENGLISH        "ISDN"
+LANG_SPANISH         "RDSI"
+
+REFERENCE           LAN_CABLE_XDSL
+LANG_ENGLISH        "LAN/Cable/DSL"
+LANG_SPANISH         "LAN/Cable/ADSL"
+
+REFERENCE           SCORE_LIMIT_PLAYER_POINTS
+LANG_ENGLISH        "Score Limit (player points):  "
+LANG_SPANISH         "Límite de puntuación (jugador):"
+
+REFERENCE           SCORE_LIMIT_TEAM_POINTS
+LANG_ENGLISH        "Score Limit (team points):  "
+LANG_SPANISH         "Límite de puntuación (equipo):"
+
+REFERENCE           TIME_LIMIT
+LANG_ENGLISH        "Time Limit (minutes):  "
+LANG_SPANISH         "Límite de tiempo (minutos):  "
+
+REFERENCE           FORCE_RESPAWNING
+LANG_ENGLISH        "Force Respawning:  "
+LANG_SPANISH         "Forzar reaparición:  "
+
+REFERENCE           FRIENDLY_INDICATORS
+LANG_ENGLISH        "Friendly Indicators:  "
+LANG_SPANISH         "Indicadores amigos:  "
+
+REFERENCE           CARRIER_INDICATOR
+LANG_ENGLISH        "Carrier Indicator:  "
+LANG_SPANISH         "Indicador de Carga:  "
+
+REFERENCE           GRACE_PERIOD
+LANG_ENGLISH        "Grace Period (seconds):  "
+LANG_SPANISH         "Período de gracia (segundos):  "
+
+REFERENCE           ROUND_LENGTH
+LANG_ENGLISH        "Round Length (minutes):  "
+LANG_SPANISH         "Duración de la vuelta (minutos):  "
+
+REFERENCE           ROUND_LIMIT
+LANG_ENGLISH        "Round Limit (rounds):  "
+LANG_SPANISH         "Límite de vueltas (vueltas):  "
+
+REFERENCE           GO_TO_SINGLE_PLAYER_CALL_OF_DUTY
+LANG_ENGLISH        "Go to single player Call of Duty?"
+LANG_SPANISH         "¿Pasar a Call of Duty para un jugador?"
+
+REFERENCE           TO_THE_GAME
+LANG_ENGLISH        "to the game."
+LANG_SPANISH         "a la partida."
+
+REFERENCE           NUMBER_OF_CORPSES
+LANG_ENGLISH        "Number of Corpses"
+LANG_SPANISH         "Número de cadáveres"
+
+REFERENCE           TINY
+LANG_ENGLISH        "Tiny"
+LANG_SPANISH         "Pequeño"
+
+REFERENCE           SMALL
+LANG_ENGLISH        "Small"
+LANG_SPANISH         "Reducido"
+
+REFERENCE           MEDIUM
+LANG_ENGLISH        "Medium"
+LANG_SPANISH         "Medio"
+
+REFERENCE           LARGE
+LANG_ENGLISH        "Large"
+LANG_SPANISH         "Grande"
+
+REFERENCE           INSANE
+LANG_ENGLISH        "Insane"
+LANG_SPANISH         "Demente"
+
+REFERENCE           SETTINGS_WILL_BE_REAPPLIED
+LANG_ENGLISH        "Settings will be applied"
+LANG_SPANISH         "Los ajustes se aplicarán"
+
+REFERENCE           NEXT_TIME_THE_SERVER
+LANG_ENGLISH        "next time the game"
+LANG_SPANISH         "la próxima vez que el juego"
+
+REFERENCE           IS_STARTED
+LANG_ENGLISH        "is started."
+LANG_SPANISH         "el servidor."
+
+REFERENCE           JOIN
+LANG_ENGLISH        "Join"
+LANG_SPANISH         "Unirse"
+
+REFERENCE           ALL_CURRENT_PROGRESS_WILL_BE_LOST
+LANG_ENGLISH        "All current progress will be lost."
+LANG_SPANISH         "Se perderán todos los progresos actuales."
+
+REFERENCE           PLAY_DEMO_LEVEL
+LANG_ENGLISH        "Play Demo Level"
+LANG_SPANISH         "Jugar nivel de demostración"
+
+REFERENCE           ENABLE_CONSOLE
+LANG_ENGLISH        "Enable Console"
+LANG_SPANISH         "Activar consola"
+
+REFERENCE           SUBTITLES
+LANG_ENGLISH        "Subtitles"
+LANG_SPANISH         "Subtítulos"
+
+REFERENCE           LOD
+LANG_ENGLISH        "LOD:  "
+LANG_SPANISH         "GdD:  "
+
+REFERENCE           AGGRESSIVE
+LANG_ENGLISH        "Aggressive"
+LANG_SPANISH         "Agresivo"
+
+REFERENCE           JOIN_A_GAME
+LANG_ENGLISH        "Join a Game"
+LANG_SPANISH         "Unirse a una partida"
+
+REFERENCE           RESUMEGAME_Q
+LANG_ENGLISH        "Resume Game?"
+LANG_SPANISH         "¿Continuar partida?"
+
+REFERENCE           CONNECTION
+LANG_ENGLISH        "Connection"
+LANG_SPANISH         "Conexión"
+
+REFERENCE           TYPE1
+LANG_ENGLISH        "Type"
+LANG_SPANISH         "Tipo"
+
+REFERENCE           RESET_TO
+LANG_ENGLISH        "Reset to"
+LANG_SPANISH         "Restablecer"
+
+REFERENCE           TO_ITS_OPTIMAL_VALUE
+LANG_ENGLISH        "to its optimal value."
+LANG_SPANISH         "a su valor óptimo."
+
+REFERENCE           RESTART_LEVEL_Q
+LANG_ENGLISH        "Restart Level?"
+LANG_SPANISH         "¿Reiniciar nivel?"
+
+REFERENCE           START
+LANG_ENGLISH        "Start"
+LANG_SPANISH         "Inicio"
+
+REFERENCE           LAN
+LANG_ENGLISH        "LAN"
+LANG_SPANISH         "#same"
+
+REFERENCE           INTERNET
+LANG_ENGLISH        "Internet"
+LANG_SPANISH         "#same"
+
+REFERENCE           LEVEL_OF_DETAIL
+LANG_ENGLISH        "Level of Detail:  "
+LANG_SPANISH         "Grado de detalle:  "
+
+REFERENCE           ADD_SELECTED_SERVER_TO_FAVORITES
+LANG_ENGLISH        "Add selected server to favorites?"
+LANG_SPANISH         "¿Añadir servidor seleccionado a favoritos?"
+
+REFERENCE           REFLECT
+LANG_ENGLISH        "Reflect"
+LANG_SPANISH         "Reflejar"
+
+REFERENCE           SHARED
+LANG_ENGLISH        "Shared"
+LANG_SPANISH         "Compartido"
+
+REFERENCE           KILLCAM
+LANG_ENGLISH        "Killcam:  "
+LANG_SPANISH         "Cámara de muerte:  "
+
+REFERENCE           ALLOW_VOTING
+LANG_ENGLISH        "Allow Voting:  "
+LANG_SPANISH         "Permitir votación:  "
+
+REFERENCE           AUTO_UPDATE
+LANG_ENGLISH        "Auto-Update"
+LANG_SPANISH         "Actualización automática"
+
+REFERENCE           ALLOW_SNIPER_RIFLES
+LANG_ENGLISH        "Allow Sniper Rifles:  "
+LANG_SPANISH         "Permitir rifles de precisión:  "
+
+REFERENCE           ALLOW_PANZERFAUSTS
+LANG_ENGLISH        "Allow Panzerfausts:  "
+LANG_SPANISH         "Permitir Panzerfaust:  "
+
+REFERENCE           ALLOW_FG42S
+LANG_ENGLISH        "Allow FG42s:  "
+LANG_SPANISH         "Permitir FG42:  "
+
+REFERENCE           VIEW_PASSWORD
+LANG_ENGLISH        "With Password:"
+LANG_SPANISH         "Con contraseña:"
+
+REFERENCE           VIEW_NOPASSWORD
+LANG_ENGLISH        "Without Password:"
+LANG_SPANISH         "Sin contraseña:"
+
+REFERENCE           VIEW_PURE
+LANG_ENGLISH        "Pure Servers only:"
+LANG_SPANISH         "Solo servidores puros:"
+
+REFERENCE           VIEW_FRIENDLY_FIRE
+LANG_ENGLISH        "Friendly Fire:"
+LANG_SPANISH         "Fuego amigo:"
+
+REFERENCE           VIEW_KILLCAM
+LANG_ENGLISH        "Killcam:"
+LANG_SPANISH         "Cámara de muerte:"
+
+REFERENCE           ALL
+LANG_ENGLISH        "All"
+LANG_SPANISH         "Todos"
+
+REFERENCE           MASTER_VOLUME
+LANG_ENGLISH        "Master Volume"
+LANG_SPANISH         "Volumen general"
+
+REFERENCE           MODEL_DETAIL
+LANG_ENGLISH        "Model Detail"
+LANG_SPANISH         "Detalle de modelos"
+
+REFERENCE           MINIMUM
+LANG_ENGLISH        "Minimum"
+LANG_SPANISH         "Mínimo"
+
+REFERENCE           UNLIMITED
+LANG_ENGLISH        "Unlimited"
+LANG_SPANISH         "Ilimitado"
+
+REFERENCE           MAXIMUM
+LANG_ENGLISH        "Maximum"
+LANG_SPANISH         "Máximo"
+
+REFERENCE           POLISH
+LANG_ENGLISH        "Polish"
+LANG_SPANISH         "Polaco"
+
+REFERENCE           SAFE
+LANG_ENGLISH        "Safe"
+LANG_SPANISH         "Seguro"
+
+REFERENCE           SAFE_MODE
+LANG_ENGLISH        "Safe Mode"
+LANG_SPANISH         "Modo seguro"
+
+REFERENCE           DEDICATEDONLY
+LANG_ENGLISH        "Dedicated Only:"
+LANG_SPANISH         "Solo dedicado:"
+
+REFERENCE           AUTOBALANCE_TEAMS
+LANG_ENGLISH        "Auto-Balance Teams:  "
+LANG_SPANISH         "Nivelar automáticamente equipos:  "
+
+REFERENCE           ALLOW_ENEMY_SPECTATING
+LANG_ENGLISH        "Allow Enemy Spectating:  "
+LANG_SPANISH         "Permitir espectador enemigo:  "
+
+REFERENCE           ALLOW_FREE_SPECTATING
+LANG_ENGLISH        "Allow Free Spectating:  "
+LANG_SPANISH         "Permitir espectador libre:  "
+
+REFERENCE           ALLOW_DOWNLOAD
+LANG_ENGLISH        "Allow Downloading"
+LANG_SPANISH         "Permitir descarga"
+
+REFERENCE           PRESS_START
+LANG_ENGLISH        "Press START"
+LANG_SPANISH         "Pulsa START"
+
+REFERENCE           PLAYTOUJANE
+LANG_ENGLISH        "Play Toujane"
+LANG_SPANISH         "Jugar Toujane"
+
+REFERENCE           SPLIT_SCREEN
+LANG_ENGLISH        "Split Screen"
+LANG_SPANISH         "Pantalla dividida"
+
+REFERENCE           START_GAME
+LANG_ENGLISH        "Start Game"
+LANG_SPANISH         "Empezar partida"
+
+REFERENCE           JOIN_GAME
+LANG_ENGLISH        "Join Game"
+LANG_SPANISH         "Unirse a partida"
+
+REFERENCE           CYCLE_ITEMS
+LANG_ENGLISH        "Cycle Items:  "
+LANG_SPANISH         "Rotar objetos:  "
+
+REFERENCE           USE_ITEM
+LANG_ENGLISH        "Use Item:  "
+LANG_SPANISH         "Usar objeto:  "
+
+REFERENCE           HOLD_BREATH
+LANG_ENGLISH        "Hold Breath"
+LANG_SPANISH         "Contener la respiración"
+
+REFERENCE           MELEE_BREATH
+LANG_ENGLISH        "Melee/Hold Breath"
+LANG_SPANISH         "Ataq. cpo. cpo./Cont. respiración"
+
+REFERENCE           VOICECHAT
+LANG_ENGLISH        "Voice Chat"
+LANG_SPANISH         "Chat de voz"
+
+REFERENCE           VOICECHAT_RECORD_LEVEL
+LANG_ENGLISH        "Record Level"
+LANG_SPANISH         "Nivel de grabación"
+
+REFERENCE           VOICECHAT_LEVEL_ADJUST
+LANG_ENGLISH        "Level Adjust"
+LANG_SPANISH         "Ajuste de nivel"
+
+REFERENCE           VOICECHAT_LEVEL_INDICATOR
+LANG_ENGLISH        "Level Indicator"
+LANG_SPANISH         "Indicador de nivel"
+
+REFERENCE           MULTIPLAYER_OPTIONS_HEADING
+LANG_ENGLISH        "Multiplayer Options"
+LANG_SPANISH         "Opciones de multijugador"
+
+REFERENCE           VOICE
+LANG_ENGLISH        "Voice"
+LANG_SPANISH         "Voz"
+
+REFERENCE           VOICE_CHAT_BUTTON
+LANG_ENGLISH        "Voice Chat"
+LANG_SPANISH         "Chat de voz"
+
+REFERENCE           VOICE_CHAT_ENABLE
+LANG_ENGLISH        "Voice Chat:"
+LANG_SPANISH         "Chat de voz:"
+
+REFERENCE           CAMPAIGN
+LANG_ENGLISH        "Campaign"
+LANG_SPANISH         "Campaña"
+
+REFERENCE           LOOK_SENSITIVITY
+LANG_ENGLISH        "Look Sensitivity"
+LANG_SPANISH         "Sensibilidad de vista"
+
+REFERENCE           VERY_HIGH
+LANG_ENGLISH        "Very High"
+LANG_SPANISH         "Muy alto"
+
+REFERENCE           LOOK_INVERSION
+LANG_ENGLISH        "Look Inversion"
+LANG_SPANISH         "Inversión de vista"
+
+REFERENCE           ENABLED
+LANG_ENGLISH        "Enabled"
+LANG_SPANISH         "Activado"
+
+REFERENCE           ENABLED_DEFAULT
+LANG_ENGLISH        "Enabled (Default)"
+LANG_SPANISH         "Activado (predeterminado)"
+
+REFERENCE           DISABLED
+LANG_ENGLISH        "Disabled"
+LANG_SPANISH         "Desactivado"
+
+REFERENCE           DISABLED_DEFAULT
+LANG_ENGLISH        "Disabled (Default)"
+LANG_SPANISH         "Desactivado (predeterminado)"
+
+REFERENCE           CONTROLLER_VIBRATION
+LANG_ENGLISH        "Controller Vibration"
+LANG_SPANISH         "Vibración del mando"
+
+REFERENCE           THUMBSTICK_LAYOUT
+LANG_ENGLISH        "Stick Layout"
+LANG_SPANISH         "Esquema del joystick"
+
+REFERENCE           CLASSIC
+LANG_ENGLISH        "Classic"
+LANG_SPANISH         "Clásico"
+
+REFERENCE           LEFTY
+LANG_ENGLISH        "Lefty"
+LANG_SPANISH         "Zurdo"
+
+REFERENCE           FINEST_HOUR
+LANG_ENGLISH        "Finest Hour"
+LANG_SPANISH         "Mejor momento"
+
+REFERENCE           DIVER
+LANG_ENGLISH        "Diver"
+LANG_SPANISH         "Submarinista"
+
+REFERENCE           BUTTON_LAYOUT
+LANG_ENGLISH        "Button Layout"
+LANG_SPANISH         "Esquema de botones"
+
+REFERENCE           SOUTHPAW
+LANG_ENGLISH        "Southpaw"
+LANG_SPANISH         "Zurdo"
+
+REFERENCE           LEGACY
+LANG_ENGLISH        "Legacy"
+LANG_SPANISH         "Clásico"
+
+REFERENCE           LEGACY_SOUTHPAW
+LANG_ENGLISH        "Legacy Southpaw"
+LANG_SPANISH         "Zurdo clásico"
+
+REFERENCE           SYSTEM_LINK
+LANG_ENGLISH        "System Link"
+LANG_SPANISH         "Interconexión de sistemas"
+
+REFERENCE           JOIN_GAME1
+LANG_ENGLISH        "Join Game"
+LANG_SPANISH         "Unirse a partida"
+
+REFERENCE           CREATE_GAME
+LANG_ENGLISH        "Create Game"
+LANG_SPANISH         "Crear partida"
+
+REFERENCE           SOVIETS
+LANG_ENGLISH        "Soviets"
+LANG_SPANISH         "Soviéticos"
+
+REFERENCE           AMERICANS
+LANG_ENGLISH        "Americans"
+LANG_SPANISH         "Americanos"
+
+REFERENCE           SELECT_NEXT_MISSION
+LANG_ENGLISH        "Select Next Mission"
+LANG_SPANISH         "Elegir misión siguiente"
+
+REFERENCE           1941
+LANG_ENGLISH        "1941"
+LANG_SPANISH         "#same"
+
+REFERENCE           1942
+LANG_ENGLISH        "1942"
+LANG_SPANISH         "#same"
+
+REFERENCE           1943
+LANG_ENGLISH        "1943"
+LANG_SPANISH         "#same"
+
+REFERENCE           1944
+LANG_ENGLISH        "1944"
+LANG_SPANISH         "#same"
+
+REFERENCE           1945
+LANG_ENGLISH        "1945"
+LANG_SPANISH         "#same"
+
+REFERENCE           COMPLETED
+LANG_ENGLISH        "Completed"
+LANG_SPANISH         "Cumplida"
+
+REFERENCE           LOCKED
+LANG_ENGLISH        "Locked"
+LANG_SPANISH         "Bloqueado"
+
+REFERENCE           UNLOCK
+LANG_ENGLISH        "Unlock"
+LANG_SPANISH         "Desbloq."
+
+REFERENCE           RESET
+LANG_ENGLISH        "Reset"
+LANG_SPANISH         "Restablecer"
+
+REFERENCE           LOAD_MISSION
+LANG_ENGLISH        "Load Mission?"
+LANG_SPANISH         "¿Cargar misión?"
+
+REFERENCE           STATUS
+LANG_ENGLISH        "Status:"
+LANG_SPANISH         "Estado:"
+
+REFERENCE           NOT_STARTED
+LANG_ENGLISH        "Not Started"
+LANG_SPANISH         "No iniciada"
+
+REFERENCE           IN_PROGRESS
+LANG_ENGLISH        "In Progress"
+LANG_SPANISH         "En marcha"
+
+REFERENCE           COMPLETED_GREENHORN
+LANG_ENGLISH        "Completed Greenhorn"
+LANG_SPANISH         "Terminado Novato"
+
+REFERENCE           COMPLETED_REGULAR
+LANG_ENGLISH        "Completed Regular"
+LANG_SPANISH         "Terminado Profesional"
+
+REFERENCE           COMPLETED_HARDENED
+LANG_ENGLISH        "Completed Hardened"
+LANG_SPANISH         "Terminado Curtido"
+
+REFERENCE           COMPLETED_VETERAN
+LANG_ENGLISH        "Completed Veteran"
+LANG_SPANISH         "Terminado Veterano"
+
+REFERENCE           ASPECT_RATIO
+LANG_ENGLISH        "Aspect Ratio"
+LANG_SPANISH         "Relación de aspecto"
+
+REFERENCE           TEXTURE_RESOLUTION
+LANG_ENGLISH        "Texture Resolution"
+LANG_SPANISH         "Resolución de texturas"
+
+REFERENCE           NORMAL_MAP_RESOLUTION
+LANG_ENGLISH        "Normal Map Resolution"
+LANG_SPANISH         "Resolución normal del mapa"
+
+REFERENCE           SPECULAR_MAP_RESOLUTION
+LANG_ENGLISH        "Specular Map Resolution"
+LANG_SPANISH         "Resolución especular del mapa"
+
+REFERENCE           VERY_LOW
+LANG_ENGLISH        "Very Low"
+LANG_SPANISH         "Muy bajo"
+
+REFERENCE           AUTO
+LANG_ENGLISH        "Auto"
+LANG_SPANISH         "Automático"
+
+REFERENCE           STANDARD
+LANG_ENGLISH        "Standard"
+LANG_SPANISH         "Normal"
+
+REFERENCE           WIDE_16_9
+LANG_ENGLISH        "Wide 16:9"
+LANG_SPANISH         "Panorámico 16:9"
+
+REFERENCE           WIDE_16_10
+LANG_ENGLISH        "Wide 16:10"
+LANG_SPANISH         "Panorámico 16:10"
+
+REFERENCE           MENU_COULDNT_BE_FOUND
+LANG_ENGLISH        "Menu couldn't be found!"
+LANG_SPANISH         "¡No se ha podido encontrar el menú!"
+
+REFERENCE           STANCE_UP_JUMP
+LANG_ENGLISH        "Stance Up/Jump"
+LANG_SPANISH         "Levantarse/Saltar"
+
+REFERENCE           USE_RELOAD
+LANG_ENGLISH        "Use/Reload"
+LANG_SPANISH         "Usar/Recargar"
+
+REFERENCE           SWITCH_WEAPON
+LANG_ENGLISH        "Switch Weapon"
+LANG_SPANISH         "Cambiar de arma"
+
+REFERENCE           THROW_GRENADE
+LANG_ENGLISH        "Throw Grenade"
+LANG_SPANISH         "Lanzar granada"
+
+REFERENCE           CHANGE_GRENADE_TYPE
+LANG_ENGLISH        "Change Grenade Type"
+LANG_SPANISH         "Cambiar tipo de granada"
+
+REFERENCE           AIM_DOWN_SIGHT
+LANG_ENGLISH        "Aim Down Sight"
+LANG_SPANISH         "Apuntar con la mira"
+
+REFERENCE           FIRE_WEAPON
+LANG_ENGLISH        "Fire Weapon"
+LANG_SPANISH         "Disparar arma"
+
+REFERENCE           OBJECTIVES_MENU
+LANG_ENGLISH        "Objectives/Menu"
+LANG_SPANISH         "Objetivos/Menú"
+
+REFERENCE           CHANGE_DIFFICULTY
+LANG_ENGLISH        "Change Difficulty"
+LANG_SPANISH         "Cambiar dificultad"
+
+REFERENCE           RIGHT
+LANG_ENGLISH        "Right"
+LANG_SPANISH         "Derecha"
+
+REFERENCE           MOVE_FORWARD
+LANG_ENGLISH        "Move Forward"
+LANG_SPANISH         "Avanzar"
+
+REFERENCE           ROTATE_LEFT_RIGHT
+LANG_ENGLISH        "Rotate Left/Right"
+LANG_SPANISH         "Girar izquierda/derecha"
+
+REFERENCE           MOVE_BACK
+LANG_ENGLISH        "Move Back"
+LANG_SPANISH         "Retroceder"
+
+REFERENCE           STRAFE_LEFT_RIGHT
+LANG_ENGLISH        "Strafe Left/Right"
+LANG_SPANISH         "Desplazarse lateralmente izquierda/derecha"
+
+REFERENCE           WAITING_FOR_MORE_PLAYERS
+LANG_ENGLISH        "Waiting for more players"
+LANG_SPANISH         "Esperando a más jugadores."
+
+REFERENCE           MATCH_BEGINNING_IN
+LANG_ENGLISH        "Match beginning in:"
+LANG_SPANISH         "La partida comienza en:"
+
+REFERENCE           XBOX_LIVE
+LANG_ENGLISH        "Xbox Live"
+LANG_SPANISH         "#same"
+
+REFERENCE           XBOX_LIVE_LOBBY
+LANG_ENGLISH        "Xbox Live Lobby"
+LANG_SPANISH         "Punto de encuentro Xbox Live"
+
+REFERENCE           QUICK_MATCH_STANDARD
+LANG_ENGLISH        "Quick Match: Standard"
+LANG_SPANISH         "Partida rápida: Normal"
+
+REFERENCE           PLAY_A_QUICK_MATCH_WHICH_WILL_NOT_AFFECT_YOUR_RANK
+LANG_ENGLISH        "Play a Quick Match which will not affect your Rank"
+LANG_SPANISH         "Jugar una partida rápida que no afectará a tu clasificación."
+
+REFERENCE           QUICK_MATCH_RANKED
+LANG_ENGLISH        "Quick Match: Ranked"
+LANG_SPANISH         "Partida rápida: Clasificatoria"
+
+REFERENCE           PLAY_A_QUICK_MATCH_WHICH_WILL_AFFECT_YOUR_RANK
+LANG_ENGLISH        "Play a Quick Match which will affect your Rank"
+LANG_SPANISH         "Jugar una partida rápida que afectará a tu clasificación."
+
+REFERENCE           CUSTOM_MATCH_STANDARD
+LANG_ENGLISH        "Custom Match: Standard"
+LANG_SPANISH         "Partida personalizada: Normal"
+
+REFERENCE           PLAY_A_CUSTOM_MATCH_WHICH_WILL_NOT_AFFECT_YOUR_RANK
+LANG_ENGLISH        "Play a Custom Match which will not affect your Rank"
+LANG_SPANISH         "Jugar una partida personalizada que no afectará a tu clasificación."
+
+REFERENCE           CUSTOM_MATCH_RANKED
+LANG_ENGLISH        "Custom Match: Ranked"
+LANG_SPANISH         "Partida personalizada: Clasificatoria"
+
+REFERENCE           PLAY_A_CUSTOM_MATCH_WHICH_WILL_AFFECT_YOUR_RANK
+LANG_ENGLISH        "Play a Custom Match which will affect your Rank"
+LANG_SPANISH         "Jugar una partida personalizada que afectará a tu clasificación."
+
+REFERENCE           TIME_LIMIT1
+LANG_ENGLISH        "Time Limit"
+LANG_SPANISH         "Límite de tiempo"
+
+REFERENCE           2_MINUTES
+LANG_ENGLISH        "2 Minutes"
+LANG_SPANISH         "2 minutos"
+
+REFERENCE           3_MINUTES
+LANG_ENGLISH        "3 Minutes"
+LANG_SPANISH         "3 minutos"
+
+REFERENCE           4_MINUTES
+LANG_ENGLISH        "4 Minutes"
+LANG_SPANISH         "4 minutos"
+
+REFERENCE           4_MINUTES_DEFAULT
+LANG_ENGLISH        "4 Minutes (Default)"
+LANG_SPANISH         "4 minutos (predeterminado)"
+
+REFERENCE           5_MINUTES
+LANG_ENGLISH        "5 Minutes"
+LANG_SPANISH         "5 minutos"
+
+REFERENCE           10_MINUTES
+LANG_ENGLISH        "10 Minutes"
+LANG_SPANISH         "10 minutos"
+
+REFERENCE           15_MINUTES
+LANG_ENGLISH        "15 Minutes"
+LANG_SPANISH         "15 minutos"
+
+REFERENCE           15_MINUTES_DEFAULT
+LANG_ENGLISH        "15 Minutes (Default)"
+LANG_SPANISH         "15 minutos (predeterminado)"
+
+REFERENCE           30_MINUTES
+LANG_ENGLISH        "30 Minutes"
+LANG_SPANISH         "30 minutos"
+
+REFERENCE           30_MINUTES_DEFAULT
+LANG_ENGLISH        "30 Minutes (Default)"
+LANG_SPANISH         "30 minutos (predeterminado)"
+
+REFERENCE           45_MINUTES
+LANG_ENGLISH        "45 Minutes"
+LANG_SPANISH         "45 minutos"
+
+REFERENCE           1_HOUR
+LANG_ENGLISH        "1 Hour"
+LANG_SPANISH         "1 hora"
+
+REFERENCE           SCORE_LIMIT
+LANG_ENGLISH        "Score Limit"
+LANG_SPANISH         "Límite de puntuación"
+
+REFERENCE           5_POINTS
+LANG_ENGLISH        "5 Points"
+LANG_SPANISH         "5 puntos"
+
+REFERENCE           5_POINTS_DEFAULT
+LANG_ENGLISH        "5 Points (Default)"
+LANG_SPANISH         "5 puntos (predeterminado)"
+
+REFERENCE           10_POINTS
+LANG_ENGLISH        "10 Points"
+LANG_SPANISH         "10 puntos"
+
+REFERENCE           10_POINTS_DEFAULT
+LANG_ENGLISH        "10 Points (Default)"
+LANG_SPANISH         "10 puntos (predeterminado)"
+
+REFERENCE           15_POINTS
+LANG_ENGLISH        "15 Points"
+LANG_SPANISH         "15 puntos"
+
+REFERENCE           20_POINTS
+LANG_ENGLISH        "20 Points"
+LANG_SPANISH         "20 puntos"
+
+REFERENCE           25_POINTS
+LANG_ENGLISH        "25 Points"
+LANG_SPANISH         "25 puntos"
+
+REFERENCE           25_POINTS_DEFAULT
+LANG_ENGLISH        "25 Points (Default)"
+LANG_SPANISH         "25 puntos (predeterminado)"
+
+REFERENCE           30_POINTS
+LANG_ENGLISH        "30 Points"
+LANG_SPANISH         "30 puntos"
+
+REFERENCE           50_POINTS
+LANG_ENGLISH        "50 Points"
+LANG_SPANISH         "50 puntos"
+
+REFERENCE           50_POINTS_DEFAULT
+LANG_ENGLISH        "50 Points (Default)"
+LANG_SPANISH         "50 puntos (predeterminado)"
+
+REFERENCE           100_POINTS
+LANG_ENGLISH        "100 Points"
+LANG_SPANISH         "100 puntos"
+
+REFERENCE           100_POINTS_DEFAULT
+LANG_ENGLISH        "100 Points (Default)"
+LANG_SPANISH         "100 puntos (predeterminado)"
+
+REFERENCE           200_POINTS
+LANG_ENGLISH        "200 Points"
+LANG_SPANISH         "200 puntos"
+
+REFERENCE           300_POINTS
+LANG_ENGLISH        "300 Points"
+LANG_SPANISH         "300 puntos"
+
+REFERENCE           300_POINTS_DEFAULT
+LANG_ENGLISH        "300 Points (Default)"
+LANG_SPANISH         "300 puntos (predeterminado)"
+
+REFERENCE           400_POINTS
+LANG_ENGLISH        "400 Points"
+LANG_SPANISH         "400 puntos"
+
+REFERENCE           400_POINTS_DEFAULT
+LANG_ENGLISH        "400 Points (Default)"
+LANG_SPANISH         "400 puntos (predeterminado)"
+
+REFERENCE           450_POINTS
+LANG_ENGLISH        "450 Points"
+LANG_SPANISH         "450 puntos"
+
+REFERENCE           450_POINTS_DEFAULT
+LANG_ENGLISH        "450 Points (Default)"
+LANG_SPANISH         "450 puntos (predeterminado)"
+
+REFERENCE           600_POINTS
+LANG_ENGLISH        "600 Points"
+LANG_SPANISH         "600 puntos"
+
+REFERENCE           600_POINTS_DEFAULT
+LANG_ENGLISH        "600 Points (Default)"
+LANG_SPANISH         "600 puntos (predeterminado)"
+
+REFERENCE           800_POINTS
+LANG_ENGLISH        "800 Points"
+LANG_SPANISH         "800 puntos"
+
+REFERENCE           1000_POINTS
+LANG_ENGLISH        "1000 Points"
+LANG_SPANISH         "1.000 puntos"
+
+REFERENCE           SIGN_IN
+LANG_ENGLISH        "Sign In"
+LANG_SPANISH         "Iniciar sesión"
+
+REFERENCE           QUICK_OPTIONS
+LANG_ENGLISH        "Quick Options"
+LANG_SPANISH         "Opciones rápidas"
+
+REFERENCE           5_ROUNDS
+LANG_ENGLISH        "5 Rounds"
+LANG_SPANISH         "5 vueltas"
+
+REFERENCE           10_ROUNDS
+LANG_ENGLISH        "10 Rounds"
+LANG_SPANISH         "10 vueltas"
+
+REFERENCE           15_ROUNDS
+LANG_ENGLISH        "15 Rounds"
+LANG_SPANISH         "15 vueltas"
+
+REFERENCE           20_ROUNDS
+LANG_ENGLISH        "20 Rounds"
+LANG_SPANISH         "20 vueltas"
+
+REFERENCE           ROUND_LENGTH1
+LANG_ENGLISH        "Round Length"
+LANG_SPANISH         "Duración de la vuelta"
+
+REFERENCE           ROUND_LIMIT1
+LANG_ENGLISH        "Round Limit"
+LANG_SPANISH         "Límite de vueltas"
+
+REFERENCE           PLAYERS
+LANG_ENGLISH        "Players"
+LANG_SPANISH         "Jugadores"
+
+REFERENCE           MODIFIERS
+LANG_ENGLISH        "Modifiers"
+LANG_SPANISH         "Modificadores"
+
+REFERENCE           MAPS
+LANG_ENGLISH        "Maps"
+LANG_SPANISH         "Mapas"
+
+REFERENCE           RANDOM
+LANG_ENGLISH        "Random"
+LANG_SPANISH         "Aleatorio"
+
+REFERENCE           BELTOT_FRANCE
+LANG_ENGLISH        "Beltot, France"
+LANG_SPANISH         "Beltot, Francia"
+
+REFERENCE           BRECOURT_FRANCE
+LANG_ENGLISH        "Brecourt, France"
+LANG_SPANISH         "Brecourt, Francia"
+
+REFERENCE           BURGUNDY_FRANCE
+LANG_ENGLISH        "Burgundy, France"
+LANG_SPANISH         "Borgoña, Francia"
+
+REFERENCE           CARENTAN_FRANCE
+LANG_ENGLISH        "Carentan, France"
+LANG_SPANISH         "Carentan, Francia"
+
+REFERENCE           NORTHERN_CAEN_FRANCE
+LANG_ENGLISH        "Northern Caen, France"
+LANG_SPANISH         "Norte de Caen, Francia"
+
+REFERENCE           CAEN_FRANCE
+LANG_ENGLISH        "Caen, France"
+LANG_SPANISH         "Caen, Francia"
+
+REFERENCE           ST_MERE_EGLISE_FRANCE
+LANG_ENGLISH        "St. Mere Eglise, France"
+LANG_SPANISH         "St. Mere Eglise, Francia"
+
+REFERENCE           MATMATA_TUNISIA
+LANG_ENGLISH        "Matmata, Tunisia"
+LANG_SPANISH         "Matmata, Túnez"
+
+REFERENCE           TOUJANE_TUNISIA
+LANG_ENGLISH        "Toujane, Tunisia"
+LANG_SPANISH         "Toujane, Túnez"
+
+REFERENCE           EL_ALAMEIN_EGYPT
+LANG_ENGLISH        "El Alamein, Egypt"
+LANG_SPANISH         "El Alamein, Egipto"
+
+REFERENCE           LENINGRAD_RUSSIA
+LANG_ENGLISH        "Leningrad, Russia"
+LANG_SPANISH         "Leningrado, Rusia"
+
+REFERENCE           MOSCOW_RUSSIA
+LANG_ENGLISH        "Moscow, Russia"
+LANG_SPANISH         "Moscú, Rusia"
+
+REFERENCE           STALINGRAD_RUSSIA
+LANG_ENGLISH        "Stalingrad, Russia"
+LANG_SPANISH         "Stalingrado, Rusia"
+
+REFERENCE           VILLERSBOCAGE_FRANCE
+LANG_ENGLISH        "Villers-Bocage, France"
+LANG_SPANISH         "Villers-Bocage, Francia"
+
+REFERENCE           BELTOT_FRANCE_MP
+LANG_ENGLISH        "Beltot, France"
+LANG_SPANISH         "Beltot, Francia"
+
+REFERENCE           BRECOURT_FRANCE_MP
+LANG_ENGLISH        "Brecourt, France"
+LANG_SPANISH         "Brecourt, Francia"
+
+REFERENCE           BURGUNDY_FRANCE_MP
+LANG_ENGLISH        "Burgundy, France"
+LANG_SPANISH         "Borgoña, Francia"
+
+REFERENCE           CARENTAN_FRANCE_MP
+LANG_ENGLISH        "Carentan, France"
+LANG_SPANISH         "Carentan, Francia"
+
+REFERENCE           NORTHERN_CAEN_FRANCE_MP
+LANG_ENGLISH        "Northern Caen, France"
+LANG_SPANISH         "Norte de Caen, Francia"
+
+REFERENCE           CAEN_FRANCE_MP
+LANG_ENGLISH        "Caen, France"
+LANG_SPANISH         "Caen, Francia"
+
+REFERENCE           ST_MERE_EGLISE_FRANCE_MP
+LANG_ENGLISH        "St. Mere Eglise, France"
+LANG_SPANISH         "St. Mere Eglise, Francia"
+
+REFERENCE           MATMATA_TUNISIA_MP
+LANG_ENGLISH        "Matmata, Tunisia"
+LANG_SPANISH         "Matmata, Túnez"
+
+REFERENCE           TOUJANE_TUNISIA_MP
+LANG_ENGLISH        "Toujane, Tunisia"
+LANG_SPANISH         "Toujane, Túnez"
+
+REFERENCE           EL_ALAMEIN_EGYPT_MP
+LANG_ENGLISH        "El Alamein, Egypt"
+LANG_SPANISH         "El Alamein, Egipto"
+
+REFERENCE           LENINGRAD_RUSSIA_MP
+LANG_ENGLISH        "Leningrad, Russia"
+LANG_SPANISH         "Leningrado, Rusia"
+
+REFERENCE           MOSCOW_RUSSIA_MP
+LANG_ENGLISH        "Moscow, Russia"
+LANG_SPANISH         "Moscú, Rusia"
+
+REFERENCE           STALINGRAD_RUSSIA_MP
+LANG_ENGLISH        "Stalingrad, Russia"
+LANG_SPANISH         "Stalingrado, Rusia"
+
+REFERENCE           VILLERSBOCAGE_FRANCE_MP
+LANG_ENGLISH        "Villers-Bocage, France"
+LANG_SPANISH         "Villers-Bocage, Francia"
+
+REFERENCE           GAME_TYPES
+LANG_ENGLISH        "Game Types"
+LANG_SPANISH         "Tipos de partida"
+
+REFERENCE           A_GAME_TYPE_WILL_BE_SELECTED_AT_RANDOM
+LANG_ENGLISH        "A game type will be selected at random."
+LANG_SPANISH         "Se elegirá un tipo de partida al azar."
+
+REFERENCE           DEATHMATCH
+LANG_ENGLISH        "Deathmatch"
+LANG_SPANISH         "#same"
+
+REFERENCE           YOU_ARE_ALL_ALONE_ELIMINATE_EVERYONE_ELSE
+LANG_ENGLISH        "You are all alone.  Eliminate everyone else."
+LANG_SPANISH         "Estás solo. Elimina a todos los demás."
+
+REFERENCE           TEAM_DEATHMATCH
+LANG_ENGLISH        "Team Deathmatch"
+LANG_SPANISH         "Deathmatch por equipos"
+
+REFERENCE           AXIS_VS_ALLIES_ELIMINATE_THE_ENEMY_TEAM
+LANG_ENGLISH        "Axis vs. Allies.  Eliminate the enemy team."
+LANG_SPANISH         "Eje contra Aliados. Elimina al equipo enemigo."
+
+REFERENCE           CAPTURE_THE_FLAG
+LANG_ENGLISH        "Capture the Flag"
+LANG_SPANISH         "Capturar la bandera"
+
+REFERENCE           CTF_DESC
+LANG_ENGLISH        "Get the enemy flag while defending your flag.  Touching your flag while holding the enemy flag is a capture."
+LANG_SPANISH         "Hazte con la bandera enemiga a la vez que defiendes la tuya propia. Tocar tu bandera mientras sostienes la bandera enemiga cuenta como una captura."
+
+REFERENCE           HEADQUARTERS
+LANG_ENGLISH        "Headquarters"
+LANG_SPANISH         "Cuartel general"
+
+REFERENCE           HQ_DESC
+LANG_ENGLISH        "Teams race to set up a radio and defend it for points.  If the enemy team sets up a radio, you must destroy it."
+LANG_SPANISH         "Los equipos compiten por colocar una radio y defenderla para obtener puntos. Si el equipo enemigo coloca una radio, tienes que destruirla."
+
+REFERENCE           SEARCH_AND_DESTROY
+LANG_ENGLISH        "Search and Destroy"
+LANG_SPANISH         "Búsqueda y destrucción"
+
+REFERENCE           SD_DESC
+LANG_ENGLISH        "The Allies try to destroy Axis held objectives by planting explosives.  Axis must defuse the explosives if they are planted."
+LANG_SPANISH         "Los Aliados tratan de destruir los objetivos en poder del Eje colocando explosivos. El Eje tiene que desactivar los explosivos en caso de conseguir colocarlos."
+
+REFERENCE           CUSTOM_MATCH
+LANG_ENGLISH        "Custom Match"
+LANG_SPANISH         "Partida personalizada"
+
+REFERENCE           START_GAME_LOBBY
+LANG_ENGLISH        "Start Game Lobby"
+LANG_SPANISH         "Iniciar punto de encuentro"
+
+REFERENCE           CHANGE_GAME_TYPE
+LANG_ENGLISH        "Change Game Type"
+LANG_SPANISH         "Cambiar tipo de partida"
+
+REFERENCE           GAME_SETUP
+LANG_ENGLISH        "Game Setup"
+LANG_SPANISH         "Ajustes de juego"
+
+REFERENCE           LOCATION
+LANG_ENGLISH        "Location:"
+LANG_SPANISH         "Lugar:"
+
+REFERENCE           APPLY_SETTINGS
+LANG_ENGLISH        "Apply Settings?"
+LANG_SPANISH         "¿Aplicar ajustes?"
+
+REFERENCE           SETTINGS_WILL_BE_APPLIED_NEXT_TIME
+LANG_ENGLISH        "Settings will be applied next time"
+LANG_SPANISH         "Los ajustes se aplicarán la próxima vez"
+
+REFERENCE           THE_SERVER_IS_STARTED
+LANG_ENGLISH        "the game is started."
+LANG_SPANISH         "la partida ya ha comenzado."
+
+REFERENCE           VOICE_CHAT_WILL_BE_DISABLED_BECAUSE
+LANG_ENGLISH        "Voice chat will be disabled because"
+LANG_SPANISH         "Se va a desactivar el chat de voz porque"
+
+REFERENCE           YOUR_NETWORK_SETTINGS
+LANG_ENGLISH        "your network settings"
+LANG_SPANISH         "tus ajustes de red"
+
+REFERENCE           ARE_TOO_LOW_TO_SUPPORT_VOICE_CHAT
+LANG_ENGLISH        "are too low to support voice chat."
+LANG_SPANISH         "son tan bajos que no son compatibles con el chat de voz."
+
+REFERENCE           VOICE_CHAT
+LANG_ENGLISH        "Voice Chat"
+LANG_SPANISH         "Chat de voz"
+
+REFERENCE           CHANGE_WEAPON
+LANG_ENGLISH        "Change Weapon"
+LANG_SPANISH         "Cambiar arma"
+
+REFERENCE           APPLY_LANGUAGE_SETTINGS
+LANG_ENGLISH        "Apply Language Settings?"
+LANG_SPANISH         "¿Aplicar ajustes de idioma?"
+
+REFERENCE           THE_WINTER_WAR
+LANG_ENGLISH        "The Winter War"
+LANG_SPANISH         "La guerra de invierno"
+
+REFERENCE           MISSION_01_LOCATION
+LANG_ENGLISH        "Near Moscow, U.S.S.R. - 1941"
+LANG_SPANISH         "Cerca de Moscú, U.R.S.S. - 1941"
+
+REFERENCE           MISSION_01_01_TITLE
+LANG_ENGLISH        "Red Army Training"
+LANG_SPANISH         "Instrucción del Ejército rojo"
+
+REFERENCE           MISSION_01_01_DESC
+LANG_ENGLISH        "Learn how to fight for the Motherland."
+LANG_SPANISH         "Aprende a luchar por la Madre Patria."
+
+REFERENCE           MISSION_01_02
+LANG_ENGLISH        "Demolition"
+LANG_SPANISH         "Demolición"
+
+REFERENCE           MISSION_01_02_DESC
+LANG_ENGLISH        "Repel the enemy assault and demolish their hardpoint."
+LANG_SPANISH         "Rechaza el ataque enemigo y destruye su punto fuerte."
+
+REFERENCE           MISSION_02
+LANG_ENGLISH        "The Battle of El Alamein"
+LANG_SPANISH         "La batalla de El Alamein"
+
+REFERENCE           MISSION_02_LOCATION
+LANG_ENGLISH        "Northern Egypt - 1942"
+LANG_SPANISH         "Norte de Egipto - 1942"
+
+REFERENCE           MISSION_02_01_TITLE
+LANG_ENGLISH        "The Diversionary Raid"
+LANG_SPANISH         "Asalto de distracción"
+
+REFERENCE           MISSION_02_01_DESC
+LANG_ENGLISH        "Rush the trenches and raid the enemy supply depot."
+LANG_SPANISH         "Asalta las trincheras y el depósito de suministros enemigo."
+
+REFERENCE           MISSION_02_02_TITLE
+LANG_ENGLISH        "Holding the Line"
+LANG_SPANISH         "Defendiendo las líneas"
+
+REFERENCE           MISSION_02_02_DESC
+LANG_ENGLISH        "Defend a small desert village on the British line south of El Alamein."
+LANG_SPANISH         "Defiende un pequeño pueblo del desierto en las líneas británicas al sur de El Alamein."
+
+REFERENCE           MISSION_02_03_TITLE
+LANG_ENGLISH        "Operation Supercharge"
+LANG_SPANISH         "Operación Sobrecarga"
+
+REFERENCE           MISSION_02_03_DESC
+LANG_ENGLISH        "Assist your tanks in breaking through the Alamein line."
+LANG_SPANISH         "Ayuda a tus tanques a atravesar las líneas de El Alamein."
+
+REFERENCE           MISSION_02_04_TITLE
+LANG_ENGLISH        "The End of the Beginning"
+LANG_SPANISH         "El fin del principio"
+
+REFERENCE           MISSION_02_04_DESC
+LANG_ENGLISH        "Capture the town of El Daba on the Mediterranean coast."
+LANG_SPANISH         "Toma el pueblo de El Daba en la costa mediterránea."
+
+REFERENCE           MISSION_03_TITLE
+LANG_ENGLISH        ""Not One Step Backwards!""
+LANG_SPANISH         ""¡Ni un paso atrás!""
+
+REFERENCE           MISSION_03_LOCATION
+LANG_ENGLISH        "Stalingrad, U.S.S.R. - 1942"
+LANG_SPANISH         "Stalingrado, U.R.S.S. - 1942"
+
+REFERENCE           MISSION_03_01_TITLE
+LANG_ENGLISH        "Repairing the Wire"
+LANG_SPANISH         "Repara el cable"
+
+REFERENCE           MISSION_03_LEVEL_01_DESC
+LANG_ENGLISH        "Repair the severed field phone line and destroy enemy tanks with sticky bombs."
+LANG_SPANISH         "Repara la línea telefónica de campaña cortada y destruye los tanques enemigos con bombas adhesivas."
+
+REFERENCE           MISSION_03_LEVEL_02_TITLE
+LANG_ENGLISH        "Railroad Station No. 1"
+LANG_SPANISH         "Estación de ferrocarril Nº1"
+
+REFERENCE           MISSION_03_LEVEL_02_DESC
+LANG_ENGLISH        "Infiltrate via the pipeline and retake the trainyard."
+LANG_SPANISH         "Infíltrate por el conducto y recupera la estación."
+
+REFERENCE           MISSION_04_TITLE
+LANG_ENGLISH        "Fortress Stalingrad"
+LANG_SPANISH         "Fortaleza Stalingrado"
+
+REFERENCE           MISSION_04_LOCATION
+LANG_ENGLISH        "Stalingrad, U.S.S.R. - 1943"
+LANG_SPANISH         "Stalingrado, U.R.S.S. - 1943"
+
+REFERENCE           MISSION_04_LEVEL_01_TITLE
+LANG_ENGLISH        "Downtown Assault"
+LANG_SPANISH         "Asalto al centro"
+
+REFERENCE           MISSION_04_LEVEL_01_DESC
+LANG_ENGLISH        "Retake a series of apartment blocks in the city, and then support an attack on the enemy supply depot."
+LANG_SPANISH         "Recupera un grupo de bloques de apartamentos de la ciudad e incorpórate luego el ataque al depósito de suministros enemigo."
+
+REFERENCE           MISSION_04_LEVEL_02_TITLE
+LANG_ENGLISH        "Stalingrad City Hall"
+LANG_SPANISH         "Ayuntamiento de Stalingrado"
+
+REFERENCE           MISSION_04_LEVEL_02_DESC
+LANG_ENGLISH        "Fight through the streets to City Hall."
+LANG_SPANISH         "Ábrete paso por las calles hasta llegar al ayuntamiento."
+
+REFERENCE           MISSION_04_LEVEL_03_TITLE
+LANG_ENGLISH        "Comrade Sniper"
+LANG_SPANISH         "Camarada francotirador"
+
+REFERENCE           MISSION_04_LEVEL_03_DESC
+LANG_ENGLISH        "Use a sniper rifle to support the defense of City Hall."
+LANG_SPANISH         "Utiliza un rifle de precisión para ayudar en la defensa del ayuntamiento."
+
+REFERENCE           MISSION_05_TITLE
+LANG_ENGLISH        "The Tank Squadrons"
+LANG_SPANISH         "Los escuadrones de tanques"
+
+REFERENCE           MISSION_05_LOCATION
+LANG_ENGLISH        "Northeastern Libya - 1943"
+LANG_SPANISH         "Noreste de Libia - 1943"
+
+REFERENCE           MISSION_05_LEVEL_01_TITLE
+LANG_ENGLISH        "Crusader Charge"
+LANG_SPANISH         "Carga de Crusader"
+
+REFERENCE           MISSION_05_LEVEL_01_DESC
+LANG_ENGLISH        "Engage the superior tanks of the Afrika Korps in the Libyan desert."
+LANG_SPANISH         "Enfréntate a los tanques de los Afrika Korps en el desierto libio."
+
+REFERENCE           MISSION_05_LEVEL_02_TITLE
+LANG_ENGLISH        ""88 Ridge""
+LANG_SPANISH         ""Cresta 88""
+
+REFERENCE           MISSION_05_LEVEL_02_DESC
+LANG_ENGLISH        "Outflank and destroy 88mm anti-tank guns on a desert ridge in Libya."
+LANG_SPANISH         "Flanquea y destruye los cañones antitanque de 88 mm de una cresta del desierto de Libia."
+
+REFERENCE           MISSION_06_TITLE
+LANG_ENGLISH        "Rommel's Last Stand"
+LANG_SPANISH         "La última batalla de Rommel"
+
+REFERENCE           MISSION_06_LOCATION
+LANG_ENGLISH        "Central Tunisia - 1943"
+LANG_SPANISH         "Centro de Túnez - 1943"
+
+REFERENCE           MISSION_06_LEVEL_01_TITLE
+LANG_ENGLISH        "Armored Car Escape"
+LANG_SPANISH         "Huida en vehículo blindado"
+
+REFERENCE           MISSION_06_LEVEL_01_DESC
+LANG_ENGLISH        "Withdraw from Toujane in a captured armored car."
+LANG_SPANISH         "Retírate de Toujane en un vehículo blindado capturado."
+
+REFERENCE           MISSION_06_LEVEL_02_TITLE
+LANG_ENGLISH        "Retaking Toujane"
+LANG_SPANISH         "Recuperación de Toujane"
+
+REFERENCE           MISSION_06_LEVEL_02_DESC
+LANG_ENGLISH        "Drive the Afrika Korps out of the town of Toujane."
+LANG_SPANISH         "Expulsa a los Afrika Korps del pueblo de Toujane."
+
+REFERENCE           MISSION_06_LEVEL_03_TITLE
+LANG_ENGLISH        "Assault on Matmata"
+LANG_SPANISH         "Asalto a Matmata"
+
+REFERENCE           MISSION_06_LEVEL_03_DESC
+LANG_ENGLISH        "Secure the Matmata route to Tunis, and shoot down enemy planes using an anti-aircraft gun."
+LANG_SPANISH         "Asegura la ruta de Matmata a Túnez y derriba los aviones enemigos usando un antiaéreo."
+
+REFERENCE           MISSION_07_TITLE
+LANG_ENGLISH        "D-Day"
+LANG_SPANISH         "Día D"
+
+REFERENCE           MISSION_07_LOCATION
+LANG_ENGLISH        "Normandy, France - 1944"
+LANG_SPANISH         "Normandía, Francia - 1944"
+
+REFERENCE           MISSION_07_LEVEL_01_TITLE
+LANG_ENGLISH        "The Battle of Pointe du Hoc"
+LANG_SPANISH         "La batalla de Pointe du Hoc"
+
+REFERENCE           MISSION_07_LEVEL_01_DESC
+LANG_ENGLISH        "Locate and destroy the coastal guns and secure the enemy held bunkers."
+LANG_SPANISH         "Localiza y destruye la artillería costera y asegura los búnkeres que están en manos enemigas."
+
+REFERENCE           MISSION_07_LEVEL_02_TITLE
+LANG_ENGLISH        "Defending the Pointe"
+LANG_SPANISH         "La defensa de Pointe du Hoc"
+
+REFERENCE           NMISSION_07_LEVEL_02_DESC
+LANG_ENGLISH        "Repel a major counterattack at Pointe du Hoc."
+LANG_SPANISH         "Rechaza un gran contraataque en Pointe du Hoc."
+
+REFERENCE           MISSION_07_LEVEL_03_TITLE
+LANG_ENGLISH        "The Silo"
+LANG_SPANISH         "El silo"
+
+REFERENCE           MISSION_07_LEVEL_03_DESC
+LANG_ENGLISH        "Capture the village, then snipe enemy mortar teams from the top of the destroyed silo during the counterattack."
+LANG_SPANISH         "Toma el pueblo y abate a las dotaciones de morteros enemigas desde lo alto del silo destruido durante el contraataque."
+
+REFERENCE           MISSION_08_TITLE
+LANG_ENGLISH        "The Battle for Caen"
+LANG_SPANISH         "La batalla de Caen"
+
+REFERENCE           MISSION_08_LOCATION
+LANG_ENGLISH        "Normandy, France - 1944"
+LANG_SPANISH         "Normandía, Francia - 1944"
+
+REFERENCE           MISSION_08_LEVEL_01_TITLE
+LANG_ENGLISH        "Prisoners of War"
+LANG_SPANISH         "Prisioneros de guerra"
+
+REFERENCE           MISSION_08_LEVEL_01_DESC
+LANG_ENGLISH        "Reconnoiter the town of Beltot and then obtain a truck to transport wounded Americans."
+LANG_SPANISH         "Haz un reconocimiento del pueblo de Beltot y consigue un camión para trasladar a los americanos heridos."
+
+REFERENCE           MISSION_08_LEVEL_02_TITLE
+LANG_ENGLISH        "The Crossroads"
+LANG_SPANISH         "El cruce"
+
+REFERENCE           MISSION_08_LEVEL_02_DESC
+LANG_ENGLISH        "Secure the crossroads at Anctoville and neutralize a German wireless station."
+LANG_SPANISH         "Asegura el cruce de Anctoville y neutraliza una estación de radio alemana."
+
+REFERENCE           MISSION_08_LEVEL_03_TITLE
+LANG_ENGLISH        ""The Tiger""
+LANG_SPANISH         ""El Tiger""
+
+REFERENCE           MISSION_08_LEVEL_03_DESC
+LANG_ENGLISH        "Capture the town hall, church, post office, and German field HQ in the town of St. Louet. "
+LANG_SPANISH         "Toma el ayuntamiento, la iglesia, la oficina de correos y el CG de campaña alemán del pueblo de St. Louet. "
+
+REFERENCE           MISSION_08_LEVEL_04_TITLE
+LANG_ENGLISH        ""The Brigade Box""
+LANG_SPANISH         ""La carga de la brigada""
+
+REFERENCE           MISSION_08_LEVEL_04_DESC
+LANG_ENGLISH        "Capture a German field HQ, then repel the enemy counterattacks."
+LANG_SPANISH         "Toma un CG de campaña alemán y rechaza los contraataques enemigos."
+
+REFERENCE           MISSION_09_TITLE
+LANG_ENGLISH        "Hill 400"
+LANG_SPANISH         "Colina 400"
+
+REFERENCE           MISSION_09_LOCATION
+LANG_ENGLISH        "Hurtgen Forest, Germany  - 1944"
+LANG_SPANISH         "Bosque Hurtgen, Alemania - 1944"
+
+REFERENCE           MISSION_09_LEVEL_01_TITLE
+LANG_ENGLISH        "Bergstein"
+LANG_SPANISH         "#same"
+
+REFERENCE           MISSION_09_LEVEL_01_DESC
+LANG_ENGLISH        "Clear the town at the foot of Hill 400, room by room, house by house."
+LANG_SPANISH         "Despeja el pueblo al pie de la Colina 400, habitación por habitación, casa por casa."
+
+REFERENCE           MISSION_09_LEVEL_02_TITLE
+LANG_ENGLISH        ""Rangers Lead The Way""
+LANG_SPANISH         ""Los ranger siempre en cabeza""
+
+REFERENCE           MISSION_09_LEVEL_02_DESC
+LANG_ENGLISH        "Fight your way to the top and eliminate the German forces holding the hill."
+LANG_SPANISH         "Ábrete paso hasta la cima y acaba con las fuerzas alemanas que defienden la colina."
+
+REFERENCE           MISSION_09_LEVEL_03_TITLE
+LANG_ENGLISH        "The Battle for Hill 400"
+LANG_SPANISH         "La batalla de la Colina 400"
+
+REFERENCE           MISSION_09_LEVEL_03_DESC
+LANG_ENGLISH        "Repel multiple counterattacks at the top of Hill 400 until friendly forces arrive."
+LANG_SPANISH         "Rechaza los múltiples contraataques en la cima de la Colina 400 hasta que lleguen las fuerzas aliadas."
+
+REFERENCE           MISSION_10_TITLE
+LANG_ENGLISH        "Crossing the Rhine"
+LANG_SPANISH         "Cruzando el Rin"
+
+REFERENCE           MISSION_10_LOCATION
+LANG_ENGLISH        "Wallendar, Germany - 1945"
+LANG_SPANISH         "Wallendar, Alemania - 1945"
+
+REFERENCE           MISSION_10_LEVEL_01_TITLE
+LANG_ENGLISH        "The Crossing Point"
+LANG_SPANISH         "El punto de cruce"
+
+REFERENCE           MISSION_10_LEVEL_01_DESC
+LANG_ENGLISH        "Capture the German town of Wallendar and secure a crossing point on the Rhine River for the Allies."
+LANG_SPANISH         "Toma el pueblo alemán de Wallendar y asegura un punto de cruce en el río Rin para los Aliados."
+
+REFERENCE           SELECT_LEVEL
+LANG_ENGLISH        "Select Level"
+LANG_SPANISH         "Elige nivel"
+
+REFERENCE           BINOCULARS
+LANG_ENGLISH        "Binoculars"
+LANG_SPANISH         "Prismáticos"
+
+REFERENCE           VETERAN_DESC
+LANG_ENGLISH        "You will not survive."
+LANG_SPANISH         "No sobrevivirás."
+
+REFERENCE           SKILLED
+LANG_ENGLISH        "Skilled"
+LANG_SPANISH         "Experto"
+
+REFERENCE           REGULAR_DESC
+LANG_ENGLISH        "You will crush the German"
+LANG_SPANISH         "Aplastarás a la máquina de"
+
+REFERENCE           SKILLED_DESC
+LANG_ENGLISH        "Your abilities in combat"
+LANG_SPANISH         "Tus aptitudes en combate"
+
+REFERENCE           HARDENED_DESC
+LANG_ENGLISH        "Your skills will be strained."
+LANG_SPANISH         "Tus habilidades se verán puestas a prueba."
+
+REFERENCE           AIM_DOWN_THE_SIGHT_AUTOAIM
+LANG_ENGLISH        "Autoaim when Aiming Down the Sight"
+LANG_SPANISH         "Apuntar automáticamente al apuntar con la mira"
+
+REFERENCE           DIFFICULTY_REGULAR
+LANG_ENGLISH        "Difficulty: Regular"
+LANG_SPANISH         "Dificultad: Profesional"
+
+REFERENCE           DIFFICULTY_SKILLED
+LANG_ENGLISH        "Difficulty: Skilled"
+LANG_SPANISH         "Dificultad: Experto"
+
+REFERENCE           DIFFICULTY_HARDENED
+LANG_ENGLISH        "Difficulty: Hardened"
+LANG_SPANISH         "Dificultad: Curtido"
+
+REFERENCE           DIFFICULTY_VETERAN
+LANG_ENGLISH        "Difficulty: Veteran"
+LANG_SPANISH         "Dificultad: Veterano"
+
+REFERENCE           COMPLETED_SKILLED
+LANG_ENGLISH        "Completed Skilled"
+LANG_SPANISH         "Terminado Experto"
+
+REFERENCE           REGULAR_DESC_2
+LANG_ENGLISH        "war machine without difficulty."
+LANG_SPANISH         "guerra aleman sin dificultad."
+
+REFERENCE           SKILLED_DESC_2
+LANG_ENGLISH        "will be tested."
+LANG_SPANISH         "se pondrán a prueba."
+
+REFERENCE           HARDENED_DESC_2
+LANG_ENGLISH        "to the breaking point."
+LANG_SPANISH         "hasta el límite."
+
+REFERENCE           REGULAR_DESC_3
+LANG_ENGLISH        "For players who are new"
+LANG_SPANISH         "Para los que comienzan"
+
+REFERENCE           REGULAR_DESC_4
+LANG_ENGLISH        "to first person action games."
+LANG_SPANISH         "en los juegos de acción subjetiva."
+
+REFERENCE           MISSION_SELECT
+LANG_ENGLISH        "Mission Select"
+LANG_SPANISH         "Selección de misión"
+
+REFERENCE           USA_NAME
+LANG_ENGLISH        "Corporal Bill Taylor"
+LANG_SPANISH         "Cabo Bill Taylor"
+
+REFERENCE           BRIT_NAME
+LANG_ENGLISH        "Sergeant John Davis"
+LANG_SPANISH         "Sargento John Davis"
+
+REFERENCE           BRIT_NAME_2
+LANG_ENGLISH        "Commander David Welsh, "Fox Three""
+LANG_SPANISH         "Comandante David Welsh, "Fox 3""
+
+REFERENCE           USSR_NAME
+LANG_ENGLISH        "Private Vasili Ivanovich Koslov"
+LANG_SPANISH         "Soldado Vassili Ivanovich Koslov"
+
+REFERENCE           WEAPON_MENU
+LANG_ENGLISH        "Weapon Menu"
+LANG_SPANISH         "Menú de arma"
+
+REFERENCE           NUMBER_OF_DYNAMIC_LIGHTS
+LANG_ENGLISH        "Number of Dynamic Lights"
+LANG_SPANISH         "Número de luces dinámicas"
+
+REFERENCE           RED
+LANG_ENGLISH        "Red"
+LANG_SPANISH         "Rojo"
+
+REFERENCE           ENABLE_CROSSHAIR
+LANG_ENGLISH        "Enable Crosshair"
+LANG_SPANISH         "Activar punto de mira"
+
+REFERENCE           CROSSHAIR_COLOR
+LANG_ENGLISH        "Crosshair Color"
+LANG_SPANISH         "Color de punto de mira"
+
+REFERENCE           FORCE_DX7_MODE
+LANG_ENGLISH        "Force DirectX® 7 Mode"
+LANG_SPANISH         "Forzar modo DirectX® 7"
+
+REFERENCE           AUTOMATIC
+LANG_ENGLISH        "Automatic"
+LANG_SPANISH         "Automático"
+
+REFERENCE           MANUAL
+LANG_ENGLISH        "Manual"
+LANG_SPANISH         "#same"
+
+REFERENCE           MISSION_SELECT_MENU
+LANG_ENGLISH        "Mission Select Menu"
+LANG_SPANISH         "Menú de selección de misión"
+
+REFERENCE           NEXT_MISSION
+LANG_ENGLISH        "Next Mission"
+LANG_SPANISH         "Misión siguiente"
+
+REFERENCE           CONTINUE_MISSION
+LANG_ENGLISH        "Continue Mission"
+LANG_SPANISH         "Continuar misión"
+
+REFERENCE           PROFILE_WARNING
+LANG_ENGLISH        "You are not signed in to a current profile.\nIf you do not sign in you will be unable\nto save your progress. \nDo you wish to continue?"
+LANG_SPANISH         "No has iniciado sesión con un perfil actual.\nSi no inicias la sesión, no podrás\nguardar tus progresos. \n¿Continuar?"
+
+REFERENCE           QUIT_WARNING
+LANG_ENGLISH        "Are you sure you want to quit?"
+LANG_SPANISH         "¿Seguro que quieres salir?"
+
+REFERENCE           WARNING
+LANG_ENGLISH        "Warning"
+LANG_SPANISH         "Aviso"
+
+REFERENCE           CAPTURE_LIMIT
+LANG_ENGLISH        "Capture Limit:  "
+LANG_SPANISH         "Límite de capturas:  "
+
+REFERENCE           CONTINUE_RESTART
+LANG_ENGLISH        "Continue restart?"
+LANG_SPANISH         "¿Continuar reinicio?"
+
+REFERENCE           RESTART_TEXT_1
+LANG_ENGLISH        "If you restart now, you will lose "
+LANG_SPANISH         "Si reinicias ahora, se perderán "
+
+REFERENCE           RESTART_TEXT_2
+LANG_ENGLISH        "any progress that you have made "
+LANG_SPANISH         "todos los progresos realizados "
+
+REFERENCE           RESTART_TEXT_3
+LANG_ENGLISH        "in this mission."
+LANG_SPANISH         "en esta misión."
+
+REFERENCE           CONTINUE_SAVING
+LANG_ENGLISH        "Continue saving?"
+LANG_SPANISH         "¿Continuar guardando?"
+
+REFERENCE           SAVEQUIT_TEXT_1
+LANG_ENGLISH        "If you save now, "
+LANG_SPANISH         "Si guardas ahora, "
+
+REFERENCE           SAVEQUIT_TEXT_2
+LANG_ENGLISH        "you will lose any progress "
+LANG_SPANISH         "se perderán todos los progresos "
+
+REFERENCE           SAVEQUIT_TEXT_3
+LANG_ENGLISH        "since your last checkpoint. "
+LANG_SPANISH         "desde el último control. "
+
+REFERENCE           CROSSHAIR
+LANG_ENGLISH        "Crosshair"
+LANG_SPANISH         "Punto de mira"
+
+REFERENCE           SCORE_LIMIT1
+LANG_ENGLISH        "Score Limit:"
+LANG_SPANISH         "Límite de puntuación:"
+
+REFERENCE           TIME_LIMIT2
+LANG_ENGLISH        "Time Limit:"
+LANG_SPANISH         "Límite de tiempo:"
+
+REFERENCE           ROUND_LIMIT2
+LANG_ENGLISH        "Round Limit:"
+LANG_SPANISH         "Límite de vueltas:"
+
+REFERENCE           ROUND_LENGTH2
+LANG_ENGLISH        "Round Length:"
+LANG_SPANISH         "Duración de la vuelta:"
+
+REFERENCE           REFLECTED_DAMAGE
+LANG_ENGLISH        "Reflected Damage"
+LANG_SPANISH         "Daño reflejado"
+
+REFERENCE           SHARED_DAMAGE
+LANG_ENGLISH        "Shared Damage"
+LANG_SPANISH         "Daño compartido"
+
+REFERENCE           SERVER_INFORMATION
+LANG_ENGLISH        "Server Information"
+LANG_SPANISH         "Información del servidor"
+
+REFERENCE           SELECT_SAVE_DEVICE
+LANG_ENGLISH        "Select Save Device"
+LANG_SPANISH         "Elegir dispositivo de guardado"
+
+REFERENCE           SAVE_ERROR
+LANG_ENGLISH        "Unable to write to default save device."
+LANG_SPANISH         "No ha sido posible escribir en el dispositivo de guardado predeterminado."
+
+REFERENCE           EXTRA_LOW
+LANG_ENGLISH        "Extra Low"
+LANG_SPANISH         "Extra bajo"
+
+REFERENCE           RETRY_SAVE
+LANG_ENGLISH        "Retry Save"
+LANG_SPANISH         "Volver a intentar guardar"
+
+REFERENCE           QUIT_NO_SAVE
+LANG_ENGLISH        "Quit without saving"
+LANG_SPANISH         "Salir sin guardar"
+
+REFERENCE           RESUMEGAME_NOSAVE
+LANG_ENGLISH        "Resume without saving."
+LANG_SPANISH         "Continuar sin guardar."
+
+REFERENCE           FIND_GAME
+LANG_ENGLISH        "Find Game"
+LANG_SPANISH         "Encontrar partida"
+
+REFERENCE           SCOREBOARD
+LANG_ENGLISH        "Scoreboard"
+LANG_SPANISH         "Puntuación"
+
+REFERENCE           EASY
+LANG_ENGLISH        "Easy"
+LANG_SPANISH         "Fácil"
+
+REFERENCE           DIFFICULTY_EASY
+LANG_ENGLISH        "Difficulty: Easy"
+LANG_SPANISH         "Dificultad: Fácil"
+
+REFERENCE           COMPLETED_EASY
+LANG_ENGLISH        "Completed Easy"
+LANG_SPANISH         "Terminado Fácil"
+
+REFERENCE           COMPLETED_CHEAT
+LANG_ENGLISH        "Cheat Unlocked"
+LANG_SPANISH         "Cheat desbloqueado"
+
+REFERENCE           HOST_NAME
+LANG_ENGLISH        "Host"
+LANG_SPANISH         "Anfitrión"
+
+REFERENCE           WAITING_FOR_PLAYERS_TO_BE_READY
+LANG_ENGLISH        "Need &&1 players to be ready"
+LANG_SPANISH         "Se necesitan &&1 jugadores para estar listos."
+
+REFERENCE           WAITING_FOR_PLAYER_TO_BE_READY
+LANG_ENGLISH        "Need 1 more player to be ready"
+LANG_SPANISH         "Se necesita 1 jugador más para estar listos."
+
+REFERENCE           MATCH_WILL_BEGIN
+LANG_ENGLISH        "The match is about to begin"
+LANG_SPANISH         "La partida está a punto de empezar"
+
+REFERENCE           SEARCHING_FOR_LOBBY
+LANG_ENGLISH        "Joining game lobby"
+LANG_SPANISH         "Uniéndose a punto de encuentro"
+
+REFERENCE           ZFEATHER_SMOKE
+LANG_ENGLISH        "Soften Smoke Edges"
+LANG_SPANISH         "Difuminar bordes del humo"
+
+REFERENCE           WORLD_ONLY
+LANG_ENGLISH        "World Only"
+LANG_SPANISH         "Solo mundo"
+
+REFERENCE           TM
+LANG_ENGLISH        "TM"
+LANG_SPANISH         "#same"
+
+REFERENCE           R_CIRCLE
+LANG_ENGLISH        "®"
+LANG_SPANISH         "#same"
+
+REFERENCE           PLAYER_SELECT
+LANG_ENGLISH        "Player Select"
+LANG_SPANISH         "Selección de jugador"
+
+REFERENCE           NEW
+LANG_ENGLISH        "New"
+LANG_SPANISH         "Nuevo"
+
+REFERENCE           NEW_PLAYER_NAME
+LANG_ENGLISH        "New Player Name"
+LANG_SPANISH         "Nuevo nombre de jugador"
+
+REFERENCE           DELETE_PROFILE
+LANG_ENGLISH        "Delete selected profile?"
+LANG_SPANISH         "¿Eliminar perfil elegido?"
+
+REFERENCE           A_PROFILE_WITH_THE_SAME_NAME_ALREADY_EXISTS
+LANG_ENGLISH        "A profile with the same name already exists"
+LANG_SPANISH         "Ya existe un perfil con el mismo nombre."
+
+REFERENCE           PROFILE_CREATE_TOO_MANY
+LANG_ENGLISH        "There are no free profile slots.\n\nRemove an old profile first."
+LANG_SPANISH         "No hay espacios de perfil libres.\n\nElimina primero un perfil antiguo."
+
+REFERENCE           PROFILE_CREATION_FAILED
+LANG_ENGLISH        "Profile creation failed.\n\nMake sure the disk isn't full and\nthat you have file write priviledges.\n"
+LANG_SPANISH         "Error al crear perfil.\n\nComprueba que el disco no esté lleno y\nque tienes privilegios de escritura de archivos.\n"
+
+REFERENCE           PROFILE_DELETION_FAILED
+LANG_ENGLISH        "Profile deletion failed.\n\nThere may be some read-only files,\nor you may not have file write priviledges.\n"
+LANG_SPANISH         "Error al eliminar perfil.\n\nPodría haber archivos de solo lectura,\no podrías no tener privilegios de escritura de archivos.\n"
+
+REFERENCE           THROW_SMOKE_GRENADE
+LANG_ENGLISH        "Throw Smoke Grenade"
+LANG_SPANISH         "Lanzar granada de humo"
+
+REFERENCE           THROW_FRAG_GRENADE
+LANG_ENGLISH        "Throw Frag Grenade"
+LANG_SPANISH         "Lanzar granada de fragmentación"
+
+REFERENCE           LOADING_DOTS
+LANG_ENGLISH        "Loading..."
+LANG_SPANISH         "Cargando..."
+
+REFERENCE           CONNECTION_COLON
+LANG_ENGLISH        "Connection:  "
+LANG_SPANISH         "Conexión:  "
+
+REFERENCE           RANKING
+LANG_ENGLISH        "Ranking:"
+LANG_SPANISH         "Clasificación:"
+
+REFERENCE           QUIT_TEXT_1
+LANG_ENGLISH        "If you quit now, you will lose "
+LANG_SPANISH         "Si abandonas ahora, perderás "
+
+REFERENCE           CONTINUE_QUIT
+LANG_ENGLISH        "Quit Game?"
+LANG_SPANISH         "¿Abandonar juego?"
+
+REFERENCE           RETURN
+LANG_ENGLISH        "Return to game"
+LANG_SPANISH         "Volver al juego"
+
+REFERENCE           FIND_RANKED_GAME
+LANG_ENGLISH        "Find Ranked Game"
+LANG_SPANISH         "Encuentra una partida clasificatoria"
+
+REFERENCE           FIND_STANDARD_GAME
+LANG_ENGLISH        "Find Standard Game"
+LANG_SPANISH         "Encuentra una partida normal"
+
+REFERENCE           UNRANKED_DESCRIPTION
+LANG_ENGLISH        "Find an unranked match in which you can invite friends."
+LANG_SPANISH         "Encuentra una partida no clasificatoria a la que puedas invitar amigos."
+
+REFERENCE           RANKED_DESCRIPTION
+LANG_ENGLISH        "Find a ranked match for competitive play. Friends can not be invited to ranked matches."
+LANG_SPANISH         "Encuentra una partida clasificatoria en la que competir. No se puede invitar amigos a partidas clasificatorias."
+
+REFERENCE           SELECT_GAMETYPE
+LANG_ENGLISH        "Select the game type to play."
+LANG_SPANISH         "Elige el tipo de partida a jugar."
+
+REFERENCE           SPECIAL_FEATURES
+LANG_ENGLISH        "Special Features"
+LANG_SPANISH         "Características especiales"
+
+REFERENCE           MELEE_STEADY
+LANG_ENGLISH        "Melee/Steady Sniper Rifle"
+LANG_SPANISH         "Estabilizar rifle prec./cpo. a cpo."
+
+REFERENCE           STEADY_SNIPER_RIFLE
+LANG_ENGLISH        "Steady Sniper Rifle"
+LANG_SPANISH         "Estabilizar rifle precisión"
+
+REFERENCE           GAME_OPTIONS
+LANG_ENGLISH        "Game Options"
+LANG_SPANISH         "Opciones de juego"
+
+REFERENCE           CREATE_PLAYER_PROFILE
+LANG_ENGLISH        "Create Player Profile"
+LANG_SPANISH         "Crear perfil de jugador"
+
+REFERENCE           ANTIALIASING
+LANG_ENGLISH        "Anti-aliasing"
+LANG_SPANISH         "Antialiasing"
+
+REFERENCE           2X
+LANG_ENGLISH        "2x"
+LANG_SPANISH         "#same"
+
+REFERENCE           4X
+LANG_ENGLISH        "4x"
+LANG_SPANISH         "#same"
+
+REFERENCE           OPTIMIZE_FOR_DUAL_VIDEO_CARDS
+LANG_ENGLISH        "Optimize for SLI"
+LANG_SPANISH         "Optimizar para dos tarjetas de vídeo"
+
+REFERENCE           CLICK_TO_CONTINUE
+LANG_ENGLISH        "Click to Continue"
+LANG_SPANISH         "Haz clic para continuar"
+
+REFERENCE           NEED_PLAYER_PROFILE
+LANG_ENGLISH        "You need a player profile to play Call of Duty 2."
+LANG_SPANISH         "Se necesita un perfil de jugador para jugar a Call of Duty 2."
+
+REFERENCE           SELECT_PROFILE
+LANG_ENGLISH        "Select Profile"
+LANG_SPANISH         "Elegir perfil"
+
+REFERENCE           KEY_CODE
+LANG_ENGLISH        "Key Code"
+LANG_SPANISH         "Clave del producto"
+
+REFERENCE           ENTER_KEY_CODE
+LANG_ENGLISH        "Enter Key Code"
+LANG_SPANISH         "Introducir clave del producto"
+
+REFERENCE           ENTER_YOUR_KEY_CODE_IN_THE_FIELD_BELOW
+LANG_ENGLISH        "Enter your key code in the field below."
+LANG_SPANISH         "Introduce la clave del producto en el campo inferior."
+
+REFERENCE           11KHZ
+LANG_ENGLISH        "11KHZ (Low Quality)"
+LANG_SPANISH         "11 KHz (Calidad baja)"
+
+REFERENCE           22KHZ
+LANG_ENGLISH        "22KHZ (Medium Quality)"
+LANG_SPANISH         "22 KHz (Calidad media)"
+
+REFERENCE           44KHZ
+LANG_ENGLISH        "44KHZ (High Quality)"
+LANG_SPANISH         "44 KHz (Calidad alta)"
+
+REFERENCE           CANT_SWITCH_PROFILES_INGAME
+LANG_ENGLISH        "Cannot switch player profiles while in game."
+LANG_SPANISH         "No se puede cambiar el perfil de jugador durante la partida."
+
+REFERENCE           QUIT_CURRENT_GAME
+LANG_ENGLISH        "Quit Current Game?"
+LANG_SPANISH         "¿Abandonar partida actual?"
+
+REFERENCE           CANT_CHANGE_SETTINGS_WHILE_DEAD
+LANG_ENGLISH        "Can't change settings while dead"
+LANG_SPANISH         "No se pueden cambiar los ajustes estando muerto."
+
+REFERENCE           PROGRESS_WILL_BE_LOST
+LANG_ENGLISH        "Loading a level will cause you to lose your progress in a level you have not yet completed."
+LANG_SPANISH         "Cargar un nivel te hará perder los progresos en uno que no hayas completado."
+
+REFERENCE           VICTORY_BRITISH_UNLOCKED
+LANG_ENGLISH        "The British campaign has been unlocked in the Mission Select Menu."
+LANG_SPANISH         "Has desbloqueado la campaña británica en el menú de selección de misión."
+
+REFERENCE           VICTORY_AMERICAN_UNLOCKED
+LANG_ENGLISH        "The American campaign has been unlocked in the Mission Select Menu."
+LANG_SPANISH         "Has desbloqueado la campaña americana en el menú de selección de misión."
+
+REFERENCE           VICTORY_BRITISH_COMPLETED
+LANG_ENGLISH        "You have completed the British campaign."
+LANG_SPANISH         "Has completado la campaña británica."
+
+REFERENCE           VICTORY_RUSSIAIN_COMPLETED
+LANG_ENGLISH        "You have completed the Russian campaign."
+LANG_SPANISH         "Has completado la campaña rusa."
+
+REFERENCE           VICTORY_AMERICAN_RUSSIAN
+LANG_ENGLISH        "You have completed the Russian campaign. The American campaign has been unlocked in the Mission Select Menu."
+LANG_SPANISH         "Has completado la campaña rusa. Has desbloqueado la campaña americana en el menú de selección de misión."
+
+REFERENCE           CONGRATULATIONS
+LANG_ENGLISH        "Congratulations"
+LANG_SPANISH         "Enhorabuena"
+
+REFERENCE           FIND_STANDARD_MATCH
+LANG_ENGLISH        "Find Standard Match"
+LANG_SPANISH         "Buscar partida estándar"
+
+REFERENCE           FIND_RANKED_MATCH
+LANG_ENGLISH        "Find Ranked Match"
+LANG_SPANISH         "Buscar partida clasificatoria"
+
+REFERENCE           CAN_NOT_CHANGE_SETTINGS
+LANG_ENGLISH        "Can not change settings"
+LANG_SPANISH         "Imposible cambiar ajustes."
+
+REFERENCE           WHILE_RUNNING_A_SERVER
+LANG_ENGLISH        "while running a server."
+LANG_SPANISH         "al ejecutar un servidor."
+
+REFERENCE           SHADOWS
+LANG_ENGLISH        "Shadows"
+LANG_SPANISH         "Sombras"
+
+REFERENCE           SCREEN_REFRESH_RATE
+LANG_ENGLISH        "Screen Refresh Rate"
+LANG_SPANISH         "Tasa de actualización de la pantalla"
+
+REFERENCE           EXTRAS
+LANG_ENGLISH        "Extras"
+LANG_SPANISH         "#same"
+
+REFERENCE           CROUCH_PRONE
+LANG_ENGLISH        "Crouch/Prone"
+LANG_SPANISH         "Agacharse/Cuerpo a tierra"
+
+REFERENCE           JUMP
+LANG_ENGLISH        "Jump"
+LANG_SPANISH         "Saltar"
+
+REFERENCE           RENDERING_METHOD_PREFERENCE
+LANG_ENGLISH        "Rendering Method Preference"
+LANG_SPANISH         "Método preferido de renderizado"
+
+REFERENCE           DIRECTX_7
+LANG_ENGLISH        "DirectX® 7"
+LANG_SPANISH         "#same"
+
+REFERENCE           DIRECTX_9
+LANG_ENGLISH        "DirectX® 9"
+LANG_SPANISH         "#same"
+
+REFERENCE           GRAPHICS_WARNING
+LANG_ENGLISH        "We recommend using "Optimal System Settings."  Manually changing settings could result in poor performance."
+LANG_SPANISH         "Los ajustes se han configurado de manera óptima para tu hardware. Si se cambian, el rendimiento puede verse afectado."
+
+REFERENCE           INGAME_DIFFICULTY_CHANGING
+LANG_ENGLISH        "Changing difficulty will restart the current level."
+LANG_SPANISH         "Al cambiar la dificultad el nivel actual se reiniciará."
+
+REFERENCE           DESCRIPTION_PLAYERMATCH
+LANG_ENGLISH        "Play for fun with people who share similar profiles."
+LANG_SPANISH         "Juega por diversión con gente de perfil similar."
+
+REFERENCE           DESCRIPTION_RANKEDMATCH
+LANG_ENGLISH        "Play competitive matches to improve your TrueSkill™ rankings."
+LANG_SPANISH         "Juega partidas competitivas para mejorar tu clasificación TrueSkill™."
+
+REFERENCE           DESCRIPTION_QUICKMATCH
+LANG_ENGLISH        "Get into a game quickly. Game settings are chosen randomly."
+LANG_SPANISH         "Entra rápidamente en una partida. Los ajustes de juego se eligen al azar."
+
+REFERENCE           DESCRIPTION_CUSTOMMATCH
+LANG_ENGLISH        "Find a session with the game settings you specify."
+LANG_SPANISH         "Busca una sesión con los ajustes que especifiques."
+
+REFERENCE           SELECT_GAME_TYPE
+LANG_ENGLISH        "Select Game Type"
+LANG_SPANISH         "Seleccionar tipo de juego"
+
+REFERENCE           SELECT_MATCH_TYPE
+LANG_ENGLISH        "Select Match Type"
+LANG_SPANISH         "Seleccionar tipo de partida"
+
+REFERENCE           PLAYER_MATCH
+LANG_ENGLISH        "Player Match"
+LANG_SPANISH         "Partida de jugador"
+
+REFERENCE           RANKED_MATCH
+LANG_ENGLISH        "Ranked Match"
+LANG_SPANISH         "Partida clasificatoria"
+
+REFERENCE           QUICK_MATCH
+LANG_ENGLISH        "Quick Match"
+LANG_SPANISH         "Partida rápida"
+
+REFERENCE           SPECTATOR_MODE
+LANG_ENGLISH        "Spectator Mode"
+LANG_SPANISH         "Modo espectador"
+
+REFERENCE           GAME_EXPERIENCE_MAY_CHANGE
+LANG_ENGLISH        "Game experience may change during online play."
+LANG_SPANISH         "La experiencia de juego puede cambiar durante el juego en línea."
+
+REFERENCE           TEXTURE_SETTINGS
+LANG_ENGLISH        "Texture Settings"
+LANG_SPANISH         "Ajustes de texturas"
+
+
+ENDMARKER
+
+

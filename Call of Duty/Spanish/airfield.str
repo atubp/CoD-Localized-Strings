@@ -1,0 +1,35 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJ_PROVIDEDISTRACTION
+LANG_ENGLISH        "Draw enemy fire while the rest of the team steals a German plane."
+LANG_SPANISH        "Atrae el fuego enemigo mientras el resto del equipo roba un avión alemán."
+
+REFERENCE           OBJ_ESCAPEINCONDOR
+LANG_ENGLISH        "Get back in the truck and escape to the plane."
+LANG_SPANISH        "Vuelve al camión y escapa hacia el avión."
+
+REFERENCE           DONTSHOOTCONDOR
+LANG_ENGLISH        "Don't shoot the large plane on the ground. That's your ride out of here."
+LANG_SPANISH        "No disparéis al avión grande en el suelo. Es vuestro billete para salir de aquí."
+
+REFERENCE           BACKINTHETRUCK
+LANG_ENGLISH        "Get back in the truck and escape to the plane"
+LANG_SPANISH        "Vuelve al camión y escapa hacia el avión."
+
+
+ENDMARKER
+
+

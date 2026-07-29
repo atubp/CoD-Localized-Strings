@@ -1,0 +1,91 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           "Strings used in toujane go in this file."
+
+REFERENCE           ALLIED_TANK_1
+LANG_ENGLISH        "Lucky Lily"
+LANG_SPANISH         "#same"
+
+REFERENCE           ALLIED_TANK_2
+LANG_ENGLISH        "Bazza's Revenge"
+LANG_SPANISH         "#same"
+
+REFERENCE           ALLIED_TANK_TYPE
+LANG_ENGLISH        "Crusader II"
+LANG_SPANISH         "#same"
+
+REFERENCE           ALLIED_TANK_3
+LANG_ENGLISH        "Storm Crow"
+LANG_SPANISH         "#same"
+
+REFERENCE           OBJ_HARDPOINTS
+LANG_ENGLISH        "Locate the enemy observation point."
+LANG_SPANISH         "Localiza el puesto de observación enemigo."
+
+REFERENCE           OBJ_OP
+LANG_ENGLISH        "Capture the enemy observation point."
+LANG_SPANISH         "Toma el puesto de observación enemigo."
+
+REFERENCE           OBJ_FLAKCREWS
+LANG_ENGLISH        "Eliminate the Flak 88 crews. [&&1 Remaining]"
+LANG_SPANISH         "Elimina las dotaciones de Flak 88 [&&1 restantes]"
+
+REFERENCE           OBJ_FLAKCREWS_DONE
+LANG_ENGLISH        "Eliminate the Flak 88 crews."
+LANG_SPANISH         "Elimina las dotaciones de Flak 88."
+
+REFERENCE           OBJ_MOSQUE
+LANG_ENGLISH        "Capture the Mosque."
+LANG_SPANISH         "Toma la mezquita."
+
+REFERENCE           OBJ_REGROUPBALCONY
+LANG_ENGLISH        "Regroup on the Mosque balcony."
+LANG_SPANISH         "Reúnete con los demás en el balcón de la mezquita."
+
+REFERENCE           OBJ_DEFEND
+LANG_ENGLISH        "Defend the Mosque."
+LANG_SPANISH         "Defiende la mezquita."
+
+REFERENCE           OBJ_PANZERSCHRECK
+LANG_ENGLISH        "Pick up a Panzerschreck anti-tank weapon."
+LANG_SPANISH         "Hazte con un arma antitanque Panzerschreck."
+
+REFERENCE           OBJ_TANKS
+LANG_ENGLISH        "Destroy the enemy tanks. [&&1 Remaining]"
+LANG_SPANISH         "Destruye los tanques enemigos [&&1 restantes]"
+
+REFERENCE           OBJ_TANKS_DONE
+LANG_ENGLISH        "Destroy the enemy tanks."
+LANG_SPANISH         "Destruye los tanques enemigos."
+
+REFERENCE           HINT_USE_PANZERSCHRECK
+LANG_ENGLISH        "Find a Panzerchreck Anti-Tank weapon."
+LANG_SPANISH         "Consigue un arma antitanque Panzerschreck."
+
+REFERENCE           HINT_AMMO_PANZERSCHRECK
+LANG_ENGLISH        "Pick up the nearby panzerschrecks to get more ammo."
+LANG_SPANISH         "Recoge los Panzerschreck cercanos para conseguir más munición."
+
+REFERENCE           HINT_STAR
+LANG_ENGLISH        "The location of your current objective is \nmarked on your compass by a gold star."
+LANG_SPANISH         "La posición de tu objetivo actual aparece \nseñalada en la brújula mediante una estrella amarilla."
+
+REFERENCE           HINT_NONLINEAR
+LANG_ENGLISH        "Multiple gold stars on the compass means you can \nchoose your path to complete these objectives."
+LANG_SPANISH         "Varias estrellas doradas en la brújula significan que puedes \nelegir el camino que quieras para cumplir esos objetivos."
+
+
+ENDMARKER
+
+

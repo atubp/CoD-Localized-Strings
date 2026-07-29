@@ -1,0 +1,43 @@
+// Dumped from fastfile "ber1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER1_REGROUP_BERM
+LANG_ENGLISH        "Regroup with your Squad"
+
+REFERENCE           BER1_CLEAR_CLOCKTOWER
+LANG_ENGLISH        "Eliminate Panzershreks and MGs so Tanks can Advance"
+
+REFERENCE           BER1_CLEAR_RUINS
+LANG_ENGLISH        "Assault the German Defenses"
+
+REFERENCE           BER1_CLEAR_OFFICE
+LANG_ENGLISH        "Advance through the Office Building"
+
+REFERENCE           BER1_ENTER_ASYLUM
+LANG_ENGLISH        "Get inside the Asylum"
+
+REFERENCE           BER1_CLEAR_ASYLUM
+LANG_ENGLISH        "Clear the Asylum"
+
+REFERENCE           BER1_PUSH_GERMANS
+LANG_ENGLISH        "Kill the Retreating German Forces"
+
+REFERENCE           BER1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Ring of Steel'"
+
+REFERENCE           BER1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Pankow, Germany"
+
+REFERENCE           BER1_INTROSCREEN_DATE
+LANG_ENGLISH        "April 23, 1945"
+
+REFERENCE           BER1_INTROSCREEN_INFO
+LANG_ENGLISH        "3rd Shock Army"
+
+REFERENCE           BER1_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+ENDMARKER

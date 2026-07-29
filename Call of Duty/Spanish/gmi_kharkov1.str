@@ -1,0 +1,47 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVE1
+LANG_ENGLISH        "Assault the Town"
+LANG_SPANISH        "Asalta el pueblo"
+
+REFERENCE           OBJECTIVE2
+LANG_ENGLISH        "Meet with Sgt. Antonov"
+LANG_SPANISH        "Reúnete con el sargento Antonov"
+
+REFERENCE           OBJECTIVE3
+LANG_ENGLISH        "Take out Anti-Tank Positions (%s remaining)"
+LANG_SPANISH        "Elimina posiciones antitanque (faltan %s)"
+
+REFERENCE           OBJECTIVE4
+LANG_ENGLISH        "Advance with Tanks"
+LANG_SPANISH        "Avanza con tanques"
+
+REFERENCE           OBJECTIVE5
+LANG_ENGLISH        "Assist Antonov with Clearing out the Buildings"
+LANG_SPANISH        "Ayudar a Antonov a despejar los edificios."
+
+REFERENCE           OBJECTIVE6
+LANG_ENGLISH        "Clear out the rest of the building"
+LANG_SPANISH        "Despejar el resto de edificios."
+
+REFERENCE           OBJECTIVE7
+LANG_ENGLISH        "Take out the Tiger Tank"
+LANG_SPANISH        "Destruir el tanque Tiger."
+
+
+ENDMARKER
+
+

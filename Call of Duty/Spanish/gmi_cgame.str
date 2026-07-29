@@ -1,0 +1,47 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\COD\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           LMGMOUNTPOINT
+LANG_ENGLISH        "Press [%s] to setup your weapon."
+LANG_SPANISH        "Pulsa [%s] para ajustar tu arma."
+
+REFERENCE           USE50CAL
+LANG_ENGLISH        "Press [%s] to use the .50 cal"
+LANG_SPANISH        ""Pulsa [%s] para usar la calibre .50""
+
+REFERENCE           USEDP28
+LANG_ENGLISH        "Press [%s] to use the DP28"
+LANG_SPANISH        ""Pulsa [%s] para usar la DP28""
+
+REFERENCE           USESG43
+LANG_ENGLISH        "Press [%s] to use the SG43"
+LANG_SPANISH        ""Pulsa [%s] para usar la SG43""
+
+REFERENCE           USE30CAL
+LANG_ENGLISH        "Press [%s] to use the .30 cal"
+LANG_SPANISH        ""Pulsa [%s] para usar la calibre .30""
+
+REFERENCE           USEMG34
+LANG_ENGLISH        "Press [%s] to use the MG34"
+LANG_SPANISH        ""Pulsa [%s] para usar la MG34""
+
+REFERENCE           PLEASE_WAIT
+LANG_ENGLISH        "Please Wait"
+LANG_SPANISH        "Por favor espera"
+
+
+ENDMARKER
+
+

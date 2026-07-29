@@ -1,0 +1,83 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLANNAME
+LANG_ENGLISH        "Clan Name:"
+LANG_SPANISH         "Nombre del clan:"
+
+REFERENCE           CLANMOTTO
+LANG_ENGLISH        "Clan Motto:"
+LANG_SPANISH         "Lema del clan:"
+
+REFERENCE           CLANINFO
+LANG_ENGLISH        "Clan Membership"
+LANG_SPANISH         "Miembros del clan"
+
+REFERENCE           CLANDESCRIPTION
+LANG_ENGLISH        "Clan Description:"
+LANG_SPANISH         "Descripción del clan:"
+
+REFERENCE           CLANURL
+LANG_ENGLISH        "Clan URL:"
+LANG_SPANISH         "URL del clan:"
+
+REFERENCE           UPDATECLANINFO
+LANG_ENGLISH        "Save Data"
+LANG_SPANISH         "Guardar datos"
+
+REFERENCE           CREATECLAN
+LANG_ENGLISH        "Create Clan"
+LANG_SPANISH         "Crear clan"
+
+REFERENCE           LEAVECLAN
+LANG_ENGLISH        "Leave Clan"
+LANG_SPANISH         "Abandonar clan"
+
+REFERENCE           VIEWMEMBERS
+LANG_ENGLISH        "Members"
+LANG_SPANISH         "Miembros"
+
+REFERENCE           REMOVEMEMBER
+LANG_ENGLISH        "Remove Member"
+LANG_SPANISH         "Eliminar miembro"
+
+REFERENCE           TITLE_ADMIN
+LANG_ENGLISH        "(Leader) &&1"
+LANG_SPANISH         "(Jefe) &&1"
+
+REFERENCE           TITLE_OFFICER
+LANG_ENGLISH        "(Admin) &&1"
+LANG_SPANISH         "(Administrador) &&1"
+
+REFERENCE           MAKE_OFFICER
+LANG_ENGLISH        "Make Admin"
+LANG_SPANISH         "Nombrar administrador"
+
+REFERENCE           MAKE_ADMIN
+LANG_ENGLISH        "Make Leader"
+LANG_SPANISH         "Nombrar jefe"
+
+REFERENCE           TITLE_PRIVATE
+LANG_ENGLISH        "&&1"
+LANG_SPANISH         "#same"
+
+REFERENCE           MAKE_PRIVATE
+LANG_ENGLISH        "Make Member"
+LANG_SPANISH         "Nombrar miembro"
+
+
+ENDMARKER
+
+

@@ -1,0 +1,58 @@
+// Dumped from fastfile "pel1b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_HOLD_POS
+LANG_ENGLISH        "Mantén la posición durante el bombardeo."
+
+REFERENCE           PEL1B_OBJECTIVE_FLAME_TANK
+LANG_ENGLISH        "Protege el tanque lanzallamas"
+
+REFERENCE           PEL1B_OBJECTIVE_WARNING
+LANG_ENGLISH        "Debes despejar la posición antitanque antes de continuar."
+
+REFERENCE           PEL1B_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Implacable\""
+
+REFERENCE           PEL1B_OBJECTIVE_MOVE_UP
+LANG_ENGLISH        "Sube con el pelotón"
+
+REFERENCE           PEL1B_INTROSCREEN_DATE
+LANG_ENGLISH        "16 de septiembre, 1944"
+
+REFERENCE           PEL1B_INTROSCREEN_PLACE
+LANG_ENGLISH        "El punto, Peleliu"
+
+REFERENCE           PEL1B_INTROSCREEN_INFO
+LANG_ENGLISH        "1ª división de marines"
+
+REFERENCE           PEL1B_OBJECTIVE_ARTILLERY
+LANG_ENGLISH        "Elimina las posiciones antitanque. (Quedan: &&1)"
+
+REFERENCE           PEL1B_INTROSCREEN_NAME
+LANG_ENGLISH        "Sld. Miller"
+
+REFERENCE           PEL1B_PLAYER_DISMOUNT
+LANG_ENGLISH        "Pulsa [{+activate}] para salir del tanque."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FLANK
+LANG_ENGLISH        "Sigue al pelotón."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FOLLOW_FLAME
+LANG_ENGLISH        "Sigue al tanque lanzallamas."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ART_CLEAR
+LANG_ENGLISH        "Despeja la sala de artillería."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_CAVE_CLEAR
+LANG_ENGLISH        "Localiza las piezas de artillería."
+
+REFERENCE           PEL1B_OBJECTIVE_FOLLOW_SQUAD
+LANG_ENGLISH        "Reagrúpate con tu pelotón dentro de la fortaleza japonesa."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ASSAULT_CAVE
+LANG_ENGLISH        "Ataca la entrada de la cueva."
+
+ENDMARKER

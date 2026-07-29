@@ -1,0 +1,150 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVE_5
+FLAGS               FLAG1 FLAG4 
+LANG_ENGLISH        "Kill the Spotter"
+LANG_SPANISH        "Mata al observador"
+
+REFERENCE           OBJECTIVE_6
+LANG_ENGLISH        "Take out the 88  (%s remaining)"
+LANG_SPANISH        "Destruye los 88 (faltan %s)"
+
+REFERENCE           OBJECTIVE_8
+FLAGS               FLAG1 FLAG4 
+LANG_ENGLISH        "Disable the tiger Tank  (%s remaining)"
+LANG_SPANISH        "Anula el tanque Tiger (faltan %s)"
+
+REFERENCE           OBJECTIVE_ COUNTER_ATTACK
+FLAGS               FLAG1 FLAG4 
+LANG_ENGLISH        "Get to the bell tower the Germans are starting to counter attack"
+LANG_SPANISH        "Dirígete al campanario, los alemanes comienzan el contraataque"
+
+REFERENCE           NOT_USED
+FLAGS               FLAG1 FLAG4 
+LANG_ENGLISH        "Kill the sniper"
+LANG_SPANISH        "Mata al francotirador"
+
+REFERENCE           CHARGE_1
+FLAGS               FLAG1 FLAG4 
+LANG_ENGLISH        "Assualt the town of Foy"
+LANG_SPANISH        "Asalta el pueblo de Foy"
+
+REFERENCE           OBJECTIVE_15
+FLAGS               FLAG1 FLAG4 
+LANG_ENGLISH        "Destroy the German anti tank vehicle"
+LANG_SPANISH        "Destruye el vehículo antitanque alemán"
+
+REFERENCE           OBJECTIVE_10
+LANG_ENGLISH        "Eliminate Panzershreks Units (%s remaining)"
+LANG_SPANISH        "Elimina unidades panzerschrek (faltan %s)"
+
+REFERENCE           FOLLOW_ME
+FLAGS               FLAG1 FLAG2 FLAG4 
+LANG_ENGLISH        "Follow me !!!"
+LANG_SPANISH        "¡¡¡Sígueme!!!"
+
+REFERENCE           OBJECTIVE_7
+LANG_ENGLISH        "Clear the houses"
+LANG_SPANISH        "Despeja las casas"
+
+REFERENCE           TANKS
+LANG_ENGLISH        "Get down here right away and group up with the tanks soldiers"
+LANG_SPANISH        "Bájate aquí mismo y agrúpate con los soldados de los tanques"
+
+REFERENCE           OBJECTIVE_11
+LANG_ENGLISH        "Regroup with Cpt. Foley at the edge of town"
+LANG_SPANISH        "Reúnete con el capitán Foley en el límite del pueblo"
+
+REFERENCE           HAY_WAIT
+LANG_ENGLISH        "Wait at this hay stack!!!"
+LANG_SPANISH        "¡¡¡Espera en esta bala de heno!!!"
+
+REFERENCE           HAY_MOVE
+LANG_ENGLISH        "Ok, keep moving go to the next hay stack!!!"
+LANG_SPANISH        "¡¡¡Seguid moviéndoos hasta el siguiente montón!!!"
+
+REFERENCE           OBJECTIVE_7B
+LANG_ENGLISH        "not needed yet"
+LANG_SPANISH        "aún no es necesario"
+
+REFERENCE           OBJECTIVE_6A
+LANG_ENGLISH        "Great work clearing the church guys... WATCH OUT!!!!"
+LANG_SPANISH        "Buen trabajo despejando la iglesia, chicos... ¡¡¡¡CUIDADO!!!!"
+
+REFERENCE           INTROSCREEN_FOY_PLACE
+LANG_ENGLISH        "Battle Of Buldge - Foy - Belgium"
+LANG_SPANISH        "Batalla de las Ardenas - Foy - Bélgica"
+
+REFERENCE           INTROSCREEN_FOY_DATE
+LANG_ENGLISH        "January 13, 1945"
+LANG_SPANISH        "13 de enero de 1945"
+
+REFERENCE           INTROSCREEN_FOY_TIME
+LANG_ENGLISH        "1100 hrs"
+LANG_SPANISH        "11:00 h"
+
+REFERENCE           OBJECTIVE_9
+LANG_ENGLISH        "Gain control of the Church"
+LANG_SPANISH        "Tomar el control de la iglesia"
+
+REFERENCE           ATTACK_SNIPER
+LANG_ENGLISH        "Find that spotter and take him out before were all dead!"
+LANG_SPANISH        "¡Encuentra al observador y mátalo antes de que acabe con nosotros!"
+
+REFERENCE           OBJECTIVE_4
+LANG_ENGLISH        "Assault into town"
+LANG_SPANISH        "Asalto en el pueblo"
+
+REFERENCE           USE_HAYSTACKS1
+LANG_ENGLISH        "Hey everyone, use the haystacksfor cover, stick with me "
+LANG_SPANISH        "Ey, todos, usad las balas de heno como cobertura, no os separéis "
+
+REFERENCE           POOR_GUY1
+LANG_ENGLISH        "My squad is held down by mortar fire"
+LANG_SPANISH        "Mi pelotón está inmovilizado por fuego de mortero"
+
+REFERENCE           SUPPRESS_MG42
+LANG_ENGLISH        "Get suppressing fire on those mg42's"
+LANG_SPANISH        "Fuego de supresión contra esas MG42"
+
+REFERENCE           GET_OVER_HERE
+LANG_ENGLISH        "Riley, get over here!"
+LANG_SPANISH        "¡Riley, ven aquí!"
+
+REFERENCE           KILL_SPOTTER
+LANG_ENGLISH        "Kill that spotter Riley"
+LANG_SPANISH        "Mata a ese observador, Riley"
+
+REFERENCE           HOLE
+LANG_ENGLISH        "FIRE IN THE HOLE!!!!!!!!!"
+LANG_SPANISH        "¡¡¡¡¡FUEGO EN EL OBJETIVO!!!!!"
+
+REFERENCE           FAIL_PROTECT_TANKS
+LANG_ENGLISH        "You failed to protect the Shermans!"
+LANG_SPANISH        "¡No protegiste a los Sherman!"
+
+REFERENCE           FAIL_KILL_SHREKS
+LANG_ENGLISH        "You failed to kill all Panzershreks!"
+LANG_SPANISH        "¡No mataste a todos los Panzershrek!"
+
+REFERENCE           OBJECTIVE_16
+LANG_ENGLISH        "Meet up with Cpt. Foley"
+LANG_SPANISH        "Reúnete con el capitán Foley."
+
+
+ENDMARKER
+
+

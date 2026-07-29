@@ -1,0 +1,91 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TANKGRENADESBULLETS
+LANG_ENGLISH        "Tanks cannot be harmed by grenades or bullets."
+LANG_SPANISH        "Los tanques no pueden ser dañados por las granadas ni las balas."
+
+REFERENCE           FLAKDESTROYED
+LANG_ENGLISH        "THE FLAK IS DESTROYED, MISSION FAILED"
+LANG_SPANISH        "EL ARMA ANTITANQUE ESTÁ DESTRUIDA, LA MISIÓN HA FRACASADO"
+
+REFERENCE           THROWGRENADES
+LANG_ENGLISH        "THROW GRENADES NOW"
+LANG_SPANISH        "ARROJAD LAS GRANADAS AHORA"
+
+REFERENCE           OBJ2
+LANG_ENGLISH        "Destroy the tank."
+LANG_SPANISH        "Destruir el tanque."
+
+REFERENCE           OBJ0
+LANG_ENGLISH        "Assemble with Captain Foley at a safer location."
+LANG_SPANISH        "Reúnete con el capitán Foley en un lugar seguro."
+
+REFERENCE           OBJ1
+LANG_ENGLISH        "Get a Panzerfaust anti-tank weapon from the church."
+LANG_SPANISH        "Conseguir un arma antitanque Panzerfaust en la iglesia."
+
+REFERENCE           OBJ3
+LANG_ENGLISH        "Defend the church."
+LANG_SPANISH        "Defender la iglesia."
+
+REFERENCE           OBJ4
+LANG_ENGLISH        "Reinforce the northern approach."
+LANG_SPANISH        "Reforzar el camino del norte."
+
+REFERENCE           OBJ5
+LANG_ENGLISH        "Locate and eliminate the enemy mortar positions."
+LANG_SPANISH        "Localizar y eliminar las posiciones de morteros enemigas"
+
+REFERENCE           OBJ6
+LANG_ENGLISH        "Destroy the third tank."
+LANG_SPANISH        "Destruir el tercer tanque."
+
+REFERENCE           OBJ7
+LANG_ENGLISH        "Locate and eliminate the enemy mortar positions. (%s remaining)."
+LANG_SPANISH        "Localizar y eliminar las posiciones de morteros enemigas (%s restantes)."
+
+REFERENCE           OBJ8
+LANG_ENGLISH        "Regroup with Captain Foley and get in the car."
+LANG_SPANISH        "Reunirse con el capitán Foley y entrar en el coche."
+
+REFERENCE           OBJ5SECONDTANK
+LANG_ENGLISH        "Destroy the second tank."
+LANG_SPANISH        "Destruir el segundo tanque."
+
+REFERENCE           PANZER
+LANG_ENGLISH        "Press USE [%s] to swap your weapon for the Panzerfaust Anti-Tank Weapon."
+LANG_SPANISH        "Pulsa USAR [%s] para cambiar tu arma por un Panzerfaust antitanque"
+
+REFERENCE           CAR
+LANG_ENGLISH        "Press USE [%s] to get into the car."
+LANG_SPANISH        "Pulsa USAR [%s] para entrar en el coche"
+
+REFERENCE           TEAMMATEMOVE
+LANG_ENGLISH        "Press USE [%s] to make your teammate move."
+LANG_SPANISH        "Pulsa USAR [%s] para hacer que tu compañero se mueva."
+
+REFERENCE           NEWREF
+LANG_ENGLISH        "Press FIRE [%s] to make your teammate move."
+LANG_SPANISH        "Pulsa FUEGO [%s] para hacer que tu compañero se mueva."
+
+REFERENCE           RATE_OF_FIRE
+LANG_ENGLISH        "Press [%s] to change your weapon's rate of fire."
+LANG_SPANISH        "Pulsa [%s] para cambiar la tasa de fuego de tu arma."
+
+
+ENDMARKER
+
+

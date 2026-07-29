@@ -1,0 +1,71 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\COD\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVE1
+LANG_ENGLISH        "Get Into Truck"
+LANG_SPANISH        "Entra en el camión"
+
+REFERENCE           OBJECTIVE2
+LANG_ENGLISH        "Get Ammo from Bunker"
+LANG_SPANISH        "Consigue munición del búnker"
+
+REFERENCE           OBJECTIVE3
+LANG_ENGLISH        "Defend Right Flank"
+LANG_SPANISH        "Defiende el flanco derecho"
+
+REFERENCE           OBJECTIVE4
+LANG_ENGLISH        "Flush out Left Flank"
+LANG_SPANISH        "Despeja el flanco izquierdo"
+
+REFERENCE           OBJECTIVE5
+LANG_ENGLISH        "Follow Sgt. Antonov"
+LANG_SPANISH        "Sigue al sargento Antonov"
+
+REFERENCE           OBJECTIVE6
+LANG_ENGLISH        "Blow up 3 Elefant Tanks (%s remaining)"
+LANG_SPANISH        "Vuela 3 tanques Elefant (faltan %s)"
+
+REFERENCE           OBJECTIVE7
+LANG_ENGLISH        "Meet up with Sgt. Antonov"
+LANG_SPANISH        "Reúnete con el sargento Antonov"
+
+REFERENCE           OBJECTIVE8
+LANG_ENGLISH        "Head to Village"
+LANG_SPANISH        "Dirígete al pueblo"
+
+REFERENCE           OBJECTIVE9
+LANG_ENGLISH        "Eliminate all Enemies in Village"
+LANG_SPANISH        "Elimina a todos los enemigos en el pueblo"
+
+REFERENCE           OBJECTIVE10
+LANG_ENGLISH        "Defend Village"
+LANG_SPANISH        "Defiende el pueblo"
+
+REFERENCE           OBJECTIVE11
+LANG_ENGLISH        "Meet with Commissar"
+LANG_SPANISH        "Encuentra al comisario"
+
+REFERENCE           REINFORCEMENTS
+LANG_ENGLISH        "Reinforcements arriving in: %s"
+LANG_SPANISH        "Llegan refuerzos en: %s"
+
+REFERENCE           USE_TRUCK
+LANG_ENGLISH        "Press [%s] to Climb into Truck"
+LANG_SPANISH        "Pulsa [USAR] para subir al camión."
+
+
+ENDMARKER
+
+

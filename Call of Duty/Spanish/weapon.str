@@ -1,0 +1,167 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           "Strings used in the weapon settings go in this file."
+
+REFERENCE           30CAL
+LANG_ENGLISH        "30cal"
+LANG_SPANISH        "Cal.30"
+
+REFERENCE           SUPPORTGUNNER
+LANG_ENGLISH        "Support Gunner"
+LANG_SPANISH        "Artillero auxiliar"
+
+REFERENCE           BAR
+LANG_ENGLISH        "BAR"
+LANG_SPANISH        "Rifle Automático Browning"
+
+REFERENCE           BREN
+LANG_ENGLISH        "Bren LMG"
+LANG_SPANISH        "Fusil ametrallador"
+
+REFERENCE           COLT45
+LANG_ENGLISH        "Colt .45"
+LANG_SPANISH        "#same"
+
+REFERENCE           RIFLEMAN
+LANG_ENGLISH        "Rifleman"
+LANG_SPANISH        "Fusilero"
+
+REFERENCE           LEEENFIELD
+LANG_ENGLISH        "Lee-Enfield"
+LANG_SPANISH        "#same"
+
+REFERENCE           FG42
+LANG_ENGLISH        "FG42"
+LANG_SPANISH        "#same"
+
+REFERENCE           KAR98K
+LANG_ENGLISH        "Kar98k"
+LANG_SPANISH        "#same"
+
+REFERENCE           LUGER
+LANG_ENGLISH        "Luger"
+LANG_SPANISH        "#same"
+
+REFERENCE           M1A1CARBINE
+LANG_ENGLISH        "M1A1 Carbine"
+LANG_SPANISH        "Carabina M1A1"
+
+REFERENCE           M1GARAND
+LANG_ENGLISH        "M1 Garand"
+LANG_SPANISH        "#same"
+
+REFERENCE           MOSINNAGANT
+LANG_ENGLISH        "Mosin-Nagant"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCOPEDMOSINNAGANT
+LANG_ENGLISH        "Scoped Mosin-Nagant"
+LANG_SPANISH        "#same"
+
+REFERENCE           SNIPER
+LANG_ENGLISH        "Sniper"
+LANG_SPANISH        "Francotirador"
+
+REFERENCE           SUBMACHINEGUNNER
+LANG_ENGLISH        "Submachine Gunner"
+LANG_SPANISH        "Ametrallador"
+
+REFERENCE           MP40
+LANG_ENGLISH        "MP40"
+LANG_SPANISH        "#same"
+
+REFERENCE           MP44
+LANG_ENGLISH        "MP44"
+LANG_SPANISH        "#same"
+
+REFERENCE           PPSH
+LANG_ENGLISH        "PPSh"
+LANG_SPANISH        "#same"
+
+REFERENCE           SPRINGFIELD
+LANG_ENGLISH        "Springfield"
+LANG_SPANISH        "#same"
+
+REFERENCE           MOSINNAGANTAMMO
+LANG_ENGLISH        "Mosin Nagant Ammo"
+LANG_SPANISH        "Munición de Mosin Nagant Ammo"
+
+REFERENCE           STEN
+LANG_ENGLISH        "Sten"
+LANG_SPANISH        "#same"
+
+REFERENCE           ARMYENGINEER
+LANG_ENGLISH        "Army Engineer"
+LANG_SPANISH        "Ingeniero militar"
+
+REFERENCE           THOMPSON
+LANG_ENGLISH        "Thompson"
+LANG_SPANISH        "#same"
+
+REFERENCE           FASTAUTO
+LANG_ENGLISH        "Fast-Auto"
+LANG_SPANISH        "Automático rápìdo"
+
+REFERENCE           SLOWAUTO
+LANG_ENGLISH        "Slow-Auto"
+LANG_SPANISH        "Automático lento"
+
+REFERENCE           FULLAUTO
+LANG_ENGLISH        "Full-Auto"
+LANG_SPANISH        "Automática"
+
+REFERENCE           SEMIAUTO
+LANG_ENGLISH        "Semi-Auto"
+LANG_SPANISH        "Semi-automática"
+
+REFERENCE           M2FRAGGRENADE
+LANG_ENGLISH        "M2 Frag Grenade"
+LANG_SPANISH        "Granada de fragmentación M2"
+
+REFERENCE           MK2FRAGGRENADE
+LANG_ENGLISH        "MK1 Frag Grenade"
+LANG_SPANISH        "Granada de fragmentación MK1"
+
+REFERENCE           RUSSIANGRENADE
+LANG_ENGLISH        "RGD-33 Stick Grenade"
+LANG_SPANISH        "Granada de palo RGD-33"
+
+REFERENCE           GERMANGRENADE
+LANG_ENGLISH        "Stielhandgranate"
+LANG_SPANISH        "Granada de palo"
+
+REFERENCE           PANZERFAUST
+LANG_ENGLISH        "Panzerfaust 60"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCOPEDKAR98K
+LANG_ENGLISH        "Scoped Kar98k"
+LANG_SPANISH        "Kar98k con mira"
+
+REFERENCE           HOLDPIN
+LANG_ENGLISH        "Hold-Pin"
+LANG_SPANISH        "Plantar en tierra"
+
+REFERENCE           COOKOFF
+LANG_ENGLISH        "Cook-Off"
+LANG_SPANISH        "Recalentamiento"
+
+REFERENCE           MEDICPLACEHOLDER
+LANG_ENGLISH        "Medic"
+LANG_SPANISH        "Médico"
+
+
+ENDMARKER
+
+

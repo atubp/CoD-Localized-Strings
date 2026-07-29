@@ -1,0 +1,109 @@
+// Dumped from fastfile "oki3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI3_OBJ4
+LANG_ENGLISH        "Obtén la munición del envío de suministro."
+
+REFERENCE           OKI3_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Límite\""
+
+REFERENCE           OKI3_STARTS_PLANTERS_END
+LANG_ENGLISH        "EVENTO 4: fin de la batalla de las jardineras"
+
+REFERENCE           OKI3_INTROSCREEN_DATE
+LANG_ENGLISH        "29 de mayo de 1945"
+
+REFERENCE           OKI3_OBJ2_3
+LANG_ENGLISH        "Elimina las dotaciones de los morteros. (Quedan 3)"
+
+REFERENCE           OKI3_INTROSCREEN_INFO
+LANG_ENGLISH        "1ª división de marines"
+
+REFERENCE           OKI3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Castillo Shuri, Okinawa"
+
+REFERENCE           OKI3_OBJ1
+LANG_ENGLISH        "Asalta el castillo Shuri."
+
+REFERENCE           OKI3_OBJ2_4
+LANG_ENGLISH        "Elimina las dotaciones de los morteros. (Quedan 4)"
+
+REFERENCE           OKI3_OBJ2_2
+LANG_ENGLISH        "Elimina las dotaciones de los morteros. (Quedan 2)"
+
+REFERENCE           OKI3_OBJ2_1
+LANG_ENGLISH        "Elimina las dotaciones de los morteros.\n(Queda 1)"
+
+REFERENCE           OKI3_OBJ2
+LANG_ENGLISH        "Elimina las dotaciones de los morteros."
+
+REFERENCE           OKI3_OBJ5
+LANG_ENGLISH        "Mantén la zona."
+
+REFERENCE           OKI3_OBJ6
+LANG_ENGLISH        "Defiéndete contra la carga Banzai."
+
+REFERENCE           OKI3_STARTS_MORTARPITS
+LANG_ENGLISH        "Evento 2: fosos de mortero"
+
+REFERENCE           OKI3_USE_MORTAR
+LANG_ENGLISH        "Mantén pulsado &&1 para recoger y preparar"
+
+REFERENCE           OKI3_OBJ4_A
+LANG_ENGLISH        "Entra y despeja el túnel."
+
+REFERENCE           OKI3_TAKE_COVER
+LANG_ENGLISH        "Ponte a cubierto."
+
+REFERENCE           OKI3_REGROUP_BY_WALL
+LANG_ENGLISH        "Reúnete con el pelotón."
+
+REFERENCE           OKI3_REGROUP
+LANG_ENGLISH        "Reagrúpate con el pelotón."
+
+REFERENCE           OKI3_STARTS_AMBUSH
+LANG_ENGLISH        "Evento 1: emboscada"
+
+REFERENCE           OKI3_STARTS_COURTYARD
+LANG_ENGLISH        "Evento 4: patio"
+
+REFERENCE           OKI3_OBJ9
+LANG_ENGLISH        "Pide por radio apoyo aéreo sobre el edificio del este."
+
+REFERENCE           OKI3_OBJ8
+LANG_ENGLISH        "Pide por radio apoyo aéreo sobre los edificios del norte."
+
+REFERENCE           OKI3_OBJ7
+LANG_ENGLISH        "Recoge el envío en el patio."
+
+REFERENCE           OKI3_STARTS_PLANTERS
+LANG_ENGLISH        "Evento 3: jardineras"
+
+REFERENCE           OKI3_AIRSTRIKE_HOWTO
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] y, a continuación [{+attack}] para pedir por radio un ataque aéreo."
+
+REFERENCE           OKI3_TAKE_AMMO
+LANG_ENGLISH        "Mantén pulsado &&1 para obtener munición"
+
+REFERENCE           OKI3_OBJ6A
+LANG_ENGLISH        "Elimina a todos los enemigos de la zona."
+
+REFERENCE           OKI3_HINT_PRONE
+LANG_ENGLISH        "Pulsa [{+gocrouch}] para agacharte."
+
+REFERENCE           OKI3_INTROSCREEN_NAME
+LANG_ENGLISH        "Sld. Miller"
+
+REFERENCE           OKI3_OBJ8_A
+LANG_ENGLISH        "Defiende la zona."
+
+REFERENCE           OKI3_MORTAR_HINT
+LANG_ENGLISH        "Presiona [{+attack}] para lanzar el mortero"
+
+REFERENCE           OKI3_RADIO_INUSE
+LANG_ENGLISH        "La radio ya se está usando."
+
+ENDMARKER

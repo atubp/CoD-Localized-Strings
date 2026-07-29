@@ -1,0 +1,507 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TRAINING
+LANG_ENGLISH        "Explosives Training"
+LANG_SPANISH         "Formación en explosivos"
+
+REFERENCE           PATHFINDER
+LANG_ENGLISH        "Ready to Go"
+LANG_SPANISH         "Listo para ir"
+
+REFERENCE           BURNVILLE
+LANG_ENGLISH        "In the House"
+LANG_SPANISH         "En la casa"
+
+REFERENCE           BURNVILLE2
+LANG_ENGLISH        "The Halftrack"
+LANG_SPANISH         "El semioruga"
+
+REFERENCE           BURNVILLE3
+LANG_ENGLISH        "Cutting through Houses"
+LANG_SPANISH         "Atajo entre las casas"
+
+REFERENCE           BURNVILLE4
+LANG_ENGLISH        "Church"
+LANG_SPANISH         "Iglesia"
+
+REFERENCE           BURNVILLE5
+LANG_ENGLISH        "Flak Attack"
+LANG_SPANISH         "Ataque antiaéreo"
+
+REFERENCE           BURNVILLE6
+LANG_ENGLISH        "The Final Run"
+LANG_SPANISH         "Ataque final"
+
+REFERENCE           TRUCKRIDE
+LANG_ENGLISH        "Truck Ride"
+LANG_SPANISH         "Trayecto en camión"
+
+REFERENCE           TRUCKRIDE1
+LANG_ENGLISH        "Bridge"
+LANG_SPANISH         "Puente"
+
+REFERENCE           TRUCKRIDE2
+LANG_ENGLISH        "Motorcycles"
+LANG_SPANISH         "Motocicletas"
+
+REFERENCE           AIRFIELD
+LANG_ENGLISH        "Airfield"
+LANG_SPANISH         "Aeródromo"
+
+REFERENCE           AIRFIELD1
+LANG_ENGLISH        "Distraction"
+LANG_SPANISH         "Distracción"
+
+REFERENCE           CARRIDE
+LANG_ENGLISH        "Past the Road Block"
+LANG_SPANISH         "Tras el control de carretera"
+
+REFERENCE           CARRIDE1
+LANG_ENGLISH        "Entering the Town"
+LANG_SPANISH         "Entrada al pueblo"
+
+REFERENCE           CARRIDE2
+LANG_ENGLISH        "Free Kubelwagen"
+LANG_SPANISH         "Kübelwagen libre"
+
+REFERENCE           CARRIDE3
+LANG_ENGLISH        "Kubelwagen Escape to HQ"
+LANG_SPANISH         "Huída en Kübelwagen al CG"
+
+REFERENCE           BRECOURT
+LANG_ENGLISH        "Flank Right"
+LANG_SPANISH         "Flanquear por la derecha"
+
+REFERENCE           BRECOURT1
+LANG_ENGLISH        "In the Trenches"
+LANG_SPANISH         "En las trincheras"
+
+REFERENCE           BRECOURT2
+LANG_ENGLISH        "German Bunkers"
+LANG_SPANISH         "Búnkeres alemanes"
+
+REFERENCE           BRECOURT3
+LANG_ENGLISH        "Got the Explosives"
+LANG_SPANISH         "Explosivos obtenidos"
+
+REFERENCE           BRECOURT4
+LANG_ENGLISH        "German Retreat"
+LANG_SPANISH         "Retirada alemana"
+
+REFERENCE           CHATEAU
+LANG_ENGLISH        "Chateau"
+LANG_SPANISH         "#same"
+
+REFERENCE           POWOUTSKIRTS
+LANG_ENGLISH        "Heading Out"
+LANG_SPANISH         "Salida"
+
+REFERENCE           PNIGHT
+LANG_ENGLISH        "After the Landing"
+LANG_SPANISH         "Tras la llegada"
+
+REFERENCE           PNIGHT1
+LANG_ENGLISH        "Bunker Captured"
+LANG_SPANISH         "Búnker capturado"
+
+REFERENCE           PNIGHT2
+LANG_ENGLISH        "New Orders"
+LANG_SPANISH         "Nuevas órdenes"
+
+REFERENCE           PDAY
+LANG_ENGLISH        "Defending the Bridge"
+LANG_SPANISH         "Defensa del puente"
+
+REFERENCE           PDAY2
+LANG_ENGLISH        "Bridge Skirmish"
+LANG_SPANISH         "Escaramuza en el puente"
+
+REFERENCE           PDAY3
+LANG_ENGLISH        "Stopping the Tanks"
+LANG_SPANISH         "Detener a los tanques"
+
+REFERENCE           PDAY4
+LANG_ENGLISH        "Tank Destroyed"
+LANG_SPANISH         "Tanque destruido"
+
+REFERENCE           PDAY5
+LANG_ENGLISH        "Tank Eliminated"
+LANG_SPANISH         "Tanque eliminado"
+
+REFERENCE           DAM
+LANG_ENGLISH        "On the Dam"
+LANG_SPANISH         "En la presa"
+
+REFERENCE           DAM2
+LANG_ENGLISH        "Entering the Dam"
+LANG_SPANISH         "Entrada a la presa"
+
+REFERENCE           DAM3
+LANG_ENGLISH        "The Control Room"
+LANG_SPANISH         "Sala de control"
+
+REFERENCE           DAM4
+LANG_ENGLISH        "Below the Turbines"
+LANG_SPANISH         "Bajo las turbinas"
+
+REFERENCE           DAM5
+LANG_ENGLISH        "At the Base of the Dam"
+LANG_SPANISH         "Al pie de la presa"
+
+REFERENCE           DAM6
+LANG_ENGLISH        "Starting the Return"
+LANG_SPANISH         "Inicio del regreso"
+
+REFERENCE           DAM7
+LANG_ENGLISH        "End of the Long Tunnel"
+LANG_SPANISH         "Final del largo túnel"
+
+REFERENCE           DAM8
+LANG_ENGLISH        "Back up the Second Elevator"
+LANG_SPANISH         "De vuelta al segundo ascensor"
+
+REFERENCE           DAM9
+LANG_ENGLISH        "Return to the Control Room"
+LANG_SPANISH         "Regreso a la sala de control"
+
+REFERENCE           DAM10
+LANG_ENGLISH        "Back to the Top of the Dam"
+LANG_SPANISH         "De vuelta a lo alto de la presa"
+
+REFERENCE           SHIP
+LANG_ENGLISH        "Welcome Aboard"
+LANG_SPANISH         "Bienvenido a bordo"
+
+REFERENCE           SHIP1
+LANG_ENGLISH        "The Armory"
+LANG_SPANISH         "El arsenal"
+
+REFERENCE           SHIP2
+LANG_ENGLISH        "Leaving Lower Decks"
+LANG_SPANISH         "Tras las cubiertas inferiores"
+
+REFERENCE           SHIP3
+LANG_ENGLISH        "Escape"
+LANG_SPANISH         "Esc"
+
+REFERENCE           STALINGRAD
+LANG_ENGLISH        "On the Boat"
+LANG_SPANISH         "En el barco"
+
+REFERENCE           REDS
+LANG_ENGLISH        "Suicide Run"
+LANG_SPANISH         "Ataque suicida"
+
+REFERENCE           REDS1
+LANG_ENGLISH        "Room to Room"
+LANG_SPANISH         "Habitación por habitación"
+
+REFERENCE           REDS2
+LANG_ENGLISH        "Sniper Roost"
+LANG_SPANISH         "Nido de francotiradores"
+
+REFERENCE           REDS3
+LANG_ENGLISH        "To the Train Station"
+LANG_SPANISH         "A la estación de tren"
+
+REFERENCE           REDS4
+LANG_ENGLISH        "Ruins of Stalingrad"
+LANG_SPANISH         "Ruinas de Stalingrado"
+
+REFERENCE           PAVLOV
+LANG_ENGLISH        "Sniper Baiting"
+LANG_SPANISH         "Cebo para el francotirador"
+
+REFERENCE           PAVLOV1
+LANG_ENGLISH        "At the Wall"
+LANG_SPANISH         "En el muro"
+
+REFERENCE           PAVLOV2
+LANG_ENGLISH        "Storming Pavlov's House"
+LANG_SPANISH         "Asalto a la casa de Pavlov"
+
+REFERENCE           PAVLOV3
+LANG_ENGLISH        "Final Defense"
+LANG_SPANISH         "Defensa final"
+
+REFERENCE           PAVLOV4
+LANG_ENGLISH        "Staying Alive"
+LANG_SPANISH         "Mantenerse con vida"
+
+REFERENCE           FACTORY
+LANG_ENGLISH        "Entering the Factory"
+LANG_SPANISH         "Entrada a la fábrica"
+
+REFERENCE           FACTORY1
+LANG_ENGLISH        "Above the Tanks"
+LANG_SPANISH         "Por encima de los tanques"
+
+REFERENCE           FACTORY2
+LANG_ENGLISH        "Outside the Factory"
+LANG_SPANISH         "Exterior de la fábrica"
+
+REFERENCE           RAIL
+LANG_ENGLISH        "Near the Trains"
+LANG_SPANISH         "Cerca de los trenes"
+
+REFERENCE           RAIL1
+LANG_ENGLISH        "Radio Room"
+LANG_SPANISH         "Sala de radio"
+
+REFERENCE           TCOUNTRY
+LANG_ENGLISH        "T34 Assault"
+LANG_SPANISH         "Asalto del T34"
+
+REFERENCE           TCOUNTRY1
+LANG_ENGLISH        "T34 Assault"
+LANG_SPANISH         "Asalto del T34"
+
+REFERENCE           TCOUNTRY2
+LANG_ENGLISH        "Tanks Destroyed"
+LANG_SPANISH         "Tanques destruidos"
+
+REFERENCE           TTOWN
+LANG_ENGLISH        "Entering the Town"
+LANG_SPANISH         "Entrada al pueblo"
+
+REFERENCE           TTOWN1
+LANG_ENGLISH        "Entering the Town"
+LANG_SPANISH         "Entrada al pueblo"
+
+REFERENCE           TTOWN2
+LANG_ENGLISH        "At the Overpass"
+LANG_SPANISH         "En el paso elevado"
+
+REFERENCE           ROCKET
+LANG_ENGLISH        "First AA Gun Destroyed"
+LANG_SPANISH         "Primer antiaéreo destruido"
+
+REFERENCE           ROCKET1
+LANG_ENGLISH        "Second AA Gun Destroyed"
+LANG_SPANISH         "Segundo antiaéreo destruido"
+
+REFERENCE           ROCKET2
+LANG_ENGLISH        "Convoy Destroyed"
+LANG_SPANISH         "Caravana destruida"
+
+REFERENCE           ROCKET3
+LANG_ENGLISH        "V-2 Rockets Found"
+LANG_SPANISH         "Cohetes V-2 encontrados"
+
+REFERENCE           ROCKET4
+LANG_ENGLISH        "V-2 Rockets Fueled"
+LANG_SPANISH         "Cohetes V-2 con combustible"
+
+REFERENCE           BERLIN
+LANG_ENGLISH        "First Flak88 Destroyed"
+LANG_SPANISH         "Primer Flak 88 destruido"
+
+REFERENCE           BERLIN1
+LANG_ENGLISH        "Hold The Line"
+LANG_SPANISH         "Defiende las líneas"
+
+REFERENCE           BERLIN2
+LANG_ENGLISH        "Storm The Reichstag"
+LANG_SPANISH         "Asalta el Reichstag"
+
+REFERENCE           BERLIN3
+LANG_ENGLISH        "To The Roof"
+LANG_SPANISH         "Al tejado"
+
+REFERENCE           GAME
+LANG_ENGLISH        "Begin Game Autosave"
+LANG_SPANISH         "Iniciar autoguardado de partida"
+
+REFERENCE           NOGAME
+LANG_ENGLISH        "No Name Specified"
+LANG_SPANISH         "No se ha especificado nombre"
+
+REFERENCE           LEVELSTART
+LANG_ENGLISH        "Start"
+LANG_SPANISH         "Inicio"
+
+REFERENCE           BRECOURT5
+LANG_ENGLISH        "3 Flaks Detroyed"
+LANG_SPANISH         "3 Flak destruidos"
+
+REFERENCE           BRECOURT6
+LANG_ENGLISH        "Approaching the Manor"
+LANG_SPANISH         "Aproximación a la mansión"
+
+REFERENCE           TRAININGWEAP
+LANG_ENGLISH        "Weapons Training"
+LANG_SPANISH         "Formación en armas"
+
+REFERENCE           AUTOSAVE
+LANG_ENGLISH        "autosave"
+LANG_SPANISH         "autoguardado"
+
+REFERENCE           BRECOURT7
+LANG_ENGLISH        "Second Documents Captured"
+LANG_SPANISH         "Segundos documentos adquiridos"
+
+REFERENCE           BRECOURT8
+LANG_ENGLISH        "The Last Gun"
+LANG_SPANISH         "El último cañón"
+
+REFERENCE           BURNVILLE1
+LANG_ENGLISH        "Sweeping the MG42s"
+LANG_SPANISH         "Barriendo a los MG42"
+
+REFERENCE           DAWNVILLE
+LANG_ENGLISH        "Finding a Safe Haven"
+LANG_SPANISH         "Encontrar un refugio seguro"
+
+REFERENCE           DAWNVILLE1
+LANG_ENGLISH        "Following Foley"
+LANG_SPANISH         "Siguiendo a Foley"
+
+REFERENCE           DAWNVILLE2
+LANG_ENGLISH        "Acquiring Panzerfaust"
+LANG_SPANISH         "Consiguiendo un Panzerfaust"
+
+REFERENCE           DAWNVILLE3
+LANG_ENGLISH        "Defending the Church"
+LANG_SPANISH         "Defensa de la iglesia"
+
+REFERENCE           DAWNVILLE4
+LANG_ENGLISH        "On to the Northern Approach"
+LANG_SPANISH         "Sobre el acceso del norte"
+
+REFERENCE           DAWNVILLE5
+LANG_ENGLISH        "Defending the Northern Approach"
+LANG_SPANISH         "Defensa del acceso del norte"
+
+REFERENCE           DAWNVILLE6
+LANG_ENGLISH        "Pushing them Back"
+LANG_SPANISH         "Forzando la retirada"
+
+REFERENCE           DAWNVILLE7
+LANG_ENGLISH        "On to the Mortar Teams"
+LANG_SPANISH         "Sobre las dotaciones de morteros"
+
+REFERENCE           DAWNVILLE8
+LANG_ENGLISH        "In the Trenches"
+LANG_SPANISH         "En las trincheras"
+
+REFERENCE           POWCAMP
+LANG_ENGLISH        "Entering Camp"
+LANG_SPANISH         "Entrada al campamento"
+
+REFERENCE           POWCAMP1
+LANG_ENGLISH        "Approaching Tower"
+LANG_SPANISH         "Aproximación a la torre"
+
+REFERENCE           POWCAMP2
+LANG_ENGLISH        "Entering Common Area"
+LANG_SPANISH         "Entrada a zona común"
+
+REFERENCE           POWCAMP3
+LANG_ENGLISH        "Entering Kitchen"
+LANG_SPANISH         "Entrada a la cocina"
+
+REFERENCE           POWCAMP4
+LANG_ENGLISH        "Escorting Ingram"
+LANG_SPANISH         "Escolta de Ingram"
+
+REFERENCE           POWCAMP5
+LANG_ENGLISH        "Exiting Kitchen"
+LANG_SPANISH         "Salida de la cocina"
+
+REFERENCE           POWCAMP6
+LANG_ENGLISH        "Returning to Tower"
+LANG_SPANISH         "Regreso a la torre"
+
+REFERENCE           POWCAMP7
+LANG_ENGLISH        "Returning to Truck"
+LANG_SPANISH         "Regreso al camión"
+
+REFERENCE           SEWER
+LANG_ENGLISH        "Entering Hall"
+LANG_SPANISH         "Entrada al vestíbulo"
+
+REFERENCE           SEWER1
+LANG_ENGLISH        "Past Snipers"
+LANG_SPANISH         "Tras los francotiradores"
+
+REFERENCE           SEWER2
+LANG_ENGLISH        "Entering Lower Level"
+LANG_SPANISH         "Entrada al nivel inferior"
+
+REFERENCE           SEWER3
+LANG_ENGLISH        "Approaching Hardpoint"
+LANG_SPANISH         "Aproximación al punto fuerte"
+
+REFERENCE           SEWER4
+LANG_ENGLISH        "After Bombed Section"
+LANG_SPANISH         "Tras zona bombardeada"
+
+REFERENCE           SEWER5
+LANG_ENGLISH        "End Battle"
+LANG_SPANISH         "Batalla final"
+
+REFERENCE           TRAINSTATION
+LANG_ENGLISH        "Approaching Catwalks"
+LANG_SPANISH         "Aproximación a las pasarelas"
+
+REFERENCE           TRAINSTATION1
+LANG_ENGLISH        "Stairwell"
+LANG_SPANISH         "Hueco de la escalera"
+
+REFERENCE           TRAINSTATION2
+LANG_ENGLISH        "Entering Building"
+LANG_SPANISH         "Entrada al edificio"
+
+REFERENCE           TRAINSTATION3
+LANG_ENGLISH        "Exitting Trenches"
+LANG_SPANISH         "Salida de las trincheras"
+
+REFERENCE           HURTGEN
+LANG_ENGLISH        "Regroup With Allies"
+LANG_SPANISH         "Reagruparse con los Aliados"
+
+REFERENCE           HURTGEN1
+LANG_ENGLISH        "Retrieving Documents"
+LANG_SPANISH         "Recuperación de documentos"
+
+REFERENCE           HURTGEN2
+LANG_ENGLISH        "Documents Acquired"
+LANG_SPANISH         "Documentos recuperados"
+
+REFERENCE           STALINGRAD1
+LANG_ENGLISH        "Stalingrad Docks"
+LANG_SPANISH         "Muelles de Stalingrado"
+
+REFERENCE           STALINGRAD2
+LANG_ENGLISH        "Into Battle"
+LANG_SPANISH         "A la batalla"
+
+REFERENCE           STALINGRAD3
+LANG_ENGLISH        "The Sniper Leads"
+LANG_SPANISH         "El francotirador guía"
+
+REFERENCE           PATHFINDER1
+LANG_ENGLISH        "Calling in the Cavalry"
+LANG_SPANISH         "Llamada a la caballería"
+
+REFERENCE           PATHFINDER2
+LANG_ENGLISH        "Cutting Through the Opposition"
+LANG_SPANISH         "Abriéndose paso entre el enemigo"
+
+
+ENDMARKER
+
+

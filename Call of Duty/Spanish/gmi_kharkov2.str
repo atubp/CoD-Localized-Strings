@@ -1,0 +1,67 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVE1
+LANG_ENGLISH        "Get to the Square"
+LANG_SPANISH        "Llega a la plaza"
+
+REFERENCE           OBJECTIVE2
+LANG_ENGLISH        "Meet with Sgt.  Antonov"
+LANG_SPANISH        "Reúnete con Antonov"
+
+REFERENCE           OBJECTIVE3
+LANG_ENGLISH        "Cover Sgt. Antonov"
+LANG_SPANISH        "Permanece con Antonov"
+
+REFERENCE           OBJECTIVE4
+LANG_ENGLISH        "Help Engineers Cross Battle Field"
+LANG_SPANISH        "Ayuda a los ingenieros a cruzar el campo de batalla"
+
+REFERENCE           OBJECTIVE5
+LANG_ENGLISH        "Regroup with Sgt. Antonov"
+LANG_SPANISH        "Reagrúpate con Antonov"
+
+REFERENCE           OBJECTIVE6
+LANG_ENGLISH        "Use the Flak gun to shoot down enemy He111s (%s Remaining)"
+LANG_SPANISH        "Usa el antiaéreo para abatir los HE111 enemigos (faltan %s)"
+
+REFERENCE           OBJECTIVE7
+LANG_ENGLISH        "Head to the Trainyard"
+LANG_SPANISH        "Ve a la parte trasera de la estación"
+
+REFERENCE           OBJECTIVE8
+LANG_ENGLISH        "Destroy all inbound Tanks (%s Remaining)"
+LANG_SPANISH        "Destruir todos los tanques que llegan (quedan %s)."
+
+REFERENCE           OBJECTIVE9
+LANG_ENGLISH        "Defend the Trainstation"
+LANG_SPANISH        "Defender la estación de tren."
+
+REFERENCE           REINFORCEMENTS
+LANG_ENGLISH        "Reinforcements arriving in: %s"
+LANG_SPANISH        "Llegan refuerzos en: %s"
+
+REFERENCE           MISSIONFAIL_ANTONOV
+LANG_ENGLISH        "You failed to cover Sgt. Antonov."
+LANG_SPANISH        "No cubriste al sargento Antonov."
+
+REFERENCE           MISSIONFAIL_ENGINEER
+LANG_ENGLISH        "You failed to escort the Engineers."
+LANG_SPANISH        "No escoltaste a los ingenieros."
+
+
+ENDMARKER
+
+

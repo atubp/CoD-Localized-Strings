@@ -1,0 +1,47 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PROMOTION
+LANG_ENGLISH        "You gained a rank!"
+LANG_SPANISH        "¡Has ascendido un grado!"
+
+REFERENCE           DEMOTION
+LANG_ENGLISH        "You lost a rank!"
+LANG_SPANISH        "¡Has sido degradado!"
+
+REFERENCE           ARTILLERY_IN_PLACE
+LANG_ENGLISH        "Artillery in place"
+LANG_SPANISH        "Artillería en posición"
+
+REFERENCE           2_MESSAGE
+LANG_ENGLISH        "You will be allotted more grenades and pistol ammo next respawn."
+LANG_SPANISH        "Se te entregarán más granadas y munición para pistola en la próxima aparición."
+
+REFERENCE           3_MESSAGE
+LANG_ENGLISH        "You will be allotted more smoke grenades and ammo next respawn.\nBinoculars will be available next respawn."
+LANG_SPANISH        "Se te entregarán más granadas de humo y munición en la próxima aparición.\nLos prismáticos estarán disponibles en la próxima aparición."
+
+REFERENCE           4_MESSAGE
+LANG_ENGLISH        "You will be allotted more pistol ammo next respawn.\nSatchel charges will be available to you next respawn.\n"
+LANG_SPANISH        "Se te entregará más munición para pistola en la próxima aparición.\nLas cargas explosivas estarán disponibles en la próxima aparición."
+
+REFERENCE           5_MESSAGE
+LANG_ENGLISH        "You will be allotted more ammo next respawn.\nArtillery support is setting up to fire at your command.  \nYou will be notified when artillery is ready after your next respawn."
+LANG_SPANISH        "Se te entregará más munición en la próxima aparición.\nLos refuerzos de artillería están preparándose para disparar cuando lo ordenes.  \nLa artillería te avisará cuando esté lista en la próxima reaparición."
+
+
+ENDMARKER
+
+

@@ -1,0 +1,335 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           "Game messages made by the server game dll go in this file."
+
+REFERENCE           OBJECTIVESUPDATED
+LANG_ENGLISH        "Objectives updated."
+LANG_SPANISH        "Objetivos actualizados"
+
+REFERENCE           OBJECTIVECOMPLETED
+LANG_ENGLISH        "Objective completed."
+LANG_SPANISH        "Objetivo completado"
+
+REFERENCE           OBJECTIVEFAILED
+LANG_ENGLISH        "Objective failed."
+LANG_SPANISH        "Objetivo fracasado"
+
+REFERENCE           MISSIONFAILED
+LANG_ENGLISH        "Mission Failed"
+LANG_SPANISH        "La misión ha fracasado"
+
+REFERENCE           CANT_GET_GRENADE_WEAP_MESSAGE
+LANG_ENGLISH        "You must have the grenades selected to pickup a different type of grenades."
+LANG_SPANISH        "Para escoger un tipo distinto de granadas debes tenerlas seleccionadas."
+
+REFERENCE           CANT_GET_PISTOL_WEAP_MESSAGE
+LANG_ENGLISH        "You must have the pistol selected to pickup a different pistol."
+LANG_SPANISH        "Para coger otro tipo de pistola debes tenerla seleccionada."
+
+REFERENCE           CANT_GET_PRIMARY_WEAP_MESSAGE
+LANG_ENGLISH        "You must have a primary weapon selected to pickup a different primary weapon."
+LANG_SPANISH        "Para coger un arma primaria distinta debes tenerla seleccionada."
+
+REFERENCE           CANT_GET_SMOKER_WEAP_MESSAGE
+LANG_ENGLISH        "You must have the smoke grenades selected to pickup a different type of smoke grenades."
+LANG_SPANISH        "Para coger un tipo distinto de granadas de humo debes tenerlas seleccionadas."
+
+REFERENCE           PICKUP_AMMO
+LANG_ENGLISH        "Picked up ammo for the %s"
+LANG_SPANISH        "Has cogido munición de %s"
+
+REFERENCE           PICKUP_CANTCARRYMOREAMMO
+LANG_ENGLISH        "Can't carry any more %s ammo."
+LANG_SPANISH        "No puedes llevar más munición de %s."
+
+REFERENCE           PICKUP_HEALTH
+LANG_ENGLISH        "Picked up %s health."
+LANG_SPANISH        "Has cogido %s de salud."
+
+REFERENCE           DIFFICULTY_EASY
+LANG_ENGLISH        "Difficulty: Greenhorn"
+LANG_SPANISH        "Dificultad: Novato"
+
+REFERENCE           DIFFICULTY_MEDIUM
+LANG_ENGLISH        "Difficulty: Regular"
+LANG_SPANISH        "Dificultad: Regular"
+
+REFERENCE           DIFFICULTY_HARD
+LANG_ENGLISH        "Difficulty: Hardened"
+LANG_SPANISH        "Dificultad: Endurecido"
+
+REFERENCE           DIFFICULTY_FU
+LANG_ENGLISH        "Difficulty: Veteran"
+LANG_SPANISH        "Dificultad: Veterano"
+
+REFERENCE           DIFFICULTY_UNKNOWN
+LANG_ENGLISH        "Difficulty: Unknown"
+LANG_SPANISH        "Dificultad: Desconocida"
+
+REFERENCE           HEALTH
+LANG_ENGLISH        "Health"
+LANG_SPANISH        "Salud"
+
+REFERENCE           LEVELTIME
+LANG_ENGLISH        "Level Time"
+LANG_SPANISH        "Tiempo de Nivel"
+
+REFERENCE           BADCLIENTSLOT
+LANG_ENGLISH        "Bad client slot:"
+LANG_SPANISH        "Ranura de mal cliente:"
+
+REFERENCE           CLIENTNOTACTIVE
+LANG_ENGLISH        "Client %s is not active"
+LANG_SPANISH        "El cliente %s no está activo"
+
+REFERENCE           USERNOTONSERVER
+LANG_ENGLISH        "User %s is not on the server."
+LANG_SPANISH        "El usuario %s no está en el servidor."
+
+REFERENCE           CALLEDAVOTE
+LANG_ENGLISH        "%s called a vote."
+LANG_SPANISH        "%s ha solicitado una votación."
+
+REFERENCE           CLIENTNOTONSERVER
+LANG_ENGLISH        "Client not on server."
+LANG_SPANISH        "El cliente no está en el servidor."
+
+REFERENCE           COMPLAINTFILEDAGAINST
+LANG_ENGLISH        "Complaint filed against you. (%s until kicked)"
+LANG_SPANISH        "Hay un archivo de queja en tu contra. (%s hasta ser expulsado)"
+
+REFERENCE           WARNING
+LANG_ENGLISH        "WARNING"
+LANG_SPANISH        "ATENCIÓN"
+
+REFERENCE           KICKEDFROMCOMPLAINTS
+LANG_ENGLISH        "kicked after too many complaints."
+LANG_SPANISH        "Expulsado tras numerosas quejas."
+
+REFERENCE           NOVOTEINPROGRESS
+LANG_ENGLISH        "No vote in progress."
+LANG_SPANISH        "No hay votación en proceso."
+
+REFERENCE           VOTEALREADYCAST
+LANG_ENGLISH        "Vote already cast."
+LANG_SPANISH        "Voto ya emitido."
+
+REFERENCE           NOSPECTATORVOTE
+LANG_ENGLISH        "Not allowed to vote as spectator."
+LANG_SPANISH        "No está permitido votar a los espectadores."
+
+REFERENCE           VOTECAST
+LANG_ENGLISH        "Vote cast."
+LANG_SPANISH        "Voto emitido."
+
+REFERENCE           VOTINGNOTENABLED
+LANG_ENGLISH        "Voting not enabled on this server."
+LANG_SPANISH        "No está permitida la votación en este servidor."
+
+REFERENCE           VOTEALREADYINPROGRESS
+LANG_ENGLISH        "A vote is already in progress."
+LANG_SPANISH        "Ya hay una votación en proceso."
+
+REFERENCE           MAXVOTESCALLED
+LANG_ENGLISH        "You have called the maximum number of votes."
+LANG_SPANISH        "Ya has solicitado el máximo número de votaciones."
+
+REFERENCE           NOSPECTATORCALLVOTE
+LANG_ENGLISH        "Not allowed to call a vote as spectator."
+LANG_SPANISH        "No está permitido votar como espectador."
+
+REFERENCE           INVALIDVOTESTRING
+LANG_ENGLISH        "Invalid vote string."
+LANG_SPANISH        "Línea de votación inválida."
+
+REFERENCE           VOTECOMMANDSARE
+LANG_ENGLISH        "Vote commands are:"
+LANG_SPANISH        "Los comandos de votación son:"
+
+REFERENCE           INVALIDGAMETYPE
+LANG_ENGLISH        "Invalid gametype."
+LANG_SPANISH        "Tipo de juego no válido."
+
+REFERENCE           NEXTMAPNOTSET
+LANG_ENGLISH        "nextmap not set."
+LANG_SPANISH        "Siguiente mapa aún no preparado."
+
+REFERENCE           CHEATSNOTENABLED
+LANG_ENGLISH        "Cheats are not enabled on this server."
+LANG_SPANISH        "No se permiten los trucos en este servidor."
+
+REFERENCE           MUSTBEALIVECOMMAND
+LANG_ENGLISH        "You must be alive to use this command."
+LANG_SPANISH        "Debes estar vivo para utilizar este comando."
+
+REFERENCE           USAGE
+LANG_ENGLISH        "usage"
+LANG_SPANISH        "manejo"
+
+REFERENCE           CHANGEDTO
+LANG_ENGLISH        "changed to"
+LANG_SPANISH        "cambiado a"
+
+REFERENCE           SERVER
+LANG_ENGLISH        "Server"
+LANG_SPANISH        "Servidor"
+
+REFERENCE           VOICECHATIGNORED
+LANG_ENGLISH        "VoiceChat ignored"
+LANG_SPANISH        "Ignorado Chat de voz"
+
+REFERENCE           SPAMPROTECT
+LANG_ENGLISH        "Spam Protection"
+LANG_SPANISH        "Protección contra Spam"
+
+REFERENCE           GC_HOLDYOURPOSITION
+LANG_ENGLISH        "Hold your position."
+LANG_SPANISH        "Mantén tu posición."
+
+REFERENCE           GC_HOLDTHISPOSITION
+LANG_ENGLISH        "Hold this position."
+LANG_SPANISH        "Mantén esta posición."
+
+REFERENCE           GC_COMEHERE
+LANG_ENGLISH        "Come here."
+LANG_SPANISH        "Ven aquí."
+
+REFERENCE           GC_COVERME
+LANG_ENGLISH        "Cover me."
+LANG_SPANISH        "Cúbreme."
+
+REFERENCE           GC_GUARDLOCATION
+LANG_ENGLISH        "Guard location."
+LANG_SPANISH        "Guarda el emplazamiento."
+
+REFERENCE           GC_SEARCHDESTROY
+LANG_ENGLISH        "Search and destroy."
+LANG_SPANISH        "Busca y destruye."
+
+REFERENCE           GC_REPORT
+LANG_ENGLISH        "Report."
+LANG_SPANISH        "Informe."
+
+REFERENCE           UNKNOWNCLIENTCOMMAND
+LANG_ENGLISH        "Unknown cmd %s"
+LANG_SPANISH        "Comando desconocido %s"
+
+REFERENCE           GODMODEON
+LANG_ENGLISH        "godmode ON"
+LANG_SPANISH        "mododios ACTIVADO"
+
+REFERENCE           GODMODEOFF
+LANG_ENGLISH        "godmode OFF"
+LANG_SPANISH        "mododios DESACTIVADO"
+
+REFERENCE           NOTARGETON
+LANG_ENGLISH        "notarget ON"
+LANG_SPANISH        "sinblanco ACTIVADO"
+
+REFERENCE           NOTARGETOFF
+LANG_ENGLISH        "notarget OFF"
+LANG_SPANISH        "sinblanco DESACTIVADO"
+
+REFERENCE           NOCLIPON
+LANG_ENGLISH        "noclip ON"
+LANG_SPANISH        "modofantasma ACTIVADO"
+
+REFERENCE           NOCLIPOFF
+LANG_ENGLISH        "noclip OFF"
+LANG_SPANISH        "modofantasma DESACTIVADO"
+
+REFERENCE           UFOON
+LANG_ENGLISH        "ufomode ON"
+LANG_SPANISH        "modoovni ACTIVADO"
+
+REFERENCE           UFOOFF
+LANG_ENGLISH        "ufomode OFF"
+LANG_SPANISH        "modoovni DESACTIVADO"
+
+REFERENCE           VOTEFAILED
+LANG_ENGLISH        "Vote failed."
+LANG_SPANISH        "Votación fallida."
+
+REFERENCE           VOTEPASSED
+LANG_ENGLISH        "Vote passed."
+LANG_SPANISH        "Votación pasada."
+
+REFERENCE           ALLIES
+LANG_ENGLISH        "Allies"
+LANG_SPANISH        "Aliados"
+
+REFERENCE           AXIS
+LANG_ENGLISH        "Axis"
+LANG_SPANISH        "Eje"
+
+REFERENCE           PICKUP_CLIPONLY_AMMO
+LANG_ENGLISH        "Picked up %s ammo"
+LANG_SPANISH        "Has cogido %s munición"
+
+REFERENCE           VOTE_GAMETYPE
+LANG_ENGLISH        "Game Type: %s"
+LANG_SPANISH        "Tipo de juego: %s"
+
+REFERENCE           VOTE_MAPRESTART
+LANG_ENGLISH        "Map Restart"
+LANG_SPANISH        "Mapa Reiniciado"
+
+REFERENCE           VOTE_MAP
+LANG_ENGLISH        "Map: %s"
+LANG_SPANISH        "Mapa: %s"
+
+REFERENCE           VOTE_NEXTMAP
+LANG_ENGLISH        "Next Map"
+LANG_SPANISH        "Siguiente Mapa"
+
+REFERENCE           VOTE_KICK
+LANG_ENGLISH        "Kick Player: %s"
+LANG_SPANISH        "Expulsar Jugador: %s"
+
+REFERENCE           ERR_SAVEGAME_BAD
+LANG_ENGLISH        "Savegame is out-of-date or corrupt."
+LANG_SPANISH        "La partida guardada está fuera de fecha o está corrupta."
+
+REFERENCE           TYPEMAP_NOCHANGE
+LANG_ENGLISH        "Vote would not change Game Type or Map."
+LANG_SPANISH        "La votación no cambiaría el Tipo de Juego ni el Mapa."
+
+REFERENCE           SPECTATOR
+LANG_ENGLISH        "Spectator"
+LANG_SPANISH        "Espectador"
+
+REFERENCE           DEAD
+LANG_ENGLISH        "Dead"
+LANG_SPANISH        "Muerto"
+
+REFERENCE           SAVE_INSUFFICIENT_FREE_DISK
+LANG_ENGLISH        "Insufficient free disk space.\n\nPlease free at least 5mb of free space on game drive."
+LANG_SPANISH        "Espacio libre en disco insuficiente.\n\nPor favor, libera al menos 5 megabytes de espacio en la unidad del juego."
+
+REFERENCE           INACTIVEDROPWARNING
+LANG_ENGLISH        "Warning: You are about to be kicked due to inactivity."
+LANG_SPANISH        "Atención: Vas a ser expulsado del juego debido a tu inactividad."
+
+REFERENCE           DROPPEDFORINACTIVITY
+LANG_ENGLISH        "Kicked from server due to inactivity."
+LANG_SPANISH        "Expulsado del juego por inactividad."
+
+REFERENCE           INVALIDPASSWORD
+LANG_ENGLISH        "Invalid Password."
+LANG_SPANISH        "Contraseña no válida."
+
+
+ENDMARKER
+
+

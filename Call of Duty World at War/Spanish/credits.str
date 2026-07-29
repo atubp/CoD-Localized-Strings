@@ -1,0 +1,2701 @@
+// Dumped from fastfile "credits".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CREDITS_MARK_SORIANO
+LANG_ENGLISH        "Mark Soriano"
+
+REFERENCE           CREDITS_RUSSIAN_VOICE_OVER
+LANG_ENGLISH        "Russian Voice Over"
+
+REFERENCE           CREDITS_BARRY_KEHOE
+LANG_ENGLISH        "BARRY KEHOE"
+
+REFERENCE           CREDITS_PRODUCTION
+LANG_ENGLISH        "Production"
+
+REFERENCE           CREDITS_BARRY_WHITNEY
+LANG_ENGLISH        "Barry Whitney"
+
+REFERENCE           CREDITS_PAT_DWYER
+LANG_ENGLISH        "Pat Dwyer"
+
+REFERENCE           CREDITS_ANTHONY_ROCHA
+LANG_ENGLISH        "Anthony Rocha"
+
+REFERENCE           CREDITS_ADDITIONAL_ENGINEERING
+LANG_ENGLISH        "Additional Engineering"
+
+REFERENCE           CREDITS_EXECUTIVE_PRODUCER
+LANG_ENGLISH        "Executive Producer"
+
+REFERENCE           CREDITS_JEFF_KALTREIDER
+LANG_ENGLISH        "Jeff Kaltreider"
+
+REFERENCE           CREDITS_BEN_MULLER
+LANG_ENGLISH        "   Ben Muller              Demetrius Hoston        Brian Casillas  "
+
+REFERENCE           CREDITS_WILLIAM_SALYERS
+LANG_ENGLISH        "William Salyers"
+
+REFERENCE           CREDITS_DAN_LAUFER
+LANG_ENGLISH        "Dan Laufer"
+
+REFERENCE           CREDITS_PRODUCERS
+LANG_ENGLISH        "Producers"
+
+REFERENCE           CREDITS_KENT_DRAEGER
+LANG_ENGLISH        "Kent Draeger"
+
+REFERENCE           CREDITS_TODD_SUTTON
+LANG_ENGLISH        "Todd Sutton"
+
+REFERENCE           CREDITS_SENIOR_PRODUCER
+LANG_ENGLISH        "Senior Producer"
+
+REFERENCE           CREDITS_KEITH_FERGUSON
+LANG_ENGLISH        "Keith Ferguson"
+
+REFERENCE           CREDITS_ASSOCIATE_PRODUCERS
+LANG_ENGLISH        "Associate Producers"
+
+REFERENCE           CREDITS_PRODUCER
+LANG_ENGLISH        "Producer"
+
+REFERENCE           CREDITS_HARJINDER_SINGH
+LANG_ENGLISH        "Harjinder Singh"
+
+REFERENCE           CREDITS_MILES_LESLIE
+LANG_ENGLISH        "Miles Leslie"
+
+REFERENCE           CREDITS_CLEVE_CHENG
+LANG_ENGLISH        "Cleve Cheng"
+
+REFERENCE           CREDITS_GERMAN_TRANSLATOR
+LANG_ENGLISH        "German Translator"
+
+REFERENCE           CREDITS_JESSE_BOOTH
+LANG_ENGLISH        "Jesse Booth"
+
+REFERENCE           CREDITS_DANIEL_BUNTING
+LANG_ENGLISH        "Daniel Bunting"
+
+REFERENCE           CREDITS_TRG_SUBMISSIONS_LEAD
+LANG_ENGLISH        "TRG Submissions Lead"
+
+REFERENCE           CREDITS_JASON_MCCORD
+LANG_ENGLISH        "Jason McCord"
+
+REFERENCE           CREDITS_LEI_HU
+LANG_ENGLISH        "Lei Hu"
+
+REFERENCE           CREDITS_TRISTEN_SAKURADA
+LANG_ENGLISH        "TRISTEN SAKURADA"
+
+REFERENCE           CREDITS_MARWAN_ABDERRAZZAQ
+LANG_ENGLISH        "Marwan Abderrazzaq"
+
+REFERENCE           CREDITS_DIRECTOR_QUALITY_ASSURANCE
+LANG_ENGLISH        "Director, Quality Assurance"
+
+REFERENCE           CREDITS_SHANE_SASAKI
+LANG_ENGLISH        "Shane Sasaki"
+
+REFERENCE           CREDITS_PROJECT_LEAD_ENGINEER
+LANG_ENGLISH        "Project Lead Engineer"
+
+REFERENCE           CREDITS_JOHN_DEHART
+LANG_ENGLISH        "John DeHart"
+
+REFERENCE           CREDITS_WRITING_CONSULTANT
+LANG_ENGLISH        "Writing Consultant"
+
+REFERENCE           CREDITS_MY_WU
+LANG_ENGLISH        "My Wu"
+
+REFERENCE           CREDITS_DIRECTOR_OF_OPERATIONS
+LANG_ENGLISH        "Director of Operations"
+
+REFERENCE           CREDITS_QA_NETWORK_LAB
+LANG_ENGLISH        "QA NETWORK LAB"
+
+REFERENCE           CREDITS_DIARMAID_ROCHE
+LANG_ENGLISH        "Diarmaid Roche"
+
+REFERENCE           CREDITS_JEREMY_RICHARDS
+LANG_ENGLISH        "Jeremy Richards"
+
+REFERENCE           CREDITS_JOHN_SHUBERT
+LANG_ENGLISH        "John Shubert"
+
+REFERENCE           CREDITS_YANBING_CHEN
+LANG_ENGLISH        "Yanbing Chen"
+
+REFERENCE           CREDITS_CLAIRE_MITCHELL
+LANG_ENGLISH        "Claire Mitchell"
+
+REFERENCE           CREDITS_ENGINEERING_INTERNS
+LANG_ENGLISH        "Engineering Interns"
+
+REFERENCE           CREDITS_HIRO_ABE
+LANG_ENGLISH        "Hiro Abe"
+
+REFERENCE           CREDITS_SCOTT_BORAKOVE
+LANG_ENGLISH        "SCOTT BORAKOVE"
+
+REFERENCE           CREDITS_GUY_SILLIMAN
+LANG_ENGLISH        "Guy Silliman"
+
+REFERENCE           CREDITS_ROBERT_SANCHEZ
+LANG_ENGLISH        "Robert Sanchez"
+
+REFERENCE           CREDITS_PAT_GRIFFITH
+LANG_ENGLISH        "PAT GRIFFITH"
+
+REFERENCE           CREDITS_JUNIOR_PUBLICIST
+LANG_ENGLISH        "Junior Publicist"
+
+REFERENCE           CREDITS_KAREN_STARR
+LANG_ENGLISH        "KAREN STARR"
+
+REFERENCE           CREDITS_RAPHAEL_COLANTONIO
+LANG_ENGLISH        "Raphael Colantonio"
+
+REFERENCE           CREDITS_JAMES_MCCAWLEY
+LANG_ENGLISH        "James McCawley"
+
+REFERENCE           CREDITS_BRENT_TODA
+LANG_ENGLISH        "Brent Toda"
+
+REFERENCE           CREDITS_COLIN_WHITNEY
+LANG_ENGLISH        "Colin Whitney"
+
+REFERENCE           CREDITS_MONICA_TEMPERLY
+LANG_ENGLISH        "Monica Temperly"
+
+REFERENCE           CREDITS_WILL_KATZ
+LANG_ENGLISH        "Will Katz"
+
+REFERENCE           CREDITS_PRODUCTION_COORDINATORS
+LANG_ENGLISH        "Production Coordinators"
+
+REFERENCE           CREDITS_ASSISTANT_BUILD_MANAGER
+LANG_ENGLISH        "Assistant Build Manager"
+
+REFERENCE           CREDITS_TYLER_SPARKS
+LANG_ENGLISH        "Tyler Sparks"
+
+REFERENCE           CREDITS_EMILIE_A_BERNSTIEN
+LANG_ENGLISH        "Emilie A. Bernstien"
+
+REFERENCE           CREDITS_QA_CRG_PROJECT_LEAD
+LANG_ENGLISH        "QA-CRG Acting Project Lead"
+
+REFERENCE           CREDITS_RYAN_GAINES
+LANG_ENGLISH        "Ryan Gaines"
+
+REFERENCE           CREDITS_BUILD_MANAGER
+LANG_ENGLISH        "Build Manager"
+
+REFERENCE           CREDITS_ADDITIONAL_PRODUCTION_SUPPORT
+LANG_ENGLISH        "Additional Production Support"
+
+REFERENCE           CREDITS_LUCAS_SEIBERT
+LANG_ENGLISH        "Lucas Seibert"
+
+REFERENCE           CREDITS_RICHARD_MITTON
+LANG_ENGLISH        "Richard Mitton"
+
+REFERENCE           CREDITS_RECORDING_STUDIOS
+LANG_ENGLISH        "Recording Studios"
+
+REFERENCE           CREDITS_GEOFFREY_NG
+LANG_ENGLISH        "Geoffrey Ng"
+
+REFERENCE           CREDITS_SENIOR_LEAD_DATABASE_ADMINISTRATOR
+LANG_ENGLISH        "Senior Lead Database Administrator"
+
+REFERENCE           CREDITS_MIKE_MANTARRO
+LANG_ENGLISH        "Mike Mantarro"
+
+REFERENCE           CREDITS_JOEL_KU
+LANG_ENGLISH        "Joel Ku"
+
+REFERENCE           CREDITS_LEO_ZIDE
+LANG_ENGLISH        "Leo Zide"
+
+REFERENCE           CREDITS_ENGINEERING
+LANG_ENGLISH        "Engineering"
+
+REFERENCE           CREDITS_CHRIS_YONG
+LANG_ENGLISH        " Chris Yong               Chris Getman             TJ Storm  "
+
+REFERENCE           CREDITS_PROJECT_TECHNICAL_DIRECTOR
+LANG_ENGLISH        "Project Technical Director"
+
+REFERENCE           CREDITS_TIM_CZERNIAK
+LANG_ENGLISH        "      Tim Czerniak             Brendan Dillon           Malcolm Dowse     "
+
+REFERENCE           CREDITS_NADINE_THEUZILLOT
+LANG_ENGLISH        "NADINE THEUZILLOT"
+
+REFERENCE           CREDITS_DAVID_KING
+LANG_ENGLISH        "David King"
+
+REFERENCE           CREDITS_PRODUCTION_TEST_MANAGER
+LANG_ENGLISH        "Production Test Manager"
+
+REFERENCE           CREDITS_SENIOR_DIRECTOR_OF_TECHNOLOGY_ONLINE
+LANG_ENGLISH        "Senior Director of Technology, Online"
+
+REFERENCE           CREDITS_DBA_SENIOR_TESTERS
+LANG_ENGLISH        "DBA Senior Testers"
+
+REFERENCE           CREDITS_SENIOR_ENGINEERS
+LANG_ENGLISH        "Senior Engineers"
+
+REFERENCE           CREDITS_LOCALIZATION_COORDINATORS
+LANG_ENGLISH        "Localization Co-ordinators"
+
+REFERENCE           CREDITS_SERGIO_GONZALEZ_MONROY
+LANG_ENGLISH        "                Stephen Lowry         Lara Sola Gallego      Luis Hernandez Dalmau    "
+
+REFERENCE           CREDITS_JOHN_BOJORQUEZ
+LANG_ENGLISH        "JOHN BOJORQUEZ"
+
+REFERENCE           CREDITS_RECORDED_AT_BARRANDOV_SMECKY
+LANG_ENGLISH        "Recorded at Barrandov Studios - Smecky Music Studios"
+
+REFERENCE           CREDITS_MARC_VILLANUEVA
+LANG_ENGLISH        "MARC VILLANUEVA"
+
+REFERENCE           CREDITS_TECHNICAL_DIRECTORS_COOP
+LANG_ENGLISH        "Technical Directors, Co-op"
+
+REFERENCE           CREDITS_SCOTT_BEAN
+LANG_ENGLISH        "Scott Bean"
+
+REFERENCE           CREDITS_RODRIGO_MORA
+LANG_ENGLISH        "Rodrigo Mora"
+
+REFERENCE           CREDITS_THE_SLICE
+LANG_ENGLISH        "The Slice"
+
+REFERENCE           CREDITS_AUSTIN_KRAUSS
+LANG_ENGLISH        "Austin Krauss"
+
+REFERENCE           CREDITS_GAVIN_JAMES
+LANG_ENGLISH        "Gavin James"
+
+REFERENCE           CREDITS_WORLD_AT_WAR_REMIX
+LANG_ENGLISH        "World at War Remix"
+
+REFERENCE           CREDITS_TREVOR_WALKER
+LANG_ENGLISH        "Trevor Walker"
+
+REFERENCE           CREDITS_ROSE_VILLASENOR
+LANG_ENGLISH        "Rose Villasenor"
+
+REFERENCE           CREDITS_DANIEL_ALFARO_PLUS
+LANG_ENGLISH        "        Daniel Alfaro          Jonathan Apalit       Fernando Arteaga     "
+
+REFERENCE           CREDITS_LUKE_BURDEN
+LANG_ENGLISH        "   Luke Burden                Aaron Burt              Michael Collins  "
+
+REFERENCE           CREDITS_LEAD_ENGINEER_ONLINE
+LANG_ENGLISH        "Lead Engineer, Online"
+
+REFERENCE           CREDITS_JAMES_SNIDER
+LANG_ENGLISH        "James Snider"
+
+REFERENCE           CREDITS_ADDITIONAL_ARTWORK
+LANG_ENGLISH        "Additional Artwork"
+
+REFERENCE           CREDITS_TALENT_MANAGER
+LANG_ENGLISH        "Talent Manager"
+
+REFERENCE           CREDITS_ALEX_CONSERVA
+LANG_ENGLISH        "Alexander Conserva"
+
+REFERENCE           CREDITS_CONCEPT_ARTIST
+LANG_ENGLISH        "Concept Artist"
+
+REFERENCE           CREDITS_JIVKO_VELEV
+LANG_ENGLISH        "Jivko Velev"
+
+REFERENCE           CREDITS_JOHANN_LY
+LANG_ENGLISH        "Johann Ly"
+
+REFERENCE           CREDITS_AUDIO_ENGINEER
+LANG_ENGLISH        "Audio Engineer"
+
+REFERENCE           CREDITS_ENGINEERS
+LANG_ENGLISH        "Engineers"
+
+REFERENCE           CREDITS_SCOTT_ECKERT
+LANG_ENGLISH        "Scott Eckert"
+
+REFERENCE           CREDITS_THOMAS_KEEGAN
+LANG_ENGLISH        "Thomas Keegan"
+
+REFERENCE           CREDITS_BRYCE_MERCADO
+LANG_ENGLISH        "Bryce Mercado"
+
+REFERENCE           CREDITS_USES_BINK_VIDEO_COPYRIGHT
+LANG_ENGLISH        "Uses Bink Video. Copyright © 1997-2008 by RAD Game Tools, Inc."
+
+REFERENCE           CREDITS_BURN_ROOM_TECHNICIANS
+LANG_ENGLISH        "Burn Room Technicians"
+
+REFERENCE           CREDITS_CLARENCE_BELL
+LANG_ENGLISH        "Clarence Bell"
+
+REFERENCE           CREDITS_EVAN_BUTTON
+LANG_ENGLISH        "Botón EVAN"
+
+REFERENCE           CREDITS_BHARATHWAJ_NANDAKUMAR
+LANG_ENGLISH        "Bharathwaj Nandakumar"
+
+REFERENCE           CREDITS_MATTHEW_FAWBUSH
+LANG_ENGLISH        "MATTHEW FAWBUSH"
+
+REFERENCE           CREDITS_TED_SPIEGEL
+LANG_ENGLISH        "Ted Spiegel"
+
+REFERENCE           CREDITS_CALEB_SCHNEIDER
+LANG_ENGLISH        "Caleb Schneider"
+
+REFERENCE           CREDITS_GIL_DORAN
+LANG_ENGLISH        "Gil Doron"
+
+REFERENCE           CREDITS_JULIO_DEAN_
+LANG_ENGLISH        "Julio Dean "
+
+REFERENCE           CREDITS_ISABELLE_DECENCIERE
+LANG_ENGLISH        "Isabelle Decenciere"
+
+REFERENCE           CREDITS_GEORGE_WALKER_PLUS
+LANG_ENGLISH        "    George Walker             David Watters              Taylor West      "
+
+REFERENCE           CREDITS_JUNIOR_ENGINEER
+LANG_ENGLISH        "Junior Engineer"
+
+REFERENCE           CREDITS_COLM_NELSON
+LANG_ENGLISH        "     Colm Nelson                Brian Bearly            Brad Jeansonne  "
+
+REFERENCE           CREDITS_KIRT_SANCHEZ
+LANG_ENGLISH        "KIRT SANCHEZ"
+
+REFERENCE           CREDITS_PETER_LIVINGSTONE
+LANG_ENGLISH        "Peter Livingstone"
+
+REFERENCE           CREDITS_ADDITIONAL_DEVELOPMENT
+LANG_ENGLISH        "ADDITIONAL DEVELOPMENT"
+
+REFERENCE           CREDITS_MARIA_BAROT
+LANG_ENGLISH        "Maria Barot"
+
+REFERENCE           CREDITS_PENNY_CHOCK
+LANG_ENGLISH        "Penny Chock"
+
+REFERENCE           CREDITS_STEPHEN_MCCAUL
+LANG_ENGLISH        "Stephen McCaul"
+
+REFERENCE           CREDITS_JAY_MATTIS
+LANG_ENGLISH        "Jay Mattis"
+
+REFERENCE           CREDITS_JUAN_MORELLI
+LANG_ENGLISH        "Juan Morelli"
+
+REFERENCE           CREDITS_LEAD_DATABASE_ADMINISTRATOR
+LANG_ENGLISH        "Lead Database Administrator"
+
+REFERENCE           CREDITS_SENIOR_IT_MANAGER
+LANG_ENGLISH        "Senior IT Manager"
+
+REFERENCE           CREDITS_JED_ADAMS
+LANG_ENGLISH        "Jed Adams"
+
+REFERENCE           CREDITS_SEAN_PEOTTER_PLUS
+LANG_ENGLISH        "     Sean M. Peotter             Philip Perales         Soukha Phimpasouk "
+
+REFERENCE           CREDITS_MIKE_ANTHONY
+LANG_ENGLISH        "Mike Anthony"
+
+REFERENCE           CREDITS_BRIAN_BLUMENKOPF
+LANG_ENGLISH        "Bryan Blumenkopf"
+
+REFERENCE           CREDITS_WOMB_MUSIC
+LANG_ENGLISH        "Womb Music"
+
+REFERENCE           CREDITS_PISOTH_CHHAM
+LANG_ENGLISH        "PISOTH CHHAM"
+
+REFERENCE           CREDITS_WADE_BRAINERD
+LANG_ENGLISH        "Wade Brainerd"
+
+REFERENCE           CREDITS_BRIAN_HUGHES
+LANG_ENGLISH        "Brian Hughes"
+
+REFERENCE           CREDITS_TRAVIS_STANBURY
+LANG_ENGLISH        "Travis Stanbury"
+
+REFERENCE           CREDITS_ADAM_DEMERS
+LANG_ENGLISH        "Adam Demers"
+
+REFERENCE           CREDITS_MARTIN_DONLON
+LANG_ENGLISH        "Martin Donlon"
+
+REFERENCE           CREDITS_CENTRAL_DESIGN
+LANG_ENGLISH        "Central Design"
+
+REFERENCE           CREDITS_PAUL_EDELSTEIN
+LANG_ENGLISH        "Paul Edelstein"
+
+REFERENCE           CREDITS_PAUL_SANDLER
+LANG_ENGLISH        "Paul Sandler"
+
+REFERENCE           CREDITS_LOUDVIK_AKOPYAN
+LANG_ENGLISH        "Loudvik Akopyan"
+
+REFERENCE           CREDITS_EDDIE_FERNANDO_ARAUJO
+LANG_ENGLISH        "Eddie Fernando Araujo"
+
+REFERENCE           CREDITS_JON_EDWARDS
+LANG_ENGLISH        "Jon Edwards"
+
+REFERENCE           CREDITS_ADDITIONAL_DESIGN
+LANG_ENGLISH        "Additional Design"
+
+REFERENCE           CREDITS_JASON_KEENEY
+LANG_ENGLISH        "Jason Keeney"
+
+REFERENCE           CREDITS_LEAD_EFFECTS_ARTIST
+LANG_ENGLISH        "Lead Effects Artist"
+
+REFERENCE           CREDITS_MATT_KIMBERLING
+LANG_ENGLISH        "Matthew Kimberling"
+
+REFERENCE           CREDITS_MARK_MURAKAMI
+LANG_ENGLISH        "Mark Murakami"
+
+REFERENCE           CREDITS_ANTHONY_DOE
+LANG_ENGLISH        "Anthony Doe"
+
+REFERENCE           CREDITS_BRIAN_BAKER
+LANG_ENGLISH        "Brian Baker"
+
+REFERENCE           CREDITS_SEMPER_FI
+LANG_ENGLISH        "Semper Fi"
+
+REFERENCE           CREDITS_JOHAN_KOHLER
+LANG_ENGLISH        "Johan Kohler"
+
+REFERENCE           CREDITS_JUNIOR_LEVEL_BUILDERS
+LANG_ENGLISH        "Junior Level Builders"
+
+REFERENCE           CREDITS_MATT_RYAN
+LANG_ENGLISH        "MATT RYAN"
+
+REFERENCE           CREDITS_WAYNE_WILLIAMS
+LANG_ENGLISH        "Wayne Williams"
+
+REFERENCE           CREDITS_DEAN_KUSLER
+LANG_ENGLISH        "Dean Kusler"
+
+REFERENCE           CREDITS_JON_DELODDER
+LANG_ENGLISH        "JON DELODDER"
+
+REFERENCE           CREDITS_JON_MENZIES
+LANG_ENGLISH        "Jon Menzies"
+
+REFERENCE           CREDITS_JOE_NUGENT
+LANG_ENGLISH        "Joe Nugent"
+
+REFERENCE           CREDITS_EWAN_OUGHTON
+LANG_ENGLISH        "Ewan Oughton"
+
+REFERENCE           CREDITS_SGT_ROEBUCK
+LANG_ENGLISH        "Sgt. Roebuck"
+
+REFERENCE           CREDITS_BOOKER_WHITE
+LANG_ENGLISH        "Booker White"
+
+REFERENCE           CREDITS_VALERA_PELOVA
+LANG_ENGLISH        "Valeria Pelova"
+
+REFERENCE           CREDITS_JERRY_BERLONGIERI
+LANG_ENGLISH        "Jerry Berlongieri"
+
+REFERENCE           CREDITS_RHONDA_RAMIREZ
+LANG_ENGLISH        "RHONDA RAMIREZ"
+
+REFERENCE           CREDITS_JOE_SCHEINBERG
+LANG_ENGLISH        "Joe Scheinberg"
+
+REFERENCE           CREDITS_BRIAN_MARTIN
+LANG_ENGLISH        "Brian Martin"
+
+REFERENCE           CREDITS_MANAGER_CENTRAL_USER_TESTING
+LANG_ENGLISH        "Manager, Central User Testing"
+
+REFERENCE           CREDITS_DIMITER_MALKIA_STANEV
+LANG_ENGLISH        "Dimiter \"Malkia\" Stanev"
+
+REFERENCE           CREDITS_NICHOLAS_RIOS_PLUS
+LANG_ENGLISH        "     Nicholas Rios             Lamar Robinson           Anthony Rubin    "
+
+REFERENCE           CREDITS_KRASSIMIR_TOUEVSKY
+LANG_ENGLISH        "Krassimir Touevsky"
+
+REFERENCE           CREDITS_ADAM_REYNOLDS
+LANG_ENGLISH        "Adam Reynolds"
+
+REFERENCE           CREDITS_MIKE_UHLIK
+LANG_ENGLISH        "Mike Uhlik"
+
+REFERENCE           CREDITS_DAVID_BULLAT_II
+LANG_ENGLISH        "David Bullat II"
+
+REFERENCE           CREDITS_AUDIO
+LANG_ENGLISH        "Audio"
+
+REFERENCE           CREDITS_ERAN_RICH
+LANG_ENGLISH        "Eran Rich"
+
+REFERENCE           CREDITS_AUDIO_DIRECTOR
+LANG_ENGLISH        "Audio Director"
+
+REFERENCE           CREDITS_BRIAN_TUEY
+LANG_ENGLISH        "Brian Tuey"
+
+REFERENCE           CREDITS_CLINTON_ACKERMAN
+LANG_ENGLISH        "Clinton Ackerman"
+
+REFERENCE           CREDITS_KARA_CORETTE
+LANG_ENGLISH        "Kara Corette"
+
+REFERENCE           CREDITS_SENIOR_SOUND_DESIGNER
+LANG_ENGLISH        "Senior Sound Designer"
+
+REFERENCE           CREDITS_VP_OWNED_PROPERTIES
+LANG_ENGLISH        "VP, Owned Properties"
+
+REFERENCE           CREDITS_LA_VONCE_ERVIN
+LANG_ENGLISH        "La Vonce Ervin               Colin Tistaert            Zachary Blough"
+
+REFERENCE           CREDITS_CASTING_AND_VOICE_DIRECTION
+LANG_ENGLISH        "Casting and Voice Direction"
+
+REFERENCE           CREDITS_GARY_SPINRAD
+LANG_ENGLISH        "Gary Spinrad"
+
+REFERENCE           CREDITS_STEVEN_WRUBLEVSKI
+LANG_ENGLISH        " Steven Wrublevski         Justin Goldstein         Dillon Chance   "
+
+REFERENCE           CREDITS_SOUND_DESIGNERS
+LANG_ENGLISH        "Sound Designers"
+
+REFERENCE           CREDITS_BENJAMIN_ABEL
+LANG_ENGLISH        "Benjamin Abel"
+
+REFERENCE           CREDITS_KEVIN_SHERWOOD
+LANG_ENGLISH        "Kevin Sherwood"
+
+REFERENCE           CREDITS_TODD_MUELLER
+LANG_ENGLISH        "Todd Mueller"
+
+REFERENCE           CREDITS_COLLIN_AYERS
+LANG_ENGLISH        "Collin Ayers"
+
+REFERENCE           CREDITS_JAMES_FITZPATRICK_TADLOW_MUSIC
+LANG_ENGLISH        "James Fitzpatrick - Tadlow Music"
+
+REFERENCE           CREDITS_BRIAN_DOUGLAS
+LANG_ENGLISH        "Brian Douglas"
+
+REFERENCE           CREDITS_TABITHA_HAYES
+LANG_ENGLISH        "TABITHA HAYES"
+
+REFERENCE           CREDITS_TIMOTHY_TOLEDO
+LANG_ENGLISH        "TIMOTHY TOLEDO"
+
+REFERENCE           CREDITS_ADDITIONAL_SOUND_DESIGN
+LANG_ENGLISH        "Additional Sound Design"
+
+REFERENCE           CREDITS_AUDIO_PRODUCTION_TESTER
+LANG_ENGLISH        "Audio Production Tester"
+
+REFERENCE           CREDITS_BORIS_KIEVSKY
+LANG_ENGLISH        "Boris Kievsky"
+
+REFERENCE           CREDITS_ADDITIONAL_AUDIO_SUPPORT
+LANG_ENGLISH        "Additional Audio Support"
+
+REFERENCE           CREDITS_AMERICAN_VOICE_OVER
+LANG_ENGLISH        "American Voice Over"
+
+REFERENCE           CREDITS_LEAH_SMITH
+LANG_ENGLISH        "Leah Smith"
+
+REFERENCE           CREDITS_QA_DATABASE_MANAGER
+LANG_ENGLISH        "QA Database Manager"
+
+REFERENCE           CREDITS_JULIA_BIANCO
+LANG_ENGLISH        "Julia Bianco"
+
+REFERENCE           CREDITS_ARKANE_STUDIOS
+LANG_ENGLISH        "Arkane Studios"
+
+REFERENCE           CREDITS_DESIGN
+LANG_ENGLISH        "DESIGN"
+
+REFERENCE           CREDITS_ADAM_HOGGATT
+LANG_ENGLISH        "Adam Hoggatt"
+
+REFERENCE           CREDITS_CREATIVE_DIRECTOR
+LANG_ENGLISH        "Creative Director"
+
+REFERENCE           CREDITS_RICHARD_FARRELLY
+LANG_ENGLISH        "Richard Farrelly"
+
+REFERENCE           CREDITS_CHRIS_REINHART
+LANG_ENGLISH        "Chris Reinhart"
+
+REFERENCE           CREDITS_STORY_AND_SCRIPT
+LANG_ENGLISH        "Story and Script"
+
+REFERENCE           CREDITS_LEAD_GAME_DESIGNERS
+LANG_ENGLISH        "Lead Game Designers"
+
+REFERENCE           CREDITS_WILLIAM_LOWTHER_PLUS
+LANG_ENGLISH        "    William Lowther            Mike Madden             Jorge Marin       "
+
+REFERENCE           CREDITS_DESIGN_DIRECTOR_MULTIPLAYER
+LANG_ENGLISH        "Design Director, Multiplayer"
+
+REFERENCE           CREDITS_JOHN_SHIRKEY
+LANG_ENGLISH        "John Shirkey"
+
+REFERENCE           CREDITS_DAVID_VONDERHAAR
+LANG_ENGLISH        "David Vonderhaar"
+
+REFERENCE           CREDITS_JEREMY_LUYTIES
+LANG_ENGLISH        "Jeremy Luyties"
+
+REFERENCE           CREDITS_JESSE_SNYDER
+LANG_ENGLISH        "Jesse Snyder"
+
+REFERENCE           CREDITS_NICK_TRUTANIC
+LANG_ENGLISH        "Nick Trutanic"
+
+REFERENCE           CREDITS_LEAD_LEVEL_SCRIPTER
+LANG_ENGLISH        "Lead Level Scripter"
+
+REFERENCE           CREDITS_ALBERT_LEE
+LANG_ENGLISH        "Albert lee"
+
+REFERENCE           CREDITS_MIKE_DENNY
+LANG_ENGLISH        "Mike Denny"
+
+REFERENCE           CREDITS_MIKE_ANDEN
+LANG_ENGLISH        "    Mike Anden             Ernesto Constantino         David Rodela     "
+
+REFERENCE           CREDITS_WILL_KASSOY
+LANG_ENGLISH        "WILL KASSOY"
+
+REFERENCE           CREDITS_SENIOR_LEVEL_SCRIPTERS
+LANG_ENGLISH        "Senior Level Scripters"
+
+REFERENCE           CREDITS_QA_MANAGER_DAY_SHIFT
+LANG_ENGLISH        "QA Manager, Day Shift"
+
+REFERENCE           CREDITS_GAVIN_LOCKE
+LANG_ENGLISH        "Gavin Locke"
+
+REFERENCE           CREDITS_PROVIDED_BY_STEPHANIE_DEMING
+LANG_ENGLISH        "Provided by Stephanie Deming & XLOC, Inc."
+
+REFERENCE           CREDITS_SEAN_SLAYBACK
+LANG_ENGLISH        "Sean Slayback"
+
+REFERENCE           CREDITS_VEHICLE_WEAPON_ARTISTS
+LANG_ENGLISH        "Vehicle / Weapon Artists"
+
+REFERENCE           CREDITS_RYAN_RIGG
+LANG_ENGLISH        "Ryan Rigg"
+
+REFERENCE           CREDITS_JANE_ELMS
+LANG_ENGLISH        "Jane Elms"
+
+REFERENCE           CREDITS_LEVEL_SCRIPTERS
+LANG_ENGLISH        "Level Scripters"
+
+REFERENCE           CREDITS_ANTHONY_FLAMER
+LANG_ENGLISH        "Anthony Flamer"
+
+REFERENCE           CREDITS_MASAAKI_KAWAKUBO
+LANG_ENGLISH        "Masaaki Kawakubo"
+
+REFERENCE           CREDITS_DOMINICK_GUZZO
+LANG_ENGLISH        "Dominick Guzzo"
+
+REFERENCE           CREDITS_DANIEL_GOULD_PLUS
+LANG_ENGLISH        "  Daniel Gould                 Lee Irvin                Travis Janssen   "
+
+REFERENCE           CREDITS_RUSTY_GYGAX
+LANG_ENGLISH        "Rusty Gygax"
+
+REFERENCE           CREDITS_EIJI_INOUE
+LANG_ENGLISH        "Eiji Inoue"
+
+REFERENCE           CREDITS_SUMEET_JAKATDAR
+LANG_ENGLISH        "Sumeet Jakatdar"
+
+REFERENCE           CREDITS_BRYAN_JOYAL
+LANG_ENGLISH        "Bryan Joyal"
+
+REFERENCE           CREDITS_ALEX_LIU
+LANG_ENGLISH        "Alex Liu"
+
+REFERENCE           CREDITS_SPOV_LTD
+LANG_ENGLISH        "SPOV LTD"
+
+REFERENCE           CREDITS_MARK_SMITH
+LANG_ENGLISH        "Mark Smith"
+
+REFERENCE           CREDITS_CHRIS_PIERRO
+LANG_ENGLISH        "Chris Pierro"
+
+REFERENCE           CREDITS_MUSIC_PREPARATIONS
+LANG_ENGLISH        "Music Preparations"
+
+REFERENCE           CREDITS_BRIAN_BENSI
+LANG_ENGLISH        "Brian Bensi"
+
+REFERENCE           CREDITS_LEOPOLDO_GRIEGO
+LANG_ENGLISH        "Leopoldo Griego"
+
+REFERENCE           CREDITS_JUNIOR_LEVEL_SCRIPTERS
+LANG_ENGLISH        "Junior Level Scripters"
+
+REFERENCE           CREDITS_POKEE_CHAN
+LANG_ENGLISH        "Pokee Chan"
+
+REFERENCE           CREDITS_DAMOUN_SHABESTARI
+LANG_ENGLISH        "Damoun Shabestari"
+
+REFERENCE           CREDITS_JEREMY_DUNN
+LANG_ENGLISH        "    Jeremy Dunn               Alex Chansky           Shaun Piccinino "
+
+REFERENCE           CREDITS_MILITARY_ADVISOR
+LANG_ENGLISH        "Military Advisor"
+
+REFERENCE           CREDITS_ANTHONY_RUIZ
+LANG_ENGLISH        " Anthony Ruiz                Armando Acosta           Miguel Reyes "
+
+REFERENCE           CREDITS_LEAD_LEVEL_BUILDERS
+LANG_ENGLISH        "Lead Level Builders"
+
+REFERENCE           CREDITS_DANIEL_GERMANN
+LANG_ENGLISH        "Daniel Germann"
+
+REFERENCE           CREDITS_CHRISTOPHER_DIONNE
+LANG_ENGLISH        "Christopher Dionne"
+
+REFERENCE           CREDITS_ADAM_GASCOINE
+LANG_ENGLISH        "Adam Gascoine"
+
+REFERENCE           CREDITS_SENIOR_LEVEL_BUILDERS
+LANG_ENGLISH        "Senior Level Builders"
+
+REFERENCE           CREDITS_JEFF_ZARING
+LANG_ENGLISH        "Jeff Zaring"
+
+REFERENCE           CREDITS_JOSEPH_YBARRA
+LANG_ENGLISH        " Joseph Ybarra"
+
+REFERENCE           CREDITS_TALENT_AUDIO_MANAGEMENT_GROUP
+LANG_ENGLISH        "TALENT & AUDIO MANAGEMENT GROUP"
+
+REFERENCE           CREDITS_LEVEL_BUILDERS
+LANG_ENGLISH        "Level Builders"
+
+REFERENCE           CREDITS_JARED_DICKINSON
+LANG_ENGLISH        "Jared Dickinson"
+
+REFERENCE           CREDITS_JEREMY_STATZ
+LANG_ENGLISH        "Jeremy Statz"
+
+REFERENCE           CREDITS_JASON_SCHOONOVER
+LANG_ENGLISH        "Jason Schoonover"
+
+REFERENCE           CREDITS_JAN_HOLZNER
+LANG_ENGLISH        "Jan Holzner"
+
+REFERENCE           CREDITS_BRANDON_SOUDERS
+LANG_ENGLISH        "Brandon Souders"
+
+REFERENCE           CREDITS_AP_PC
+LANG_ENGLISH        "Associate Producer, PC Team"
+
+REFERENCE           CREDITS_PHILIP_TASKER
+LANG_ENGLISH        "Philip Tasker"
+
+REFERENCE           CREDITS_CHRIS_COSBY
+LANG_ENGLISH        "Chris Cosby"
+
+REFERENCE           CREDITS_IAN_KOWALSKI
+LANG_ENGLISH        "Ian Kowalski"
+
+REFERENCE           CREDITS_DESIGN_ASSISTANT
+LANG_ENGLISH        "Design Assistant"
+
+REFERENCE           CREDITS_KORNELIA_TAKACS
+LANG_ENGLISH        "Kornelia Takacs"
+
+REFERENCE           CREDITS_MARCUS_DIXON_PLUS
+LANG_ENGLISH        "      Marcus Dixon           Steven Eldredge           Brad Ewing        "
+
+REFERENCE           CREDITS_PAUL_GOLDING
+LANG_ENGLISH        "Paul Golding"
+
+REFERENCE           CREDITS_CRAIG_SCHILLER
+LANG_ENGLISH        "Craig Schiller"
+
+REFERENCE           CREDITS_ADDITONAL_CREATIVE_DIRECTION
+LANG_ENGLISH        "Additional Creative Direction"
+
+REFERENCE           CREDITS_DOUG_GUANLAO
+LANG_ENGLISH        "Doug Guanlao"
+
+REFERENCE           CREDITS_JONATHAN_MACK
+LANG_ENGLISH        "Jonathan Mack"
+
+REFERENCE           CREDITS_JOEY_TERREBONNE
+LANG_ENGLISH        "Joey Terrebonne"
+
+REFERENCE           CREDITS_MIKE_AMERSON
+LANG_ENGLISH        "    Wayne Richardson   "
+
+REFERENCE           CREDITS_STEPHEN_LOWRY
+LANG_ENGLISH        "    Sergio Gonzalez Monroy   "
+
+REFERENCE           CREDITS_ART
+LANG_ENGLISH        "Art"
+
+REFERENCE           CREDITS_ADAM_HARTSFIELD
+LANG_ENGLISH        "Adam Hartsfield"
+
+REFERENCE           CREDITS_ART_DIRECTOR
+LANG_ENGLISH        "Art Director"
+
+REFERENCE           CREDITS_SENIOR_LOCALIZATION_PROJECT_MANAGER
+LANG_ENGLISH        "Senior Localization Project Manager"
+
+REFERENCE           CREDITS_LEAD_ARTIST
+LANG_ENGLISH        "Lead Artist"
+
+REFERENCE           CREDITS_BRIAN_ANDERSON
+LANG_ENGLISH        "Brian Anderson"
+
+REFERENCE           CREDITS_FABIAN_VELASQUEZ_PLUS
+LANG_ENGLISH        "    Fabian Velasquez          Matt Wagner                 Mike Wale       "
+
+REFERENCE           CREDITS_GLOBAL_BRAND_MANAGER
+LANG_ENGLISH        "Global Brand Manager"
+
+REFERENCE           CREDITS_LIGHTING_DIRECTOR
+LANG_ENGLISH        "Lighting Director"
+
+REFERENCE           CREDITS_BLAKE_BOLTON
+LANG_ENGLISH        "Blake Bolton                  William Kelly             Michael Carlile"
+
+REFERENCE           CREDITS_LIGHTING
+LANG_ENGLISH        "Lighting"
+
+REFERENCE           CREDITS_COLIN_FOLLENWEIDER
+LANG_ENGLISH        "      Colin Follenweider      Orlando McGuire        Shaun Charney     "
+
+REFERENCE           CREDITS_GABRIEL_BETACOURT
+LANG_ENGLISH        "Gabriel Betancourt"
+
+REFERENCE           CREDITS_LEAD_TECHNICAL_ARTIST
+LANG_ENGLISH        "Lead Technical Artist"
+
+REFERENCE           CREDITS_VICE_PRESIDENT
+LANG_ENGLISH        "Vice President"
+
+REFERENCE           CREDITS_BRAD_GRACE
+LANG_ENGLISH        "Brad Grace"
+
+REFERENCE           CREDITS_WILLIAM_WHALEY
+LANG_ENGLISH        "WILLIAM WHALEY"
+
+REFERENCE           CREDITS_KENN_HOEKSTRA
+LANG_ENGLISH        "Kenn Hoekstra"
+
+REFERENCE           CREDITS_SENIOR_TECHNICAL_ARTIST
+LANG_ENGLISH        "Senior Technical Artist"
+
+REFERENCE           CREDITS_STEV_KALINOWSKI
+LANG_ENGLISH        "Stev Kalinowski"
+
+REFERENCE           CREDITS_EFFECTS_ARTISTS
+LANG_ENGLISH        "Effects Artists"
+
+REFERENCE           CREDITS_CHRIS_HO
+LANG_ENGLISH        "Chris Ho"
+
+REFERENCE           CREDITS_QUYNH_NGUYEN
+LANG_ENGLISH        "Quinn Nguyen"
+
+REFERENCE           CREDITS_DALE_MULCHAY
+LANG_ENGLISH        "Dale Mulcahy"
+
+REFERENCE           CREDITS_DATA_CAPTURE_PERSONNEL
+LANG_ENGLISH        "Data Capture Personnel"
+
+REFERENCE           CREDITS_LEAD_ENVIRONMENT_ARTIST
+LANG_ENGLISH        "Lead Environment Artist"
+
+REFERENCE           CREDITS_JOHN_MCGINLEY
+LANG_ENGLISH        "John McGinley"
+
+REFERENCE           CREDITS_MELISSA_BUFFALOE
+LANG_ENGLISH        "Melissa Buffaloe"
+
+REFERENCE           CREDITS_ENVIRONMENT_ARTISTS
+LANG_ENGLISH        "Environment Artists"
+
+REFERENCE           CREDITS_STEFAN_BEEMAN
+LANG_ENGLISH        "Stefan Beeman"
+
+REFERENCE           CREDITS_MIKE_CURRAN
+LANG_ENGLISH        "Mike Curran"
+
+REFERENCE           CREDITS_SEAN_MURRAY
+LANG_ENGLISH        "Sean Murray"
+
+REFERENCE           CREDITS_OMAR_GONZALEZ
+LANG_ENGLISH        "Omar Gonzalez"
+
+REFERENCE           CREDITS_DAVID_POKRESS
+LANG_ENGLISH        "David Pokress"
+
+REFERENCE           CREDITS_NEIL_WOOD
+LANG_ENGLISH        "NEIL WOOD"
+
+REFERENCE           CREDITS_WILSON_IP
+LANG_ENGLISH        "Wilson Ip"
+
+REFERENCE           CREDITS_MATT_JENSEN
+LANG_ENGLISH        "Matt Jensen"
+
+REFERENCE           CREDITS_TOM_WELLS
+LANG_ENGLISH        "Tom Wells"
+
+REFERENCE           CREDITS_GARRETT_NGUYEN
+LANG_ENGLISH        "Garrett Nguyen"
+
+REFERENCE           CREDITS_LEAD_CHARACTER_ARTIST
+LANG_ENGLISH        "Lead Character Artist"
+
+REFERENCE           CREDITS_SHON_GRAY
+LANG_ENGLISH        "SHON GRAY"
+
+REFERENCE           CREDITS_PAUL_COLBERT
+LANG_ENGLISH        "PAUL COLBERT"
+
+REFERENCE           CREDITS_JEREMIAH_COHN
+LANG_ENGLISH        "Jeremiah Cohn"
+
+REFERENCE           CREDITS_CAMERON_PETTY
+LANG_ENGLISH        "Cameron Petty"
+
+REFERENCE           CREDITS_CHARACTER_ARTISTS
+LANG_ENGLISH        "Character Artists"
+
+REFERENCE           CREDITS_MURAD_AINYUDDIN
+LANG_ENGLISH        "Murad Ainuddin"
+
+REFERENCE           CREDITS_ERIK_DRAGESET
+LANG_ENGLISH        "Erik Drageset"
+
+REFERENCE           CREDITS_ANH_NGUYEN
+LANG_ENGLISH        "Anh Nguyen"
+
+REFERENCE           CREDITS_DIRECTOR_OF_PROD_SERVICES_EUROPE
+LANG_ENGLISH        "Director of Production Services - Europe"
+
+REFERENCE           CREDITS_LEAD_VEHICLE_WEAPON_ARTIST
+LANG_ENGLISH        "Lead Vehicle / Weapon Artist"
+
+REFERENCE           CREDITS_TOM_SILK
+LANG_ENGLISH        "TOM SILK"
+
+REFERENCE           CREDITS_RYAN_VOLKER
+LANG_ENGLISH        "Ryan Volker"
+
+REFERENCE           CREDITS_DAN_BICKELL
+LANG_ENGLISH        "Dan Bickell"
+
+REFERENCE           CREDITS_LETAM_BIRA
+LANG_ENGLISH        "Letam Bira"
+
+REFERENCE           CREDITS_JACOB_CIPES
+LANG_ENGLISH        "Jacob Cipes"
+
+REFERENCE           CREDITS_SUZAN_RUDE
+LANG_ENGLISH        "SUZAN RUDE"
+
+REFERENCE           CREDITS_KAORI_KATO
+LANG_ENGLISH        "Kaori Kato"
+
+REFERENCE           CREDITS_MARIA_STIPP
+LANG_ENGLISH        "Maria Stipp"
+
+REFERENCE           CREDITS_DAN_PADILLA
+LANG_ENGLISH        "Dan Padilla"
+
+REFERENCE           CREDITS_SEAN_KIM
+LANG_ENGLISH        "SEAN KIM"
+
+REFERENCE           CREDITS_MAX_PORTER
+LANG_ENGLISH        "Max Porter"
+
+REFERENCE           CREDITS_MULTIPLAYER_ARTIST
+LANG_ENGLISH        "Multiplayer Artist"
+
+REFERENCE           CREDITS_KYLE_GAULIN
+LANG_ENGLISH        "Kyle Gaulin"
+
+REFERENCE           CREDITS_CRAIG_MARSCHKE
+LANG_ENGLISH        "Craig Marschke"
+
+REFERENCE           CREDITS_FABRIZIO_AMPOLA
+LANG_ENGLISH        "           Fabrizio Ampola         Giovanni Rossi           Andres Sacias Vieira    "
+
+REFERENCE           CREDITS_PETER_LAM
+LANG_ENGLISH        "Peter Lam"
+
+REFERENCE           CREDITS_REILLY_CAMPBELL
+LANG_ENGLISH        "REILLY CAMPBELL"
+
+REFERENCE           CREDITS_UI_ARTIST
+LANG_ENGLISH        "UI Artist"
+
+REFERENCE           CREDITS_BRAD_SHORTT
+LANG_ENGLISH        "Brad Shortt"
+
+REFERENCE           CREDITS_TOM_SZAKOLCZAY
+LANG_ENGLISH        "Tom Szakolczay"
+
+REFERENCE           CREDITS_ANIMATION
+LANG_ENGLISH        "Animation"
+
+REFERENCE           CREDITS_ANIMATION_DIRECTOR
+LANG_ENGLISH        "Animation Director"
+
+REFERENCE           CREDITS_JACOB_THOMPSON
+LANG_ENGLISH        "JACOB THOMPSON"
+
+REFERENCE           CREDITS_DOM_DROZDZ
+LANG_ENGLISH        "Dom Drozdz"
+
+REFERENCE           CREDITS_LIZ_TOM
+LANG_ENGLISH        "Liz Tom"
+
+REFERENCE           CREDITS_LEAD_ANIMATOR
+LANG_ENGLISH        "Lead Animator"
+
+REFERENCE           CREDITS_DOUG_AVERY
+LANG_ENGLISH        "Doug Avery"
+
+REFERENCE           CREDITS_JIMMY_ZIELINSKI
+LANG_ENGLISH        "Jimmy Zielinski"
+
+REFERENCE           CREDITS_MICHAEL_JANTZ
+LANG_ENGLISH        "Michael Jantz"
+
+REFERENCE           CREDITS_ANIMATORS
+LANG_ENGLISH        "Animators"
+
+REFERENCE           CREDITS_NOEL_VEGA
+LANG_ENGLISH        "Noel Vega"
+
+REFERENCE           CREDITS_THOMAS_VU
+LANG_ENGLISH        "     Thomas Vu                James Cha               Prommet Srinara "
+
+REFERENCE           CREDITS_PHILLIP_LOZANO
+LANG_ENGLISH        "Phillip Lozano"
+
+REFERENCE           CREDITS_STEVEN_RIVERA
+LANG_ENGLISH        "Steven Rivera"
+
+REFERENCE           CREDITS_MARY_TUCK
+LANG_ENGLISH        "Mary Tuck"
+
+REFERENCE           CREDITS_MARVIN_ROJAS
+LANG_ENGLISH        "Marvin Rojas"
+
+REFERENCE           CREDITS_PHIL_TERZIAN
+LANG_ENGLISH        "PHIL TERZIAN"
+
+REFERENCE           CREDITS_ERIC_SMITH
+LANG_ENGLISH        "Eric Smith"
+
+REFERENCE           CREDITS_DAVID_HICKS
+LANG_ENGLISH        "David Hicks"
+
+REFERENCE           CREDITS_OFFICE_MANAGER
+LANG_ENGLISH        "Office Manager"
+
+REFERENCE           CREDITS_DEREK_BROWN
+LANG_ENGLISH        "Derek Brown"
+
+REFERENCE           CREDITS_JON_STOLL
+LANG_ENGLISH        "Jon Stoll"
+
+REFERENCE           CREDITS_ADDITIONAL_ANIMATION
+LANG_ENGLISH        "Additional Animation"
+
+REFERENCE           CREDITS_GLOBAL_BRAND_MANAGEMENT
+LANG_ENGLISH        "Global Brand Management"
+
+REFERENCE           CREDITS_LUIS_YOSH_BOLIVAR
+LANG_ENGLISH        "Luis \"Yosh\" Bolivar"
+
+REFERENCE           CREDITS_RON_FAZIO
+LANG_ENGLISH        "Ron Fazio"
+
+REFERENCE           CREDITS_KEVIN_KRAEER
+LANG_ENGLISH        "Kevin Kraeer"
+
+REFERENCE           CREDITS_TIM_RILEY
+LANG_ENGLISH        "TIM RILEY"
+
+REFERENCE           CREDITS_ALEX_MOON
+LANG_ENGLISH        "Alex Moon"
+
+REFERENCE           CREDITS_LONG_NGUYEN
+LANG_ENGLISH        "Long Nguyen"
+
+REFERENCE           CREDITS_ESTEBAN_CUETO
+LANG_ENGLISH        "  Esteban Cueto            Zach Hudson                Lou Klein    "
+
+REFERENCE           CREDITS_DANIEL_KIM
+LANG_ENGLISH        "Daniel Kim"
+
+REFERENCE           CREDITS_MATT_KARNES
+LANG_ENGLISH        "Matt Karnes"
+
+REFERENCE           CREDITS_ALYSSA_DELHOTAL
+LANG_ENGLISH        "Alyssa Delhotal              Jeff Mitchell             Royal Roshto  "
+
+REFERENCE           CREDITS_CASEY_COLEMAN
+LANG_ENGLISH        "Casey Coleman"
+
+REFERENCE           CREDITS_JOHN_VELAZQUEZ
+LANG_ENGLISH        "John Velazquez"
+
+REFERENCE           CREDITS_CHRIS_FRIES
+LANG_ENGLISH        "Chris Fries"
+
+REFERENCE           CREDITS_RAJ_SAIN
+LANG_ENGLISH        "Raj Sain"
+
+REFERENCE           CREDITS_TREYARCH_STAFF
+LANG_ENGLISH        "TREYARCH STAFF"
+
+REFERENCE           CREDITS_STUDIO_HEAD
+LANG_ENGLISH        "Studio Head"
+
+REFERENCE           CREDITS_MARK_LAMIA
+LANG_ENGLISH        "Mark Lamia"
+
+REFERENCE           CREDITS_QA_MANAGER_NIGHT_SHIFT
+LANG_ENGLISH        "QA Manager, Night Shift"
+
+REFERENCE           CREDITS_CITY_KITCHEN
+LANG_ENGLISH        "City Kitchen"
+
+REFERENCE           CREDITS_RONALD_DEMPSEY
+LANG_ENGLISH        "  Ronald Dempsey             Andrew Grass           Matthew Hui      "
+
+REFERENCE           CREDITS_DAVE_ANTHONY
+LANG_ENGLISH        "Dave Anthony"
+
+REFERENCE           CREDITS_CHIEF_TECHNOLOGY_OFFICER
+LANG_ENGLISH        "Chief Technology Officer"
+
+REFERENCE           CREDITS_RECORDING_ENGINEER
+LANG_ENGLISH        "Recording Engineer"
+
+REFERENCE           CREDITS_MICHAEL_ORDONEZ
+LANG_ENGLISH        "Michael Ordonez              Kristefer Adams           Gerald Arteaga  "
+
+REFERENCE           CREDITS_ERIC_HEFLEY
+LANG_ENGLISH        "Eric Hefley"
+
+REFERENCE           CREDITS_PRODUCTION_TESTER
+LANG_ENGLISH        "Production Tester"
+
+REFERENCE           CREDITS_MARK_GORDON
+LANG_ENGLISH        "Mark Gordon"
+
+REFERENCE           CREDITS_STUDIO_CREATIVE_DIRECTOR
+LANG_ENGLISH        "Studio Creative Director"
+
+REFERENCE           CREDITS_CORKY_LEHMKUHL
+LANG_ENGLISH        "Corky Lehmkuhl"
+
+REFERENCE           CREDITS_ASSOCIATE_PRODUCER_TOOLS_LIBRARIES
+LANG_ENGLISH        "Associate Producer, Tools & Libraries"
+
+REFERENCE           CREDITS_STUDIO_AUDIO_DIRECTOR
+LANG_ENGLISH        "Studio Audio Director"
+
+REFERENCE           CREDITS_COMMUNITY_MANAGER
+LANG_ENGLISH        "Community Manager"
+
+REFERENCE           CREDITS_JOSH_OLIN
+LANG_ENGLISH        "Josh Olin"
+
+REFERENCE           CREDITS_IGOR_KRINITSKIY
+LANG_ENGLISH        "Igor Krinitskiy"
+
+REFERENCE           CREDITS_IT_TECHNICIANS
+LANG_ENGLISH        "IT Technicians"
+
+REFERENCE           CREDITS_LEVETT_WASHINGTON
+LANG_ENGLISH        "    Levett Washington       Matthew Wellman       Padraic McGowan    "
+
+REFERENCE           CREDITS_NICK_WESTFIELD
+LANG_ENGLISH        "Nick Westfield"
+
+REFERENCE           CREDITS_MAX_HOBERMAN
+LANG_ENGLISH        "        Max Hoberman          Phil Wattenbarger         Stefan Sinclair        "
+
+REFERENCE           CREDITS_PRODUCTION_FLOOR_LEADS
+LANG_ENGLISH        "Production Floor Leads"
+
+REFERENCE           CREDITS_MOTION_CAPTURE_LEAD
+LANG_ENGLISH        "Motion Capture Lead"
+
+REFERENCE           CREDITS_MIKE_SCHAEFER
+LANG_ENGLISH        "Mike Schaefer"
+
+REFERENCE           CREDITS_HENRY_VILLANUEVA
+LANG_ENGLISH        "HENRY VILLANUEVA"
+
+REFERENCE           CREDITS_KRISTOFER_MAGPANTAY
+LANG_ENGLISH        "Kristofer Magpantay"
+
+REFERENCE           CREDITS_ERIC_STANZIONE
+LANG_ENGLISH        "Eric Stanzione"
+
+REFERENCE           CREDITS_HUMAN_RESOURCES
+LANG_ENGLISH        "Human Resources"
+
+REFERENCE           CREDITS_JU_SHIM
+LANG_ENGLISH        "Ju Shim"
+
+REFERENCE           CREDITS_AMY_HURDELBRINK
+LANG_ENGLISH        "Amy Hurdelbrink"
+
+REFERENCE           CREDITS_NADIA_ALRAMLI
+LANG_ENGLISH        "       Nadia Alramli            David Brennan           Morgan Brickley     "
+
+REFERENCE           CREDITS_SENIOR_DIRECTOR_OF_TECHNOLOGY
+LANG_ENGLISH        "Senior Director of Technology"
+
+REFERENCE           CREDITS_MOTION_CAPTURE_SUPERVISOR
+LANG_ENGLISH        "Motion Capture Supervisor"
+
+REFERENCE           CREDITS_TOM_HARGRAVES
+LANG_ENGLISH        "Tom Hargraves"
+
+REFERENCE           CREDITS_RAY_KOWALEWSKI
+LANG_ENGLISH        "Ray Kowalewski"
+
+REFERENCE           CREDITS_SENIOR_RECRUITER
+LANG_ENGLISH        "Senior Recruiter"
+
+REFERENCE           CREDITS_FIONA_EBBS
+LANG_ENGLISH        "FIONA EBBS"
+
+REFERENCE           CREDITS_ROBIN_THOMPKINS
+LANG_ENGLISH        "Robin Thompkins"
+
+REFERENCE           CREDITS_CALEB_TURNER
+LANG_ENGLISH        "      Caleb Turner         Brandom McCartney       Christopher Pasol   "
+
+REFERENCE           CREDITS_ASSOCIATE_RECRUITER
+LANG_ENGLISH        "Associate Recruiter"
+
+REFERENCE           CREDITS_MOTION_CAPTURE_DIRECTOR
+LANG_ENGLISH        "Motion Capture Director"
+
+REFERENCE           CREDITS_KIERAN_COSGRAVE
+LANG_ENGLISH        "    Kieran Cosgrave          Peter Kremer                Kerill Meier     "
+
+REFERENCE           CREDITS_JEREMY_LEVI
+LANG_ENGLISH        "         Jeremy Levi             Damien Urruty         Guillame Lerouvreur"
+
+REFERENCE           CREDITS_FELIX_MONTANEZ
+LANG_ENGLISH        "Felix Montanez"
+
+REFERENCE           CREDITS_OFFICE_COORDINATOR
+LANG_ENGLISH        "Office Coordinator"
+
+REFERENCE           CREDITS_JEREMY_MCADAMS
+LANG_ENGLISH        "Jeremy McAdams"
+
+REFERENCE           CREDITS_JAMIE_PARENT
+LANG_ENGLISH        "Jamie Parent"
+
+REFERENCE           CREDITS_STEPHANIE_RUSSELL_PLUS
+LANG_ENGLISH        "  Stephanie Russell           Daniel Silva              Michael Stewart  "
+
+REFERENCE           CREDITS_RECEPTIONIST
+LANG_ENGLISH        "Receptionist"
+
+REFERENCE           CREDITS_QA_FLOOR_LEAD_NIGHT_SHIFT
+LANG_ENGLISH        "QA Floor Lead, Night Shift"
+
+REFERENCE           CREDITS_DIRECTOR_TOOLS_LIBRARIES
+LANG_ENGLISH        "Director, Tools & Libraries"
+
+REFERENCE           CREDITS_ADAM_SASLOW
+LANG_ENGLISH        "Adam Saslow"
+
+REFERENCE           CREDITS_PRODUCTION_TESTING
+LANG_ENGLISH        "PRODUCTION TESTING"
+
+REFERENCE           CREDITS_PROJECT_TEST_LEAD
+LANG_ENGLISH        "Project Test Lead"
+
+REFERENCE           CREDITS_JASON_GUYAN
+LANG_ENGLISH        "Jason Guyan"
+
+REFERENCE           CREDITS_DANIEL_L_NICHOLS
+LANG_ENGLISH        "Daniel L. Nichols"
+
+REFERENCE           CREDITS_AMANDA_CONNELL_PLUS
+LANG_ENGLISH        "     Amanda Connell         Eric Covarrubias          Phyrun Deab        "
+
+REFERENCE           CREDITS_FRANCISCO_CARPIO
+LANG_ENGLISH        "Francisco Carpio"
+
+REFERENCE           CREDITS_LEIF_JOHANSEN_PLUS
+LANG_ENGLISH        "    Leif Johansen              Warren Kaye             Charles Kidd      "
+
+REFERENCE           CREDITS_LEAD_ENGINEER_PC
+LANG_ENGLISH        "Lead Engineer, PC Team"
+
+REFERENCE           CREDITS_MATT_MULLEN
+LANG_ENGLISH        "Matt Mullen"
+
+REFERENCE           CREDITS_MOISES_ZET
+LANG_ENGLISH        "MOISES ZET"
+
+REFERENCE           CREDITS_TECHNICAL_REQUIREMENTS_GROUP
+LANG_ENGLISH        "TECHNICAL REQUIREMENTS GROUP"
+
+REFERENCE           CREDITS_PRODUCTION_TESTERS
+LANG_ENGLISH        "Production Testers"
+
+REFERENCE           CREDITS_PATRICK_J_DOODY
+LANG_ENGLISH        "Patrick J. Doody"
+
+REFERENCE           CREDITS_MANAGER_QA_OPERATIONS
+LANG_ENGLISH        "Manager, QA Operations"
+
+REFERENCE           CREDITS_JAMES_BACA_PLUS
+LANG_ENGLISH        "       James Baca                 Tuan Bui             Alexander Bujold    "
+
+REFERENCE           CREDITS_KAI_HSU
+LANG_ENGLISH        "KAI HSU"
+
+REFERENCE           CREDITS_JEFF_ROPER
+LANG_ENGLISH        "JEFF ROPER"
+
+REFERENCE           CREDITS_JAMES_CALDERON_PLUS
+LANG_ENGLISH        "     James Calderon           Jonathan Caso          Simon Castillo      "
+
+REFERENCE           CREDITS_RYAN_CHIN_PLUS
+LANG_ENGLISH        "      Ryan Chin                 Cody Clark               Rory Collen     "
+
+REFERENCE           CREDITS_VOICE_OVER_EDITORIAL_AND_POST
+LANG_ENGLISH        "Voice Over Editorial and Post"
+
+REFERENCE           CREDITS_MARIO_GARCIA_PLUS
+LANG_ENGLISH        "     Mario Garcia                Chris Glaze          Christian Gomez    "
+
+REFERENCE           CREDITS_DEREK_RACCA
+LANG_ENGLISH        "DEREK RACCA"
+
+REFERENCE           CREDITS_ART_SERVICES
+LANG_ENGLISH        "Art Services"
+
+REFERENCE           CREDITS_NATHAN_KINNEY_PLUS
+LANG_ENGLISH        "    Nathan Kinney             Nicholas Knapp           John Landry       "
+
+REFERENCE           CREDITS_TERAN_LAWSON_PLUS
+LANG_ENGLISH        "      Teran Lawson             Andrew Linstrom       Bayaar Loborjiged   "
+
+REFERENCE           CREDITS_CHRIS_ELLIS
+LANG_ENGLISH        "Chris Ellis"
+
+REFERENCE           CREDITS_OMAR_MARRUFO_PLUS
+LANG_ENGLISH        "     Omar Marrufo             Björn Martinez             Robert Meeks    "
+
+REFERENCE           CREDITS_ENGINEERS_PC_TEAM
+LANG_ENGLISH        "Engineers, PC Team"
+
+REFERENCE           CREDITS_COLEMAN_THAXTON
+LANG_ENGLISH        "Coleman Thaxton"
+
+REFERENCE           CREDITS_ALEX_MEJIA_PLUS
+LANG_ENGLISH        "    Alex Mejia                  Sean Miller              Cesar Muralles  "
+
+REFERENCE           CREDITS_JOEL_TAUBEL
+LANG_ENGLISH        "Joel Taubel"
+
+REFERENCE           CREDITS_EVAN_NEWTON_PLUS
+LANG_ENGLISH        "      Evan Newton              Norman Ovando           Joseph Parise     "
+
+REFERENCE           CREDITS_AND_THE_FOLLOWING
+LANG_ENGLISH        "and the following veterans for sharing their stories and insight."
+
+REFERENCE           CREDITS_MARGARITA_MIX_HOLLYWOOD
+LANG_ENGLISH        "Margarita Mix Hollywood"
+
+REFERENCE           CREDITS_CONDUCTED_BY_MIRIAM_NEMCOVA
+LANG_ENGLISH        "Conducted by Miriam Nemcova"
+
+REFERENCE           CREDITS_QA_BURNROOM
+LANG_ENGLISH        "QA BURNROOM"
+
+REFERENCE           CREDITS_MICHAEL_WICKSON_PLUS
+LANG_ENGLISH        "    Michael Wickson            Bryan Wilbur              Devin Williams   "
+
+REFERENCE           CREDITS_NEIL_BARIZO
+LANG_ENGLISH        "Neil Barizo"
+
+REFERENCE           CREDITS_BRANDON_WILLIS_PLUS
+LANG_ENGLISH        "   Brandon Willis             Joshua Winters               Allen Wu       "
+
+REFERENCE           CREDITS_NORMAN_OVANDO
+LANG_ENGLISH        "NORMAN OVANDO"
+
+REFERENCE           CREDITS_MARIO_MARTINEZ
+LANG_ENGLISH        "Mario Martinez              Anthony Franco            Leonel Valtierra "
+
+REFERENCE           CREDITS_NATHAN_KINNEY
+LANG_ENGLISH        "Nathan Kinney"
+
+REFERENCE           CREDITS_SEAN_MILLER
+LANG_ENGLISH        "Sean Miller"
+
+REFERENCE           CREDITS_ANIMATION_VERTIGO
+LANG_ENGLISH        "Animation Vertigo"
+
+REFERENCE           CREDITS_JAMES_ROSE
+LANG_ENGLISH        "JAMES ROSE"
+
+REFERENCE           CREDITS_CINEMATICS
+LANG_ENGLISH        "CINEMATICS"
+
+REFERENCE           CREDITS_SGT_REZNOV
+LANG_ENGLISH        "Sgt. Reznov"
+
+REFERENCE           CREDITS_GARY_OLDMAN
+LANG_ENGLISH        "Gary Oldman"
+
+REFERENCE           CREDITS_RACHEL_OVERTON
+LANG_ENGLISH        "RACHEL OVERTON"
+
+REFERENCE           CREDITS_JEAN_EDUARD_FAGES
+LANG_ENGLISH        "    Jean Eduard Fages          Martin Galway              Will Harris       "
+
+REFERENCE           CREDITS_MIKE_GENADRY
+LANG_ENGLISH        "MIKE GENADRY"
+
+REFERENCE           CREDITS_KIEFER_SUTHERLAND
+LANG_ENGLISH        "Kiefer Sutherland"
+
+REFERENCE           CREDITS_PACKAGING_DESIGN_BY
+LANG_ENGLISH        "Packaging Design by"
+
+REFERENCE           CREDITS_PVT_CHERNOV
+LANG_ENGLISH        "Pvt. Chernov"
+
+REFERENCE           CREDITS_YURIKA_DENNIS
+LANG_ENGLISH        "Yurika Dennis"
+
+REFERENCE           CREDITS_SGT_SULLIVAN
+LANG_ENGLISH        "Sgt. Sullivan"
+
+REFERENCE           CREDITS_ELIZABETH_HICKEY_MCCOY
+LANG_ENGLISH        "Elizabeth Hickey-McCoy"
+
+REFERENCE           CREDITS_PVT_POLONSKY
+LANG_ENGLISH        "Pvt. Polonsky"
+
+REFERENCE           CREDITS_SCORE_PRERECORD_PREPARATION
+LANG_ENGLISH        "Score Pre-Record Preparation"
+
+REFERENCE           CREDITS_TAKUMA_KOKUBO
+LANG_ENGLISH        "Takuma Kokubo"
+
+REFERENCE           CREDITS_AARON_STANFORD
+LANG_ENGLISH        "Aaron Stanford"
+
+REFERENCE           CREDITS_THE_COMMISSAR
+LANG_ENGLISH        "The Commissar"
+
+REFERENCE           CREDITS_GEMMA_THOMPSON
+LANG_ENGLISH        "Gemma Thompson"
+
+REFERENCE           CREDITS_DIMITRI_DIATCHENKO
+LANG_ENGLISH        "Dimitri Diatchenko"
+
+REFERENCE           CREDITS_PRAGUE_PHILHARMONIC
+LANG_ENGLISH        "The City of Prague Philharmonic Orchestra and Chorus"
+
+REFERENCE           CREDITS_MEL_FAIR
+LANG_ENGLISH        "Mel Fair"
+
+REFERENCE           CREDITS_JASON_DALBOTTEN
+LANG_ENGLISH        "JASON DALBOTTEN"
+
+REFERENCE           CREDITS_CRAIG_HOUSTON
+LANG_ENGLISH        "Craig Houston"
+
+REFERENCE           CREDITS_KEVIN_GLOBERMAN
+LANG_ENGLISH        "Kevin Globerman"
+
+REFERENCE           CREDITS_QA_MIS_TECHNICIANS
+LANG_ENGLISH        "QA-MIS Technicians"
+
+REFERENCE           CREDITS_MATT_LOWE
+LANG_ENGLISH        "Matt Lowe"
+
+REFERENCE           CREDITS_DAVE_BOAT
+LANG_ENGLISH        "Dave Boat"
+
+REFERENCE           CREDITS_NICK_GUEST
+LANG_ENGLISH        "Nick Guest"
+
+REFERENCE           CREDITS_GERMAN_VOICE_OVER
+LANG_ENGLISH        "German Voice Over"
+
+REFERENCE           CREDITS_KYLE_CAREY
+LANG_ENGLISH        "KYLE CAREY"
+
+REFERENCE           CREDITS_MATT_LINDQUIST
+LANG_ENGLISH        "Matt Lindquist"
+
+REFERENCE           CREDITS_MARGARET_TANG
+LANG_ENGLISH        "Margaret Tang"
+
+REFERENCE           CREDITS_TOMO_SHIKAMI
+LANG_ENGLISH        "TOMO SHIKAMI"
+
+REFERENCE           CREDITS_TORSTEN_VOGES
+LANG_ENGLISH        "Torsten Voges"
+
+REFERENCE           CREDITS_JAPANESE_VOICE_OVER
+LANG_ENGLISH        "Japanese Voice Over"
+
+REFERENCE           CREDITS_QA_COMPATIBILITY_LAB
+LANG_ENGLISH        "QA COMPATIBILITY LAB"
+
+REFERENCE           CREDITS_HAI_CHIEM
+LANG_ENGLISH        "Hai Chiem                    Marc Hughley                 Ian Comi  "
+
+REFERENCE           CREDITS_AKIRA_KENADA
+LANG_ENGLISH        "Akira Kenada"
+
+REFERENCE           CREDITS_JAPANESE_OFFICER
+LANG_ENGLISH        "Japanese Officer"
+
+REFERENCE           CREDITS_TOSHIYA_AGATA
+LANG_ENGLISH        "Toshiya Agata"
+
+REFERENCE           CREDITS_MICHAEL_HUNAU
+LANG_ENGLISH        "Michael Hunau"
+
+REFERENCE           CREDITS_TAYLOR_LIVINGSTON
+LANG_ENGLISH        "Taylor Livingston"
+
+REFERENCE           CREDITS_PAUL_CARRION
+LANG_ENGLISH        "Paul Carrion"
+
+REFERENCE           CREDITS_JAPANESE_ANNOUNCER
+LANG_ENGLISH        "Japanese Announcer"
+
+REFERENCE           CREDITS_HYUN_ANDY_KIM
+LANG_ENGLISH        "Hyun Andy Kim"
+
+REFERENCE           CREDITS_SVP_TECHNOLOGY_CTO
+LANG_ENGLISH        "SVP Technology, CTO"
+
+REFERENCE           CREDITS_ASSOCIATE_BRAND_MANAGERS
+LANG_ENGLISH        "Associate Brand Managers"
+
+REFERENCE           CREDITS_PAUL_NAKAUCHI
+LANG_ENGLISH        "Paul Nakauchi"
+
+REFERENCE           CREDITS_THAINE_LYMAN
+LANG_ENGLISH        "Thaine Lyman"
+
+REFERENCE           CREDITS_MARYANNE_LATAIF
+LANG_ENGLISH        "Maryanne Lataif"
+
+REFERENCE           CREDITS_RIK_SCHAFFER
+LANG_ENGLISH        "Rik Schaffer"
+
+REFERENCE           CREDITS_DEVON_BOWMAN
+LANG_ENGLISH        "Devon Bowman"
+
+REFERENCE           CREDITS_PUBLIC_RELATIONS
+LANG_ENGLISH        "Public Relations"
+
+REFERENCE           CREDITS_SALAMI_STUDIOS
+LANG_ENGLISH        "Salami Studios"
+
+REFERENCE           CREDITS_DAVID_ANCIRA
+LANG_ENGLISH        "    David Ancira              Mike Clopper             Adam Crist    "
+
+REFERENCE           CREDITS_BTW_PRODUCTIONS
+LANG_ENGLISH        "BTW Productions"
+
+REFERENCE           CREDITS_ORCHESTRATION_
+LANG_ENGLISH        "Orchestration "
+
+REFERENCE           CREDITS_KTA_PRODUCTIONS
+LANG_ENGLISH        "KTA Productions"
+
+REFERENCE           CREDITS_TADLOW_MUSIC
+LANG_ENGLISH        "Tadlow Music"
+
+REFERENCE           CREDITS_JULIO_DELEON
+LANG_ENGLISH        "   Julio DeLeon               Tommy Hooper           Jason Gilmore    "
+
+REFERENCE           CREDITS_ORCHESTRAL_CONTRACTOR
+LANG_ENGLISH        "Orchestral Contractor"
+
+REFERENCE           CREDITS_JON_LENAWAY
+LANG_ENGLISH        "JON LENAWAY"
+
+REFERENCE           CREDITS_ORIGINAL_MUSIC_COMPOSER_
+LANG_ENGLISH        "Original Music Composer "
+
+REFERENCE           CREDITS_SEAN_MURRAY_MUSIC
+LANG_ENGLISH        "Sean Murray Music"
+
+REFERENCE           CREDITS_DAVE_GARCIA_GOMEZ
+LANG_ENGLISH        "Dave Garcia-Gomez"
+
+REFERENCE           CREDITS_JOHN_RAFACZ
+LANG_ENGLISH        "John Rafacz"
+
+REFERENCE           CREDITS_BATTLE_CHATTER_WRITERS
+LANG_ENGLISH        "Battle Chatter Writers"
+
+REFERENCE           CREDITS_CHRIS_VALENZIANO
+LANG_ENGLISH        "Chris Valenziano"
+
+REFERENCE           CREDITS_JAPANESE_TRANSLATOR
+LANG_ENGLISH        "Japanese Translator"
+
+REFERENCE           CREDITS_CHRISTOPHER_SHANLEY
+LANG_ENGLISH        "CHRISTOPHER SHANLEY"
+
+REFERENCE           CREDITS_MATT_MALOTKI
+LANG_ENGLISH        "Matt Malotki"
+
+REFERENCE           CREDITS_CHRISTIAN_EASTERLY
+LANG_ENGLISH        "Christian Easterly"
+
+REFERENCE           CREDITS_ERIK_MELEN
+LANG_ENGLISH        "ERIK MELEN"
+
+REFERENCE           CREDITS_ACTIVISION_CAPTURE_STUDIO
+LANG_ENGLISH        "ACTIVISION CAPTURE STUDIO"
+
+REFERENCE           CREDITS_QA_MIS
+LANG_ENGLISH        "QA-MIS"
+
+REFERENCE           CREDITS_NICK_FALZON
+LANG_ENGLISH        "Nick Falzon"
+
+REFERENCE           CREDITS_PR_MANAGER
+LANG_ENGLISH        "PR Manager"
+
+REFERENCE           CREDITS_STEFAN_GOODREAU
+LANG_ENGLISH        "Stefan Goodreau"
+
+REFERENCE           CREDITS_BEN_WATSON
+LANG_ENGLISH        "Ben Watson"
+
+REFERENCE           CREDITS_PRODUCTION_COORDINATOR
+LANG_ENGLISH        "Production Coordinator"
+
+REFERENCE           CREDITS_PROJECT_LEAD_PC
+LANG_ENGLISH        "Project Lead, PC Team"
+
+REFERENCE           CREDITS_JOHN_FAULKENBURY
+LANG_ENGLISH        "John Faulkenbury"
+
+REFERENCE           CREDITS_DATA_CAPTURE_SUPERVISOR
+LANG_ENGLISH        "Data Capture Supervisor"
+
+REFERENCE           CREDITS_CHRIS_TORRES
+LANG_ENGLISH        "    Chris Torres                Ray Park                Randall Archer"
+
+REFERENCE           CREDITS_MONOTYPE
+LANG_ENGLISH        "Monotype"
+
+REFERENCE           CREDITS_KOFI_YIADOM
+LANG_ENGLISH        "  Kofi Yiadom            Anthony Arcuria             John Nolan"
+
+REFERENCE           CREDITS_SET_CONSTRUCTION
+LANG_ENGLISH        "Set Construction"
+
+REFERENCE           CREDITS_SID_NICHOLSON
+LANG_ENGLISH        "Sid Nicholson"
+
+REFERENCE           CREDITS_REFERENCE_VIDEO
+LANG_ENGLISH        "Reference Video"
+
+REFERENCE           CREDITS_EDWIN_PAYEN
+LANG_ENGLISH        "Edwin Payen                  Lerry Ortega              Emil Mansoor"
+
+REFERENCE           CREDITS_STEPHANIE_PARIS
+LANG_ENGLISH        "Stephanie Paris"
+
+REFERENCE           CREDITS_QA_PROJECT_LEAD_NIGHT_SHIFT
+LANG_ENGLISH        "QA Project Lead, Night Shift"
+
+REFERENCE           CREDITS_SCAN_TECHNICIANS
+LANG_ENGLISH        "Scan Technicians"
+
+REFERENCE           CREDITS_NICK_OTTO
+LANG_ENGLISH        "Nick Otto"
+
+REFERENCE           CREDITS_MARKER_CLEANUP
+LANG_ENGLISH        "Marker Cleanup"
+
+REFERENCE           CREDITS_VP_QUALITY_ASSURANCE_CUSTOMER_SERVICE
+LANG_ENGLISH        "VP Quality Assurance/Customer Service"
+
+REFERENCE           CREDITS_CRAFT_SERVICES
+LANG_ENGLISH        "Craft Services"
+
+REFERENCE           CREDITS_SANDRA_FALZON
+LANG_ENGLISH        "Sandra Falzon"
+
+REFERENCE           CREDITS_CERTAIN_AFFINITY
+LANG_ENGLISH        "Certain Affinity"
+
+REFERENCE           CREDITS_PR_DIRECTOR_OWNED_PROPERTIES
+LANG_ENGLISH        "PR Director, Owned Properties"
+
+REFERENCE           CREDITS_WIEBKE_HESSE
+LANG_ENGLISH        "Wiebke Hesse"
+
+REFERENCE           CREDITS_BERNIE_LACARTE
+LANG_ENGLISH        "     Bernie LaCarte              Dean McCall            Steve Pietzsch    "
+
+REFERENCE           CREDITS_DAVID_VARGO
+LANG_ENGLISH        "      David Vargo              John Granier             Anthony Huso  "
+
+REFERENCE           CREDITS_ANTHONY_BELLISARIO
+LANG_ENGLISH        "Anthony Bellisario             Joshua Castrejon           Matt Hartley  "
+
+REFERENCE           CREDITS_CENTRAL_TECHNOLOGY
+LANG_ENGLISH        "Central Technology"
+
+REFERENCE           CREDITS_JASON_EUBANK
+LANG_ENGLISH        "      Jason Eubank              Nathan Morse            David Bowman   "
+
+REFERENCE           CREDITS_ROTEM_NAHLIELI
+LANG_ENGLISH        "Rotem Nahlieli"
+
+REFERENCE           CREDITS_TIA_HOOD
+LANG_ENGLISH        "     Tia Hood                  David Jones             Mike Amerson"
+
+REFERENCE           CREDITS_EMMANUEL_SALVA_CRUZ
+LANG_ENGLISH        "Emmanuel Salva Cruz"
+
+REFERENCE           CREDITS_CERTAIN_AFFINITY_SPECIAL_THANKS
+LANG_ENGLISH        "Certain Affinity Special Thanks"
+
+REFERENCE           CREDITS_LONG_LE
+LANG_ENGLISH        "LONG LE"
+
+REFERENCE           CREDITS_JAMES_DAVIS
+LANG_ENGLISH        "James Davis"
+
+REFERENCE           CREDITS_DANIELLE_KIM
+LANG_ENGLISH        "Danielle Kim"
+
+REFERENCE           CREDITS_MICHELLE_SCHRODER
+LANG_ENGLISH        "Michelle Schroder"
+
+REFERENCE           CREDITS_BRIAN_HERLIHY
+LANG_ENGLISH        "      Brian Herlihy           Vincenzo Ferrara              Luca Visciola    "
+
+REFERENCE           CREDITS_MIKE_GRIFFITH
+LANG_ENGLISH        "Mike Griffith"
+
+REFERENCE           CREDITS_ALLEN_LEITCH
+LANG_ENGLISH        "Allen Leitch"
+
+REFERENCE           CREDITS_STEVE_MCILROY
+LANG_ENGLISH        "Steve McIlroy"
+
+REFERENCE           CREDITS_MILES_CHRISTENSEN
+LANG_ENGLISH        "Miles Christensen"
+
+REFERENCE           CREDITS_YUGEN_BLAKE
+LANG_ENGLISH        "Yugen Blake"
+
+REFERENCE           CREDITS_RUSSELL_DIEFENBACH
+LANG_ENGLISH        "Russell Diefenbach"
+
+REFERENCE           CREDITS_ADAM_FOSHKO
+LANG_ENGLISH        "Adam Foshko"
+
+REFERENCE           CREDITS_PAUL_HUNT
+LANG_ENGLISH        "Paul Hunt"
+
+REFERENCE           CREDITS_MATT_HOTCHKISS
+LANG_ENGLISH        "Matt Hotchkiss"
+
+REFERENCE           CREDITS_QA_MIS_WEB_DEVELOPER
+LANG_ENGLISH        "QA-MIS Web Developer"
+
+REFERENCE           CREDITS_SPOV_SPECIAL_THANKS
+LANG_ENGLISH        "SPOV Special Thanks"
+
+REFERENCE           CREDITS_PETER_ROBINSON
+LANG_ENGLISH        "Peter Robinson"
+
+REFERENCE           CREDITS_ADDITIONAL_DEV_BY_PI_STUDIOS
+LANG_ENGLISH        "Additional Development on \"Blowtorch and Corkscrew\" by Pi Studios"
+
+REFERENCE           CREDITS_DANIEL_SUAREZ
+LANG_ENGLISH        "Daniel Suarez"
+
+REFERENCE           CREDITS_ROBERT_ERWIN
+LANG_ENGLISH        "Robert Erwin"
+
+REFERENCE           CREDITS_JOSUE_MEDINA
+LANG_ENGLISH        "Josue Medina                 Isaiah Hayes                 Richard Lee"
+
+REFERENCE           CREDITS_ACTIVISION
+LANG_ENGLISH        "ACTIVISION"
+
+REFERENCE           CREDITS_ALEX_MAHLKE
+LANG_ENGLISH        "Alex Mahlke"
+
+REFERENCE           CREDITS_NOAH_HELLER
+LANG_ENGLISH        "NOAH HELLER"
+
+REFERENCE           CREDITS_RHETT_CHASSEREAU
+LANG_ENGLISH        "Rhett Chassereau"
+
+REFERENCE           CREDITS_ADRIENNE_ARRASMITH
+LANG_ENGLISH        "Adrienne Arrasmith"
+
+REFERENCE           CREDITS_PRODUCTION_INTERN
+LANG_ENGLISH        "Production Intern"
+
+REFERENCE           CREDITS_VICE_PRESIDENT_PRODUCTION
+LANG_ENGLISH        "Vice President, Production"
+
+REFERENCE           CREDITS_DAVID_HILL
+LANG_ENGLISH        "David Hill"
+
+REFERENCE           CREDITS_STEVE_PEARCE
+LANG_ENGLISH        "STEVE PEARCE"
+
+REFERENCE           CREDITS_SVP_PRODUCTION_DEVELOPMENT_WW_STUDIOS
+LANG_ENGLISH        "SVP, Production & Development WW Studios"
+
+REFERENCE           CREDITS_DAVE_STOHL
+LANG_ENGLISH        "DAVE STOHL"
+
+REFERENCE           CREDITS_SR_DIRECTOR_OF_MARKETING
+LANG_ENGLISH        "Sr. Director of Marketing"
+
+REFERENCE           CREDITS_GBM_SPECIAL_THANKS
+LANG_ENGLISH        "GBM Special Thanks"
+
+REFERENCE           CREDITS_JEN_FOX
+LANG_ENGLISH        "JEN FOX"
+
+REFERENCE           CREDITS_ROBERT_TAYLOR
+LANG_ENGLISH        "ROBERT TAYLOR"
+
+REFERENCE           CREDITS_FONTS_LICENSED_FROM
+LANG_ENGLISH        "Fonts licensed from"
+
+REFERENCE           CREDITS_DILLON_CHANCE
+LANG_ENGLISH        "DILLON CHANCE"
+
+REFERENCE           CREDITS_OLIVER_GUBBA
+LANG_ENGLISH        "Oliver Gubba"
+
+REFERENCE           CREDITS_PRODUCTION_SERVICES_EUROPE
+LANG_ENGLISH        "PRODUCTION SERVICES - EUROPE"
+
+REFERENCE           CREDITS_LOCALIZATION_QA_MANAGER
+LANG_ENGLISH        "Localization QA Manager"
+
+REFERENCE           CREDITS_DAVID_HICKEY
+LANG_ENGLISH        "David Hickey"
+
+REFERENCE           CREDITS_LOCALIZATION_QA_LEAD
+LANG_ENGLISH        "Localization QA Lead"
+
+REFERENCE           CREDITS_JAMES_FRYKMAN
+LANG_ENGLISH        "  James Frykman              Jason New              Jeffrey Good   "
+
+REFERENCE           CREDITS_JACK_OHARA
+LANG_ENGLISH        "Jack O'Hara"
+
+REFERENCE           CREDITS_DAVE_ANDERSON
+LANG_ENGLISH        "Dave Anderson"
+
+REFERENCE           CREDITS_LOCALIZATION_QA_FLOOR_LEADS
+LANG_ENGLISH        "Localization QA Floor Leads"
+
+REFERENCE           CREDITS_JARED_BACA
+LANG_ENGLISH        "JARED BACA"
+
+REFERENCE           CREDITS_DANIELE_CELEGHIN
+LANG_ENGLISH        "Daniele Celeghin"
+
+REFERENCE           CREDITS_LOCALIZATION_QA_TESTERS
+LANG_ENGLISH        "Localization QA Testers"
+
+REFERENCE           CREDITS_JAN_VESTER
+LANG_ENGLISH        "    Jan Vester              Istvan Juhasz                Eugen Brab "
+
+REFERENCE           CREDITS_BURN_LAB_TECHNICIANS
+LANG_ENGLISH        "Burn Lab Technicians"
+
+REFERENCE           CREDITS_JUSTIN_GOGUE
+LANG_ENGLISH        "Justin Gogue"
+
+REFERENCE           CREDITS_DEREK_BRANGAN
+LANG_ENGLISH        "Derek Brangan"
+
+REFERENCE           CREDITS_LOCALIZATION_TOOLS_SUPPORT
+LANG_ENGLISH        "Localization Tools & Support"
+
+REFERENCE           CREDITS_MATT_WILKINSON
+LANG_ENGLISH        "Matt Wilkinson"
+
+REFERENCE           CREDITS_DEMONWARE
+LANG_ENGLISH        "Demonware"
+
+REFERENCE           CREDITS_EOGHAN_GAFFNEY
+LANG_ENGLISH        "   Eoghan Gaffney          Steffen Higel                 Tony Kelly     "
+
+REFERENCE           CREDITS_JOHN_KIRK
+LANG_ENGLISH        "      John Kirk                 Craig McInnes           Eoin O'Fearghail "
+
+REFERENCE           CREDITS_BYRON_PILE
+LANG_ENGLISH        "     Byron Pile                Ruaidhrí Power            Tilman Schäfer  "
+
+REFERENCE           CREDITS_AMY_SMITH
+LANG_ENGLISH        "      Amy Smith                                                Emmanuel Stone  "
+
+REFERENCE           CREDITS_GARY_BOLDUC
+LANG_ENGLISH        "Gary Bolduc"
+
+REFERENCE           CREDITS_SENIOR_DIRECTOR_OF_GAME_DESIGN
+LANG_ENGLISH        "Senior Director of Game Design"
+
+REFERENCE           CREDITS_CARL_SCHNURR
+LANG_ENGLISH        "Carl Schnurr"
+
+REFERENCE           CREDITS_SCOTT_J_MCPHERSON
+LANG_ENGLISH        "Scott J.  McPherson          Jeremy Ingram          Daniel Herscher  "
+
+REFERENCE           CREDITS_CENTRAL_DESIGN_LEAD_COMBAT_DESIGNER
+LANG_ENGLISH        "Central Design, Lead Combat Designer"
+
+REFERENCE           CREDITS_DEREK_DANIELS
+LANG_ENGLISH        "Derek Daniels"
+
+REFERENCE           CREDITS_ANY_SIMILARITY
+LANG_ENGLISH        "Any similarity to actual persons, living or dead, is purely coincidental."
+
+REFERENCE           CREDITS_JEFFREY_CHEN
+LANG_ENGLISH        "Jeffrey Chen"
+
+REFERENCE           CREDITS_QA_CL_LAB_TESTERS
+LANG_ENGLISH        "QA-CL Lab Testers"
+
+REFERENCE           CREDITS_DIRECTOR_OF_CENTRAL_AUDIO
+LANG_ENGLISH        "Director of Central Audio"
+
+REFERENCE           CREDITS_ADAM_LEVENSON
+LANG_ENGLISH        "Adam Levenson"
+
+REFERENCE           CREDITS_T26_INC
+LANG_ENGLISH        "T26, Inc."
+
+REFERENCE           CREDITS_AUDIO_COORDINATOR
+LANG_ENGLISH        "Audio Coordinator"
+
+REFERENCE           CREDITS_STEPHEN_HODDE
+LANG_ENGLISH        "Stephen Hodde              Justin Seay               Richard Elias   "
+
+REFERENCE           CREDITS_NOAH_SARID
+LANG_ENGLISH        "Noah Sarid"
+
+REFERENCE           CREDITS_MARCHELE_HARDIN
+LANG_ENGLISH        "MARCHELE HARDIN"
+
+REFERENCE           CREDITS_MARKETING_COMMUNICATIONS
+LANG_ENGLISH        "Marketing Communications"
+
+REFERENCE           CREDITS_SENIOR_DIRECTOR_MARKETING_COMMUNICATIONS
+LANG_ENGLISH        "Senior Director, Marketing Communications"
+
+REFERENCE           CREDITS_ALEX_FIANCE
+LANG_ENGLISH        "Alex Fiance"
+
+REFERENCE           CREDITS_MARKETING_COMMUNICATIONS_MANAGER
+LANG_ENGLISH        "Marketing Communications Manager"
+
+REFERENCE           CREDITS_BUSINESS_DEVELOPMENT
+LANG_ENGLISH        "BUSINESS DEVELOPMENT"
+
+REFERENCE           CREDITS_RALPH_PERILLON
+LANG_ENGLISH        "Ralph Perillon"
+
+REFERENCE           CREDITS_ART_SERVICES_MANAGER
+LANG_ENGLISH        "Art Services Manager"
+
+REFERENCE           CREDITS_TODD_PRUYN
+LANG_ENGLISH        "Todd Pruyn"
+
+REFERENCE           CREDITS_SPECIAL_THANKS
+LANG_ENGLISH        "SPECIAL THANKS"
+
+REFERENCE           CREDITS_ROBIN_KAMINSKY
+LANG_ENGLISH        "Robin Kaminsky"
+
+REFERENCE           CREDITS_TRG_PLATFORM_LEADS
+LANG_ENGLISH        "TRG Platform Leads"
+
+REFERENCE           CREDITS_STEVE_ACKRICH
+LANG_ENGLISH        "STEVE ACKRICH"
+
+REFERENCE           CREDITS_LAIRD_M_MALAMED
+LANG_ENGLISH        "Laird M. Malamed"
+
+REFERENCE           CREDITS_SHAMENE_CHILDRESS
+LANG_ENGLISH        "Shamen'e Childress"
+
+REFERENCE           CREDITS_BRIAN_WARD
+LANG_ENGLISH        "Brian Ward"
+
+REFERENCE           CREDITS_ERIC_GLINOGA
+LANG_ENGLISH        "Eric Glinoga"
+
+REFERENCE           CREDITS_MICA_ROSS
+LANG_ENGLISH        "Mica Ross"
+
+REFERENCE           CREDITS_STEVE_YOUNG
+LANG_ENGLISH        "Steve Young"
+
+REFERENCE           CREDITS_BLAKE_HENNON
+LANG_ENGLISH        "Blake Hennon"
+
+REFERENCE           CREDITS_SHANNON_WAHL
+LANG_ENGLISH        "Shannon Wahl"
+
+REFERENCE           CREDITS_MANUAL_DESIGN
+LANG_ENGLISH        "Manual Design"
+
+REFERENCE           CREDITS_QA_MULTIPLAYER_LAB
+LANG_ENGLISH        "QA MULTIPLAYER LAB"
+
+REFERENCE           CREDITS_CHRISTIAN_HAILE
+LANG_ENGLISH        "Christian Haile"
+
+REFERENCE           CREDITS_GEORGE_ROSE
+LANG_ENGLISH        "George Rose"
+
+REFERENCE           CREDITS_GREG_DEUTSCH
+LANG_ENGLISH        "Greg Deutsch"
+
+REFERENCE           CREDITS_ERIC_PIERCE
+LANG_ENGLISH        "ERIC PIERCE"
+
+REFERENCE           CREDITS_MARCUS_IREMONGER
+LANG_ENGLISH        "MARCUS IREMONGER"
+
+REFERENCE           CREDITS_GARRETT_OSHIRO
+LANG_ENGLISH        "GARRETT OSHIRO"
+
+REFERENCE           CREDITS_STEVE_HOLMES
+LANG_ENGLISH        "Steve Holmes"
+
+REFERENCE           CREDITS_JASON_POSADA
+LANG_ENGLISH        "Jason Posada"
+
+REFERENCE           CREDITS_WE_ARE_INSPIRED
+LANG_ENGLISH        "We are inspired and humbled by your sacrifice."
+
+REFERENCE           CREDITS_VICTOR_LOPEZ
+LANG_ENGLISH        "Victor Lopez"
+
+REFERENCE           CREDITS_JENNIFER_SULLIVAN
+LANG_ENGLISH        "Jennifer Sullivan"
+
+REFERENCE           CREDITS_BRANDON_YOUNG
+LANG_ENGLISH        "Brandon Young"
+
+REFERENCE           CREDITS_JULIO_MEDINA
+LANG_ENGLISH        "Julio Mendina"
+
+REFERENCE           CREDITS_ANDREA_HAMMON
+LANG_ENGLISH        "Andrea Hammon"
+
+REFERENCE           CREDITS_ADRIAN_GOMEZ
+LANG_ENGLISH        "Adrian Gomez"
+
+REFERENCE           CREDITS_DEDICATION
+LANG_ENGLISH        " Dedicated to the veterans of World War II who \nsacrificed their lives for the preservation of liberty."
+
+REFERENCE           CREDITS_KAP_KANG
+LANG_ENGLISH        "KAP KANG"
+
+REFERENCE           CREDITS_DUSTY_WELCH
+LANG_ENGLISH        "Dusty Welch"
+
+REFERENCE           CREDITS_WEST_POINT_MUSEUM_LES_JENSEN
+LANG_ENGLISH        "West Point Museum - Les Jensen"
+
+REFERENCE           CREDITS_MARINE_LIBRARY_ALISA_WHITLEY
+LANG_ENGLISH        "Marine Library - Alisa Whitley"
+
+REFERENCE           CREDITS_JAMES_CHIEN_CHEN
+LANG_ENGLISH        "James Chien Chen"
+
+REFERENCE           CREDITS_QUALITY_ASSURANCE
+LANG_ENGLISH        "Quality Assurance"
+
+REFERENCE           CREDITS_RICH_ROBINSON
+LANG_ENGLISH        "RICH ROBINSON"
+
+REFERENCE           CREDITS_BILL_JENKINS
+LANG_ENGLISH        "Bill Jenkins"
+
+REFERENCE           CREDITS_OSCAR_RODRIGUEZ
+LANG_ENGLISH        "Oscar Rodriguez"
+
+REFERENCE           CREDITS_MARILENA_RIXFORD
+LANG_ENGLISH        "Marilena Morini"
+
+REFERENCE           CREDITS_JAVIER_PANAMENO
+LANG_ENGLISH        "Javier Panameno               Steven Springer              Gary Paul   "
+
+REFERENCE           CREDITS_QUALITY_ASSURANCE_FUNCTIONALITY
+LANG_ENGLISH        "QUALITY ASSURANCE, FUNCTIONALITY"
+
+REFERENCE           CREDITS_QA_PROJECT_LEAD_DAY_SHIFT
+LANG_ENGLISH        "QA Project Lead, Day Shift"
+
+REFERENCE           CREDITS_TOM_CHUA
+LANG_ENGLISH        "TOM CHUA"
+
+REFERENCE           CREDITS_QA_FLOOR_LEAD_DAY_SHIFT
+LANG_ENGLISH        "QA Floor Lead, Day Shift"
+
+REFERENCE           CREDITS_JAY_MENCONI
+LANG_ENGLISH        "JAY MENCONI"
+
+REFERENCE           CREDITS_GARRETT_SMITH
+LANG_ENGLISH        "Garrett Smith"
+
+REFERENCE           CREDITS_JASON_GARZA
+LANG_ENGLISH        "JASON GARZA"
+
+REFERENCE           CREDITS_QA_TESTERS_DAY_SHIFT
+LANG_ENGLISH        "QA Testers, Day Shift"
+
+REFERENCE           CREDITS_QA_MIS_MANAGER
+LANG_ENGLISH        "QA-MIS Manager"
+
+REFERENCE           CREDITS_CREED_WEATHERMAN
+LANG_ENGLISH        "Creed Weatherman           Marvin Rivera          Anthony Bailey   "
+
+REFERENCE           CREDITS_VICTOR_DURLING
+LANG_ENGLISH        "VICTOR DURLING"
+
+REFERENCE           CREDITS_ANDY_WORSHILL
+LANG_ENGLISH        "  Andy Worshill             Davion Farris            Carlos Monroy "
+
+REFERENCE           CREDITS_JACOB_ZAGHA
+LANG_ENGLISH        "   Jacob Zagha                Ilan Adir               Tiffany Gouche"
+
+REFERENCE           CREDITS_DOMINIQUE_NEAL
+LANG_ENGLISH        " Dominique Neal             Alex Lifschitz           Harold Gim     "
+
+REFERENCE           CREDITS_IAN_DOUGLAS
+LANG_ENGLISH        "  Ian Douglas               Craig Nelson                Ian Serna    "
+
+REFERENCE           CREDITS_STEVEN_JOHNSON
+LANG_ENGLISH        "   Steven Johnson           John Estioko              Joseph Ramos  "
+
+REFERENCE           CREDITS_STEVEN_RODRIGUEZ
+LANG_ENGLISH        "Steven Rodriguez         Tarbari Jeffries               Eric Miller     "
+
+REFERENCE           CREDITS_JULIUS_HIPOLITO
+LANG_ENGLISH        "JULIUS HIPOLITO"
+
+REFERENCE           CREDITS_ADAM_SMITH
+LANG_ENGLISH        "      Adam Smith            Richard Bernot            Kamron Williams "
+
+REFERENCE           CREDITS_QA_PC_MOD_TOOLS
+LANG_ENGLISH        "Quality Assurance, PC Mod Tools"
+
+REFERENCE           CREDITS_CARLOS_MONROY
+LANG_ENGLISH        "Christopher Tepper-Weise  "
+
+REFERENCE           CREDITS_QA_TESTERS_NIGHT_SHIFT
+LANG_ENGLISH        "QA Testers, Night Shift"
+
+REFERENCE           CREDITS_NATY_HOFFMAN
+LANG_ENGLISH        "Naty Hoffman"
+
+REFERENCE           CREDITS_JAEMIN_KANG
+LANG_ENGLISH        "JAEMIN KANG"
+
+REFERENCE           CREDITS_JIMMY_YANG
+LANG_ENGLISH        "    Jimmy Yang               Jonathan Quon         Dennis Edwards   "
+
+REFERENCE           CREDITS_TREVOR_BRESAW
+LANG_ENGLISH        "Trevor Bresaw"
+
+REFERENCE           CREDITS_EMILY_FULLER
+LANG_ENGLISH        "Emily Fuller                   Jan Flugum              Gary Davidson"
+
+REFERENCE           CREDITS_ERWIN_ALCANTARA
+LANG_ENGLISH        "Erwin Alcantara             Scott Anderson            Albert Astorga"
+
+REFERENCE           CREDITS_BRYAN_CHICE
+LANG_ENGLISH        "Bryan Chice                   Charlton Chu              Kevin Giang"
+
+REFERENCE           CREDITS_TRG_SENIOR_MANAGER
+LANG_ENGLISH        "TRG Senior Manager"
+
+REFERENCE           CREDITS_JULES_LEWIS
+LANG_ENGLISH        "Jules Lewis                   Earl Battice                  Rain Cross"
+
+REFERENCE           CREDITS_DANIEL_FEHSKENS
+LANG_ENGLISH        "Daniel Fehskens"
+
+REFERENCE           CREDITS_THOMAS_RIBADENEIRA
+LANG_ENGLISH        " Thomas Ribadeneira            Jonathan Ramsay          Benjamin Johnson "
+
+REFERENCE           CREDITS_QA_SENIOR_PROJECT_LEAD_DAY_SHIFT
+LANG_ENGLISH        "QA Senior Project Lead, Day Shift"
+
+REFERENCE           CREDITS_QA_SENIOR_PROJECT_LEAD_NIGHT_SHIFT
+LANG_ENGLISH        "QA Senior Project Lead, Night Shift"
+
+REFERENCE           CREDITS_GLENN_VISTANTE
+LANG_ENGLISH        "GLENN VISTANTE"
+
+REFERENCE           CREDITS_CHRISTOPHER_WILSON
+LANG_ENGLISH        "Christopher Wilson"
+
+REFERENCE           CREDITS_NICK_CHAVEZ
+LANG_ENGLISH        "Nick Chavez"
+
+REFERENCE           CREDITS_CHRISTOPHER_NORMAN
+LANG_ENGLISH        "Christopher Norman"
+
+REFERENCE           CREDITS_CLIFF_HOOPER
+LANG_ENGLISH        "Cliff Hooper"
+
+REFERENCE           CREDITS_QA_AVL_TESTER
+LANG_ENGLISH        "QA-AVL Tester"
+
+REFERENCE           CREDITS_TRG_SENIOR_PLATFORM_LEADS
+LANG_ENGLISH        "TRG Senior Platform Leads"
+
+REFERENCE           CREDITS_USES_MILES_SOUND_SYSTEM
+LANG_ENGLISH        "Uses Miles Sound System. Copyright 1991-2008 by RAD Game Tools, Inc."
+
+REFERENCE           CREDITS_KELLY_HUFFINE
+LANG_ENGLISH        "KELLY HUFFINE"
+
+REFERENCE           CREDITS_TEAK_HOLLEY
+LANG_ENGLISH        "TEAK HOLLEY"
+
+REFERENCE           CREDITS_DOV_CARSON
+LANG_ENGLISH        "DOV CARSON"
+
+REFERENCE           CREDITS_TRG_TESTERS
+LANG_ENGLISH        "TRG Testers"
+
+REFERENCE           CREDITS_FXVILLE
+LANG_ENGLISH        "FXVille"
+
+REFERENCE           CREDITS_ALEX_HIRSCH
+LANG_ENGLISH        "Alex Hirsch"
+
+REFERENCE           CREDITS_JACOB_ZWIRN
+LANG_ENGLISH        "JACOB ZWIRN"
+
+REFERENCE           CREDITS_JONATHAN_BUTCHER
+LANG_ENGLISH        "Jonathan Butcher"
+
+REFERENCE           CREDITS_GABRIEL_HIDALGO
+LANG_ENGLISH        "Gabriel Hidalgo"
+
+REFERENCE           CREDITS_MARK_RUZICKA
+LANG_ENGLISH        "MARK RUZICKA"
+
+REFERENCE           CREDITS_TIMOTHY_GAGLIARDO
+LANG_ENGLISH        "Timothy Gagliardo"
+
+REFERENCE           CREDITS_CHRISTOPHER_ABEEL
+LANG_ENGLISH        "Christopher Abeel"
+
+REFERENCE           CREDITS_VIDAL_CANTU
+LANG_ENGLISH        "Vidal Cantu"
+
+REFERENCE           CREDITS_QA_NETWORK_LAB_TESTERS
+LANG_ENGLISH        "QA Network Floor Leads"
+
+REFERENCE           CREDITS_QA_CODE_RELEASE_GROUP
+LANG_ENGLISH        "QA CODE RELEASE GROUP"
+
+REFERENCE           CREDITS_JEF_SEDIVY
+LANG_ENGLISH        "Jef Sedivy"
+
+REFERENCE           CREDITS_JOHN_PAUL_DRESTE
+LANG_ENGLISH        "John Paul Dreste"
+
+REFERENCE           CREDITS_QA_CRG_TESTERS
+LANG_ENGLISH        "QA-CRG Testers"
+
+REFERENCE           CREDITS_CHRIS_KEIM
+LANG_ENGLISH        "Chris Keim"
+
+REFERENCE           CREDITS_QA_NETWORK_LAB_SENIOR_PROJECT_LEAD
+LANG_ENGLISH        "QA Network Lab Senior Project Lead"
+
+REFERENCE           CREDITS_FRANCIS_JIMENEZ
+LANG_ENGLISH        "Francis Jimenez"
+
+REFERENCE           CREDITS_JESSIE_JONES
+LANG_ENGLISH        "Jessie Jones"
+
+REFERENCE           CREDITS_QA_MPL_PROJECT_LEAD
+LANG_ENGLISH        "QA - Multiplayer Test Lead"
+
+REFERENCE           CREDITS_DYLAN_RIXFORD
+LANG_ENGLISH        "Dylan Rixford"
+
+REFERENCE           CREDITS_QA_MPL_FLOOR_LEADS
+LANG_ENGLISH        "QA - Multiplayer Floor Leads"
+
+REFERENCE           CREDITS_LEONARD_RODRIGUEZ
+LANG_ENGLISH        "LEONARD RODRIGUEZ"
+
+REFERENCE           CREDITS_QA_MPL_TESTERS
+LANG_ENGLISH        "QA - Multiplayer Testers"
+
+REFERENCE           CREDITS_BRIAN_LAY
+LANG_ENGLISH        "Brian Lay"
+
+REFERENCE           CREDITS_QA_CL_SENIOR_PROJECT_LEAD
+LANG_ENGLISH        "QA-CL Senior Project Lead"
+
+REFERENCE           CREDITS_MICHAEL_HILL
+LANG_ENGLISH        "Michael Hill"
+
+REFERENCE           CREDITS_QA_CL_LAB_PROJECT_LEAD
+LANG_ENGLISH        "QA-CL Lab Project Lead"
+
+REFERENCE           CREDITS_CHRIS_NEAL
+LANG_ENGLISH        "Chris Neal"
+
+REFERENCE           CREDITS_ELLIOT_GOMEZ
+LANG_ENGLISH        "Elliot Gomez"
+
+REFERENCE           CREDITS_QA_AUDIO_VISUAL_LAB
+LANG_ENGLISH        "QA AUDIO VISUAL LAB"
+
+REFERENCE           CREDITS_QA_AVL_PROJECT_LEAD
+LANG_ENGLISH        "QA-AVL Project Lead"
+
+REFERENCE           CREDITS_BURN_ROOM_SUPERVISOR
+LANG_ENGLISH        "Burn Room Supervisor"
+
+REFERENCE           CREDITS_JOULE_MIDDLETON
+LANG_ENGLISH        "JOULE MIDDLETON"
+
+REFERENCE           CREDITS_DANNY_FENG
+LANG_ENGLISH        "DANNY FENG"
+
+REFERENCE           CREDITS_RODRIGO_MAGANA
+LANG_ENGLISH        "Rodrigo Magana"
+
+REFERENCE           CREDITS_SENIOR_MANAGER_QA_TECHNOLOGIES
+LANG_ENGLISH        "Senior Manager, QA Technologies"
+
+REFERENCE           CREDITS_THE_CHARACTERS_AND_EVENTS
+LANG_ENGLISH        "The characters and events depicted in this game are fictitious."
+
+REFERENCE           CREDITS_INDRA_YEE
+LANG_ENGLISH        "INDRA YEE"
+
+REFERENCE           CREDITS_ZAC_BLITZ
+LANG_ENGLISH        "Zac Blitz"
+
+REFERENCE           CREDITS_TEDDY_HWANG
+LANG_ENGLISH        "TEDDY HWANG"
+
+REFERENCE           CREDITS_JEREMY_TORRES
+LANG_ENGLISH        "JEREMY TORRES"
+
+REFERENCE           CREDITS_LAWRENCE_WEI
+LANG_ENGLISH        "LAWRENCE WEI"
+
+REFERENCE           CREDITS_BRYAN_PAPA
+LANG_ENGLISH        "Bryan Papa"
+
+REFERENCE           CREDITS_SEAN_OLSON
+LANG_ENGLISH        "SEAN OLSON"
+
+REFERENCE           CREDITS_QA_MIS_EQUIPMENT_COORDINATORS
+LANG_ENGLISH        "QA-MIS Equipment Coordinators"
+
+REFERENCE           CREDITS_QA_DBA_GROUP
+LANG_ENGLISH        "QA DBA GROUP"
+
+REFERENCE           CREDITS_DBA_TESTERS
+LANG_ENGLISH        "DBA Testers"
+
+REFERENCE           CREDITS_JON_LUCE
+LANG_ENGLISH        "Jon Luce"
+
+REFERENCE           CREDITS_DENNIS_SOH
+LANG_ENGLISH        "DENNIS SOH"
+
+REFERENCE           CREDITS_CUSTOMER_SUPPORT_MANAGERS
+LANG_ENGLISH        "Customer Support Managers"
+
+REFERENCE           CREDITS_QA_SPECIAL_THANKS
+LANG_ENGLISH        "QA SPECIAL THANKS"
+
+REFERENCE           CREDITS_MIKE_CLARKE
+LANG_ENGLISH        "Michael Clarke"
+
+REFERENCE           CREDITS_DENISE_LUCE
+LANG_ENGLISH        "Denise Luce"
+
+REFERENCE           CREDITS_AILEEN_GALEAS
+LANG_ENGLISH        "Aileen Galeas"
+
+REFERENCE           CREDITS_JEREMY_SHORTELL
+LANG_ENGLISH        "JEREMY SHORTELL"
+
+REFERENCE           CREDITS_RICHARD_PEARSON
+LANG_ENGLISH        "Richard Pearson"
+
+REFERENCE           CREDITS_MARC_WILLIAMS
+LANG_ENGLISH        "Marc Williams"
+
+REFERENCE           CREDITS_IGNITED_MINDS_LLC
+LANG_ENGLISH        "Ignited Minds, LLC"
+
+REFERENCE           CREDITS_PETROL
+LANG_ENGLISH        "Petrol"
+
+REFERENCE           CREDITS_THIS_PRODUCT_USES_FMOD
+LANG_ENGLISH        "This product uses 'FMOD Ex Sound System' by Firelight Technologies."
+
+REFERENCE           CREDITS_MIXED_AND_MASTERED
+LANG_ENGLISH        "Call of Duty: World At War mixed and mastered by"
+
+REFERENCE           CREDITS_TREYARCH_AUDIO_COD_TEAM
+LANG_ENGLISH        "Treyarch Audio: CoD Team"
+
+REFERENCE           CREDITS_SPECIAL_THANKS_TO_LEN_HAYES
+LANG_ENGLISH        "Special thanks to Len Hayes of the First Marine Division Veterans Association"
+
+REFERENCE           CREDITS_ALLAN_R_BISHOP
+LANG_ENGLISH        "Allan R. Bishop"
+
+REFERENCE           CREDITS_DON_BISHOP
+LANG_ENGLISH        "Don Bishop"
+
+REFERENCE           CREDITS_CHRIS_BANNOCK
+LANG_ENGLISH        "Chris Bannock"
+
+REFERENCE           CREDITS_HANK_KEIRSEY
+LANG_ENGLISH        "Lt. Colonel (ret.) Hank Keirsey"
+
+REFERENCE           CREDITS_TRG_LEAD
+LANG_ENGLISH        "TRG Lead"
+
+REFERENCE           CREDITS_LEAD_ENGINEER
+LANG_ENGLISH        "Lead Engineer"
+
+REFERENCE           CREDITS_MARK_JIHANIAN
+LANG_ENGLISH        "Mark Jihanian"
+
+REFERENCE           CREDITS_GUITAR_ARRANGEMENTS
+LANG_ENGLISH        "Guitar Arrangements"
+
+REFERENCE           CREDITS_JASON_HARRIS
+LANG_ENGLISH        "JASON HARRIS"
+
+REFERENCE           CREDITS_KEITH_KODAMA
+LANG_ENGLISH        "KEITH KODAMA"
+
+REFERENCE           CREDITS_COLIN_KAWAKAMI
+LANG_ENGLISH        "Colin Kawakami"
+
+REFERENCE           CREDITS_SCOTT_WINSLOW
+LANG_ENGLISH        "Scott Winslow"
+
+REFERENCE           CREDITS_JOHN_MCCURRY
+LANG_ENGLISH        "JOHN MCCURRY"
+
+REFERENCE           CREDITS_MELVIN_ALLEN
+LANG_ENGLISH        "MELVIN ALLEN"
+
+REFERENCE           CREDITS_JENNIFER_GOODMAN
+LANG_ENGLISH        "Jennifer Goodman"
+
+REFERENCE           CREDITS_MIKE_JUAREZ
+LANG_ENGLISH        "Mike Juarez"
+
+REFERENCE           CREDITS_DAVID_OBERLIN
+LANG_ENGLISH        "David Oberlin"
+
+REFERENCE           CREDITS_BRENT_GOTHOLD
+LANG_ENGLISH        "Brent Gothold"
+
+REFERENCE           CREDITS_PROJECT_LEAD_WII_TEAM
+LANG_ENGLISH        "Platform Lead"
+
+REFERENCE           CREDITS_SAM_NOURIANI
+LANG_ENGLISH        "Sam Nouriani"
+
+REFERENCE           CREDITS_TECHNICAL_DIRECTOR
+LANG_ENGLISH        "Technical Director"
+
+REFERENCE           CREDITS_JOHN_ALLENSWORTH
+LANG_ENGLISH        "John Allensworth"
+
+REFERENCE           CREDITS_EXAKT_ENTERTAINMENT
+LANG_ENGLISH        "EXAKT Entertainment, Inc."
+
+REFERENCE           CREDITS_PAUL_ASHDOWN
+LANG_ENGLISH        "Paul Ashdown"
+
+REFERENCE           CREDITS_JOSEPH_OLSON
+LANG_ENGLISH        "Joseph Olson"
+
+REFERENCE           CREDITS_JOHN_SCRAPPER
+LANG_ENGLISH        "John Scrapper"
+
+REFERENCE           CREDITS_TONY_KRAMER
+LANG_ENGLISH        "Tony Kramer"
+
+REFERENCE           CREDITS_JONATHAN_PETERS
+LANG_ENGLISH        "Jonathan Peters"
+
+REFERENCE           CREDITS_CHRISTINE_HOTTOVY
+LANG_ENGLISH        "Christine Hottovy"
+
+REFERENCE           CREDITS_SASAN_HELMI
+LANG_ENGLISH        "Sasan 'Sauce' Helmi"
+
+REFERENCE           CREDITS_MENAS_KAPITSAS
+LANG_ENGLISH        "Menas Kapitsas"
+
+REFERENCE           CREDITS_ANTOINE_BOHANNON
+LANG_ENGLISH        "Antoine 'Bo' Bohannon"
+
+REFERENCE           CREDITS_JEFF_KOYAMA
+LANG_ENGLISH        "Jeff Koyama"
+
+REFERENCE           CREDITS_JOE_PARDO
+LANG_ENGLISH        "Joe Pardo"
+
+REFERENCE           CREDITS_LUCAS_GOODMAN
+LANG_ENGLISH        "Lucas Goodman"
+
+REFERENCE           CREDITS_TOMER_MOR
+LANG_ENGLISH        "Tomer Mor"
+
+REFERENCE           CREDITS_SANTIAGO_SALVADOR
+LANG_ENGLISH        "Santiago Salvador"
+
+REFERENCE           CREDITS_CESAR_STASTNY
+LANG_ENGLISH        "Cesar Stastny"
+
+REFERENCE           CREDITS_KEN_SATO
+LANG_ENGLISH        "Ken Sato"
+
+REFERENCE           CREDITS_MICHAEL_BEACH
+LANG_ENGLISH        "Michael Beach"
+
+REFERENCE           CREDITS_GAVIN_NIEBEL
+LANG_ENGLISH        "GAVIN NIEBEL"
+
+REFERENCE           CREDITS_ALEX_ROMO
+LANG_ENGLISH        "Alex Romo"
+
+REFERENCE           CREDITS_NATHAN_FILLHARDT
+LANG_ENGLISH        "Nathan Fillhardt"
+
+REFERENCE           CREDITS_SKYE_CHANDLER
+LANG_ENGLISH        "Skye Chandler"
+
+REFERENCE           CREDITS_JOHN_GETTY
+LANG_ENGLISH        "John Getty"
+
+REFERENCE           CREDITS_IAN_LYNCH
+LANG_ENGLISH        "Ian Lynch"
+
+REFERENCE           CREDITS_JONATHAN_YANIV_SADKA
+LANG_ENGLISH        "Jonathan Yaniv Sadka"
+
+REFERENCE           CREDITS_KURTIS_SHERMAN
+LANG_ENGLISH        "Kurtis Sherman"
+
+REFERENCE           CREDITS_QA_CL_LAB_SPECIALIST
+LANG_ENGLISH        "QA-CL Lab Specialist"
+
+REFERENCE           CREDITS_JON_AN
+LANG_ENGLISH        "JON AN"
+
+REFERENCE           CREDITS_BOBBY_JONES
+LANG_ENGLISH        "Bobby Jones"
+
+ENDMARKER

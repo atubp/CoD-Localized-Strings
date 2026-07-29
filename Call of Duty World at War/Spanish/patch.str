@@ -1,0 +1,427 @@
+// Dumped from fastfile "patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PATCH_STATSERRORPRESTIGE
+LANG_ENGLISH        "Los datos de rango persistentes de '&&4' están dañados. Se ha reiniciado tu rango a la copia de seguridad más reciente: &&1 Nvl &&2 de prestigio &&3."
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_A
+LANG_ENGLISH        "Ensenada"
+
+REFERENCE           PATCH_STATSERROR
+LANG_ENGLISH        "Los datos de rango persistentes de '&&4' están dañados. Se ha reiniciado tu rango a la copia de seguridad más reciente: &&1 Nvl &&2."
+
+REFERENCE           PATCH_SUB_PENS
+LANG_ENGLISH        "Sub Pens"
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "NOM4D"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_A
+LANG_ENGLISH        "Muelle"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "Los datos guardados no son compatibles con la versión actual del juego. Puedes continuar desde el principio de la misión más reciente o salir a los menús."
+
+REFERENCE           PATCH_DLC_MAP_PACK_3
+LANG_ENGLISH        "Pack de mapas 3"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_TEST
+LANG_ENGLISH        "Mapa de prueba (solo desarrolladores)"
+
+REFERENCE           PATCH_M7_LAUNCHER_UPGRADED
+LANG_ENGLISH        "Lanzagranadas M7  "
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_B
+LANG_ENGLISH        "Patio"
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "Todos los usuarios deben tener la misma versión del juego para jugar partidas de Interconexión. Inicia sesión en Xbox LIVE para asegurarte de que dispones de la actualización más reciente del juego."
+
+REFERENCE           PATCH_SP_UNLOCK_DESC
+LANG_ENGLISH        "Accede a este modo de juego cooperativo desde las listas de partidas online y la configuración de partida personalizada."
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_COAST
+LANG_ENGLISH        "Zombie Coast"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_FACTORY
+LANG_ENGLISH        "Der Riese"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_D
+LANG_ENGLISH        "Sala de la caldera"
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "Patrón de color alternativo"
+
+REFERENCE           PATCH_SUBWAY
+LANG_ENGLISH        "Station"
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "Las versiones del juego no son compatibles para jugar en línea en este modo."
+
+REFERENCE           PATCH_PLAYER_DOESNT_HAVE_MAP_PACK
+LANG_ENGLISH        "¡&&2 desactivado!\n&&1 no tiene el paquete de mapas."
+
+REFERENCE           PATCH_MAKIN_BONUS_MAP
+LANG_ENGLISH        "Mapa extra Makin"
+
+REFERENCE           PATCH_PTRS41_UPGRADED
+LANG_ENGLISH        "PTRS-41"
+
+REFERENCE           PATCH_MAKIN_DAY
+LANG_ENGLISH        "Día Makin"
+
+REFERENCE           PATCH_MAKIN_DAY_CAPS
+LANG_ENGLISH        "DÍA MAKIN"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_E
+LANG_ENGLISH        "Plataforma occidental"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_A
+LANG_ENGLISH        "Lado este"
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "Esta demo está ejecutando el mod ^3&&1^7.\nTienes que cargar el mod antes de poder ver la demo."
+
+REFERENCE           PATCH_GET_DLC
+LANG_ENGLISH        "DESCARGAR MAPAS"
+
+REFERENCE           PATCH_DLC_MAP_PACK_1
+LANG_ENGLISH        "Paquete de mapas 1"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_C
+LANG_ENGLISH        "Puente"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_TEST_MAP
+LANG_ENGLISH        "Aquí puedes ver todas las nuevas funciones."
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_PARIS
+LANG_ENGLISH        "Zombie Paris"
+
+REFERENCE           PATCH_DLC_MAP_PACK_2
+LANG_ENGLISH        "Paquete de mapas 2"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_ASYLUM
+LANG_ENGLISH        "Zombi Verrückt"
+
+REFERENCE           PATCH_NAZI_ZOMBIES_CAP
+LANG_ENGLISH        "Zombis nazis"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_ASYLUM
+LANG_ENGLISH        "Terapia de electroshock. Bebidas de ingeniería química. Hordas de zombis nazis. ¡Encontrad el poder para uniros y enviadlos de vuelta a sus tumbas!"
+
+REFERENCE           PATCH_KNEEDEEP
+LANG_ENGLISH        "Knee Deep"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_D
+LANG_ENGLISH        "Pozo"
+
+REFERENCE           PATCH_BGATE
+LANG_ENGLISH        "Breach"
+
+REFERENCE           PATCH_NACHTFEUER
+LANG_ENGLISH        "Nightfire"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_A
+LANG_ENGLISH        "Plataforma oriental"
+
+REFERENCE           PATCH_KNEEDEEP_CAPS
+LANG_ENGLISH        "KNEE DEEP"
+
+REFERENCE           PATCH_SUBWAY_CAPS
+LANG_ENGLISH        "ESTACIÓN"
+
+REFERENCE           PATCH_BGATE_CAPS
+LANG_ENGLISH        "BREACH"
+
+REFERENCE           PATCH_NACHTFEUER_CAPS
+LANG_ENGLISH        "NIGHTFIRE"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_D
+LANG_ENGLISH        "Búnker"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_E
+LANG_ENGLISH        "Arrozal"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_B
+LANG_ENGLISH        "Puestos de servicio"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_C
+LANG_ENGLISH        "Montaña de escombros"
+
+REFERENCE           PATCH_DOWNLOADABLE_CONTENT_DAMAGED
+LANG_ENGLISH        "El contenido descargable se ha dañado."
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_FACTORY
+LANG_ENGLISH        "El gigante se alza. Enfréntate al poder de los zombis nazis en su tierra natal. Aquí es donde empezó todo. Aquí es donde el plan maestro cobró forma. ¿Será aquí donde acabe?"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_A
+LANG_ENGLISH        "Estación"
+
+REFERENCE           PATCH_MG42_UPGRADED
+LANG_ENGLISH        "MG42"
+
+REFERENCE           PATCH_STALINGRAD_CAPS
+LANG_ENGLISH        "CORROSION"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_PARIS
+LANG_ENGLISH        "Descripción de Zombie Paris"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_B
+LANG_ENGLISH        "Pueblo"
+
+REFERENCE           PATCH_ONLINE
+LANG_ENGLISH        "^2online^7"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_THEATER
+LANG_ENGLISH        "Zombie Theater"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_THEATER
+LANG_ENGLISH        "Hola, y bienvenido a otro episodio de Zombie Piece Theater"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_COAST
+LANG_ENGLISH        "Descripción de Zombie Coast"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_B
+LANG_ENGLISH        "Proa submarino"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_SUMPF
+LANG_ENGLISH        "Shi No Numa"
+
+REFERENCE           PATCH_STALINGRAD
+LANG_ENGLISH        "Corrosion"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_SUMPF
+LANG_ENGLISH        "Cuerpos infestados de gusanos. Un pantano lleno de insectos. Cientos de no muertos del Ejército Imperial. ¡Elegid vuestra táctica y defended vuestras vidas!"
+
+REFERENCE           PATCH_BRANDENBURG
+LANG_ENGLISH        "BRANDEMBURGO"
+
+REFERENCE           PATCH_KWAI
+LANG_ENGLISH        "Banzai!"
+
+REFERENCE           "PATCH_STG-44_UPGRADED"
+LANG_ENGLISH        "STG-44"
+
+REFERENCE           PATCH_BRANDENBURG_CAPS
+LANG_ENGLISH        "BRANDEMBURGO"
+
+REFERENCE           PATCH_KWAI_CAPS
+LANG_ENGLISH        "BANZAI!"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_D
+LANG_ENGLISH        "Popa submarino"
+
+REFERENCE           PATCH_SUB_PENS_CAPS
+LANG_ENGLISH        "SUB PENS"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_B
+LANG_ENGLISH        "Fábrica"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_C
+LANG_ENGLISH        "Vertido de azufre"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_C
+LANG_ENGLISH        "Cascada"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_E
+LANG_ENGLISH        "Lado oeste"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_C
+LANG_ENGLISH        "Reparación de avión"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_E
+LANG_ENGLISH        "Sala de planificación"
+
+REFERENCE           PATCH_360ONLY_MISSINGMAP
+LANG_ENGLISH        "No tienes este mapa o el contenido se ha dañado. Puedes conseguirlo si descargas paquetes de mapas en el Bazar Xbox LIVE."
+
+REFERENCE           PATCH_MISSINGMAP
+LANG_ENGLISH        "No tienes este mapa. Puedes descargar paquetes de mapas en PlayStation®Store."
+
+REFERENCE           PATCH_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "Esta lista de partidas requiere un paquete de mapas que no tienes. Puedes descargar paquetes de mapas en PlayStation®Store."
+
+REFERENCE           PATCH_UNHANDLEDEXCEPTION
+LANG_ENGLISH        "Se ha producido un error al leer los datos. Asegúrate de que todos los dispositivos de almacenamiento estén conectados correctamente y que el disco de juego esté limpio."
+
+REFERENCE           PATCH_TESLA_GUN
+LANG_ENGLISH        "Wunderwaffe DG-2"
+
+REFERENCE           PATCH_ZOMBIE_MAPS
+LANG_ENGLISH        "Zombis Nazis"
+
+REFERENCE           PATCH_ZOMBIE_MAPS_DESC
+LANG_ENGLISH        "Elige un nivel de zombis nazis para jugar en el modo para un jugador."
+
+REFERENCE           PATCH_CANNOT_FIND_ZONE
+LANG_ENGLISH        "No se encuentra el contenido que intentas cargar o es de otra región. Asegúrate de que el disco está limpio y de que tienes el contenido descargable correcto."
+
+REFERENCE           PATCH_30CAL_UPGRADED
+LANG_ENGLISH        "Browning M1919"
+
+REFERENCE           PATCH_BAR_UPGRADED
+LANG_ENGLISH        "BAR"
+
+REFERENCE           PATCH_COLT45_UPGRADED
+LANG_ENGLISH        "Colt M1911"
+
+REFERENCE           PATCH_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP_UPGRADED
+LANG_ENGLISH        "Escopeta recortada"
+
+REFERENCE           PATCH_SHOTGUN_DOUBLE_BARRELED_UPGRADED
+LANG_ENGLISH        "Escopeta de dos cañones"
+
+REFERENCE           PATCH_M1GARAND_UPGRADED
+LANG_ENGLISH        "M1 Garand"
+
+REFERENCE           PATCH_FG42_UPGRADED
+LANG_ENGLISH        "FG42"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_D
+LANG_ENGLISH        "Fábrica"
+
+REFERENCE           PATCH_GEWEHR43_UPGRADED
+LANG_ENGLISH        "Gewehr 43"
+
+REFERENCE           PATCH_M1A1CARBINE_UPGRADED
+LANG_ENGLISH        "Carabina M1A1"
+
+REFERENCE           PATCH_RUSSIAN_HERO_DESC
+LANG_ENGLISH        "Ni el mismísimo Stalin ni nadie puede aguantar la mirada a Nikolai. En sus ojos se ve el alma de un hombre que odia a muerte a todos los seres vivos. Su armario está lleno de esqueletos y muchos de ellos aún conservan carne en los huesos. \n...\nEn los primeros años de su carrera, Nikolai ascendió rápidamente en el escalafón del partido asesinando a los que estaban por encima de él y contrayendo matrimonios políticos. Sus aspiraciones se fueron al traste cuando su quinta esposa murió misteriosamente mientras limpiaba el hacha de Nikolai con el cuello, pero Nikolai no sabía que su mujer había estado acostándose con un miembro de alto rango del partido. Esto arruinó la fama de Nikolai y su reputación se extendió rápidamente. El mismísimo Stalin no tardó en oír hablar de Nikolai y tuvo miedo de él. En cuanto comenzó la guerra, enviaron a Nikolai al frente y se olvidaron de él. Durante varios años, ahogó sus penas en vodka y se compadeció de sí mismo.\n...\nHay muchas armas en su arsenal, entre ellas su aliento.\n"
+
+REFERENCE           PATCH_MP40_UPGRADED
+LANG_ENGLISH        "MP40"
+
+REFERENCE           PATCH_PPSH_UPGRADED
+LANG_ENGLISH        "PPSh-41"
+
+REFERENCE           PATCH_SHOTGUN_UPGRADED
+LANG_ENGLISH        "Escopeta M1897"
+
+REFERENCE           PATCH_357MAGNUM_UPGRADED
+LANG_ENGLISH        "Magnum .357"
+
+REFERENCE           PATCH_THOMPSON_UPGRADED
+LANG_ENGLISH        "Thompson"
+
+REFERENCE           PATCH_TYPE100_SMG_UPGRADED
+LANG_ENGLISH        "Tipo 100"
+
+REFERENCE           PATCH_TYPE99_RIFLE_UPGRADED
+LANG_ENGLISH        "Arisaka"
+
+REFERENCE           PATCH_PANZERSCHREK_UPGRADED
+LANG_ENGLISH        "Panzerschrek"
+
+REFERENCE           PATCH_RAY_GUN_UPGRADED
+LANG_ENGLISH        "Arma de rayos  "
+
+REFERENCE           PATCH_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "Wunderwaffe DG-2  "
+
+REFERENCE           PATCH_M2_FLAMETHROWER_UPGRADED
+LANG_ENGLISH        "Lanzallamas M2  "
+
+REFERENCE           PATCH_KAR98K_UPGRADED
+LANG_ENGLISH        "Kar98k  "
+
+REFERENCE           PATCH_M7_LAUNCHER_UPGRADED_NONADE
+LANG_ENGLISH        "Lanzagranadas M7  "
+
+REFERENCE           PATCH_JAPANESE_HERO_NAME
+LANG_ENGLISH        "Takeo Masaki"
+
+REFERENCE           PATCH_HERO_BIO_CAP
+LANG_ENGLISH        "BIOGRAFÍAS"
+
+REFERENCE           PATCH_AMERICAN_HERO_DESC
+LANG_ENGLISH        "Tank Dempsey: héroe estadounidense. Dale un arma cargada, una buena mujer y un blanco y ya es feliz. Si lo enfadas, te arrancará las tripas y las usará como bandolera. \n...\nSeleccionaron a Dempsey para esta misión cuando demostró su valor en la batalla de Peleliu. Aunque parezca increíble, capturaron a su unidad durante las primeras incursiones previas a la invasión principal y se pasó dos semanas en una jaula de bambú sumergida en aguas malsanas e infestadas de ratas. Eso no detuvo a Tank. Después de abrirse paso a mordiscos, eliminó a sus captores armado tan solo con su medalla de honor y una horquilla que guardaba en diversos orificios del cuerpo. \n...\nPara Dempsey, no hay un antes y un después de la guerra: solo existe la leyenda de Tank Dempsey y cómo ganará la guerra para todos los demás.\n"
+
+REFERENCE           PATCH_AMERICAN_HERO_NAME
+LANG_ENGLISH        "Tank Dempsey"
+
+REFERENCE           PATCH_RUSSIAN_HERO_NAME
+LANG_ENGLISH        "Nikolai Belinski"
+
+REFERENCE           PATCH_JAPANESE_HERO_DESC
+LANG_ENGLISH        "Para Takeo, la vida solo sirve para perfeccionar la disciplina y revelar el auténtico carácter y honor del guerrero. Reflexiona sobre esto y otras cuestiones filosóficas mientras su catana rebana la carne y los tendones del enemigo.\n...\nTakeo nació rico. Su dinastía se remonta varios siglos atrás y, a lo largo de ese tiempo, ha tenido muchos samuráis y guerreros condecorados. Takeo no es una excepción en este célebre linaje. Cuando su familia vio al joven Takeo de 5 años jugar en la calle con su catana y cortar los rabos de aterrorizados gatitos, les quedó claro que estaba destinado a cubrir de honor al apellido Masaki.\n...\nReservado y reflexivo, la guerra fue la oportunidad perfecta para Takeo de explorar su sed de sangre y estudiar la naturaleza de aquellos menos honorables que él. Si eres víctima de su rapidez, consuélate al saber que has ayudado a alcanzar la iluminación a un hombre mejor que tú. \n"
+
+REFERENCE           PATCH_GERMAN_HERO_NAME
+LANG_ENGLISH        "Doctor Richtofen"
+
+REFERENCE           PATCH_GERMAN_HERO_DESC
+LANG_ENGLISH        "\"Ten cuidado con el doctor\". Este mensaje estaba garabateado en las paredes de todas las poblaciones controladas por el Eje. El hambre puede lisiarte, la disentería, destrozarte, los disparos te pueden arrancar la carne de los huesos... pero ten cuidado con el doctor.\n\n...\nSe trata del Dr. Richtofen, al que sus víctimas apodan \"El carnicero\" mientras gritan agonizantes poco antes de morir. A lo largo de su carrera, Richtofen ha ocupado la vanguardia de los métodos de tortura y extracción de información. Richtofen es un sociópata incurable que no distingue la muerte natural del asesinato; la víctima es la víctima, con independencia de cómo fallezca. \n...\nEl doctor Richtofen tiene una colección de animales disecados, casi todos adoptando poses aterrorizadas en el momento de su muerte."
+
+REFERENCE           PATCH_DRUM
+LANG_ENGLISH        "Battery"
+
+REFERENCE           PATCH_DRUM_CAPS
+LANG_ENGLISH        "BATTERY"
+
+REFERENCE           PATCH_VODKA
+LANG_ENGLISH        "Revolution"
+
+REFERENCE           PATCH_VODKA_CAPS
+LANG_ENGLISH        "REVOLUTION"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_A
+LANG_ENGLISH        "Calle"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_B
+LANG_ENGLISH        "Patio"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_C
+LANG_ENGLISH        "Puesto de guardia"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_D
+LANG_ENGLISH        "Parque"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_E
+LANG_ENGLISH        "Aparcamiento"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_A
+LANG_ENGLISH        "Cráter"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_B
+LANG_ENGLISH        "Batería E"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_C
+LANG_ENGLISH        "Comedor"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_D
+LANG_ENGLISH        "Torre"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_E
+LANG_ENGLISH        "Grúa"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_A
+LANG_ENGLISH        "Tienda"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_B
+LANG_ENGLISH        "Balcón"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_C
+LANG_ENGLISH        "Destilería"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_E
+LANG_ENGLISH        "Muelle de Carga"
+
+REFERENCE           PATCH_SERVER_AUTHFAIL
+LANG_ENGLISH        "Error de autenticación de servidor. Inténtalo de nuevo."
+
+REFERENCE           PATCH_BROUGHT_TO_YOU
+LANG_ENGLISH        "Brought to you by..."
+
+REFERENCE           PATCH_UNLOADMOD
+LANG_ENGLISH        "Este servidor no permite una modificación.\nTienes que descargar tu modificación para poder unirte al servidor."
+
+REFERENCE           PATCH_ADD_CURRENT_SERVER_TO_FAVORITES
+LANG_ENGLISH        "Añadir el servidor seleccionado a los favoritos"
+
+REFERENCE           PATCH_OFFLINE
+LANG_ENGLISH        "^1offline^7"
+
+ENDMARKER

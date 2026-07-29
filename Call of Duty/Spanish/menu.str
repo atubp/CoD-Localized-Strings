@@ -1,0 +1,1355 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\mk\source_data\string_resources\StringEd.cfg"
+FILENOTES           "Strings displayed in the menus go in this file."
+
+REFERENCE           YES
+LANG_ENGLISH        "Yes"
+LANG_SPANISH        "Sí"
+
+REFERENCE           MULTIPLAYER
+LANG_ENGLISH        "Multiplayer"
+LANG_SPANISH        "Multijugador"
+
+REFERENCE           QUIT
+LANG_ENGLISH        "Quit"
+LANG_SPANISH        "Salir"
+
+REFERENCE           OPTIONS
+LANG_ENGLISH        "Options"
+LANG_SPANISH        "Opciones"
+
+REFERENCE           SAVELOADGAME
+LANG_ENGLISH        "Save/Load Game"
+LANG_SPANISH        "Guardar/Cargar Partida"
+
+REFERENCE           LOADGAME
+LANG_ENGLISH        "Load Game"
+LANG_SPANISH        "Cargar Partida"
+
+REFERENCE           NEWGAME
+LANG_ENGLISH        "New Game"
+LANG_SPANISH        "Nueva Partida"
+
+REFERENCE           TRAINING
+LANG_ENGLISH        "Training"
+LANG_SPANISH        "Entrenamiento"
+
+REFERENCE           RESUMEGAME
+LANG_ENGLISH        "Resume Game"
+LANG_SPANISH        "Continuar Partida"
+
+REFERENCE           BACKTOGAME
+LANG_ENGLISH        "Back To Game"
+LANG_SPANISH        "Volver a la Partida"
+
+REFERENCE           CURRENTLYINAGAME
+LANG_ENGLISH        "You are currently in a game"
+LANG_SPANISH        "Ya estás en una partida"
+
+REFERENCE           DOYOUWISHTOCONTINUE
+LANG_ENGLISH        "Do you wish to continue?"
+LANG_SPANISH        "¿Desea continuar?"
+
+REFERENCE           CHOOSESKILLLEVEL
+LANG_ENGLISH        "Choose Your Skill Level"
+LANG_SPANISH        "Escoge tu nivel de habilidad"
+
+REFERENCE           GREENHORN
+LANG_ENGLISH        "Greenhorn"
+LANG_SPANISH        "Novato"
+
+REFERENCE           REGULAR
+LANG_ENGLISH        "Regular"
+LANG_SPANISH        "#same"
+
+REFERENCE           HARDENED
+LANG_ENGLISH        "Hardened"
+LANG_SPANISH        "Endurecido"
+
+REFERENCE           VETERAN
+LANG_ENGLISH        "Veteran"
+LANG_SPANISH        "Veterano"
+
+REFERENCE           BACK
+LANG_ENGLISH        "Back"
+LANG_SPANISH        "Volver"
+
+REFERENCE           STARTTRAINING
+LANG_ENGLISH        "Start training?"
+LANG_SPANISH        "¿Comenzar entrenamiento?"
+
+REFERENCE           SWITCHTOMULTIPLAYER
+LANG_ENGLISH        "Switch to Multiplayer?"
+LANG_SPANISH        "¿Cambiar a Multijugador?"
+
+REFERENCE           NO
+LANG_ENGLISH        "No"
+LANG_SPANISH        "#same"
+
+REFERENCE           SAVEGAMELIST
+LANG_ENGLISH        "Save Game List"
+LANG_SPANISH        "Lista de Partidas Guardadas"
+
+REFERENCE           SHOWAUTOSAVES
+LANG_ENGLISH        "Show Auto Saves"
+LANG_SPANISH        "Mostrar Auto Guardados"
+
+REFERENCE           SHOWMANUALSAVES
+LANG_ENGLISH        "Show Manual Saves"
+LANG_SPANISH        "Mostrar Guardados Manuales"
+
+REFERENCE           NAME
+LANG_ENGLISH        "Name"
+LANG_SPANISH        "Nombre"
+
+REFERENCE           DATE
+LANG_ENGLISH        "Date"
+LANG_SPANISH        "Fecha"
+
+REFERENCE           SAVEAS
+LANG_ENGLISH        "Save As:"
+LANG_SPANISH        "Guardar como:"
+
+REFERENCE           DELETE
+LANG_ENGLISH        "Delete"
+LANG_SPANISH        "Borrar"
+
+REFERENCE           LOAD
+LANG_ENGLISH        "Load"
+LANG_SPANISH        "Cargar"
+
+REFERENCE           SAVE
+LANG_ENGLISH        "Save"
+LANG_SPANISH        "Guardar"
+
+REFERENCE           DEL_SEL_SAVEGAME
+LANG_ENGLISH        "Delete selected save game?"
+LANG_SPANISH        "¿Borrar el juego seleccionado?"
+
+REFERENCE           OVERWRITE_EXISTING_FILE
+LANG_ENGLISH        "Overwrite existing file?"
+LANG_SPANISH        "¿Sobrescribir archivo existente?"
+
+REFERENCE           OK
+LANG_ENGLISH        "OK"
+LANG_SPANISH        "#same"
+
+REFERENCE           YOU_MUST_SPECIFY_A_FILENAME
+LANG_ENGLISH        "You must specify a filename!"
+LANG_SPANISH        "¡Debes especificar un nombre para el archivo!"
+
+REFERENCE           ARE_YOU_SURE_QUIT
+LANG_ENGLISH        "Are you sure you want to quit?"
+LANG_SPANISH        "¿Seguro que quieres salir?"
+
+REFERENCE           CONTROLS
+LANG_ENGLISH        "Controls"
+LANG_SPANISH        "Controles"
+
+REFERENCE           LOOK
+LANG_ENGLISH        "Look"
+LANG_SPANISH        "Mirar"
+
+REFERENCE           MOVE
+LANG_ENGLISH        "Move"
+LANG_SPANISH        "Mover"
+
+REFERENCE           SHOOT
+LANG_ENGLISH        "Shoot"
+LANG_SPANISH        "Disparar"
+
+REFERENCE           SAVE_INTERACT
+LANG_ENGLISH        "Save/Interact"
+LANG_SPANISH        "Guardar/Interactuar"
+
+REFERENCE           CONTROL_DEFAULTS
+LANG_ENGLISH        "Control Defaults"
+LANG_SPANISH        "Controles predeterminados"
+
+REFERENCE           SYSTEM
+LANG_ENGLISH        "System"
+LANG_SPANISH        "Sistema"
+
+REFERENCE           GRAPHICS
+LANG_ENGLISH        "Graphics"
+LANG_SPANISH        "Gráficos"
+
+REFERENCE           SOUND
+LANG_ENGLISH        "Sound"
+LANG_SPANISH        "Sonido"
+
+REFERENCE           PERFORMANCE
+LANG_ENGLISH        "Performance"
+LANG_SPANISH        "Rendimiento"
+
+REFERENCE           DRIVERINFO
+LANG_ENGLISH        "Driver Info"
+LANG_SPANISH        "Información sobre controladores"
+
+REFERENCE           RESET_SYSTEM_DEFAULTS
+LANG_ENGLISH        "Optimal System Settings"
+LANG_SPANISH        "Reestablecer valores predeterminados"
+
+REFERENCE           CREDITS
+LANG_ENGLISH        "Credits"
+LANG_SPANISH        "Créditos"
+
+REFERENCE           RESET_TO_DEFAULTS
+LANG_ENGLISH        "Reset to Default"
+LANG_SPANISH        "Reestablecer a predeterminados"
+
+REFERENCE           THIS_WILL_RESTORE_ALL_SETTINGS
+LANG_ENGLISH        "Each setting will be restored"
+LANG_SPANISH        "Se restaurará cada parámetro"
+
+REFERENCE           TO_THEIR_DEFAULT_VALUE
+LANG_ENGLISH        "to its default value."
+LANG_SPANISH        "a su valor original"
+
+REFERENCE           ARE_YOU_SURE
+LANG_ENGLISH        "Are you sure?"
+LANG_SPANISH        "¿Estás seguro?"
+
+REFERENCE           YOUR_CONTROLS_ARE_NOW_SET
+LANG_ENGLISH        "Your controls are now set"
+LANG_SPANISH        "Tus controles están ahora ajustados"
+
+REFERENCE           TO_THEIR_ORIGINAL_DEFAULT_VALUES
+LANG_ENGLISH        "to their original default values."
+LANG_SPANISH        "a sus valores originales."
+
+REFERENCE           CLOSE
+LANG_ENGLISH        "Close"
+LANG_SPANISH        "Cerrar"
+
+REFERENCE           OPTIONS_SYSTEM
+LANG_ENGLISH        "Options - System"
+LANG_SPANISH        "Opciones - Sistema"
+
+REFERENCE           SET_RECOMMENDED
+LANG_ENGLISH        "Set Recommended"
+LANG_SPANISH        "Configuración recomendada"
+
+REFERENCE           QUALITY
+LANG_ENGLISH        "Quality:"
+LANG_SPANISH        "Calidad:"
+
+REFERENCE           QUALITY_RECOMMENDED
+LANG_ENGLISH        "Quality:  Recommended"
+LANG_SPANISH        "Calidad:  Recomendada"
+
+REFERENCE           VIDEO_MODE
+LANG_ENGLISH        "Video Mode:"
+LANG_SPANISH        "Modo de vídeo:"
+
+REFERENCE           COLOR_DEPTH
+LANG_ENGLISH        "Color Depth:"
+LANG_SPANISH        "Profundidad de color:"
+
+REFERENCE           FULLSCREEN
+LANG_ENGLISH        "Full Screen:"
+LANG_SPANISH        "Pantalla completa:"
+
+REFERENCE           GEOMETRIC_DETAIL
+LANG_ENGLISH        "Geometric Detail:"
+LANG_SPANISH        "Detalle geométrico:"
+
+REFERENCE           CHARACTER_TEXTURES
+LANG_ENGLISH        "Character Textures:"
+LANG_SPANISH        "Texturas del personaje:"
+
+REFERENCE           GENERAL_TEXTURES
+LANG_ENGLISH        "General Textures:"
+LANG_SPANISH        "Texturas generales:"
+
+REFERENCE           TEXTURE_FILTER
+LANG_ENGLISH        "Texture Filter:"
+LANG_SPANISH        "Filtro de textura:"
+
+REFERENCE           TEXTURE_QUALITY
+LANG_ENGLISH        "Texture Quality:"
+LANG_SPANISH        "Calidad de textura:"
+
+REFERENCE           NVIDIA_DISTANCE_FOG
+LANG_ENGLISH        "Nvidia Distance Fog:"
+LANG_SPANISH        "Distancia de niebla de Nvidia:"
+
+REFERENCE           BRIGHTNESS
+LANG_ENGLISH        "Brightness:"
+LANG_SPANISH        "Brillo:"
+
+REFERENCE           LANGUAGE
+LANG_ENGLISH        "Language:"
+LANG_SPANISH        "Idioma:"
+
+REFERENCE           APPLY_LANGUAGE_CHANGE
+LANG_ENGLISH        "Apply Language Change"
+LANG_SPANISH        "Aplicar cambio de idioma"
+
+REFERENCE           APPLY
+LANG_ENGLISH        "Apply"
+LANG_SPANISH        "Aplicar"
+
+REFERENCE           YOUR_SETTINGS_ARE_NOW_SET
+LANG_ENGLISH        "Your settings are now set"
+LANG_SPANISH        "Tus ajustes han sido configurados con éxito"
+
+REFERENCE           OPTIONS_CONTROLS
+LANG_ENGLISH        "Options - Controls"
+LANG_SPANISH        "Opciones - Controles"
+
+REFERENCE           LOOK_UP
+LANG_ENGLISH        "Look Up:  "
+LANG_SPANISH        "Mirar arriba:  "
+
+REFERENCE           LOOK_DOWN
+LANG_ENGLISH        "Look Down:  "
+LANG_SPANISH        "Mirar abajo:  "
+
+REFERENCE           MOUSE_LOOK
+LANG_ENGLISH        "Mouse Look:  "
+LANG_SPANISH        "Ratón mirar:  "
+
+REFERENCE           CENTER_VIEW
+LANG_ENGLISH        "Center View:  "
+LANG_SPANISH        "Centrar vista:  "
+
+REFERENCE           FREE_LOOK
+LANG_ENGLISH        "Free Look:  "
+LANG_SPANISH        "Mirada libre:  "
+
+REFERENCE           INVERT_MOUSE
+LANG_ENGLISH        "Invert Mouse:  "
+LANG_SPANISH        "Invertir ratón:  "
+
+REFERENCE           SMOOTH_MOUSE
+LANG_ENGLISH        "Smooth Mouse:  "
+LANG_SPANISH        "Suavidad del ratón:  "
+
+REFERENCE           MOUSE_SENSITIVITY
+LANG_ENGLISH        "Mouse Sensitivity:  "
+LANG_SPANISH        "Sensibilidad del ratón:  "
+
+REFERENCE           SHOW_OBJECTIVES_SCORES
+LANG_ENGLISH        "Show Objectives/Scores:  "
+LANG_SPANISH        "Mostrar objetivos/Puntuaciones:  "
+
+REFERENCE           USE
+LANG_ENGLISH        "Use:  "
+LANG_SPANISH        "Usar:  "
+
+REFERENCE           QUICK_SAVE
+LANG_ENGLISH        "Quick Save:  "
+LANG_SPANISH        "Guardado rápido:  "
+
+REFERENCE           QUICK_LOAD
+LANG_ENGLISH        "Quick Load:  "
+LANG_SPANISH        "Cargado rápido:  "
+
+REFERENCE           SCREENSHOT
+LANG_ENGLISH        "Screenshot:  "
+LANG_SPANISH        "Captura:  "
+
+REFERENCE           FORWARD
+LANG_ENGLISH        "Forward:  "
+LANG_SPANISH        "Adelante:  "
+
+REFERENCE           BACKPEDAL
+LANG_ENGLISH        "Backpedal:  "
+LANG_SPANISH        "Retroceder:  "
+
+REFERENCE           MOVE_LEFT
+LANG_ENGLISH        "Move Left:  "
+LANG_SPANISH        "Mover a la izquierda:  "
+
+REFERENCE           MOVE_RIGHT
+LANG_ENGLISH        "Move Right:  "
+LANG_SPANISH        "Mover a la derecha:  "
+
+REFERENCE           LEAN_LEFT
+LANG_ENGLISH        "Lean Left:  "
+LANG_SPANISH        "Inclinarse a la izquierda:  "
+
+REFERENCE           LEAN_RIGHT
+LANG_ENGLISH        "Lean Right:  "
+LANG_SPANISH        "Inclinarse a la derecha:  "
+
+REFERENCE           STAND
+LANG_ENGLISH        "Stand:  "
+LANG_SPANISH        "Levantarse:  "
+
+REFERENCE           CROUCH
+LANG_ENGLISH        "Crouch:  "
+LANG_SPANISH        "Agacharse:  "
+
+REFERENCE           PRONE
+LANG_ENGLISH        "Prone:  "
+LANG_SPANISH        "Cuerpo a tierra:  "
+
+REFERENCE           JUMP_STANCE_UP
+LANG_ENGLISH        "Jump/Stance Up:  "
+LANG_SPANISH        "Saltar/Levantarse:  "
+
+REFERENCE           STANCE_DOWN
+LANG_ENGLISH        "Stance Down:  "
+LANG_SPANISH        "Postura agachada:  "
+
+REFERENCE           STANCE_UP
+LANG_ENGLISH        "Stance Up:  "
+LANG_SPANISH        "Levantarse:  "
+
+REFERENCE           TOGGLE_CROUCH
+LANG_ENGLISH        "Toggle Crouch:  "
+LANG_SPANISH        "Activar agacharse:  "
+
+REFERENCE           TOGGLE_PRONE
+LANG_ENGLISH        "Toggle Prone:  "
+LANG_SPANISH        "Activar cuerpo a tierra:  "
+
+REFERENCE           HOLD_DOWN_CROUCH
+LANG_ENGLISH        "Hold Down Crouch:  "
+LANG_SPANISH        "Mantenerse agachado:  "
+
+REFERENCE           HOLD_DOWN_PRONE
+LANG_ENGLISH        "Hold Down Prone:  "
+LANG_SPANISH        "Mantenerse cuerpo a tierra:  "
+
+REFERENCE           TURN_LEFT
+LANG_ENGLISH        "Turn Left:  "
+LANG_SPANISH        "Girar a la izquierda:  "
+
+REFERENCE           TURN_RIGHT
+LANG_ENGLISH        "Turn Right:  "
+LANG_SPANISH        "Girar a la derecha:  "
+
+REFERENCE           STRAFE
+LANG_ENGLISH        "Strafe:  "
+LANG_SPANISH        "Desplazarse a un lado:  "
+
+REFERENCE           WALL_MARKS
+LANG_ENGLISH        "Wall Marks:  "
+LANG_SPANISH        "Marcas en las paredes:  "
+
+REFERENCE           EJECTING_BRASS
+LANG_ENGLISH        "Ejecting Brass:  "
+LANG_SPANISH        "Proyectiles disparados:  "
+
+REFERENCE           DYNAMIC_LIGHTS
+LANG_ENGLISH        "Dynamic Lights:  "
+LANG_SPANISH        "Luces dinámicas:  "
+
+REFERENCE           LOW_QUALITY_SKY
+LANG_ENGLISH        "Low Quality Sky:  "
+LANG_SPANISH        "Cielo de baja calidad:  "
+
+REFERENCE           SYNC_EVERY_FRAME
+LANG_ENGLISH        "Sync Every Frame:  "
+LANG_SPANISH        "Sincronizar todas las imágenes:  "
+
+REFERENCE           NVIDIA_FOG_TYPE
+LANG_ENGLISH        "Nvidia fog type:  "
+LANG_SPANISH        "Tipo de niebla de Nvidia:  "
+
+REFERENCE           ATTACK
+LANG_ENGLISH        "Attack:  "
+LANG_SPANISH        "Atacar:  "
+
+REFERENCE           TOGGLE_AIM_DOWN_THE_SIGHT
+LANG_ENGLISH        "Toggle Aim Down the Sight:  "
+LANG_SPANISH        "Activar apuntar con la vista:  "
+
+REFERENCE           AIM_DOWN_THE_SIGHT
+LANG_ENGLISH        "Aim Down the Sight:  "
+LANG_SPANISH        "Apuntar con punto de mira:  "
+
+REFERENCE           MELEE_ATTACK
+LANG_ENGLISH        "Melee Attack:  "
+LANG_SPANISH        "Ataque cuerpo a cuerpo:  "
+
+REFERENCE           RELOAD_WEAPON
+LANG_ENGLISH        "Reload Weapon:  "
+LANG_SPANISH        "Recargar arma:  "
+
+REFERENCE           TOGGLE_SEMIAUTOMATIC
+LANG_ENGLISH        "Toggle Semi-Automatic:  "
+LANG_SPANISH        "Activar semi-automatico:  "
+
+REFERENCE           SELECT_FIRST_WEAPON
+LANG_ENGLISH        "Select First Weapon:  "
+LANG_SPANISH        "Seleccionar arma primaria:  "
+
+REFERENCE           SELECT_SECOND_WEAPON
+LANG_ENGLISH        "Select Second Weapon:  "
+LANG_SPANISH        "Seleccionar arma secundaria:  "
+
+REFERENCE           SELECT_PISTOL
+LANG_ENGLISH        "Select Pistol:  "
+LANG_SPANISH        "Seleccionar pistola:  "
+
+REFERENCE           SELECT_GRENADE
+LANG_ENGLISH        "Select Grenade:  "
+LANG_SPANISH        "Seleccionar granada:  "
+
+REFERENCE           NEXT_WEAPON
+LANG_ENGLISH        "Next Weapon:  "
+LANG_SPANISH        "Arma siguiente:  "
+
+REFERENCE           PREVIOUS_WEAPON
+LANG_ENGLISH        "Previous Weapon:  "
+LANG_SPANISH        "Arma anterior:  "
+
+REFERENCE           LAST_WEAPON_USED
+LANG_ENGLISH        "Last Weapon Used:  "
+LANG_SPANISH        "Última arma usada:  "
+
+REFERENCE           EFFECTS_VOLUME
+LANG_ENGLISH        "Effects Volume:  "
+LANG_SPANISH        "Volumen de los efectos:  "
+
+REFERENCE           MUSIC_VOLUME
+LANG_ENGLISH        "Music Volume:  "
+LANG_SPANISH        "Volumen de la música:  "
+
+REFERENCE           SOUND_QUALITY
+LANG_ENGLISH        "Sound Quality:  "
+LANG_SPANISH        "Calidad del sonido:  "
+
+REFERENCE           SOUND_PROVIDER
+LANG_ENGLISH        "Sound Provider:  "
+LANG_SPANISH        "Proveedor de sonido:  "
+
+REFERENCE           THIS_WILL_APPLY_SOUND
+LANG_ENGLISH        "This will apply sound"
+LANG_SPANISH        "Esto aplicará en el sonido los"
+
+REFERENCE           SETTINGS_AND_RETURN
+LANG_ENGLISH        "settings and return"
+LANG_SPANISH        "ajustes y volverá"
+
+REFERENCE           TO_THE_MAIN_MENU
+LANG_ENGLISH        "to the Main Menu."
+LANG_SPANISH        "al Menú Principal."
+
+REFERENCE           ERROR
+LANG_ENGLISH        "Error:"
+LANG_SPANISH        "#same"
+
+REFERENCE           EXIT
+LANG_ENGLISH        "Exit"
+LANG_SPANISH        "Salir"
+
+REFERENCE           THIS_WILL_APPLY_VIDEO
+LANG_ENGLISH        "This will apply video"
+LANG_SPANISH        "Esto aplicará en el vídeo los"
+
+REFERENCE           RESTART_LEVEL
+LANG_ENGLISH        "Restart Level"
+LANG_SPANISH        "Reiniciar el nivel"
+
+REFERENCE           LOAD_LAST_SAVE
+LANG_ENGLISH        "Load Last Save"
+LANG_SPANISH        "Cargar última partida"
+
+REFERENCE           MAIN_MENU
+LANG_ENGLISH        "Main Menu"
+LANG_SPANISH        "Menú Principal"
+
+REFERENCE           CLICK_TO_START_THE_MISSION
+LANG_ENGLISH        "Click to Start the Mission"
+LANG_SPANISH        "Haz clic para iniciar la misión"
+
+REFERENCE           NEXT_LEVEL
+LANG_ENGLISH        "Next Level"
+LANG_SPANISH        "Siguiente nivel"
+
+REFERENCE           THIS_WILL_SET
+LANG_ENGLISH        "This will set"
+LANG_SPANISH        "Esto establecerá"
+
+REFERENCE           RECOMMENDED_VIDEO_SETTINGS
+LANG_ENGLISH        "recommended video settings"
+LANG_SPANISH        "los parámetros de vídeo recomendados"
+
+REFERENCE           AND_RETURN_TO_THE_MAIN_MENU
+LANG_ENGLISH        "and return to the Main Menu."
+LANG_SPANISH        "y volverá al Menú Principal."
+
+REFERENCE           JOIN_AN_INTERNET_GAME
+LANG_ENGLISH        "Join an Internet Game"
+LANG_SPANISH        "Unirse a una partida por Internet"
+
+REFERENCE           JOIN_A_LAN_GAME
+LANG_ENGLISH        "Join a LAN Game"
+LANG_SPANISH        "Unirse a una partida LAN"
+
+REFERENCE           DISCONNECT
+LANG_ENGLISH        "Disconnect"
+LANG_SPANISH        "Desconectar"
+
+REFERENCE           START_NEW_SERVER
+LANG_ENGLISH        "Start New Server"
+LANG_SPANISH        "Iniciar un nuevo servidor"
+
+REFERENCE           MULTIPLAYER_OPTIONS
+LANG_ENGLISH        "Multiplayer Options"
+LANG_SPANISH        "Opciones multijugador"
+
+REFERENCE           MODS
+LANG_ENGLISH        "Mods"
+LANG_SPANISH        "#same"
+
+REFERENCE           SINGLE_PLAYER
+LANG_ENGLISH        "Single Player"
+LANG_SPANISH        "Jugador individual"
+
+REFERENCE           CLICK_FOR_AUTOUPDATE
+LANG_ENGLISH        "Click for Auto-Update"
+LANG_SPANISH        "Hacer clic para actualizar automáticamente"
+
+REFERENCE           SWITCH_TO_SINGLE_PLAYER
+LANG_ENGLISH        "Switch to Single Player?"
+LANG_SPANISH        "¿Cambiar a juego individual?"
+
+REFERENCE           DOWNLOAD_AUTOUPDATE_PATCH
+LANG_ENGLISH        "Download Auto-Update Patch?"
+LANG_SPANISH        "¿Descargar parche de autoactualización?"
+
+REFERENCE           VERSION_INSTALLED
+LANG_ENGLISH        "Version Installed:"
+LANG_SPANISH        "Versión instalada:"
+
+REFERENCE           VERSION_AVAILABLE
+LANG_ENGLISH        "Version Available:"
+LANG_SPANISH        "Version disponible:"
+
+REFERENCE           CDKEY
+LANG_ENGLISH        "CD KEY"
+LANG_SPANISH        "Clave de CD"
+
+REFERENCE           ENTER_YOUR_ENCRYPTION_KEY_IN_THE_FIELD_BELOW
+LANG_ENGLISH        "Enter your encryption key in the field below."
+LANG_SPANISH        "Introduce tu clave encriptada en el campo inferior."
+
+REFERENCE           KEY
+LANG_ENGLISH        "Key:"
+LANG_SPANISH        "Clave:"
+
+REFERENCE           CANCEL
+LANG_ENGLISH        "Cancel"
+LANG_SPANISH        "Cancelar"
+
+REFERENCE           VERIFY
+LANG_ENGLISH        "Verify"
+LANG_SPANISH        "Verificar"
+
+REFERENCE           NEW_FAVORITE
+LANG_ENGLISH        "New Favorite"
+LANG_SPANISH        "Nuevo favorito"
+
+REFERENCE           NAME1
+LANG_ENGLISH        "Name: "
+LANG_SPANISH        "Nombre: "
+
+REFERENCE           IP_ADDRESS
+LANG_ENGLISH        "IP Address: "
+LANG_SPANISH        "Dirección IP: "
+
+REFERENCE           FILTER_SERVERS
+LANG_ENGLISH        "Filter Servers"
+LANG_SPANISH        "Filtro de servidores"
+
+REFERENCE           VIEW_EMPTY
+LANG_ENGLISH        "View Empty:"
+LANG_SPANISH        "Ver vacíos:"
+
+REFERENCE           VIEW_FULL
+LANG_ENGLISH        "View Full:"
+LANG_SPANISH        "Ver llenos:"
+
+REFERENCE           FRIENDLY_FIRE
+LANG_ENGLISH        "Friendly Fire:  "
+LANG_SPANISH        "Fuego amigo:"
+
+REFERENCE           SHOW_MAX_LIVES
+LANG_ENGLISH        "Show Max Lives:"
+LANG_SPANISH        "Mostrar vidas máximas:"
+
+REFERENCE           SHOW_TOURNEY
+LANG_ENGLISH        "Show Tourney:"
+LANG_SPANISH        "Mostrar torneo:"
+
+REFERENCE           TYPE
+LANG_ENGLISH        "Type:"
+LANG_SPANISH        "Tipo:"
+
+REFERENCE           SERVER NAME
+LANG_ENGLISH        "Server Name"
+LANG_SPANISH        "Nombre del servidor"
+
+REFERENCE           MAP_NAME
+LANG_ENGLISH        "Map Name"
+LANG_SPANISH        "Nombre del mapa"
+
+REFERENCE           NUMPLAYERS
+LANG_ENGLISH        "#Players"
+LANG_SPANISH        "NºJugadores"
+
+REFERENCE           PING
+LANG_ENGLISH        "Ping"
+LANG_SPANISH        "#same"
+
+REFERENCE           GET_NEW_LIST
+LANG_ENGLISH        "Get New List"
+LANG_SPANISH        "Obtener nueva lista"
+
+REFERENCE           REFRESH_LIST
+LANG_ENGLISH        "Refresh List"
+LANG_SPANISH        "Refrescar lista"
+
+REFERENCE           PASSWORD
+LANG_ENGLISH        "Password"
+LANG_SPANISH        "Contraseña"
+
+REFERENCE           ADD_TO_FAVORITES
+LANG_ENGLISH        "Add To Favorites"
+LANG_SPANISH        "Añadir a favoritos"
+
+REFERENCE           DEL_FAVORITE
+LANG_ENGLISH        "Del. Favorite"
+LANG_SPANISH        "Borrar favorito"
+
+REFERENCE           SERVER_INFO
+LANG_ENGLISH        "Server Info"
+LANG_SPANISH        "Información del servidor"
+
+REFERENCE           FIND_FRIEND
+LANG_ENGLISH        "Find Friend"
+LANG_SPANISH        "Encontrar amigo"
+
+REFERENCE           ACCEPT
+LANG_ENGLISH        "Accept"
+LANG_SPANISH        "Aceptar"
+
+REFERENCE           CONNECTION_TYPE
+LANG_ENGLISH        "Connection Type:"
+LANG_SPANISH        "Tipo de conexión:"
+
+REFERENCE           LAUNCH
+LANG_ENGLISH        "Launch"
+LANG_SPANISH        "Lanzar"
+
+REFERENCE           SELECT_MOD_NAME_TO_LAUNCH
+LANG_ENGLISH        "Select MOD name to Launch"
+LANG_SPANISH        "Seleccionar nombre de MOD para lanzar"
+
+REFERENCE           JOIN_SERVER
+LANG_ENGLISH        "Join Server"
+LANG_SPANISH        "Unirse a servidor"
+
+REFERENCE           CREATE_SERVER
+LANG_ENGLISH        "Create Server"
+LANG_SPANISH        "Crear servidor"
+
+REFERENCE           ENTER CD-KEY
+LANG_ENGLISH        "Enter CD-Key"
+LANG_SPANISH        "Introducir clave de CD"
+
+REFERENCE           SHOW_SCORES
+LANG_ENGLISH        "Show Scores:"
+LANG_SPANISH        "Mostrar puntuaciones:"
+
+REFERENCE           CHAT
+LANG_ENGLISH        "Chat:"
+LANG_SPANISH        "#same"
+
+REFERENCE           TEAM_CHAT
+LANG_ENGLISH        "Team Chat:"
+LANG_SPANISH        "Chat de equipo:"
+
+REFERENCE           QUICK_CHAT
+LANG_ENGLISH        "Quick Chat:"
+LANG_SPANISH        "Chat rápido:"
+
+REFERENCE           SHOW_COMPASS
+LANG_ENGLISH        "Show Compass:"
+LANG_SPANISH        "Mostrar brújula:"
+
+REFERENCE           TEAM_OVERLAY
+LANG_ENGLISH        "Team Overlay:"
+LANG_SPANISH        "Superposición de equipo:"
+
+REFERENCE           CHAT_ICON_TIME
+LANG_ENGLISH        "Chat Icon Time:"
+LANG_SPANISH        "Icono de tiempo de chat:"
+
+REFERENCE           NET_DATA_RATE
+LANG_ENGLISH        "Net Data Rate:"
+LANG_SPANISH        "Datos del ratio de la red:"
+
+REFERENCE           PLAYER_NAME
+LANG_ENGLISH        "Player Name:"
+LANG_SPANISH        "Nombre del jugador:"
+
+REFERENCE           REFRESH
+LANG_ENGLISH        "Refresh"
+LANG_SPANISH        "Actualizar"
+
+REFERENCE           CONTINUE
+LANG_ENGLISH        "Continue"
+LANG_SPANISH        "Continuar"
+
+REFERENCE           HIGHQUALITY
+LANG_ENGLISH        "High Quality"
+LANG_SPANISH        "Alta calidad"
+
+REFERENCE           NORMAL
+LANG_ENGLISH        "Normal"
+LANG_SPANISH        "#same"
+
+REFERENCE           FAST
+LANG_ENGLISH        "Fast"
+LANG_SPANISH        "Rápida"
+
+REFERENCE           FASTEST
+LANG_ENGLISH        "Fastest"
+LANG_SPANISH        "La más rápida"
+
+REFERENCE           CUSTOM
+LANG_ENGLISH        "Custom"
+LANG_SPANISH        "Personalizada"
+
+REFERENCE           INTERACT
+LANG_ENGLISH        "Interact"
+LANG_SPANISH        "Interactuar"
+
+REFERENCE           SET_DEFAULT_CONTROLS
+LANG_ENGLISH        "Set Default Controls"
+LANG_SPANISH        "Establecer controles predeterminados"
+
+REFERENCE           STANDJUMP
+LANG_ENGLISH        "Stand/Jump:  "
+LANG_SPANISH        "Levantarse/Saltar:  "
+
+REFERENCE           GO_TO_CROUCH
+LANG_ENGLISH        "Go to Crouch:  "
+LANG_SPANISH        "Agacharse:  "
+
+REFERENCE           GO_TO_PRONE
+LANG_ENGLISH        "Go to Prone:  "
+LANG_SPANISH        "Cuerpo a tierra:  "
+
+REFERENCE           LOAD_SELECTED_GAME
+LANG_ENGLISH        "Load selected game?"
+LANG_SPANISH        "¿Cargar juego seleccionado?"
+
+REFERENCE           DEL_SEL_FAVORITE
+LANG_ENGLISH        "Delete selected favorite from list?"
+LANG_SPANISH        "¿Borrar favorito seleccionado de la lista?"
+
+REFERENCE           VOTE_YES
+LANG_ENGLISH        "Vote Yes:"
+LANG_SPANISH        "Votar Sí:"
+
+REFERENCE           VOTE_NO
+LANG_ENGLISH        "Vote No:"
+LANG_SPANISH        "Votar No:"
+
+REFERENCE           CHANGE_RATE_OF_FIRE
+LANG_ENGLISH        "Change Rate of Fire:  "
+LANG_SPANISH        "Cambiar tasa de disparo:  "
+
+REFERENCE           DRAW_HUD
+LANG_ENGLISH        "Draw HUD:"
+LANG_SPANISH        "Mostrar HUD:"
+
+REFERENCE           DRAW_CROSSHAIR
+LANG_ENGLISH        "Draw Crosshair:"
+LANG_SPANISH        "Mostrar punto de mira:"
+
+REFERENCE           QUICK_REFRESH
+LANG_ENGLISH        "Quick Refresh"
+LANG_SPANISH        "Actualización rápida"
+
+REFERENCE           WORLD_DYNAMIC_LIGHT_QUALITY
+LANG_ENGLISH        "World Dynamic Light Quality:  "
+LANG_SPANISH        "Calidad ilum. dinámica del mundo  :  "
+
+REFERENCE           SHOW_BLOOD
+LANG_ENGLISH        "Show Blood:  "
+LANG_SPANISH        "Mostrar sangre:  "
+
+REFERENCE           THIS_WILL_APPLY_THE
+LANG_ENGLISH        "This will apply the"
+LANG_SPANISH        "Esto aplicará los cambios"
+
+REFERENCE           LANGUAGE_CHANGE_AND_RETURN
+LANG_ENGLISH        "language change and return"
+LANG_SPANISH        "de idioma y volverá"
+
+REFERENCE           640480
+LANG_ENGLISH        "640*480"
+LANG_SPANISH        "#same"
+
+REFERENCE           800600
+LANG_ENGLISH        "800*600"
+LANG_SPANISH        "#same"
+
+REFERENCE           1024768
+LANG_ENGLISH        "1024*768"
+LANG_SPANISH        "#same"
+
+REFERENCE           1152864
+LANG_ENGLISH        "1152*864"
+LANG_SPANISH        "#same"
+
+REFERENCE           12801024
+LANG_ENGLISH        "1280*1024"
+LANG_SPANISH        "#same"
+
+REFERENCE           16001200
+LANG_ENGLISH        "1600*1200"
+LANG_SPANISH        "#same"
+
+REFERENCE           20481536
+LANG_ENGLISH        "2048*1536"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOW
+LANG_ENGLISH        "Low"
+LANG_SPANISH        "Baja"
+
+REFERENCE           HIGH
+LANG_ENGLISH        "High"
+LANG_SPANISH        "Alta"
+
+REFERENCE           EXTRA
+LANG_ENGLISH        "Extra"
+LANG_SPANISH        "#same"
+
+REFERENCE           BILINEAR
+LANG_ENGLISH        "Bilinear"
+LANG_SPANISH        "Bilinial"
+
+REFERENCE           TRILINEAR
+LANG_ENGLISH        "Trilinear"
+LANG_SPANISH        "#same"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH        "Default"
+LANG_SPANISH        "Predeterminada"
+
+REFERENCE           16BIT
+LANG_ENGLISH        "16 bit"
+LANG_SPANISH        "#same"
+
+REFERENCE           32BIT
+LANG_ENGLISH        "32 bit"
+LANG_SPANISH        "#same"
+
+REFERENCE           ENGLISH
+LANG_ENGLISH        "English"
+LANG_SPANISH        "Inglés"
+
+REFERENCE           FRENCH
+LANG_ENGLISH        "French"
+LANG_SPANISH        "Francés"
+
+REFERENCE           GERMAN
+LANG_ENGLISH        "German"
+LANG_SPANISH        "Alemán"
+
+REFERENCE           ITALIAN
+LANG_ENGLISH        "Italian"
+LANG_SPANISH        "Italiano"
+
+REFERENCE           SPANISH
+LANG_ENGLISH        "Spanish"
+LANG_SPANISH        "Español"
+
+REFERENCE           BRITISH
+LANG_ENGLISH        "British"
+LANG_SPANISH        "Británico"
+
+REFERENCE           RUSSIAN
+LANG_ENGLISH        "Russian"
+LANG_SPANISH        "Ruso"
+
+REFERENCE           KOREAN
+LANG_ENGLISH        "Korean"
+LANG_SPANISH        "Coreano"
+
+REFERENCE           TAIWANESE
+LANG_ENGLISH        "Taiwanese"
+LANG_SPANISH        "Taiwanés"
+
+REFERENCE           JAPANESE
+LANG_ENGLISH        "Japanese"
+LANG_SPANISH        "Japonés"
+
+REFERENCE           CHINESE
+LANG_ENGLISH        "Chinese"
+LANG_SPANISH        "Chino"
+
+REFERENCE           THAI
+LANG_ENGLISH        "Thai"
+LANG_SPANISH        "#same"
+
+REFERENCE           ON
+LANG_ENGLISH        "On"
+LANG_SPANISH        "Activado"
+
+REFERENCE           OFF
+LANG_ENGLISH        "Off"
+LANG_SPANISH        "Desactivado"
+
+REFERENCE           EVERYTHING
+LANG_ENGLISH        "Everything"
+LANG_SPANISH        "Todo"
+
+REFERENCE           MODELS_ONLY
+LANG_ENGLISH        "Models Only"
+LANG_SPANISH        "Solo los modelos"
+
+REFERENCE           NONE
+LANG_ENGLISH        "None"
+LANG_SPANISH        "Ninguno"
+
+REFERENCE           NICEST
+LANG_ENGLISH        "Nicest"
+LANG_SPANISH        "Los más bonitos"
+
+REFERENCE           NV_RADIAL
+LANG_ENGLISH        "NV Radial"
+LANG_SPANISH        "#same"
+
+REFERENCE           NV_PLANE
+LANG_ENGLISH        "NV Plane"
+LANG_SPANISH        "#same"
+
+REFERENCE           11KHZ__
+LANG_ENGLISH        "11khz (Low Quality, Least Memory)"
+LANG_SPANISH        "11khz (baja calidad, menos memoria)"
+
+REFERENCE           22KHZ__
+LANG_ENGLISH        "22khz (Normal Quality, Medium Memory)"
+LANG_SPANISH        "22khz (calidad normal, memoria media)"
+
+REFERENCE           44KHZ__
+LANG_ENGLISH        "44khz (High Quality, Most Memory)"
+LANG_SPANISH        "44khz (alta calidad, más memoria)"
+
+REFERENCE           CREATIVE_LABS_EAX_3
+LANG_ENGLISH        "Creative Labs EAX 3 (TM)"
+LANG_SPANISH        "#same"
+
+REFERENCE           CREATIVE_LABS_EAX_2
+LANG_ENGLISH        "Creative Labs EAX 2 (TM)"
+LANG_SPANISH        "#same"
+
+REFERENCE           CREATIVE_LABS_EAX
+LANG_ENGLISH        "Creative Labs EAX (TM)"
+LANG_SPANISH        "#same"
+
+REFERENCE           MILES_FAST_2D_POSITIONAL_AUDIO
+LANG_ENGLISH        "Miles Fast 2D Positional Audio"
+LANG_SPANISH        "#same"
+
+REFERENCE           GAME_TYPE_SETTINGS
+LANG_ENGLISH        "Game Type Settings"
+LANG_SPANISH        "Parámetros del tipo de juego"
+
+REFERENCE           SERVER_SETTINGS
+LANG_ENGLISH        "Server Settings"
+LANG_SPANISH        "Parámetros del servidor"
+
+REFERENCE           GAME_TYPE
+LANG_ENGLISH        "Game Type:  "
+LANG_SPANISH        "Tipo de juego:  "
+
+REFERENCE           SERVER_NAME
+LANG_ENGLISH        "Server Name:  "
+LANG_SPANISH        "Nombre del servidor:  "
+
+REFERENCE           DEDICATED
+LANG_ENGLISH        "Dedicated:  "
+LANG_SPANISH        "Dedicado:  "
+
+REFERENCE           PURE
+LANG_ENGLISH        "Pure:  "
+LANG_SPANISH        "Puro:  "
+
+REFERENCE           MAXIMUM_PLAYERS
+LANG_ENGLISH        "Maximum Players:  "
+LANG_SPANISH        "Máximo número de jugadores:  "
+
+REFERENCE           MINIMUM_PING
+LANG_ENGLISH        "Minimum Ping:  "
+LANG_SPANISH        "Ping mínimo:  "
+
+REFERENCE           MAXIMUM_PING
+LANG_ENGLISH        "Maximum Ping:  "
+LANG_SPANISH        "Ping máximo:  "
+
+REFERENCE           MAXIMUM_RATE
+LANG_ENGLISH        "Maximum Rate:  "
+LANG_SPANISH        "Tasa máxima:  "
+
+REFERENCE           PASSWORD1
+LANG_ENGLISH        "Password:  "
+LANG_SPANISH        "Contraseña:  "
+
+REFERENCE           BOTH
+LANG_ENGLISH        "Both"
+LANG_SPANISH        "Ambos"
+
+REFERENCE           288K
+LANG_ENGLISH        "<=28.8k"
+LANG_SPANISH        "#same"
+
+REFERENCE           336K
+LANG_ENGLISH        "33.6k"
+LANG_SPANISH        "#same"
+
+REFERENCE           56K
+LANG_ENGLISH        "56k"
+LANG_SPANISH        "#same"
+
+REFERENCE           ISDN
+LANG_ENGLISH        "ISDN"
+LANG_SPANISH        "RDSI"
+
+REFERENCE           LAN_CABLE_XDSL
+LANG_ENGLISH        "LAN/Cable/xDSL"
+LANG_SPANISH        "RED LOCAL/CABLE/xDSL"
+
+REFERENCE           SCORE_LIMIT_PLAYER_POINTS
+LANG_ENGLISH        "Score Limit (player points):  "
+LANG_SPANISH        "Parámetros del juego:  "
+
+REFERENCE           SCORE_LIMIT_TEAM_POINTS
+LANG_ENGLISH        "Score Limit (team points):  "
+LANG_SPANISH        "Lim. puntuación (pts equipo):  "
+
+REFERENCE           TIME_LIMIT
+LANG_ENGLISH        "Time Limit (minutes):  "
+LANG_SPANISH        "Límite de Tiempo (minutos):  "
+
+REFERENCE           FORCE_RESPAWNING
+LANG_ENGLISH        "Force Respawning:  "
+LANG_SPANISH        "Forzar reinicio:  "
+
+REFERENCE           FRIENDLY_INDICATORS
+LANG_ENGLISH        "Friendly Indicators:  "
+LANG_SPANISH        "Indicadores Amigos:  "
+
+REFERENCE           CARRIER_INDICATOR
+LANG_ENGLISH        "Carrier Indicator:  "
+LANG_SPANISH        "Indicador de Carga:  "
+
+REFERENCE           GRACE_PERIOD
+LANG_ENGLISH        "Grace Period (seconds):  "
+LANG_SPANISH        "Tiempo de Gracia (segundos):  "
+
+REFERENCE           ROUND_LENGTH
+LANG_ENGLISH        "Round Length (minutes):  "
+LANG_SPANISH        "Duration ronda (minutos):  "
+
+REFERENCE           ROUND_LIMIT
+LANG_ENGLISH        "Round Limit (rounds):  "
+LANG_SPANISH        "Límite de Rondas (rondas):  "
+
+REFERENCE           GO_TO_SINGLE_PLAYER_CALL_OF_DUTY
+LANG_ENGLISH        "Go to single player Call of Duty?"
+LANG_SPANISH        "¿Jugar en jugador individual a Call of Duty?"
+
+REFERENCE           TO_THE_GAME
+LANG_ENGLISH        "to the game."
+LANG_SPANISH        "al juego."
+
+REFERENCE           NUMBER_OF_CORPSES
+LANG_ENGLISH        "Number of Corpses:  "
+LANG_SPANISH        "Número de cadáveres:  "
+
+REFERENCE           TINY
+LANG_ENGLISH        "Tiny"
+LANG_SPANISH        "pequeño"
+
+REFERENCE           SMALL
+LANG_ENGLISH        "Small"
+LANG_SPANISH        "reducido"
+
+REFERENCE           MEDIUM
+LANG_ENGLISH        "Medium"
+LANG_SPANISH        "medio"
+
+REFERENCE           LARGE
+LANG_ENGLISH        "Large"
+LANG_SPANISH        "grande"
+
+REFERENCE           INSANE
+LANG_ENGLISH        "Insane"
+LANG_SPANISH        "maníaco"
+
+REFERENCE           SETTINGS_WILL_BE_REAPPLIED
+LANG_ENGLISH        "Settings will be applied"
+LANG_SPANISH        "Se volverán a aplicar las configuraciones"
+
+REFERENCE           NEXT_TIME_THE_SERVER
+LANG_ENGLISH        "next time the server"
+LANG_SPANISH        "la próxima vez que el servidor"
+
+REFERENCE           IS_STARTED
+LANG_ENGLISH        "is started."
+LANG_SPANISH        "se inicie."
+
+REFERENCE           JOIN
+LANG_ENGLISH        "Join"
+LANG_SPANISH        "Unirse"
+
+REFERENCE           ALL_CURRENT_PROGRESS_WILL_BE_LOST
+LANG_ENGLISH        "All current progress will be lost."
+LANG_SPANISH        "Todos los progresos actuales se perderán."
+
+REFERENCE           PLAY_DEMO_LEVEL
+LANG_ENGLISH        "Play Demo Level"
+LANG_SPANISH        "Jugar la demo del nivel"
+
+REFERENCE           ENABLE_CONSOLE
+LANG_ENGLISH        "Enable Console:  "
+LANG_SPANISH        "Activar consola:  "
+
+REFERENCE           SUBTITLES
+LANG_ENGLISH        "Subtitles:  "
+LANG_SPANISH        "Subtítulos:  "
+
+REFERENCE           LOD
+LANG_ENGLISH        "LOD:  "
+LANG_SPANISH        "#same"
+
+REFERENCE           AGGRESSIVE
+LANG_ENGLISH        "Aggressive"
+LANG_SPANISH        "Agresivo"
+
+REFERENCE           JOIN_GAME
+LANG_ENGLISH        "Join a Game"
+LANG_SPANISH        "Unirse a un juego"
+
+REFERENCE           RESUMEGAME_Q
+LANG_ENGLISH        "Resume Game?"
+LANG_SPANISH        "¿Continuar Partida?"
+
+REFERENCE           CONNECTION
+LANG_ENGLISH        "Connection:  "
+LANG_SPANISH        "Conexión: "
+
+REFERENCE           TYPE1
+LANG_ENGLISH        "Type"
+LANG_SPANISH        "Tipo"
+
+REFERENCE           RESET_TO
+LANG_ENGLISH        "Reset to"
+LANG_SPANISH        "Reestablecer"
+
+REFERENCE           TO_ITS_OPTIMAL_VALUE
+LANG_ENGLISH        "to its optimal value."
+LANG_SPANISH        "a sus valores óptimos."
+
+REFERENCE           RESTART_LEVEL_Q
+LANG_ENGLISH        "Restart Level?"
+LANG_SPANISH        "¿Volver a empezar nivel?"
+
+REFERENCE           START
+LANG_ENGLISH        "Start"
+LANG_SPANISH        "Empezar"
+
+REFERENCE           LAN
+LANG_ENGLISH        "LAN"
+LANG_SPANISH        "RED LOCAL"
+
+REFERENCE           INTERNET
+LANG_ENGLISH        "Internet"
+LANG_SPANISH        "#same"
+
+REFERENCE           LEVEL_OF_DETAIL
+LANG_ENGLISH        "Level of Detail:  "
+LANG_SPANISH        "Calidad de gráficos:  "
+
+REFERENCE           ADD_SELECTED_SERVER_TO_FAVORITES
+LANG_ENGLISH        "Add selected server to favorites?"
+LANG_SPANISH        "¿Añadir servidor seleccionado a favoritos?"
+
+REFERENCE           REFLECT
+LANG_ENGLISH        "Reflect"
+LANG_SPANISH        "Reflejar"
+
+REFERENCE           ALLOW_VOTING
+LANG_ENGLISH        "Allow Voting:  "
+LANG_SPANISH        "Permitir Votación:  "
+
+REFERENCE           AUTO_UPDATE
+LANG_ENGLISH        "Auto-Update"
+LANG_SPANISH        "Actualización Automática"
+
+REFERENCE           ALLOW_SNIPER_RIFLES
+LANG_ENGLISH        "Allow Sniper Rifles:  "
+LANG_SPANISH        "Permitir Rifles de Francotirador:  "
+
+REFERENCE           ALLOW_PANZERFAUSTS
+LANG_ENGLISH        "Allow Panzerfausts:  "
+LANG_SPANISH        "Permitir Panzerfausts:  "
+
+REFERENCE           VIEW_PASSWORD
+LANG_ENGLISH        "With Password:"
+LANG_SPANISH        "Con Contraseña:"
+
+REFERENCE           VIEW_NOPASSWORD
+LANG_ENGLISH        "Without Password:"
+LANG_SPANISH        "Sin Contraseña:"
+
+REFERENCE           MASTER_VOLUME
+LANG_ENGLISH        "Master Volume:  "
+LANG_SPANISH        "Volumen Maestro:  "
+
+REFERENCE           MODEL_DETAIL
+LANG_ENGLISH        "Model Detail:  "
+LANG_SPANISH        "Detalle del Modelo:  "
+
+REFERENCE           MINIMUM
+LANG_ENGLISH        "Minimum"
+LANG_SPANISH        "Mínimo"
+
+REFERENCE           UNLIMITED
+LANG_ENGLISH        "Unlimited"
+LANG_SPANISH        "Ilimitado"
+
+REFERENCE           MAXIMUM
+LANG_ENGLISH        "Maximum"
+LANG_SPANISH        "Máximo"
+
+REFERENCE           POLISH
+LANG_ENGLISH        "Polish"
+LANG_SPANISH        "Polaco"
+
+REFERENCE           SAFE
+LANG_ENGLISH        "Safe"
+LANG_SPANISH        "Seguro"
+
+REFERENCE           SAFE_MODE
+LANG_ENGLISH        "Safe Mode"
+LANG_SPANISH        "Modo Seguro"
+
+
+ENDMARKER
+
+

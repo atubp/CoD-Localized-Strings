@@ -1,0 +1,61 @@
+// Dumped from fastfile "ber3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3_OBJ4
+LANG_ENGLISH        "Entra en el Reichstag."
+
+REFERENCE           BER3_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"El Corazón del Reich\""
+
+REFERENCE           BER3_OBJ0
+LANG_ENGLISH        "Reagrúpate con tu pelotón."
+
+REFERENCE           BER3_INTROSCREEN_DATE
+LANG_ENGLISH        "30 de abril de 1945"
+
+REFERENCE           BER3_INTROSCREEN_INFO
+LANG_ENGLISH        "150ª División de infantería"
+
+REFERENCE           BER3_WARP_REICH
+LANG_ENGLISH        "REICHSTAG_STEPS"
+
+REFERENCE           BER3_INTROSCREEN_PLACE
+LANG_ENGLISH        "El Reichstag, Berlín"
+
+REFERENCE           BER3_INTROSCREEN_NAME
+LANG_ENGLISH        "Sld. Petrenko"
+
+REFERENCE           BER3_OBJ1
+LANG_ENGLISH        "Avanza por los edificios."
+
+REFERENCE           BER3_OBJ2
+LANG_ENGLISH        "Asalta la plaza."
+
+REFERENCE           BER3_HINT_PLANT_CHARGE
+LANG_ENGLISH        "Pulsa &&1 para colocar la carga"
+
+REFERENCE           BER3_OBJ3_4
+LANG_ENGLISH        "Destruye los FlaK 88 (quedan 4)."
+
+REFERENCE           BER3_OBJ3_3
+LANG_ENGLISH        "Destruye los FlaK 88 (quedan 3)."
+
+REFERENCE           BER3_WARP_INTRO
+LANG_ENGLISH        "Introducción"
+
+REFERENCE           BER3_OBJ3_2
+LANG_ENGLISH        "Destruye los FlaK 88 (quedan 2)."
+
+REFERENCE           BER3_OBJ3_1
+LANG_ENGLISH        "Destruye los FlaK 88 (queda 1)."
+
+REFERENCE           BER3_OBJ3
+LANG_ENGLISH        "Destruye los FlaK 88."
+
+REFERENCE           BER3_WARP_PLAZA
+LANG_ENGLISH        "CHARGE_PLAZA"
+
+ENDMARKER

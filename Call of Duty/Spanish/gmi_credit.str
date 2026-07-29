@@ -1,0 +1,2819 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           JM_MOREAL
+LANG_ENGLISH        "Jean-Marc Morel"
+LANG_SPANISH        "#same"
+
+REFERENCE           PROJECT_LEADS
+LANG_ENGLISH        "Project Leads"
+LANG_SPANISH        "#same"
+
+REFERENCE           ENGINEERING_LEAD
+LANG_ENGLISH        "Engineering Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           JASON_WEST
+LANG_ENGLISH        "Jason West"
+LANG_SPANISH        "#same"
+
+REFERENCE           DESIGN_LEAD
+LANG_ENGLISH        "Design Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           ZIED_RIEKE
+LANG_ENGLISH        "Zied Rieke"
+LANG_SPANISH        "#same"
+
+REFERENCE           ART_LEAD
+LANG_ENGLISH        "Art Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           JUSTIN_THOMAS
+LANG_ENGLISH        "Justin Thomas"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANIMATION_LEAD
+LANG_ENGLISH        "Animation Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_BOON
+LANG_ENGLISH        "Michael Boon"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRODUCER
+LANG_ENGLISH        "Producer"
+LANG_SPANISH        "#same"
+
+REFERENCE           VINCE_ZAMPELLA
+LANG_ENGLISH        "Vince Zampella"
+LANG_SPANISH        "#same"
+
+REFERENCE           ENGINEERING
+LANG_ENGLISH        "Engineering"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROBERT_FIELD
+LANG_ENGLISH        "Robert Field"
+LANG_SPANISH        "#same"
+
+REFERENCE           FRANK_GIGLIOTTI
+LANG_ENGLISH        "Francesco Gigliotti"
+LANG_SPANISH        "#same"
+
+REFERENCE           CARL_GLAVE
+LANG_ENGLISH        "Carl Glave"
+LANG_SPANISH        "#same"
+
+REFERENCE           EARL_HAMMON
+LANG_ENGLISH        "Earl Hammon, Jr."
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_PROGRAMMING
+LANG_ENGLISH        "Additional Programming"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRYAN_KUHN
+LANG_ENGLISH        "Bryan Kuhn"
+LANG_SPANISH        "#same"
+
+REFERENCE           LEVEL_DESIGN
+LANG_ENGLISH        "Level Designers"
+LANG_SPANISH        "#same"
+
+REFERENCE           LEVEL_DESIGN1
+LANG_ENGLISH        "Level Design &"
+LANG_SPANISH        "#same"
+
+REFERENCE           &
+LANG_ENGLISH        "&"
+LANG_SPANISH        "#same"
+
+REFERENCE           GAME_PLAY_SCRIPTING
+LANG_ENGLISH        "Game Play Scripting"
+LANG_SPANISH        "#same"
+
+REFERENCE           LEVEL_DESIGN_GAME_PLAY_SCRIPTING
+LANG_ENGLISH        "Level Design & Game Play Scripting"
+LANG_SPANISH        "#same"
+
+REFERENCE           TODD_ALDERMAN
+LANG_ENGLISH        "Todd Alderman"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEITH_BELL
+LANG_ENGLISH        "Keith "Ned Man" Bell"
+LANG_SPANISH        "#same"
+
+REFERENCE           STEVE_FUKUDA
+LANG_ENGLISH        "Steve Fukuda"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRESTON_GLENN
+LANG_ENGLISH        "Preston Glenn"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHAD_GRENIER
+LANG_ENGLISH        "Chad Grenier"
+LANG_SPANISH        "#same"
+
+REFERENCE           MACKEY_MCCANDLISH
+LANG_ENGLISH        "Fairfax Sheild McCandlish IV"
+LANG_SPANISH        "#same"
+
+REFERENCE           NATE_SILVERS
+LANG_ENGLISH        "Nate Silvers"
+LANG_SPANISH        "#same"
+
+REFERENCE           ART
+LANG_ENGLISH        "Art"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRAD_ALLEN
+LANG_ENGLISH        "Brad Allen"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHRIS_HASSELL
+LANG_ENGLISH        "Chris Hassell"
+LANG_SPANISH        "#same"
+
+REFERENCE           JEFF_HEATH
+LANG_ENGLISH        "Jeff Heath"
+LANG_SPANISH        "#same"
+
+REFERENCE           PAUL_JURY_LEAD_2D
+LANG_ENGLISH        "Paul Jury, Lead 2D"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEVIN_CHEN
+LANG_ENGLISH        "Kevin Chen"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANIMATION
+LANG_ENGLISH        "Animators"
+LANG_SPANISH        "#same"
+
+REFERENCE           URSULA_ESCHER
+LANG_ENGLISH        "Ursula Escher"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHANCE_GLASCO
+LANG_ENGLISH        "Chance Glasco"
+LANG_SPANISH        "#same"
+
+REFERENCE           PAUL_MESSERLY
+LANG_ENGLISH        "Paul Messerly"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_ANIMATION
+LANG_ENGLISH        "Additional Animation"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_ANIMATION2
+LANG_ENGLISH        "Michael Boon"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_ANIMATION3
+LANG_ENGLISH        "Ursula Esher"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_ANIMATION4
+LANG_ENGLISH        "Harry Walton"
+LANG_SPANISH        "#same"
+
+REFERENCE           SHADOWS_IN_DARKNESS
+LANG_ENGLISH        "Shadows in Darkness"
+LANG_SPANISH        "#same"
+
+REFERENCE           SOUND
+LANG_ENGLISH        "Sound"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHUCK_RUSSOM
+LANG_ENGLISH        "Chuck Russom"
+LANG_SPANISH        "#same"
+
+REFERENCE           SYSTEM_ADMINISTRATOR
+LANG_ENGLISH        "System Administrator"
+LANG_SPANISH        "#same"
+
+REFERENCE           MANAGEMENT
+LANG_ENGLISH        "Management"
+LANG_SPANISH        "#same"
+
+REFERENCE           GRANT_COLLIER
+LANG_ENGLISH        "Grant Collier"
+LANG_SPANISH        "#same"
+
+REFERENCE           VINCE_ZAMPELLA_CCO
+LANG_ENGLISH        "Vince Zampella, CCO"
+LANG_SPANISH        "#same"
+
+REFERENCE           JASON_WEST_CTO
+LANG_ENGLISH        "Jason West, CTO"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEN_TURNER_DEVELOPMENT_DIRECTOR
+LANG_ENGLISH        "Ken Turner, Development Director"
+LANG_SPANISH        "#same"
+
+REFERENCE           JANICE_TURNER
+LANG_ENGLISH        "Janice Turner"
+LANG_SPANISH        "#same"
+
+REFERENCE           SPECIAL_THANKS
+LANG_ENGLISH        "Special Thanks"
+LANG_SPANISH        "#same"
+
+REFERENCE           MILITARY_ADVISORS
+LANG_ENGLISH        "Military Advisors"
+LANG_SPANISH        "#same"
+
+REFERENCE           MILITARY_ADVISORS2
+LANG_ENGLISH        "John Hillen"
+LANG_SPANISH        "#same"
+
+REFERENCE           MILITARY_ADVISORS3
+LANG_ENGLISH        "Hank Keirsey"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRIAN_ADAMS
+LANG_ENGLISH        "Brian Adams"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION
+LANG_ENGLISH        "Activision:"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRODUCTION
+LANG_ENGLISH        "Production"
+LANG_SPANISH        "#same"
+
+REFERENCE           THAINE_LYMAN
+LANG_ENGLISH        "Thaine Lyman"
+LANG_SPANISH        "#same"
+
+REFERENCE           SENIOR_PRODUCER
+LANG_ENGLISH        "Senior Producer"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEN_MURPHY
+LANG_ENGLISH        "Ken Murphy"
+LANG_SPANISH        "#same"
+
+REFERENCE           ERIC_ADAMS
+LANG_ENGLISH        "Eric Adams, Additional Production"
+LANG_SPANISH        "#same"
+
+REFERENCE           ERIC_GROSSMAN
+LANG_ENGLISH        "Eric Grossman"
+LANG_SPANISH        "#same"
+
+REFERENCE           DANIEL_HAGERTY
+LANG_ENGLISH        "Daniel Hagerty, Associate Producer"
+LANG_SPANISH        "#same"
+
+REFERENCE           ASSOCIATE_PRODUCER
+LANG_ENGLISH        "Associate Producer"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATTHEW_BEAL
+LANG_ENGLISH        "Matthew Beal, Production Coordinator"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRODUCTION_COORDINATOR
+LANG_ENGLISH        "Production Coordinators"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROBERT_KIRSCHENBAUM
+LANG_ENGLISH        "Robert "Paligap" Kirschenbaum, Production Tester"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRODUCTION_TESTER
+LANG_ENGLISH        "Production Testers"
+LANG_SPANISH        "#same"
+
+REFERENCE           PATRICK_BOWMAN
+LANG_ENGLISH        "Patrick "Kewk" Bowman"
+LANG_SPANISH        "#same"
+
+REFERENCE           LAIRD_MALAMED
+LANG_ENGLISH        "Laird Malamed "
+LANG_SPANISH        "#same"
+
+REFERENCE           SENIOR_EXECUTIVE_PRODUCER
+LANG_ENGLISH        "Senior Executive Producer"
+LANG_SPANISH        "#same"
+
+REFERENCE           MARK_LAMIA
+LANG_ENGLISH        "Mark Lamia"
+LANG_SPANISH        "#same"
+
+REFERENCE           VP_NORTH_AMERICAN_STUDIOS
+LANG_ENGLISH        "VP North American Studios"
+LANG_SPANISH        "#same"
+
+REFERENCE           VOICE_AND_MOTION_CAPTURE
+LANG_ENGLISH        "VOICE AND MOTION CAPTURE"
+LANG_SPANISH        "#same"
+
+REFERENCE           VOICE_CASTING_AND_DIRECTION
+LANG_ENGLISH        "Voice Casting and Direction"
+LANG_SPANISH        "#same"
+
+REFERENCE           MARGARET_TANG_WOMB_MUSIC
+LANG_ENGLISH        "Margaret Tang, Womb Music"
+LANG_SPANISH        "#same"
+
+REFERENCE           STEVE_BLUM
+LANG_ENGLISH        "Steve Blum - Captain Foley, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           CAPTAIN_FOLEY
+LANG_ENGLISH        "Captain Foley"
+LANG_SPANISH        "#same"
+
+REFERENCE           JASON_STATHAM
+LANG_ENGLISH        "Jason Statham, Sergeant Waters"
+LANG_SPANISH        "#same"
+
+REFERENCE           CAPTAIN_WATERS
+LANG_ENGLISH        "Captain Waters"
+LANG_SPANISH        "#same"
+
+REFERENCE           GIOVANNI_RIBISI
+LANG_ENGLISH        "Giovanni Ribisi, Private Elder"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRIVATE_ELDER
+LANG_ENGLISH        "Private Elder"
+LANG_SPANISH        "#same"
+
+REFERENCE           GREGG_BERGER
+LANG_ENGLISH        "Gregg Berger, Sergeant Moody, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           SERGEANT_MOODY_ADDITIONAL_VOICES
+LANG_ENGLISH        "Sergeant Moody, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_GOUGH
+LANG_ENGLISH        "Michael Gough, Captain Price, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           CAPTAIN_PRICE_ADDITIONAL_VOICES
+LANG_ENGLISH        "Captain Price, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_BELL
+LANG_ENGLISH        "Michael Bell, Sergeant Pavlov, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRIVATE_KAMAROV_ADDITIONAL_VOICES
+LANG_ENGLISH        "Private Kamarov, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           JIM_WARD
+LANG_ENGLISH        "Jim Ward, German PA Officer, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           GERMAN_PA_OFFICER_ADDITIONAL_VOICES
+LANG_ENGLISH        "German PA Officer, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           NICK_JAMESON
+LANG_ENGLISH        "Nick Jameson, Russian Tank Crew, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           RUSSIAN_TANK_CREW_ADDITIONAL_VOICES
+LANG_ENGLISH        "Russian Tank Crew, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           NEIL_ROSS
+LANG_ENGLISH        "Neil Ross, Narrator, Announcer"
+LANG_SPANISH        "#same"
+
+REFERENCE           NARRATOR_ANNOUNCER
+LANG_ENGLISH        "Narrator, Announcer"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAVID_SOBOLOV
+LANG_ENGLISH        "David Sobolov, German Loudspeaker, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           GERMAN_LOUDSPEAKER_ADDITIONAL_VOICES
+LANG_ENGLISH        "German Loudspeaker, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANDRE_SOGLIUZZO
+LANG_ENGLISH        "Andre Sogliuzzo, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_VOICES
+LANG_ENGLISH        "Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           GRANT_ALBRECHT
+LANG_ENGLISH        "Grant Albrecht, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           QUINTON_FLYNN
+LANG_ENGLISH        "Quinton Flynn, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOSH_PASKOWITZ
+LANG_ENGLISH        "Josh Paskowitz, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           RECORDING_ENGINEERING_EDITING_VO_EFFECTS_DESIGN
+LANG_ENGLISH        "Recording, Engineering, Editing, VO Effects Design"
+LANG_SPANISH        "#same"
+
+REFERENCE           RIK_W_SCHAFFER_WOMB_MUSIC
+LANG_ENGLISH        "Rik W. Schaffer, Womb Music"
+LANG_SPANISH        "#same"
+
+REFERENCE           VOICES_RECORDED_AT_SALAMI_STUDIOS_AND_THE_CASTLE
+LANG_ENGLISH        "Voices recorded at Salami Studios"
+LANG_SPANISH        "#same"
+
+REFERENCE           MUSIC_AND_SOUND_EFFECTS
+LANG_ENGLISH        "Music & Sound Effects"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_GIACCHINO
+LANG_ENGLISH        "Michael Giacchino"
+LANG_SPANISH        "#same"
+
+REFERENCE           ORIGINAL_MUSICAL_SCORE
+LANG_ENGLISH        "Original Musical Score"
+LANG_SPANISH        "#same"
+
+REFERENCE           GLOBAL_BRAND_MANAGEMENT
+LANG_ENGLISH        "Director, Global Brand Management"
+LANG_SPANISH        "#same"
+
+REFERENCE           DUSTY_WELCH
+LANG_ENGLISH        "Dusty Welch"
+LANG_SPANISH        "#same"
+
+REFERENCE           VP_GBM
+LANG_ENGLISH        "VP, Global Brand Management"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAVID_POKRESS
+LANG_ENGLISH        "David Pokress, Director, GBM"
+LANG_SPANISH        "#same"
+
+REFERENCE           DIRECTOR_GBM
+LANG_ENGLISH        "Director, Global Brand Management"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRAD_CARRAWAY
+LANG_ENGLISH        "Brad Carraway"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRAND_MANAGER
+LANG_ENGLISH        "Brand Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           RICHARD_BREST
+LANG_ENGLISH        "Richard Brest"
+LANG_SPANISH        "#same"
+
+REFERENCE           ASSOCIATE_BRAND_MANAGER
+LANG_ENGLISH        "Associate Brand Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           MIKE_MANTARRO
+LANG_ENGLISH        "Mike Mantarro"
+LANG_SPANISH        "#same"
+
+REFERENCE           SENIOR_PUBLICIST
+LANG_ENGLISH        "Senior Publicist"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHELLE_NINO
+LANG_ENGLISH        "Michelle Nino"
+LANG_SPANISH        "#same"
+
+REFERENCE           DIRECTOR_CORP_COMMUNICATIONS
+LANG_ENGLISH        "Director, Corp Communications"
+LANG_SPANISH        "#same"
+
+REFERENCE           TRICIA_BERTERO
+LANG_ENGLISH        "Tricia Bertero"
+LANG_SPANISH        "#same"
+
+REFERENCE           VP_TRADE_MARKETING
+LANG_ENGLISH        "Senior VP, North American Sales"
+LANG_SPANISH        "#same"
+
+REFERENCE           NORTH_AMERICAN_SALES
+LANG_ENGLISH        "VP, North American Sales"
+LANG_SPANISH        "#same"
+
+REFERENCE           NORTH_AMERICAN_SALES2
+LANG_ENGLISH        "Maria Stipp"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOHN_DILULLO
+LANG_ENGLISH        "John Dilullo, Director, Trade Marketing"
+LANG_SPANISH        "#same"
+
+REFERENCE           DIRECTOR_TRADE_MARKETING
+LANG_ENGLISH        "Director, Trade Marketing"
+LANG_SPANISH        "#same"
+
+REFERENCE           JULIE_DEWOLF
+LANG_ENGLISH        "Julie DeWolf"
+LANG_SPANISH        "#same"
+
+REFERENCE           TRADE_MARKETING_MANAGER
+LANG_ENGLISH        "Trade Marketing Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           CREATIVE_SERVICES
+LANG_ENGLISH        "Creative Services"
+LANG_SPANISH        "#same"
+
+REFERENCE           DENISE_WALSH
+LANG_ENGLISH        "VP, Creative Services & Operations"
+LANG_SPANISH        "#same"
+
+REFERENCE           DENISE_WALSH2
+LANG_ENGLISH        "Denise Walsh"
+LANG_SPANISH        "#same"
+
+REFERENCE           VP_CREATIVE_SERVICES_OPERATIONS
+LANG_ENGLISH        "VP, Creative Services & Operations"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATHEW_STAINNER
+LANG_ENGLISH        "Creative Marketing Director"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATHEW_STAINNER2
+LANG_ENGLISH        "Matthew Stainner"
+LANG_SPANISH        "#same"
+
+REFERENCE           CREATIVE_MARKETING_DIRECTOR
+LANG_ENGLISH        "Creative Marketing Director"
+LANG_SPANISH        "#same"
+
+REFERENCE           JILL_BARRY
+LANG_ENGLISH        "Creative Services Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           JILL_BARRY2
+LANG_ENGLISH        "Jill Barry"
+LANG_SPANISH        "#same"
+
+REFERENCE           CREATIVE_SERVICES_MANAGER
+LANG_ENGLISH        "Creative Services Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           SHELBY_YATES
+LANG_ENGLISH        "Creative Services Assistant Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           SHELBY_YATES2
+LANG_ENGLISH        "Shelby Yates"
+LANG_SPANISH        "#same"
+
+REFERENCE           CREATIVE_SERVICES_ASSISTANT_MANAGER
+LANG_ENGLISH        "Creative Services Assistant Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           QUALITY_ASSURANCE
+LANG_ENGLISH        "Quality Assurance Test Team"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRAD_SAAVEDRA
+LANG_ENGLISH        "Brad Saavedra, Project Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           PROJECT_LEAD
+LANG_ENGLISH        "Project Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATT_MCCLURE
+LANG_ENGLISH        "Matt McClure, QA Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           SENIOR_PROJECT_LEAD
+LANG_ENGLISH        "Senior Project Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           MARILENA_RIXFORD
+LANG_ENGLISH        "Marilena Rixford, QA Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_MANAGER
+LANG_ENGLISH        "QA Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRYAN_JURY
+LANG_ENGLISH        "Bryan Jury, Floor Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           FLOOR_LEAD
+LANG_ENGLISH        "Floor Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           ERIK_MELEN
+LANG_ENGLISH        "Erik Melen, Project Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           MP_COORDINATOR
+LANG_ENGLISH        "MP Coordinator"
+LANG_SPANISH        "#same"
+
+REFERENCE           PETER_BEAL
+LANG_ENGLISH        "Peter Beal, SP Coordinator"
+LANG_SPANISH        "#same"
+
+REFERENCE           SP_COORDINATOR
+LANG_ENGLISH        "SP Coordinator"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROBERT_MAX_MARTIN
+LANG_ENGLISH        "Robert Max Martin, Database Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           DATABASE_MANAGER
+LANG_ENGLISH        "Database Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTERS
+LANG_ENGLISH        "Testers"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTERS_NAMES
+LANG_ENGLISH        "Avery Bennet, Albert Yao, Chris O'Neill, Jason Ralya, Jim Norris\nPeter McKernan, Scott Soltero, Daniel Yoon, Jason B Guyan, Julio Rodriguez\nMatthew Murray, Serg Souleiman, Adam Luskin, Travis Cummings, Evan Vincent\nMike Salwet, Robert Dion, Frankie Gutierrez, Matthew Brown, John Shubert"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_AVERY_BENNET
+LANG_ENGLISH        "Avery Bennet"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_CRIS_ONEILL
+LANG_ENGLISH        "Chris O'Neill"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_JASON_RALYA
+LANG_ENGLISH        "Jason Ralya"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_JIM_NORRIS
+LANG_ENGLISH        "Jim Norris"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_PETER_MCKERNAN
+LANG_ENGLISH        "Peter McKernan"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_SCOTT_SOLTERO
+LANG_ENGLISH        "Scott Soltero"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_DANIEL_YOON
+LANG_ENGLISH        "Daniel Yoon"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_JASON_GUYAN
+LANG_ENGLISH        "Jason B Guyan"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_JULIO_RODRIGUEZ
+LANG_ENGLISH        "Julio Rodriguez"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_MATTHEW_MURRAY
+LANG_ENGLISH        "Matthew Murray"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_SERG_SOULEIMAN
+LANG_ENGLISH        "Serg Souleiman"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_ADAM_LUSKIN
+LANG_ENGLISH        "Adam Luskin"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_TRAVIS_CUMMINGS
+LANG_ENGLISH        "Travis Cummings"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_EVAN_VINCENT
+LANG_ENGLISH        "Evan Vincent"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_MIKE_SALWET
+LANG_ENGLISH        "Mike Salwet"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_ROBERT_DION
+LANG_ENGLISH        "Robert Dion"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_FRANKIE_GUTIERREZ
+LANG_ENGLISH        "Frankie Gutierrez"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_MATTHEW_BROWN
+LANG_ENGLISH        "Matthew Brown"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_JOHN_SHUBERT
+LANG_ENGLISH        "John Shubert"
+LANG_SPANISH        "#same"
+
+REFERENCE           SUPPORTING_LEADS
+LANG_ENGLISH        "Supporting Leads"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHRIS_KEIM
+LANG_ENGLISH        "Chris Keim, Network Senior Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           NETWORK_LEAD
+LANG_ENGLISH        "Network Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           NEIL_BARIZO
+LANG_ENGLISH        "Niel Barizo, Compatibility Senior Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           COMPATIBILITY_LEAD
+LANG_ENGLISH        "Compatibility Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           TIM_VANLAW
+LANG_ENGLISH        "Tim Vanlaw, Manager, Code Release Group"
+LANG_SPANISH        "#same"
+
+REFERENCE           MANAGER_CODE_RELEASE_GROUP
+LANG_ENGLISH        "Manager, Code Release Group"
+LANG_SPANISH        "#same"
+
+REFERENCE           JEF_SEDIVY
+LANG_ENGLISH        "Jef Sedivy, Lead, Code Release Group"
+LANG_SPANISH        "#same"
+
+REFERENCE           LEAD_CODE_RELEASE_GROUP
+LANG_ENGLISH        "Lead, Code Release Group"
+LANG_SPANISH        "#same"
+
+REFERENCE           BOB_MCPHERSON
+LANG_ENGLISH        "Sr. Manager, Customer Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           BOB_MCPHERSON2
+LANG_ENGLISH        "Bob McPherson"
+LANG_SPANISH        "#same"
+
+REFERENCE           MANAGER_CUSTOMER_SUPPORT
+LANG_ENGLISH        "Manager, Customer Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           CUSTOMER_SUPPORT_LEADS
+LANG_ENGLISH        "Customer Support Leads"
+LANG_SPANISH        "#same"
+
+REFERENCE           GARY_BOLDUC
+LANG_ENGLISH        "Gary Bolduc, Sr. Lead, Phone Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           PHONE_SUPPORT
+LANG_ENGLISH        "Phone Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_HILL
+LANG_ENGLISH        "Michael Hill, Sr. Lead, E-mail Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           EMAIL_SUPPORT
+LANG_ENGLISH        "Email Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROB_LIM
+LANG_ENGLISH        "Rob Lim, Lead Information and Escalation Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           INFORMATION_AND_ESCALATION_SUPPORT
+LANG_ENGLISH        "Information and Escalation Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           CS_QA_SPECIAL_THANKS
+LANG_ENGLISH        "CS/QA Special Thanks"
+LANG_SPANISH        "#same"
+
+REFERENCE           CS_QA_SPECIAL_THANKS_NAMES
+LANG_ENGLISH        "Jim Summers, Jason Wong, Joe Favazza, Adam Hartsfield, Ed Clune, Nadine Theuzillot, Chad Siedoff, Indra Gunawan, Marco Scataglini, Willie Bolton, John Rosser, Jason Potter, Glenn Vistante, Jennifer Vitiello, Mike Rixford, Tyler Rivers, Nick Favazza, Janna Saavedra."
+LANG_SPANISH        "#same"
+
+REFERENCE           INFINITY_WARD
+LANG_ENGLISH        "Infinity Ward"
+LANG_SPANISH        "#same"
+
+REFERENCE           PAUL_JURY
+LANG_ENGLISH        "Paul Jury"
+LANG_SPANISH        "#same"
+
+REFERENCE           JACK_GRILLO
+LANG_ENGLISH        "Jack Grillo"
+LANG_SPANISH        "#same"
+
+REFERENCE           CLIFTON_CLINE
+LANG_ENGLISH        "Clifton Cline"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHRIS_HERMANS
+LANG_ENGLISH        "Chris Hermans"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCOTT_MATLOFF
+LANG_ENGLISH        "Scott Matloff"
+LANG_SPANISH        "#same"
+
+REFERENCE           GAVIN_MCCANDLISH
+LANG_ENGLISH        "Gavin McCandlish"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAVID_OBERLIN
+LANG_ENGLISH        "David Oberlin"
+LANG_SPANISH        "#same"
+
+REFERENCE           OLIVER_GEORGE
+LANG_ENGLISH        "Oliver George"
+LANG_SPANISH        "#same"
+
+REFERENCE           HISTORICAL_REFERENCE
+LANG_ENGLISH        "Historical Reference"
+LANG_SPANISH        "#same"
+
+REFERENCE           MIKE_PHILLIPS
+LANG_ENGLISH        "Mike Phillips"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOSH_HENNIGER
+LANG_ENGLISH        "Josh Henniger"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAVE_SANTI
+LANG_ENGLISH        "Dave Santi and the members of"
+LANG_SPANISH        "#same"
+
+REFERENCE           E_COMPANY
+LANG_ENGLISH        "E Company 2/506 PIR 101st Airborne Division of southern CA "
+LANG_SPANISH        "#same"
+
+REFERENCE           8TH_GUARDS
+LANG_ENGLISH        "8th Guards Mechanized Corps and the participants of the"
+LANG_SPANISH        "#same"
+
+REFERENCE           PARTICIPANTS
+LANG_ENGLISH        "Camp Gruber Battle of Berlin reenactment of November 2002"
+LANG_SPANISH        "#same"
+
+REFERENCE           LARRY_GOLDBERG
+LANG_ENGLISH        "Larry Goldberg, Exec VP Worldwide Studios"
+LANG_SPANISH        "#same"
+
+REFERENCE           GEORGE_ROSE
+LANG_ENGLISH        "George Rose"
+LANG_SPANISH        "#same"
+
+REFERENCE           GREG_DEUTSCH
+LANG_ENGLISH        "Greg Deutsch"
+LANG_SPANISH        "#same"
+
+REFERENCE           THE_PHILLY_PLACE
+LANG_ENGLISH        "The Philly Place "
+LANG_SPANISH        "#same"
+
+REFERENCE           JOHN_GARCIA_SHELTON
+LANG_ENGLISH        "John Garcia-Shelton"
+LANG_SPANISH        "#same"
+
+REFERENCE           SPARK_UNLIMITED
+LANG_ENGLISH        "Spark Unlimited"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_CREDITS
+LANG_ENGLISH        "Activision Credits"
+LANG_SPANISH        "#same"
+
+REFERENCE           LAIRD_MALAMED_SENIOR_EXECUTIVE
+LANG_ENGLISH        "Laird Malamed, Senior Executive Producer"
+LANG_SPANISH        "#same"
+
+REFERENCE           MARK_LAMIA_VP
+LANG_ENGLISH        "Mark Lamia, VP North American Studios"
+LANG_SPANISH        "#same"
+
+REFERENCE           VOICE_CASTING2
+LANG_ENGLISH        "Casting and Direction, Margaret Tang, Womb Music"
+LANG_SPANISH        "#same"
+
+REFERENCE           MUSIC
+LANG_ENGLISH        "Music"
+LANG_SPANISH        "#same"
+
+REFERENCE           LEGAL
+LANG_ENGLISH        "Business & Legal Affairs"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOCALIZATIONS_PRODUCTION
+LANG_ENGLISH        "LOCALIZATIONS PRODUCTION/GBM"
+LANG_SPANISH        "#same"
+
+REFERENCE           CENTRAL_TECHNOLGY
+LANG_ENGLISH        "Central Technolgy"
+LANG_SPANISH        "#same"
+
+REFERENCE           RANDOLPH_AMORE
+LANG_ENGLISH        "Randolph L. S. d'Amore"
+LANG_SPANISH        "#same"
+
+REFERENCE           SEAN_BERRETT
+LANG_ENGLISH        "Sean Berrett"
+LANG_SPANISH        "#same"
+
+REFERENCE           DONALD_MARSHALL
+LANG_ENGLISH        "Donald E. Marshall, Floor Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           SOUKHA_PHIMPASOUK
+LANG_ENGLISH        "Soukha Phimpasouk"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEITH_MCCLELLAN
+LANG_ENGLISH        "Keith McClellan"
+LANG_SPANISH        "#same"
+
+REFERENCE           KIM_CARRASCO
+LANG_ENGLISH        "Kim Carrasco"
+LANG_SPANISH        "#same"
+
+REFERENCE           MIKE_CURRAN
+LANG_ENGLISH        "Mike Curran"
+LANG_SPANISH        "#same"
+
+REFERENCE           SUNGWON_CHOE
+LANG_ENGLISH        "Sungwon Choe"
+LANG_SPANISH        "#same"
+
+REFERENCE           SADULLAH_NADER
+LANG_ENGLISH        "Sadullah Nader"
+LANG_SPANISH        "#same"
+
+REFERENCE           JEFF_GRANT
+LANG_ENGLISH        "Jeff Grant"
+LANG_SPANISH        "#same"
+
+REFERENCE           JIM_SUMMERS
+LANG_ENGLISH        "Jim Summers"
+LANG_SPANISH        "#same"
+
+REFERENCE           JASON_WONG
+LANG_ENGLISH        "Jason Wong"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOE_FAVAZZA
+LANG_ENGLISH        "Joe Favazza"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADAM_HARTSFIELD
+LANG_ENGLISH        "Adam Hartsfield, Night Crew Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           ED_CLUNE
+LANG_ENGLISH        "Ed Clune, Senior Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           NADINE_THEUZILLOT
+LANG_ENGLISH        "Nadine Theuzillot"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHAD_SIEDOFF
+LANG_ENGLISH        "Chad Siedoff"
+LANG_SPANISH        "#same"
+
+REFERENCE           INDRA_GUNAWAN
+LANG_ENGLISH        "Indra Yee"
+LANG_SPANISH        "#same"
+
+REFERENCE           MARCO_SCATAGLINI
+LANG_ENGLISH        "Marco Scataglini"
+LANG_SPANISH        "#same"
+
+REFERENCE           WILLIE_BOLTON
+LANG_ENGLISH        "Willie Bolton"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOHN_ROSSER
+LANG_ENGLISH        "John Rosser"
+LANG_SPANISH        "#same"
+
+REFERENCE           JASON_POTTER
+LANG_ENGLISH        "Jason Potter"
+LANG_SPANISH        "#same"
+
+REFERENCE           GLENN_VISTANTE
+LANG_ENGLISH        "Glenn Vistante, Senior Project Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           JENNIFER_VITIELLO
+LANG_ENGLISH        "Jennifer Vitiello"
+LANG_SPANISH        "#same"
+
+REFERENCE           MIKE_RIXFORD
+LANG_ENGLISH        "Mike Rixford"
+LANG_SPANISH        "#same"
+
+REFERENCE           TYLER_RIVERS
+LANG_ENGLISH        "Tyler Rivers"
+LANG_SPANISH        "#same"
+
+REFERENCE           NICK_FAVAZZA
+LANG_ENGLISH        "Nick Favazza"
+LANG_SPANISH        "#same"
+
+REFERENCE           JANNA_SAAVEDRA
+LANG_ENGLISH        "Janna Saavedra"
+LANG_SPANISH        "#same"
+
+REFERENCE           THEEND
+LANG_ENGLISH        "The End."
+LANG_SPANISH        "#same"
+
+REFERENCE           DEVELOPMENT_DIRECTOR
+LANG_ENGLISH        "Development Director"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_ART
+LANG_ENGLISH        "Additional Art"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAN_MODITCH
+LANG_ENGLISH        "Dan Moditch"
+LANG_SPANISH        "#same"
+
+REFERENCE           SLOAN_ANDERSON
+LANG_ENGLISH        "Sloan Anderson"
+LANG_SPANISH        "#same"
+
+REFERENCE           RON_DOORNINK
+LANG_ENGLISH        "Ron Doornink"
+LANG_SPANISH        "#same"
+
+REFERENCE           BILL_ANKER
+LANG_ENGLISH        "Bill Anker"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRIAN_ANDERSON
+LANG_ENGLISH        "Brian "BA" Anderson"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOCALIZATION_PROJECT_LEAD
+LANG_ENGLISH        "David Hansen, Localizations Project Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           PAUL_COLBERT
+LANG_ENGLISH        "Paul Colbert, Localizations Project Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOCALIZATIONS_SENIOR_LEAD
+LANG_ENGLISH        "Senior Project Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANTHONY_HATCH_KOROTKO
+LANG_ENGLISH        "Anthony Korotko, Night Crew Senior Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOCALIZATIONS_TEAM
+LANG_ENGLISH        "Localizations Team"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOCALIZATIONS_MANAGER
+LANG_ENGLISH        "Manager, QA Night Crew"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOCALIZATIONS_TEST_TEAM
+LANG_ENGLISH        "Localizations Testers"
+LANG_SPANISH        "#same"
+
+REFERENCE           DANNY_YANEZ
+LANG_ENGLISH        "Danny Yanez"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOHN_BATSHON
+LANG_ENGLISH        "John Batshon"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANDREW_CHRISTY
+LANG_ENGLISH        "Andrew Christy"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHRIS_DOLAN
+LANG_ENGLISH        "Chris Dolan"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_D_HILL
+LANG_ENGLISH        "Michael D. Hill"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEVIN_KRAEER
+LANG_ENGLISH        "Kevin Kraeer"
+LANG_SPANISH        "#same"
+
+REFERENCE           JESSE_BLACK_MOONEY
+LANG_ENGLISH        "Jesse Mooney"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHRIS_SIMON
+LANG_ENGLISH        "Chris Simon"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOHN_WHANG
+LANG_ENGLISH        "John Whang"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEN_TURNER
+LANG_ENGLISH        "Ken Turner"
+LANG_SPANISH        "#same"
+
+REFERENCE           NO_COWS
+LANG_ENGLISH        "No cows were harmed in the making of this game."
+LANG_SPANISH        "#same"
+
+REFERENCE           ISREAL_BARCO
+LANG_ENGLISH        "Isreal Barco"
+LANG_SPANISH        "#same"
+
+REFERENCE           DANIEL_CHENG
+LANG_ENGLISH        "Daniel Cheng"
+LANG_SPANISH        "#same"
+
+REFERENCE           RYAN_FORD
+LANG_ENGLISH        "Ryan Ford"
+LANG_SPANISH        "#same"
+
+REFERENCE           DANE_FREDERIKSEN
+LANG_ENGLISH        "Dane Frederiksen"
+LANG_SPANISH        "#same"
+
+REFERENCE           DUSTIN_GREEN
+LANG_ENGLISH        "Dustin Green"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_ISLES
+LANG_ENGLISH        "Michael Isles"
+LANG_SPANISH        "#same"
+
+REFERENCE           TIM_KEOSABABIAN
+LANG_ENGLISH        "Tim Keosababian "
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_SOUND
+LANG_ENGLISH        "Additional Sound"
+LANG_SPANISH        "#same"
+
+REFERENCE           THANKS1
+LANG_ENGLISH        "We would like to especially thank,"
+LANG_SPANISH        "#same"
+
+REFERENCE           THANKS1a
+LANG_ENGLISH        "the men and women,"
+LANG_SPANISH        "#same"
+
+REFERENCE           THANKS1b
+LANG_ENGLISH        "We would like to especially thank the men and women,"
+LANG_SPANISH        "#same"
+
+REFERENCE           THANKS2
+LANG_ENGLISH        "who fought and died,"
+LANG_SPANISH        "#same"
+
+REFERENCE           THANKS2aa
+LANG_ENGLISH        "to preserve our freedom,"
+LANG_SPANISH        "#same"
+
+REFERENCE           THANKS2b
+LANG_ENGLISH        "who fought and died to preserve our freedom"
+LANG_SPANISH        "#same"
+
+REFERENCE           THANKS2a
+LANG_ENGLISH        "we will never forget you."
+LANG_SPANISH        "#same"
+
+REFERENCE           ROBERT_DEPALMA
+LANG_ENGLISH        "Robert DePalma"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOULE_MIDDLETON
+LANG_ENGLISH        "Joule Middleton"
+LANG_SPANISH        "#same"
+
+REFERENCE           TODD_KOMESU
+LANG_ENGLISH        "Todd Komesu"
+LANG_SPANISH        "#same"
+
+REFERENCE           MIKE_BECK
+LANG_ENGLISH        "Mike Beck"
+LANG_SPANISH        "#same"
+
+REFERENCE           JESSICA_MCCLURE
+LANG_ENGLISH        "Jessica McClure"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHAPTER_BRIEF1
+LANG_ENGLISH        "Chapter Briefing Historical Images by"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHAPTER_BRIEF2
+LANG_ENGLISH        "End Game Footage provided by:"
+LANG_SPANISH        "#same"
+
+REFERENCE           EDWARD_F
+LANG_ENGLISH        "Edward F. Feuerherd, Creation Films"
+LANG_SPANISH        "#same"
+
+REFERENCE           JARETT_MELVILLE
+LANG_ENGLISH        "Jarett Melville, CineSpark Motion Media"
+LANG_SPANISH        "#same"
+
+REFERENCE           INTRODUCTION_CINEMATIC
+LANG_ENGLISH        "Cinematics provided by:\n\n"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROB_TROY
+LANG_ENGLISH        "Rob Troy, Absinthe Pictures"
+LANG_SPANISH        "#same"
+
+REFERENCE           LISA_RIZNIKOVE
+LANG_ENGLISH        "Lisa Riznikove, Absinthe Pictures"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATTHEW_LACKOWSKI
+LANG_ENGLISH        "Matthew Lackowski"
+LANG_SPANISH        "#same"
+
+REFERENCE           JUSTIN_SKOMAROVSKY
+LANG_ENGLISH        "Justin Skomarovsky"
+LANG_SPANISH        "#same"
+
+REFERENCE           THIRD_SHIFT
+LANG_ENGLISH        "Third Shift Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JASON_LEVINE
+LANG_ENGLISH        "Jason Levine"
+LANG_SPANISH        "#same"
+
+REFERENCE           EARL_BOEN
+LANG_ENGLISH        "Earl Boen, Additional Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           KATHY_VRABECK
+LANG_ENGLISH        "Kathy Vrabeck, Exec VP, GBM"
+LANG_SPANISH        "#same"
+
+REFERENCE           BUSINESS_LEGAL_AFFAIRS
+LANG_ENGLISH        "Business & Legal Affairs"
+LANG_SPANISH        "#same"
+
+REFERENCE           HAMAGAMI_CARROLL
+LANG_ENGLISH        "Hamagami/Carroll And Associates"
+LANG_SPANISH        "#same"
+
+REFERENCE           HAMAGAMI_CARROLL2
+LANG_ENGLISH        "Package Design"
+LANG_SPANISH        "#same"
+
+REFERENCE           IGNITED_MINDS
+LANG_ENGLISH        "Manual Design"
+LANG_SPANISH        "#same"
+
+REFERENCE           IGNITED_MINDS2
+LANG_ENGLISH        "Ignited Minds, LLC"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOHN_FRITTS
+LANG_ENGLISH        "John Fritts, Installer Scripting"
+LANG_SPANISH        "#same"
+
+REFERENCE           INTERNATIONAL
+LANG_ENGLISH        "International"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCOTT_DODKINS
+LANG_ENGLISH        "Senior Vice President European Publishing"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCOTT_DODKINS2
+LANG_ENGLISH        "Scott Dodkins"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROGER_WALKDEN
+LANG_ENGLISH        "UK General Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROGER_WALKDEN2
+LANG_ENGLISH        "Roger Walkden"
+LANG_SPANISH        "#same"
+
+REFERENCE           ALISON_TURNER
+LANG_ENGLISH        "Director of Marketing UK/ROE"
+LANG_SPANISH        "#same"
+
+REFERENCE           ALISON_TURNER2
+LANG_ENGLISH        "Alison Turner"
+LANG_SPANISH        "#same"
+
+REFERENCE           NATHALIE_RANSON
+LANG_ENGLISH        "Head of Publishing Services"
+LANG_SPANISH        "#same"
+
+REFERENCE           NATHALIE_RANSON2
+LANG_ENGLISH        "Nathalie Ranson"
+LANG_SPANISH        "#same"
+
+REFERENCE           JACKIE_SUTTON
+LANG_ENGLISH        "Creative Services Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           JACKIE_SUTTON2
+LANG_ENGLISH        "Jackie Sutton"
+LANG_SPANISH        "#same"
+
+REFERENCE           TAMSIN_LUCAS
+LANG_ENGLISH        "Senior Localisation Project Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           TAMSIN_LUCAS12
+LANG_ENGLISH        "Tamsin Lucas"
+LANG_SPANISH        "#same"
+
+REFERENCE           SIMON_DAWES
+LANG_ENGLISH        "Localization Project Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           SIMON_DAWES2
+LANG_ENGLISH        "Simon Dawes"
+LANG_SPANISH        "#same"
+
+REFERENCE           TREVOR_BURROWS
+LANG_ENGLISH        "Trevor Burrows, European Publishing Services Coordinator"
+LANG_SPANISH        "#same"
+
+REFERENCE           DALEEP_CHHABRIA
+LANG_ENGLISH        "Brand Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           DALEEP_CHHABRIA2
+LANG_ENGLISH        "Daleep Chhabria"
+LANG_SPANISH        "#same"
+
+REFERENCE           HEATHER_CLARKE
+LANG_ENGLISH        "European Operations Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           HEATHER_CLARKE2
+LANG_ENGLISH        "Heather Clarke"
+LANG_SPANISH        "#same"
+
+REFERENCE           LYNNE_MOSS
+LANG_ENGLISH        "Production Planner"
+LANG_SPANISH        "#same"
+
+REFERENCE           LYNNE_MOSS2
+LANG_ENGLISH        "Lynne Moss"
+LANG_SPANISH        "#same"
+
+REFERENCE           VICTORIA_FISHER
+LANG_ENGLISH        "Production Planner"
+LANG_SPANISH        "#same"
+
+REFERENCE           VICTORIA_FISHER2
+LANG_ENGLISH        "Victoria Fisher"
+LANG_SPANISH        "#same"
+
+REFERENCE           GERMAN_LOCALIZATION
+LANG_ENGLISH        "German Localization by"
+LANG_SPANISH        "#same"
+
+REFERENCE           GERMAN_LOCALIZATION2
+LANG_ENGLISH        "Effective Media GmbH"
+LANG_SPANISH        "#same"
+
+REFERENCE           FRENCH_LOCALIZATION
+LANG_ENGLISH        "French Localization by"
+LANG_SPANISH        "#same"
+
+REFERENCE           FRENCH_LOCALIZATION2
+LANG_ENGLISH        "Around The World"
+LANG_SPANISH        "#same"
+
+REFERENCE           ITALIAN_SPANISH_LOCALIZATION
+LANG_ENGLISH        "Italian & Spanish Localization by"
+LANG_SPANISH        "#same"
+
+REFERENCE           ITALIAN_SPANISH_LOCALIZATION2
+LANG_ENGLISH        "Synthesis International"
+LANG_SPANISH        "#same"
+
+REFERENCE           JAPANESE_LOCALIZATION
+LANG_ENGLISH        "Japanese Localization by"
+LANG_SPANISH        "#same"
+
+REFERENCE           JAPANESE_LOCALIZATION2
+LANG_ENGLISH        "Kids Station, Inc."
+LANG_SPANISH        "#same"
+
+REFERENCE           CHINESE_LOCALIZATION
+LANG_ENGLISH        "Chinese Localization by"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHINESE_LOCALIZATION2
+LANG_ENGLISH        "Unalis Corporation"
+LANG_SPANISH        "#same"
+
+REFERENCE           KOREAN_LOCALIZATION
+LANG_ENGLISH        "Korean Localization by"
+LANG_SPANISH        "#same"
+
+REFERENCE           KOREAN_LOCALIZATION2
+LANG_ENGLISH        "MEGA Enterprise Co."
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_GERMANY
+LANG_ENGLISH        "Activision Germany"
+LANG_SPANISH        "#same"
+
+REFERENCE           STEFAN_LULUDES
+LANG_ENGLISH        "Stefan Luludes, Marketing Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           BERND_REINARTZ
+LANG_ENGLISH        "Bernd Reinartz, PR Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           JULIA_VOLKMANN
+LANG_ENGLISH        "Julia Volkmann, PR Assistant"
+LANG_SPANISH        "#same"
+
+REFERENCE           STEFAN_SEIDEL
+LANG_ENGLISH        "Stefan Seidel, Brand Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           THORSTEN_HMANN
+LANG_ENGLISH        "Thorsten Hübschmann, IT & Web Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_FRANCE
+LANG_ENGLISH        "Activision France"
+LANG_SPANISH        "#same"
+
+REFERENCE           BERNARD_SIZEY
+LANG_ENGLISH        "Bernard Sizey, Marketing Director"
+LANG_SPANISH        "#same"
+
+REFERENCE           GUILLAUME_LAIRAN
+LANG_ENGLISH        "Guillaume Lairan, Marketing Group Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           GAUTIER_ORMANCEY
+LANG_ENGLISH        "Gautier Ormancey, Brand Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           DIANE_DE_DOMECY
+LANG_ENGLISH        "Diane de Domecy, PR Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           CENTRAL_TECHNOLOGY
+LANG_ENGLISH        "Central Technology"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANDREW_PETTERSON
+LANG_ENGLISH        "Andrew Petterson, Installer Programming"
+LANG_SPANISH        "#same"
+
+REFERENCE           PAUL_GOLDILLA
+LANG_ENGLISH        "Paul Goldilla, Database Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_RADZICHOVSKY
+LANG_ENGLISH        "Michael Radzichovsky"
+LANG_SPANISH        "#same"
+
+REFERENCE           PATRICK_RYAN
+LANG_ENGLISH        "Patrick Ryan"
+LANG_SPANISH        "#same"
+
+REFERENCE           CARLOS_RAMIREZ
+LANG_ENGLISH        "Carlos Ramirez"
+LANG_SPANISH        "#same"
+
+REFERENCE           DYLAN_LEONG
+LANG_ENGLISH        "Dylan Leong"
+LANG_SPANISH        "#same"
+
+REFERENCE           MORRISON_CHEN
+LANG_ENGLISH        "Morrison Chen"
+LANG_SPANISH        "#same"
+
+REFERENCE           RODRICK_RIPLEY
+LANG_ENGLISH        "Rodrick Ripley"
+LANG_SPANISH        "#same"
+
+REFERENCE           DOUG_WOOTEN
+LANG_ENGLISH        "Doug Wooten"
+LANG_SPANISH        "#same"
+
+REFERENCE           AARON_MOSNY
+LANG_ENGLISH        "Aaron Mosny"
+LANG_SPANISH        "#same"
+
+REFERENCE           JAY_FRANKE
+LANG_ENGLISH        "Jay Franke"
+LANG_SPANISH        "#same"
+
+REFERENCE           HENRY_VILLANUEVA
+LANG_ENGLISH        "Henry Villanueva"
+LANG_SPANISH        "#same"
+
+REFERENCE           NATHANIEL_MCCLURE
+LANG_ENGLISH        "Nathaniel McClure"
+LANG_SPANISH        "#same"
+
+REFERENCE           CRG_TESTERS
+LANG_ENGLISH        "CRG Testers"
+LANG_SPANISH        "#same"
+
+REFERENCE           CRG_TESTERS2
+LANG_ENGLISH        "James Call"
+LANG_SPANISH        "#same"
+
+REFERENCE           CRG_TESTERS3
+LANG_ENGLISH        "Anastasia Popova"
+LANG_SPANISH        "#same"
+
+REFERENCE           CRG_TESTERS4
+LANG_ENGLISH        "Diego Lozano"
+LANG_SPANISH        "#same"
+
+REFERENCE           CRG_TESTERS5
+LANG_ENGLISH        "Matt Mahler"
+LANG_SPANISH        "#same"
+
+REFERENCE           DOUGLAS_RICHARD_TODD
+LANG_ENGLISH        "Douglas Richard Todd"
+LANG_SPANISH        "#same"
+
+REFERENCE           MIKE_RESTIFO
+LANG_ENGLISH        "Mike Restifo"
+LANG_SPANISH        "#same"
+
+REFERENCE           JAMES_CALL
+LANG_ENGLISH        "James Call"
+LANG_SPANISH        "#same"
+
+REFERENCE           GIAN_DERIVI
+LANG_ENGLISH        "Gian Derivi-Castellanos"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANDREW_LIU
+LANG_ENGLISH        "Andrew Liu"
+LANG_SPANISH        "#same"
+
+REFERENCE           RONALD_HART
+LANG_ENGLISH        "Ronald Hart"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATT_RYDER
+LANG_ENGLISH        "Matt Ryder"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS
+LANG_ENGLISH        "Activision Special Thanks"
+LANG_SPANISH        "#same"
+
+REFERENCE           STEVE_ROSENTHAL
+LANG_ENGLISH        "Steve Rosenthal"
+LANG_SPANISH        "#same"
+
+REFERENCE           PETER_MURAVEZ
+LANG_ENGLISH        "Peter Muravez"
+LANG_SPANISH        "#same"
+
+REFERENCE           JUAN_VALDEZ
+LANG_ENGLISH        "Juan Valdez"
+LANG_SPANISH        "#same"
+
+REFERENCE           DOUG_AVERY
+LANG_ENGLISH        "Doug Avery"
+LANG_SPANISH        "#same"
+
+REFERENCE           STEVE_HOLMES
+LANG_ENGLISH        "Steve Holmes"
+LANG_SPANISH        "#same"
+
+REFERENCE           JASON_KIM
+LANG_ENGLISH        "Jason Kim"
+LANG_SPANISH        "#same"
+
+REFERENCE           SAM_NOURIANI
+LANG_ENGLISH        "Sam Nouriani"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRELAN_DUFF
+LANG_ENGLISH        "Brelan Duff"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATT_MORTON
+LANG_ENGLISH        "Matt Morton"
+LANG_SPANISH        "#same"
+
+REFERENCE           CARYN_LAW
+LANG_ENGLISH        "Caryn Law"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRIAN_PASS
+LANG_ENGLISH        "Brian Pass"
+LANG_SPANISH        "#same"
+
+REFERENCE           BLAINE_CHRISTINE
+LANG_ENGLISH        "Blaine Christine"
+LANG_SPANISH        "#same"
+
+REFERENCE           RYAN_RUCINSKI
+LANG_ENGLISH        "Ryan Rucinski"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRENT_BOYLEN
+LANG_ENGLISH        "Brent Boylen"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOE_SHACKLEFORD
+LANG_ENGLISH        "Joe Shackleford"
+LANG_SPANISH        "#same"
+
+REFERENCE           ASIF_HUSAIN
+LANG_ENGLISH        "Asif Husain"
+LANG_SPANISH        "#same"
+
+REFERENCE           CASEY_KEEFE
+LANG_ENGLISH        "Casey Keefe"
+LANG_SPANISH        "#same"
+
+REFERENCE           JONATHAN_MOSES
+LANG_ENGLISH        "Jonathan Moses"
+LANG_SPANISH        "#same"
+
+REFERENCE           GENE_BAHNG
+LANG_ENGLISH        "Gene Bahng"
+LANG_SPANISH        "#same"
+
+REFERENCE           GLENN_IGE
+LANG_ENGLISH        "Glenn Ige"
+LANG_SPANISH        "#same"
+
+REFERENCE           AARON_GRAY
+LANG_ENGLISH        "Aaron Gray"
+LANG_SPANISH        "#same"
+
+REFERENCE           DOUG_PEARSON
+LANG_ENGLISH        "Doug Pearson"
+LANG_SPANISH        "#same"
+
+REFERENCE           DANNY_TAYLOR
+LANG_ENGLISH        "Danny Taylor"
+LANG_SPANISH        "#same"
+
+REFERENCE           EAIN_BANKINS
+LANG_ENGLISH        "Eain Bankins"
+LANG_SPANISH        "#same"
+
+REFERENCE           MARC_STRUHL
+LANG_ENGLISH        "Marc Struhl"
+LANG_SPANISH        "#same"
+
+REFERENCE           PAT_DWYER
+LANG_ENGLISH        "Pat Dwyer"
+LANG_SPANISH        "#same"
+
+REFERENCE           JAMES_MAYEDA
+LANG_ENGLISH        "James Mayeda"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAVID_DALZELL
+LANG_ENGLISH        "David Dalzell"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEVIN_KRAFF
+LANG_ENGLISH        "Kevin Kraff"
+LANG_SPANISH        "#same"
+
+REFERENCE           GRAEME_DEVINE
+LANG_ENGLISH        "Graeme J. Devine"
+LANG_SPANISH        "#same"
+
+REFERENCE           JAMES_MONROE
+LANG_ENGLISH        "James Monroe"
+LANG_SPANISH        "#same"
+
+REFERENCE           STE_CORK
+LANG_ENGLISH        "Ste Cork"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAVID_LUNTZ
+LANG_ENGLISH        "David Luntz"
+LANG_SPANISH        "#same"
+
+REFERENCE           SEBASTIEN_LAURENT
+LANG_ENGLISH        "Sebastien Laurent"
+LANG_SPANISH        "#same"
+
+REFERENCE           VOICES
+LANG_ENGLISH        "Voices"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_SCHIFFER
+LANG_ENGLISH        "Michael Schiffer"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCRIPT
+LANG_ENGLISH        "Script "
+LANG_SPANISH        "#same"
+
+REFERENCE           QUALITY_ASSURANCE_CUSTOMER_SUPPORT
+LANG_ENGLISH        "Quality Assurance/Customer Support"
+LANG_SPANISH        "#same"
+
+REFERENCE           THIRD_SHIFT_TESTERS
+LANG_ENGLISH        "Third Shift Testers"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAN_BAKER
+LANG_ENGLISH        "Dan Baker, Absinthe Pictures"
+LANG_SPANISH        "#same"
+
+REFERENCE           LARRY_GOLDBERG_NAME
+LANG_ENGLISH        "Larry Goldberg"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADAM_HARTSFIELD_NAME
+LANG_ENGLISH        "Adam Hartsfield"
+LANG_SPANISH        "#same"
+
+REFERENCE           GRAY_MATTER_STUDIOS
+LANG_ENGLISH        "Gray Matter Studios:"
+LANG_SPANISH        "#same"
+
+REFERENCE           JEREMY_LUYTIES
+LANG_ENGLISH        "Jeremy "The Rhino" Luyties"
+LANG_SPANISH        "#same"
+
+REFERENCE           CORKY_LEHMKUHL
+LANG_ENGLISH        "Corky Lehmkuhl"
+LANG_SPANISH        "#same"
+
+REFERENCE           COLIN_WHITNEY
+LANG_ENGLISH        "Colin "Halftrack" Whitney"
+LANG_SPANISH        "#same"
+
+REFERENCE           DOMINIQUE_DROZDZ
+LANG_ENGLISH        "Lead Animator"
+LANG_SPANISH        "#same"
+
+REFERENCE           DOMINIQUE_DROZDZ2
+LANG_ENGLISH        "Dominique Drozdz"
+LANG_SPANISH        "#same"
+
+REFERENCE           ISABELLE_DECENCIERE
+LANG_ENGLISH        "Isabelle Decenciere"
+LANG_SPANISH        "#same"
+
+REFERENCE           TOM_SZAKOLCZAY
+LANG_ENGLISH        "Tom Szakolczay"
+LANG_SPANISH        "#same"
+
+REFERENCE           ALEXANDER_CONSERVA
+LANG_ENGLISH        "Alexander Conserva"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_JULIEANNE_CONSERVA
+LANG_ENGLISH        "Julienne Conserva"
+LANG_SPANISH        "#same"
+
+REFERENCE           DANIEL_KOPPEL
+LANG_ENGLISH        "Daniel Koppel"
+LANG_SPANISH        "#same"
+
+REFERENCE           ERIKA_NARIMATSU
+LANG_ENGLISH        "Erika Narimatsu"
+LANG_SPANISH        "#same"
+
+REFERENCE           JASON_HOOVER
+LANG_ENGLISH        "Jason Hoover"
+LANG_SPANISH        "#same"
+
+REFERENCE           JEAN-MARC_MOREL
+LANG_ENGLISH        "Jean-Marc Morel"
+LANG_SPANISH        "#same"
+
+REFERENCE           JED_ADAMS
+LANG_ENGLISH        "Jed Adams"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOE_CHIANG
+LANG_ENGLISH        "Joe Chiang"
+LANG_SPANISH        "#same"
+
+REFERENCE           JESSE_SNYDER
+LANG_ENGLISH        "Jesse "Hummer" Snyder"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOHN_BOJORQUEZ
+LANG_ENGLISH        "John Bojorquez"
+LANG_SPANISH        "#same"
+
+REFERENCE           KEVIN_WORREL
+LANG_ENGLISH        "Kevin Worrel"
+LANG_SPANISH        "#same"
+
+REFERENCE           MIKE_DENNY
+LANG_ENGLISH        "Mike "Intruder" Denny"
+LANG_SPANISH        "#same"
+
+REFERENCE           NIKOLAI_MOHILCHOCK
+LANG_ENGLISH        "Nikolai Mohilchock"
+LANG_SPANISH        "#same"
+
+REFERENCE           PAUL_SANDLER
+LANG_ENGLISH        "Paul "Russian Rocket" Sandler"
+LANG_SPANISH        "#same"
+
+REFERENCE           RICHARD_FARRELLY
+LANG_ENGLISH        "Richard Farrelly"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROBB_ALVEY
+LANG_ENGLISH        "Robb Alvey"
+LANG_SPANISH        "#same"
+
+REFERENCE           RYAN_FELTRAIN
+LANG_ENGLISH        "Ryan Feltrin"
+LANG_SPANISH        "#same"
+
+REFERENCE           SEAN_SOUCY
+LANG_ENGLISH        "Sean Soucy"
+LANG_SPANISH        "#same"
+
+REFERENCE           STEVE GOLDBERG
+LANG_ENGLISH        "Steve Goldberg"
+LANG_SPANISH        "#same"
+
+REFERENCE           THADDEUS_SASSER
+LANG_ENGLISH        "Thaddeus Sasser"
+LANG_SPANISH        "#same"
+
+REFERENCE           NATHAN_SILVERS
+LANG_ENGLISH        "Nathan Silvers"
+LANG_SPANISH        "#same"
+
+REFERENCE           LEVEL_DESIGN_AND_SCRIPTING
+LANG_ENGLISH        "Level Design and Scripting"
+LANG_SPANISH        "#same"
+
+REFERENCE           CREATIVE_LEAD
+LANG_ENGLISH        "Creative Lead"
+LANG_SPANISH        "#same"
+
+REFERENCE           LEAD_DESIGNER
+LANG_ENGLISH        "Lead Designer"
+LANG_SPANISH        "#same"
+
+REFERENCE           ART_AND_ANIMATION
+LANG_ENGLISH        "Art and Animation"
+LANG_SPANISH        "#same"
+
+REFERENCE           ART_DIRECTOR
+LANG_ENGLISH        "Art Director"
+LANG_SPANISH        "#same"
+
+REFERENCE           PROGRAMMING
+LANG_ENGLISH        "Programming"
+LANG_SPANISH        "#same"
+
+REFERENCE           SOUND_FX_ENGINEERING
+LANG_ENGLISH        "Sound FX Engineering"
+LANG_SPANISH        "#same"
+
+REFERENCE           MARC_STRUHL1
+LANG_ENGLISH        "Marc Struhl"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROB_KIRSCHENBAUM
+LANG_ENGLISH        "Robert "Paligap" Kirschenbaum"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAN_HAGERTY
+LANG_ENGLISH        "Daniel Hagerty"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADMINISTRATIVE_ASSISTANT
+LANG_ENGLISH        "Administrative Assistant"
+LANG_SPANISH        "#same"
+
+REFERENCE           DOUG_PEARSON1
+LANG_ENGLISH        "Doug Pearson"
+LANG_SPANISH        "#same"
+
+REFERENCE           EXECUTIVE_PRODUCER
+LANG_ENGLISH        "Executive Producer"
+LANG_SPANISH        "#same"
+
+REFERENCE           VP_NORTH_AMERICAN_STUDIOS1
+LANG_ENGLISH        "VP, North American Studios"
+LANG_SPANISH        "#same"
+
+REFERENCE           TEMP
+LANG_ENGLISH        "These credits are placeholder only!"
+LANG_SPANISH        "#same"
+
+REFERENCE           TEMP2
+LANG_ENGLISH        "They are in NO WAY indicitive of the final credit list!"
+LANG_SPANISH        "#same"
+
+REFERENCE           TECH_DIR
+LANG_ENGLISH        "Technical Director"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATT_BURNS
+LANG_ENGLISH        "Matthew Burns"
+LANG_SPANISH        "#same"
+
+REFERENCE           NATE_MCCLURE
+LANG_ENGLISH        "Nathaniel McClure"
+LANG_SPANISH        "#same"
+
+REFERENCE           ISMAEL_GARCIA
+LANG_ENGLISH        "Ismael Garcia"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRES_ACTIVISION_PUBLISH
+LANG_ENGLISH        "President, Activision Publishing"
+LANG_SPANISH        "#same"
+
+REFERENCE           KATHY_VRABECK1
+LANG_ENGLISH        "Kathy Vrabeck"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADD_CONTENT
+LANG_ENGLISH        "Additional Content Provided By"
+LANG_SPANISH        "#same"
+
+REFERENCE           MOHAMMED_ALAVI
+LANG_ENGLISH        "Mohammed Alavi"
+LANG_SPANISH        "#same"
+
+REFERENCE           ERIC_JOHNSEN
+LANG_ENGLISH        "Eric Johnsen"
+LANG_SPANISH        "#same"
+
+REFERENCE           PI_STUDIOS
+LANG_ENGLISH        "Pi Studios"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROBERT_ERWIN
+LANG_ENGLISH        "Robert Erwin"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOHN_FAULKENBURY
+LANG_ENGLISH        "John Faulkenbury"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROB_HEIRONIMUS
+LANG_ENGLISH        "Rob Heironimus"
+LANG_SPANISH        "#same"
+
+REFERENCE           DIRK_JONES
+LANG_ENGLISH        "Dirk Jones"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAN_KRAMER
+LANG_ENGLISH        "Dan Kramer"
+LANG_SPANISH        "#same"
+
+REFERENCE           CAMERON_LAMPRECHT
+LANG_ENGLISH        "Cameron Lamprecht"
+LANG_SPANISH        "#same"
+
+REFERENCE           PETER_MACK
+LANG_ENGLISH        "Peter Mack"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAVID_MERTZ
+LANG_ENGLISH        "David Mertz"
+LANG_SPANISH        "#same"
+
+REFERENCE           DANIEL_YOUNG
+LANG_ENGLISH        "Daniel Young"
+LANG_SPANISH        "#same"
+
+REFERENCE           STANJEL
+LANG_ENGLISH        "Stanjel - Community Map"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROGER_ABRAHAMSSON
+LANG_ENGLISH        "Roger Abrahamsson"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCRIPT_AND_VOICE
+LANG_ENGLISH        "SCRIPT AND VOICE"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCRIPTWRITER
+LANG_ENGLISH        "Scriptwriter"
+LANG_SPANISH        "#same"
+
+REFERENCE           MICHAEL_SCHIFFER1
+LANG_ENGLISH        "Michael Schiffer"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_WRITING
+LANG_ENGLISH        "Additional Writing"
+LANG_SPANISH        "#same"
+
+REFERENCE           CASTING_AND_VOICE_DIRECTION
+LANG_ENGLISH        "Casting and Voice Direction"
+LANG_SPANISH        "#same"
+
+REFERENCE           WOMB_MUSIC
+LANG_ENGLISH        "Margaret Tang, Womb Music"
+LANG_SPANISH        "#same"
+
+REFERENCE           VOICE_TALENT
+LANG_ENGLISH        "Voice Talent"
+LANG_SPANISH        "#same"
+
+REFERENCE           ROBIN_ATKIN_DOWNES
+LANG_ENGLISH        "Robin Atkin Downes - Major Ingram, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCOTT_BULLOCK
+LANG_ENGLISH        "S. Scott Bullock - Sergeant Antonov, Sergeant Jones, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           NEIL_ROSS1
+LANG_ENGLISH        "Neil Ross - B-17 Pilot, US Narrator, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCOTT_MENVILLE
+LANG_ENGLISH        "Scott Menville - Private Whitney, Private Semashko, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           SCOTT_BULLOCK1
+LANG_ENGLISH        "Scott Bullock - Sergeant Antonov, Sergeant Jones, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           JIM_WARD1
+LANG_ENGLISH        "Jim Ward - Corporal Kukilov , German Officer, German Soldier"
+LANG_SPANISH        "#same"
+
+REFERENCE           DEE_BAKER
+LANG_ENGLISH        "Dee Baker - Private Koppel, Van Dyke, German Soldier"
+LANG_SPANISH        "#same"
+
+REFERENCE           JAMIE_ALCROFT
+LANG_ENGLISH        "Jamie Alcroft - Lieutenant Lehmkuhl, Sergeant Ramirez, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           NICK_JAMESON1
+LANG_ENGLISH        "Nick Jameson - Tank Commander, Navigator, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           CAM_CLARKE
+LANG_ENGLISH        "Cam Clarke - Private Anderson, Sasha, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANDRE_SOGLIUZZO1
+LANG_ENGLISH        "Andre Sogliuzzo - Private Goldberg, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           GRANT_ALBRECHT1
+LANG_ENGLISH        "Grant Albrecht - Russian Narrator, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           GREG_ELLIS
+LANG_ENGLISH        "Greg Ellis - British Narrator, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           JAY_GORDON
+LANG_ENGLISH        "Jay Gordon - Private Korolov, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           MATT_MORTON1
+LANG_ENGLISH        "Matt Morton - Machine Gunner, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           BILL_HARPER
+LANG_ENGLISH        "Bill Harper - Co-Pilot, Additional VO"
+LANG_SPANISH        "#same"
+
+REFERENCE           QUINTON_FLYNN1
+LANG_ENGLISH        "Quinton Flynn - Private Ender"
+LANG_SPANISH        "#same"
+
+REFERENCE           RECORDING
+LANG_ENGLISH        "Recording, Engineering, Editing, VO Effects Design"
+LANG_SPANISH        "#same"
+
+REFERENCE           RIK_W
+LANG_ENGLISH        "Rik W. Schaffer, Womb Music"
+LANG_SPANISH        "#same"
+
+REFERENCE           ADDITIONAL_MUSIC
+LANG_ENGLISH        "Additional Music"
+LANG_SPANISH        "#same"
+
+REFERENCE           PUBLICIST
+LANG_ENGLISH        "Publicist"
+LANG_SPANISH        "#same"
+
+REFERENCE           MACLEAN_MARSHALL
+LANG_ENGLISH        "Maclean Marshall"
+LANG_SPANISH        "#same"
+
+REFERENCE           AMY_LONGHI
+LANG_ENGLISH        "Amy Longhi"
+LANG_SPANISH        "#same"
+
+REFERENCE           DIRECTOR_B_L
+LANG_ENGLISH        "Director, Business & Legal Affairs"
+LANG_SPANISH        "#same"
+
+REFERENCE           SENIOR_VP_BL
+LANG_ENGLISH        "Senior VP & General Counsel"
+LANG_SPANISH        "#same"
+
+REFERENCE           DENISE_WALSH1
+LANG_ENGLISH        "Denise Walsh"
+LANG_SPANISH        "#same"
+
+REFERENCE           TIM_PONTING
+LANG_ENGLISH        "Head of European Corporate Communications"
+LANG_SPANISH        "#same"
+
+REFERENCE           TIM_PONTING2
+LANG_ENGLISH        "Tim Ponting"
+LANG_SPANISH        "#same"
+
+REFERENCE           TAMSIN_LUCAS1
+LANG_ENGLISH        "Localization Manager - PC Group"
+LANG_SPANISH        "#same"
+
+REFERENCE           PHILIP_BAGNALL
+LANG_ENGLISH        "Creative Services Coordinator"
+LANG_SPANISH        "#same"
+
+REFERENCE           PHILIP_BAGNALL2
+LANG_ENGLISH        "Philip Bagnall"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRODUCTION PLANNERS
+LANG_ENGLISH        "Production Planners"
+LANG_SPANISH        "#same"
+
+REFERENCE           INFORMATION_TECHNOLOGY
+LANG_ENGLISH        "INFORMATION TECHNOLOGY"
+LANG_SPANISH        "#same"
+
+REFERENCE           NIEL_ARMSTRONG
+LANG_ENGLISH        "Niel Armstrong, Vice President, IT"
+LANG_SPANISH        "#same"
+
+REFERENCE           DAVID_SMITH
+LANG_ENGLISH        "David Smith, Help Desk Manager"
+LANG_SPANISH        "#same"
+
+REFERENCE           ERWIN_BARCEGA
+LANG_ENGLISH        "Erwin Barcega, IT Technician"
+LANG_SPANISH        "#same"
+
+REFERENCE           RICARDO_ROMERO
+LANG_ENGLISH        "Ricardo Romero, IT Technician"
+LANG_SPANISH        "#same"
+
+REFERENCE           JASON_MCAULIFFE
+LANG_ENGLISH        "Jason McAuliffe, IT Technician"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRYAN_FUNG
+LANG_ENGLISH        "Bryan Fung, Principal Systems Engineer"
+LANG_SPANISH        "#same"
+
+REFERENCE           FRANCIS_JIMENEZ
+LANG_ENGLISH        "Senior Compatibility/Network Tester"
+LANG_SPANISH        "#same"
+
+REFERENCE           FRANCIS_JIMENEZ2
+LANG_ENGLISH        "Francis Jimenez"
+LANG_SPANISH        "#same"
+
+REFERENCE           COMPATIBILITY_TESTERS
+LANG_ENGLISH        "Compatibility Testers"
+LANG_SPANISH        "#same"
+
+REFERENCE           COMPATIBILITY_TESTERS2
+LANG_ENGLISH        "Pratheep Eamranond"
+LANG_SPANISH        "#same"
+
+REFERENCE           COMPATIBILITY_TESTERS3
+LANG_ENGLISH        "Robert Telmar"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS
+LANG_ENGLISH        "Gray Matter Special Thanks"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_RATUMS_THE_HAMSTER
+LANG_ENGLISH        ""RatTums" the Hamster"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ELLISA
+LANG_ENGLISH        "Elissa Alvey"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ANNABELLE
+LANG_ENGLISH        "Annabelle"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_COMPANY
+LANG_ENGLISH        "Anybody who ever worked at our company"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_VALERIE_FARRELLY
+LANG_ENGLISH        "Valerie Farrelly"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ETHAN_F
+LANG_ENGLISH        "Ethan Farrelly"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_BARB
+LANG_ENGLISH        "Barb Farrelly"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_EDWIN
+LANG_ENGLISH        "Edwin Farrelly"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SEAN
+LANG_ENGLISH        "Sean Farrelly"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SOUCY2
+LANG_ENGLISH        "Richard Soucy"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SOUCY3
+LANG_ENGLISH        "Linda Soucy"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SOUCY4
+LANG_ENGLISH        "Rick Soucy"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SHUCK
+LANG_ENGLISH        "John Mr.9000 Shuch"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_WAVE
+LANG_ENGLISH        "Three Wave"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ADAMS
+LANG_ENGLISH        "Wendie Adams"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ADAMS2
+LANG_ENGLISH        "Holly Adams"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SOFIA
+LANG_ENGLISH        "Sofia Shershunovich"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_LORNA
+LANG_ENGLISH        "Lorna Koppel"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ALEX
+LANG_ENGLISH        "Alex Koppel"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ANNA
+LANG_ENGLISH        "Anna Koppel"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_CAITLIN
+LANG_ENGLISH        "Caitlin Sasser"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_CHANG
+LANG_ENGLISH        "Wu Chiang Clan and Monty"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_BA
+LANG_ENGLISH        "Treasure and Bruce and especially Erin"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_WENDY
+LANG_ENGLISH        "Wendy and Mason"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_TED
+LANG_ENGLISH        "Ted Magalong"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_RUBY
+LANG_ENGLISH        "Nicole Ruby"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ELISABETH
+LANG_ENGLISH        "Elisabeth Brooks"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_IGOR
+LANG_ENGLISH        "Igor Sandler (translation of signs)"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SEA
+LANG_ENGLISH        "Tuna"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_STACY
+LANG_ENGLISH        "Stacy Mohilchock"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_DALE
+LANG_ENGLISH        "Dale Hartman & Family"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_YELA
+LANG_ENGLISH        "The Yela Family"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SCHLEH
+LANG_ENGLISH        "The Schleh Family"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_DELEON
+LANG_ENGLISH        "Nicole Deleon"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_ROBERT
+LANG_ENGLISH        "Cpl. Robert T. Silva,130th Infantry Division"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_MODITCH
+LANG_ENGLISH        "Dan and Paula Moditch"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_MODITCH2
+LANG_ENGLISH        "Desire and Sammy Mintz"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_DARA
+LANG_ENGLISH        "Dara Sajjadham"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_JIM
+LANG_ENGLISH        "Jim Worrel"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_JERRI
+LANG_ENGLISH        "Jerri Worrel"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_JASON_W
+LANG_ENGLISH        "Jason Worrel "
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_MANDI
+LANG_ENGLISH        "Mandi Snyder"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_HENNY
+LANG_ENGLISH        "Henny Denny"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_MIKE_DAD
+LANG_ENGLISH        "Richard Denny"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SPARK
+LANG_ENGLISH        "Splash Damage"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SANDI
+LANG_ENGLISH        "Sandi Wilkinson"
+LANG_SPANISH        "#same"
+
+REFERENCE           PI_SPECIAL_THANKS
+LANG_ENGLISH        "Pi Studios Special Thanks"
+LANG_SPANISH        "#same"
+
+REFERENCE           CHRISTIAN_CUMMINGS
+LANG_ENGLISH        "Christian Cummings"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_SPECIAL_THANKS
+LANG_ENGLISH        "QA/CS Special Thanks"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_NAMES
+LANG_ENGLISH        "Jim Summers, Jason Wong, Marilena Rixford, Joe Favazza, Jason Levine,\nNadine Theuzillot, Jason Potter, John Rosser, Chad Siedhoff, Indra Yee,\nTodd Komesu, Joule Middleton, Willie Bolton, Jennifer Vitiello, Mike\nRixford, Jessica McClure, Joanne Shinozaki, JB Bernstein."
+LANG_SPANISH        "#same"
+
+REFERENCE           ANT_FARM
+LANG_ENGLISH        "Rob Troy"
+LANG_SPANISH        "#same"
+
+REFERENCE           ANT_FARM2
+LANG_ENGLISH        "Lisa Riznikove"
+LANG_SPANISH        "#same"
+
+REFERENCE           FAIRFAX
+LANG_ENGLISH        "Fairfax Sheild McCandlish IV"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_PRODUCTION
+LANG_ENGLISH        "Activision Production Team"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_PRODUCTION2
+LANG_ENGLISH        "for Call of Duty"
+LANG_SPANISH        "#same"
+
+REFERENCE           LICENSES
+LANG_ENGLISH        "Licenses"
+LANG_SPANISH        "#same"
+
+REFERENCE           BINK
+LANG_ENGLISH        "Uses Bink Video, Copyright © 1997-2004 by RAD Game Tools, Inc."
+LANG_SPANISH        "#same"
+
+REFERENCE           MILES
+LANG_ENGLISH        "Uses Miles Sound System, Copyright © 1997-2004 by RAD Game Tools, Inc.\n"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRANDON_GRADA
+LANG_ENGLISH        "Brandon Grada"
+LANG_SPANISH        "#same"
+
+REFERENCE           BRADLY_SHAW
+LANG_ENGLISH        "Bradly Shaw"
+LANG_SPANISH        "#same"
+
+REFERENCE           PREVIOUSLY
+LANG_ENGLISH        "Previously..."
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTERS_NAMES2
+LANG_ENGLISH        "Jason B Guyan, Julio Rodriguez, Matthew Murray, Serg Souleiman, Adam Luskin, Travis Cummings, Evan Vincent"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_NAMES
+LANG_ENGLISH        "Brad Carraway, Ken Murphy, Caryn Law, Steve Holmes, Matthew Beal,Jason Kim,\nStacy Sooter, Steffanie Bullis, Alexander Rohra, John Fritts,\nClarence Washington, Dion Brain, Nancy Wolfe, Michael Carter, Suzy Luko,\nCecilia Barajas, Danielle Kim, Michael Larson, Jay Komas,\nBetty Kim, Lori Plager, Letty Cadena, Justin Berenbaum, Jim Black, Mitch Soule,\nRex Sikora, Cathy Kinzer, Eddie Banks"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_BRAD_CARRAWAY
+LANG_ENGLISH        "Brad Carraway"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_KEN_MURPHY
+LANG_ENGLISH        "Ken Murphy"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_CARYN_LAW
+LANG_ENGLISH        "Caryn Law"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_STEVE_HOLMES
+LANG_ENGLISH        "Steve Holmes"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_MATTHEW_BEAL
+LANG_ENGLISH        "Matthew Beal"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_JASON_KIM
+LANG_ENGLISH        "Jason Kim"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_STACY_SCOOTER
+LANG_ENGLISH        "Stacy Sooter"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_BULLIS
+LANG_ENGLISH        "Steffanie Bullis"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_ROHRA
+LANG_ENGLISH        "Alexander Rohra"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_FRITTS
+LANG_ENGLISH        "John Fritts"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_CLARENCE_WASHINGTON
+LANG_ENGLISH        "Clarence Washington"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_DION_BRAIN
+LANG_ENGLISH        "Dion Brain"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_MICHAEL_CARTER
+LANG_ENGLISH        "Michael Carter"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_SUZY_LUKO
+LANG_ENGLISH        "Suzy Luko"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_BARAJAS
+LANG_ENGLISH        "Cecilia Barajas"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_DANIELLE_KIM
+LANG_ENGLISH        "Danielle Kim"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_MICHAEL_LARSON
+LANG_ENGLISH        "Michael Larson"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_JAY_KOMAS
+LANG_ENGLISH        "Jay Komas"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_BETTY_KIM
+LANG_ENGLISH        "Betty Kim"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_LORI_PAGER
+LANG_ENGLISH        "Lori Plager"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_LETTY_CADENA
+LANG_ENGLISH        "Letty Cadena"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_JUSTIN_BERENBAUM
+LANG_ENGLISH        "Justin Berenbaum"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_JIM_BLACK
+LANG_ENGLISH        "Jim Black"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_MITCH_SOULE
+LANG_ENGLISH        "Mitch Soule"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_REX_SIKORA
+LANG_ENGLISH        "Rex Sikora"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_CATHY_KINZER
+LANG_ENGLISH        "Cathy Kinzer"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_EDDIE_BANKS
+LANG_ENGLISH        "Eddie Banks"
+LANG_SPANISH        "#same"
+
+REFERENCE           INTRODUCTION_CINEMATIC2
+LANG_ENGLISH        "The Ant Farm"
+LANG_SPANISH        "#same"
+
+REFERENCE           CINEMATIC_AUDIO_PROCESSING_BY
+LANG_ENGLISH        "Cinematic Audio Processing By"
+LANG_SPANISH        "#same"
+
+REFERENCE           CINEMATIC_AUDIO_PROCESSING_BY2
+LANG_ENGLISH        "Sonic Pool"
+LANG_SPANISH        "#same"
+
+REFERENCE           SONIC_POOL
+LANG_ENGLISH        " Patrick Bird"
+LANG_SPANISH        "#same"
+
+REFERENCE           GLOBAL_BRAND_MANAGEMENT_DAVID
+LANG_ENGLISH        "David Pokress"
+LANG_SPANISH        "#same"
+
+REFERENCE           VICE_PRESIDENT_IT
+LANG_ENGLISH        "Niel Armstrong, Vice President, IT"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOCALIZATIONS_TEAM_TESTERS
+LANG_ENGLISH        "Jason Smith, Jason Gilmore, Aaron Sedillo, Edmund Park, Kendrick Hsu, Dan Rohan, David Haddock, Akshay Dhalwala, Hoan Bui"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_JASON_SMITH
+LANG_ENGLISH        "Jason Smith"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_JASON_GILMORE
+LANG_ENGLISH        "Jason Gilmore"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_AARON_SEDILLO
+LANG_ENGLISH        "Aaron Sedillo"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_EDMUND_PARK
+LANG_ENGLISH        "Edmund Park"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_KENDRICK_HSU
+LANG_ENGLISH        "Kendrick Hsu"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_DAN_ROHAN
+LANG_ENGLISH        "Dan Rohan"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_DAN_ROHAN1
+LANG_ENGLISH        "Dan Rohan"
+LANG_SPANISH        "#same"
+
+REFERENCE           NEWREF1
+LANG_ENGLISH        "New text"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_DAVID_HADDOCK
+LANG_ENGLISH        "David Haddock"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_AKSHAY
+LANG_ENGLISH        "Akshay Dhalwala"
+LANG_SPANISH        "#same"
+
+REFERENCE           LOC_TESTER_HOAN_BUI
+LANG_ENGLISH        "Hoan Bui"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JIM_SUMMERS
+LANG_ENGLISH        "Jim Summers"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JASON_WONG
+LANG_ENGLISH        "Jason Wong"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_MARILENA_RIXFORD
+LANG_ENGLISH        "Marilena Rixford"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JOE_FAVAZZA
+LANG_ENGLISH        "Joe Favazza"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_NADINE_THEUZILLOT
+LANG_ENGLISH        "Nadine Theuzillot"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JASON_POTTER
+LANG_ENGLISH        "Jason Potter"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JOHN_ROSSER
+LANG_ENGLISH        "John Rosser"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_CHAD_SIEDHOFF
+LANG_ENGLISH        "Chad Siedhoff"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_INDRA_YEE
+LANG_ENGLISH        "Indra Yee"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_TODD_KOMESU
+LANG_ENGLISH        "Todd Komesu"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JOULE_MIDDLETON
+LANG_ENGLISH        "Joule Middleton"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JENNIFER_VITIELLO
+LANG_ENGLISH        "Jennifer Vitiello"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_MIKE_RIXFORD
+LANG_ENGLISH        "Mike Rixford"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JESSICA_MCCLURE
+LANG_ENGLISH        "Jessica McClure"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JOANNE_SHINOZAKI
+LANG_ENGLISH        "Joanne Shinozaki"
+LANG_SPANISH        "#same"
+
+REFERENCE           QA_THANKS_JB_BERNSTEIN
+LANG_ENGLISH        "Jb Bernstien"
+LANG_SPANISH        "#same"
+
+REFERENCE           ID
+LANG_ENGLISH        "This product contains software technology Licensed From id Software,"
+LANG_SPANISH        "#same"
+
+REFERENCE           ID2
+LANG_ENGLISH        "("id technology"), id technology (c) 1999-2000 id software, Inc."
+LANG_SPANISH        "#same"
+
+REFERENCE           PUNK_BUSTER
+LANG_ENGLISH        "PunkBuster technology by"
+LANG_SPANISH        "#same"
+
+REFERENCE           PUNK_BUSTER2
+LANG_ENGLISH        "Even Balance, Inc"
+LANG_SPANISH        "#same"
+
+REFERENCE           TONY_RAY
+LANG_ENGLISH        "Tony Ray"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_DAVID_MOYA
+LANG_ENGLISH        "David Moya"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_PETER_VON_OY
+LANG_ENGLISH        "Peter von Oy"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_ALBERT_YAO
+LANG_ENGLISH        "Albert Yao"
+LANG_SPANISH        "#same"
+
+REFERENCE           TESTER_JIM_CHENG
+LANG_ENGLISH        "Jim Cheng"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_NANCY_WOLFE
+LANG_ENGLISH        "Nancy Wolfe"
+LANG_SPANISH        "#same"
+
+REFERENCE           ACTIVISION_SPECIAL_THANKS_CATHY_KINZER1
+LANG_ENGLISH        "Cathy Kinzer"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_SNYDER_FAMILY
+LANG_ENGLISH        "The Snyder Family"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_NEIWERT_FAMILY
+LANG_ENGLISH        "The Neiwert Family"
+LANG_SPANISH        "#same"
+
+REFERENCE           GMI_SPECIAL_THANKS_WILSON_FAMILY
+LANG_ENGLISH        "The Wilson Family"
+LANG_SPANISH        "#same"
+
+REFERENCE           PRODUCTOIN
+LANG_ENGLISH        "PRODUCTION"
+LANG_SPANISH        "#same"
+
+REFERENCE           GLOBAL_BRAND_TITLE
+LANG_ENGLISH        "GLOBAL BRAND MANAGEMENT"
+LANG_SPANISH        "#same"
+
+
+ENDMARKER
+
+

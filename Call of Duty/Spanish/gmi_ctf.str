@@ -1,0 +1,151 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CTF
+LANG_ENGLISH        "Capture The Flag"
+LANG_SPANISH        "Captura la bandera"
+
+REFERENCE           MATCHSTARTING
+LANG_ENGLISH        "Match Starting"
+LANG_SPANISH        "Comienza la partida"
+
+REFERENCE           MATCHRESUMING
+LANG_ENGLISH        "Match Resuming"
+LANG_SPANISH        "Se reanuda la partida"
+
+REFERENCE           PLAYER_CAPTURED_FLAG_AXIS
+LANG_ENGLISH        "%s ^9captured the flag for the Axis."
+LANG_SPANISH        "^9%s ^9capturó la bandera para el Eje."
+
+REFERENCE           PLAYER_CAPTURED_FLAG_ALLIES
+LANG_ENGLISH        "%s ^8captured the flag for the Allies."
+LANG_SPANISH        "^8%s ^8capturó la bandera para los Aliados."
+
+REFERENCE           ATTACKER_OBJECTIVE
+LANG_ENGLISH        "Capture the other team's flag and return it to your base."
+LANG_SPANISH        "Captura la bandera del otro equipo y devuélvela a tu base."
+
+REFERENCE           SPECTATOR_OBJECTIVE
+LANG_ENGLISH        "Join the fight and help your team capture the enemy team's flag."
+LANG_SPANISH        "Aquí no hay nada que ver. ¿Quieres volver a la partida?"
+
+REFERENCE           TIMEEXPIRED
+LANG_ENGLISH        "The time has expired."
+LANG_SPANISH        "Se acabó el tiempo"
+
+REFERENCE           ROUND_DRAW
+LANG_ENGLISH        "The round is a draw."
+LANG_SPANISH        "Este asalto es un empate"
+
+REFERENCE           FLAG_INMINES
+LANG_ENGLISH        "%s dropped the flag in a mine field. "
+LANG_SPANISH        "%s intentó tirar la bandera en un campo de minas. Tramposo miserable."
+
+REFERENCE           AXIS_FLAG_DROPPED
+LANG_ENGLISH        "^9The Axis flag has been dropped."
+LANG_SPANISH        "^9La bandera del Eje ha caído."
+
+REFERENCE           ALLIES_FLAG_DROPPED
+LANG_ENGLISH        "^8The Allies flag has been dropped."
+LANG_SPANISH        "^8La bandera Aliada ha caído."
+
+REFERENCE           AXIS_FLAG_TIMEOUT_RETURNING
+LANG_ENGLISH        "^9The Axis flag has been returned to base."
+LANG_SPANISH        "^9La bandera del Eje ha sido devuelta a la base."
+
+REFERENCE           ALLIES_FLAG_TIMEOUT_RETURNING
+LANG_ENGLISH        "^8The Allies flag has been returned to base."
+LANG_SPANISH        "^8La bandera Aliada ha sido devuelta a la base."
+
+REFERENCE           AXIS_PICKED_UP_FLAG
+LANG_ENGLISH        "^9You have the Allied flag!\n^9Return to your base!"
+LANG_SPANISH        "^9¡Tienes la bandera Aliada!!\n^9¡Vuelve a tu base!"
+
+REFERENCE           ALLIES_PICKED_UP_FLAG
+LANG_ENGLISH        "^8You have the Axis flag!\n^8Return to your base!"
+LANG_SPANISH        "^8¡Tienes la bandera del Eje!\n^8¡Vuelve a tu base!"
+
+REFERENCE           AXIS_CAPTURED_FLAG
+LANG_ENGLISH        "^9The Axis has captured the Allied flag!"
+LANG_SPANISH        "^9¡El Eje ha capturado la bandera Aliada!"
+
+REFERENCE           ALLIES_CAPTURED_FLAG
+LANG_ENGLISH        "^8The Allies have captured the Axis flag!"
+LANG_SPANISH        "^8¡Los Aliados han capturado la bandera del Eje!"
+
+REFERENCE           PLAYER_RETURNED_FLAG_AXIS
+LANG_ENGLISH        "%s ^9returned the flag for the Axis."
+LANG_SPANISH        "^9%s ^9devolvió la bandera para el Eje."
+
+REFERENCE           PLAYER_RETURNED_FLAG_ALLIES
+LANG_ENGLISH        "%s ^8returned the flag for the Allies."
+LANG_SPANISH        "^8%s devolvió la bandera para los Aliados."
+
+REFERENCE           U_R_CARRYING_AXIS
+LANG_ENGLISH        "^9You are carrying the Allied flag!"
+LANG_SPANISH        "^9¡Llevas la bandera Aliada!"
+
+REFERENCE           U_R_CARRYING_ALLIES
+LANG_ENGLISH        "^8You are carrying the Axis flag!"
+LANG_SPANISH        "^8¡Llevas la bandera del Eje!"
+
+REFERENCE           AXIS_FLAG_RETURNED
+LANG_ENGLISH        "^9The Axis flag has been returned to base!"
+LANG_SPANISH        "^9¡La bandera del Eje ha sido devuelta a la base!"
+
+REFERENCE           ALLIES_FLAG_RETURNED
+LANG_ENGLISH        "^8The Allies flag has been returned to base!"
+LANG_SPANISH        "^8¡La bandera Aliada ha sido devuelta a la base!"
+
+REFERENCE           AXIS_FLAG_TAKEN
+LANG_ENGLISH        "^9The Axis flag has been taken by %s^9."
+LANG_SPANISH        "^9La bandera del Eje ha sido capturada."
+
+REFERENCE           ALLIES_FLAG_TAKEN
+LANG_ENGLISH        "^8The Allies flag has been taken by %s^8."
+LANG_SPANISH        "^8La bandera Aliada ha sido capturada."
+
+REFERENCE           DEFENDED_AXIS_FLAG
+LANG_ENGLISH        "^9%s ^9defended the Axis flag."
+LANG_SPANISH        "^9%s ^9defendió la bandera del Eje."
+
+REFERENCE           DEFENDED_ALLIES_FLAG
+LANG_ENGLISH        "^8%s ^8defended the Allied flag."
+LANG_SPANISH        "^8%s ^8defendió la bandera Aliada."
+
+REFERENCE           ASSISTED_AXIS_FLAG_CARRIER
+LANG_ENGLISH        "^9%s ^9assisted the Axis flag carrier."
+LANG_SPANISH        "^9%s ^9ayudó al portador de la bandera del Eje."
+
+REFERENCE           ASSISTED_ALLIES_FLAG_CARRIER
+LANG_ENGLISH        "^8%s ^8assisted the Allied flag carrier."
+LANG_SPANISH        "^8%s ^8ayudó al portador de la bandera Aliada."
+
+REFERENCE           FLAG_INWATER
+LANG_ENGLISH        "%s dropped the flag in the water. "
+LANG_SPANISH        "%s dejó caer la bandera en el agua. "
+
+REFERENCE           ALLIEDMISSIONACCOMPLISHED
+LANG_ENGLISH        "^8The Allies have won the battle."
+LANG_SPANISH        "¡Los Aliados vencen!"
+
+REFERENCE           AXISMISSIONACCOMPLISHED
+LANG_ENGLISH        "^9The Axis Forces have won the battle."
+LANG_SPANISH        "¡El Eje vence!"
+
+
+ENDMARKER
+
+

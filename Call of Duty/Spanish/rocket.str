@@ -1,0 +1,47 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJ_AAGUNS
+LANG_ENGLISH        "Destroy the Flakvierling anti-aircraft cannons. (%s remaining)"
+LANG_SPANISH        "Destruir los cañones antiaéreos Flakvierling  (%s restantes)"
+
+REFERENCE           OBJ_V2
+LANG_ENGLISH        "Destroy the V2 rockets. (%s remaining)"
+LANG_SPANISH        "Destruir los cohetes V2 (%s restantes)"
+
+REFERENCE           OBJ_SUPPLYTRUCKS
+LANG_ENGLISH        "Intercept and destroy the supply trucks. (%s remaining)"
+LANG_SPANISH        "Interceptar y destruir los camiones de suministros (%s restantes)"
+
+REFERENCE           OBJ_LOCATEV2
+LANG_ENGLISH        "Locate the V2 launch site."
+LANG_SPANISH        "Localizar la plataforma de lanzamiento de los V2"
+
+REFERENCE           OBJ_FUELV2
+LANG_ENGLISH        "Fuel the rockets."
+LANG_SPANISH        "Poner combustible a los cohetes."
+
+REFERENCE           OBJ_ESCAPE
+LANG_ENGLISH        "Exfiltrate through the northern bunker."
+LANG_SPANISH        "Escapar a través del búnker del norte."
+
+REFERENCE           FUEL_LEVER
+LANG_ENGLISH        " Press [%s] to fuel the rockets."
+LANG_SPANISH        " Pulsa [%s] para poner combustible en los cohetes."
+
+
+ENDMARKER
+
+

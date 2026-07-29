@@ -1,0 +1,55 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ASSEMBLE_CPT_PRC
+LANG_ENGLISH        "Assemble with Cpt Price at a safer location."
+LANG_SPANISH         "Reúnete con el capitán Price en un lugar más seguro."
+
+REFERENCE           ELIMINATE_THE_ENEMY_MORTAR
+LANG_ENGLISH        "Eliminate the German mortar teams. [&&1 remaining]"
+LANG_SPANISH         "Elimina los morteros alemanes. [&&1 restantes]"
+
+REFERENCE           CAPTURE_FIELDHQ
+LANG_ENGLISH        "Capture the German Field HQ."
+LANG_SPANISH         "Toma el CG de campaña alemán."
+
+REFERENCE           REGROUP_CPT_PRC_END
+LANG_ENGLISH        "Regroup with Captain Price."
+LANG_SPANISH         "Reúnete con el capitán Price."
+
+REFERENCE           HOLD_HQ
+LANG_ENGLISH        "Hold the German HQ until relieved."
+LANG_SPANISH         "Defiende el CG alemán hasta que te releven."
+
+REFERENCE           ELIMINATE_TIGER_TANK
+LANG_ENGLISH        "Eliminate the Tiger tank."
+LANG_SPANISH         "Elimina el tanque Tiger."
+
+REFERENCE           REGROUP_CPT_PRC
+LANG_ENGLISH        "Regroup with Cpt Price in the kitchen."
+LANG_SPANISH         "Reúnete con el capitán Price en la cocina."
+
+REFERENCE           REINFORCEMENTS
+LANG_ENGLISH        "Reinforcements: "
+LANG_SPANISH         "Refuerzos: "
+
+REFERENCE           EXPLOSIVES_PLANTED
+LANG_ENGLISH        "Explosives Planted. Stand Back!"
+LANG_SPANISH         "Explosivos colocados. ¡Atrás!"
+
+
+ENDMARKER
+
+

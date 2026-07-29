@@ -1,0 +1,91 @@
+// Dumped from fastfile "pel2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Hard Landing'"
+
+REFERENCE           PEL2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Airfield, Peleliu"
+
+REFERENCE           PEL2_INTROSCREEN_DATE
+LANG_ENGLISH        "Sept. 15, 1944"
+
+REFERENCE           PEL2_AA_BUNKER
+LANG_ENGLISH        "Assault the Anti-Aircraft Bunker"
+
+REFERENCE           PEL2_ASSAULT_AIRFIELD
+LANG_ENGLISH        "Assault the Airfield"
+
+REFERENCE           PEL2_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           PEL2_SECURE_MANGROVE_AREA
+LANG_ENGLISH        "Flank Japanese Artillery Positions"
+
+REFERENCE           PEL2_INTROSCREEN_INFO
+LANG_ENGLISH        "1st Marine Division"
+
+REFERENCE           PEL2_CLEAR_THE_BUILDING
+LANG_ENGLISH        "Clear the Building"
+
+REFERENCE           PEL2_BUNKER_REGROUP
+LANG_ENGLISH        "Take Cover with Squad"
+
+REFERENCE           PEL2_GET_BAZOOKA
+LANG_ENGLISH        "Get the Bazooka from the Trench."
+
+REFERENCE           PEL2_CLEAR_BUNKERS
+LANG_ENGLISH        "Assault the Bunkers"
+
+REFERENCE           PEL2_RETRIEVE_FLAME
+LANG_ENGLISH        "Retrieve the Flamethrower"
+
+REFERENCE           PEL2_FLAME_MG
+LANG_ENGLISH        "Lay Suppressing Fire on the Bunker"
+
+REFERENCE           PEL2_FLAME_BUNKER
+LANG_ENGLISH        "Flame the Bunker"
+
+REFERENCE           PEL2_RIFLE_GRENADE_TEXT
+LANG_ENGLISH        "Press [{+actionslot 3}] to Attach the Rifle Grenade."
+
+REFERENCE           PEL2_ADVANCE_TOWARDS_AIRFIELD
+LANG_ENGLISH        "Advance Towards the Airfield"
+
+REFERENCE           PEL2_BAZOOKA
+LANG_ENGLISH        "Destroy the Enemy Tanks with Bazookas"
+
+REFERENCE           PEL2_BAZOOKA_1
+LANG_ENGLISH        "Destroy the Type97 tanks with Bazookas (1 of 3 remaining)"
+
+REFERENCE           PEL2_BAZOOKA_2
+LANG_ENGLISH        "Destroy the Type97 tanks with Bazookas (2 of 3 remaining)"
+
+REFERENCE           PEL2_BAZOOKA_3
+LANG_ENGLISH        "Destroy the Type97 tanks with Bazookas (3 of 3 remaining)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS
+LANG_ENGLISH        "Take out the AA crews "
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_1
+LANG_ENGLISH        "Take out the AA crews (1 of 4 remaining)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_2
+LANG_ENGLISH        "Take out the AA crews (2 of 4 remaining)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_3
+LANG_ENGLISH        "Take out the AA crews (3 of 4 remaining)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_4
+LANG_ENGLISH        "Take out the AA crews (4 of 4 remaining)"
+
+REFERENCE           PEL2_SECURE_AABUNKER
+LANG_ENGLISH        "Secure the AA Bunker"
+
+REFERENCE           PEL2_COUNTERATTACK
+LANG_ENGLISH        "Defend Against the Counterattack"
+
+ENDMARKER

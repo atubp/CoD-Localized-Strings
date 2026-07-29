@@ -1,0 +1,52 @@
+// Dumped from fastfile "mak".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MAK_OBJ_PLANTCHARGE
+LANG_ENGLISH        "Pon cargas en un búnker con Roebuck."
+
+REFERENCE           MAK_OBJ_PLANTCHARGE_COOP
+LANG_ENGLISH        "Que alguien ayude a Roebuck a colocar las cargas."
+
+REFERENCE           MAK_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Semper Fi\""
+
+REFERENCE           MAK_INTROSCREEN_PLACE
+LANG_ENGLISH        "Atolón Makin, pacífico del sur"
+
+REFERENCE           MAK_INTROSCREEN_DATE
+LANG_ENGLISH        "17 de agosto de 1942"
+
+REFERENCE           MAK_PLANTING
+LANG_ENGLISH        "Colocando..."
+
+REFERENCE           MAK_INTROSCREEN_INFO
+LANG_ENGLISH        "2º batallón de marines (Carlson's Raiders)"
+
+REFERENCE           MAK_OBJ_SECURE_VILLAGE
+LANG_ENGLISH        "Asegura la aldea."
+
+REFERENCE           MAK_OBJ_REGROUP_2ND_SQUAD
+LANG_ENGLISH        "Reagrúpate con el segundo escuadrón."
+
+REFERENCE           MAK_OBJ_EXTRACTION_POINT
+LANG_ENGLISH        "Ir al punto de extracción."
+
+REFERENCE           MAK_TRUCK_TRIGGER
+LANG_ENGLISH        "Pulsa ^3&&1^7 para activar el camión"
+
+REFERENCE           MAK_TRUCK_HINT
+LANG_ENGLISH        "Los objetos se activan al pulsar ^3[{+usereload}]^7"
+
+REFERENCE           MAK_CONTINUED
+LANG_ENGLISH        "Continuará..."
+
+REFERENCE           MAK_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller (D.E.C.)"
+
+REFERENCE           MAK_OBJ_RESCUE_2ND_SQUAD
+LANG_ENGLISH        "Rescata al segundo pelotón."
+
+ENDMARKER

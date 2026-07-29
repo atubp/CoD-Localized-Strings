@@ -1,0 +1,123 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVE_8
+LANG_ENGLISH        "Get to a foxhole, grab bazooka, destroy incoming German tanks"
+LANG_SPANISH        "Ve a una trinchera, coge una bazuca y defiéndete de los tanques"
+
+REFERENCE           OBJECTIVE_2
+LANG_ENGLISH        "Get back to Company HQ"
+LANG_SPANISH        "Vuelve al cuartel general de la compañía"
+
+REFERENCE           OBJECTIVE_1
+LANG_ENGLISH        "Get to the jeep"
+LANG_SPANISH        "Ve al jeep"
+
+REFERENCE           OBJECTIVE_3
+LANG_ENGLISH        "Follow Pvt. Anderson to your foxhole"
+LANG_SPANISH        "Sigue al soldado Anderson a tu trinchera"
+
+REFERENCE           OBJECTIVE_4
+LANG_ENGLISH        "Hold the line (right)"
+LANG_SPANISH        "Defende la línea (derecha)"
+
+REFERENCE           OBJECTIVE_7
+LANG_ENGLISH        "Follow Sgt. Moody the right flank"
+LANG_SPANISH        "Sigue al sargento Moody al flanco derecho"
+
+REFERENCE           OBJECTIVE_9
+LANG_ENGLISH        "Move to next foxhole, destroy incoming German tanks"
+LANG_SPANISH        "Muévete a la siguiente trinchera y defiéndete de los tanques"
+
+REFERENCE           OBJECTIVE_10
+LANG_ENGLISH        "Move to next foxhole, destroy incoming German tanks"
+LANG_SPANISH        "Muévete a la siguiente trinchera y defiéndete de los tanques"
+
+REFERENCE           OBJECTIVE_11
+LANG_ENGLISH        "Hold the line at all costs"
+LANG_SPANISH        "Defende la línea a toda costa"
+
+REFERENCE           OBJECTIVE_6_1
+LANG_ENGLISH        "Kill the two MG42 gunners (2 remaining)"
+LANG_SPANISH        "Mata a los dos soldados de las MG42 (quedan 2)"
+
+REFERENCE           OBJECTIVE_5
+LANG_ENGLISH        "Hold the line (left)"
+LANG_SPANISH        "Defende la línea (izquierda)"
+
+REFERENCE           OBJECTIVE_6_2
+LANG_ENGLISH        "Kill the two MG42 gunners (1 remaining)"
+LANG_SPANISH        "Mata a los dos artilleros de las MG42 (queda 1)"
+
+REFERENCE           OBJECTIVE_6_3
+LANG_ENGLISH        "Kill the two MG42 gunners"
+LANG_SPANISH        "Mata a los dos artilleros de las MG42"
+
+REFERENCE           TEMP_LEFT
+LANG_ENGLISH        "Moody: Riley! Germans attacking to the left! Follow Me!"
+LANG_SPANISH        "Moody: ¡Riley! ¡Los alemanes atacan por la izquierda, sígueme!"
+
+REFERENCE           TEMP_HOLD
+LANG_ENGLISH        "Moody: Riley! Germans attacking to the left! Follow Me!"
+LANG_SPANISH        "Moody: ¡Riley! ¡Los alemanes atacan por la izquierda, sígueme!"
+
+REFERENCE           TEMP_30CAL_HOLD
+LANG_ENGLISH        "Moody: Riley! Grab and mount that .30 cal! Hold the line!"
+LANG_SPANISH        "Moody: ¡Riley! ¡Coge esa .30 y móntala! ¡Defende la línea!""
+
+REFERENCE           TEMP_COVER_RIGHT
+LANG_ENGLISH        "Moody: Riley! I need cover to the right! Follow Me!"
+LANG_SPANISH        "Moody: ¡Riley! ¡Necesito cobertura a la derecha, sígueme!"
+
+REFERENCE           TEMP_SLOW
+LANG_ENGLISH        "Moody: That should slow them down a bit..."
+LANG_SPANISH        "Moody: Eso debería frenarlos un poco..."
+
+REFERENCE           TEMP_SNIPER
+LANG_ENGLISH        "Moody: Riley! Grab that sniper rifle and take out those MG42s!"
+LANG_SPANISH        "Moody: ¡Riley! ¡Coge ese fusil de precisión y cárgate las MG42!"
+
+REFERENCE           OBJECTIVE_1A
+LANG_ENGLISH        "Follow squad on patrol"
+LANG_SPANISH        "Seguir al escuadrón que patrulla."
+
+REFERENCE           INSUBORDINATION
+LANG_ENGLISH        "Insubordination will not be tolerated!"
+LANG_SPANISH        "¡No se tolerará insubordinación alguna!"
+
+REFERENCE           PICKUP_HINT
+LANG_ENGLISH        "To pickup the .30 cal, move near the weapon and press "
+LANG_SPANISH        "Para recoger la ametralladora del .30, acércate y pulsa "
+
+REFERENCE           DEPLOY_HINT
+LANG_ENGLISH        "To deploy the .30 cal, press "
+LANG_SPANISH        "Para armar la ametralladora del .30, pulsa "
+
+REFERENCE           OBJECTIVE_5A
+LANG_ENGLISH        "Follow Moody to next foxhole"
+LANG_SPANISH        "Sigue a Moody hasta la siguiente trinchera"
+
+REFERENCE           OBJECTIVE_7A
+LANG_ENGLISH        "Cover Sgt. Moody"
+LANG_SPANISH        "Cubre al Sgt. Moody"
+
+REFERENCE           ARROW_HELP
+LANG_ENGLISH        "A white arrow will appear near your compass to show if your objective is above or below you."
+LANG_SPANISH        "Aparecerá una flecha blanca cerca de tu brújula para mostrar si tu objetivo está por encima o por debajo de ti."
+
+
+ENDMARKER
+
+

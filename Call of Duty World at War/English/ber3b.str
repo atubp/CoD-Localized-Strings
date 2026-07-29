@@ -1,0 +1,67 @@
+// Dumped from fastfile "ber3b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3B_OBJ_3
+LANG_ENGLISH        "Continue clearing the Reichstag."
+
+REFERENCE           BER3B_INTROSCREEN_INFO
+LANG_ENGLISH        "150th Rifle Division"
+
+REFERENCE           BER3B_INTROSCREEN_DATE
+LANG_ENGLISH        "April 30, 1945"
+
+REFERENCE           BER3B_INTROSCREEN_PLACE
+LANG_ENGLISH        "The Reichstag - Berlin, Germany"
+
+REFERENCE           BER3B_OBJ_2
+LANG_ENGLISH        "Clear the ground floor of the Parliament."
+
+REFERENCE           BER3B_OBJ_1
+LANG_ENGLISH        "Storm the Reichstag."
+
+REFERENCE           BER3B_OBJ_4
+LANG_ENGLISH        "Pick up the fallen Russian flag."
+
+REFERENCE           BER3B_OBJ_5
+LANG_ENGLISH        "Raise the Russian flag atop the Reichstag."
+
+REFERENCE           BER3B_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Downfall'"
+
+REFERENCE           BER3B_OBJ_FLAG_RETRIEVE
+LANG_ENGLISH        "Retrieve the Russian flag."
+
+REFERENCE           BER3B_OBJ_FLAG_CARRY
+LANG_ENGLISH        "Carry the Russian flag to the roof."
+
+REFERENCE           BER3B_HINT_FLAG_PICKUP
+LANG_ENGLISH        "Hold [{+activate}] to pick up the flag."
+
+REFERENCE           BER3B_HINT_FLAG_DROP
+LANG_ENGLISH        "Hold [{+activate}] to drop the flag."
+
+REFERENCE           BER3B_FLAG_FAIL_DEADQUOTE
+LANG_ENGLISH        "You left the flag behind!"
+
+REFERENCE           BER3B_FLAG_FAIL_WARNING
+LANG_ENGLISH        "Comrade, do not leave our flag behind!"
+
+REFERENCE           BER3B_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Dimitri Petrenko"
+
+REFERENCE           BER3B_OBJ_2A
+LANG_ENGLISH        "Climb to the balcony to provide fire support."
+
+REFERENCE           BER3B_DIARY_SKIP
+LANG_ENGLISH        "(Press [{+activate}] to skip.)"
+
+REFERENCE           BER3B_OBJ_2B
+LANG_ENGLISH        "Eliminate the Germans on the south balcony."
+
+REFERENCE           BER3B_FLAG_PLANT_TRIGGER_HINT
+LANG_ENGLISH        "Press [{+activate}] to plant the flag."
+
+ENDMARKER

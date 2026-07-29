@@ -1,0 +1,58 @@
+// Dumped from fastfile "oki2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Blowtorch & Corkscrew'"
+
+REFERENCE           OKI2_OBJ_1
+LANG_ENGLISH        "Assault Wana Ridge"
+
+REFERENCE           OKI2_INTROSCREEN_WHO
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           OKI2_INTROSCREEN_DATE
+LANG_ENGLISH        "May 14, 1945"
+
+REFERENCE           OKI2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Wana Ridge, Okinawa"
+
+REFERENCE           OKI2_OBJ_2_4
+LANG_ENGLISH        "Eliminate the 200mm guns (4 remaining)"
+
+REFERENCE           OKI2_INTROSCREEN_WHAT
+LANG_ENGLISH        "1st Marine Division"
+
+REFERENCE           OKI2_OBJ_2
+LANG_ENGLISH        "Eliminate the 200mm guns"
+
+REFERENCE           OKI2_OBJ_2_2
+LANG_ENGLISH        "Eliminate the 200mm guns (2 remaining)"
+
+REFERENCE           OKI2_OBJ_2_3
+LANG_ENGLISH        "Eliminate the 200mm guns (3 remaining)"
+
+REFERENCE           OKI2_OBJ_2_1
+LANG_ENGLISH        "Eliminate the 200mm guns (1 remaining)"
+
+REFERENCE           OKI2_DESTROY_GUN
+LANG_ENGLISH        "Hold [{+activate}] to plant charge."
+
+REFERENCE           OKI2_OBJ_4
+LANG_ENGLISH        "Locate Bunker Entrance"
+
+REFERENCE           OKI2_OBJ_5
+LANG_ENGLISH        "Secure the Bunker"
+
+REFERENCE           OKI2_OBJ_3
+LANG_ENGLISH        "Rendezvous with Sarge"
+
+REFERENCE           OKI2_SATCHEL_HINT1
+LANG_ENGLISH        "Press [{+actionslot 3}] to select the satchel charge."
+
+REFERENCE           OKI2_SATCHEL_HINT2
+LANG_ENGLISH        "Press [{+toggleads_throw}] to throw the satchel.  Press [{+attack}] to detonate it."
+
+ENDMARKER

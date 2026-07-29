@@ -1,0 +1,259 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TRAINING_PLACE
+LANG_ENGLISH        "Camp Toccoa, GA - U.S.A."
+LANG_SPANISH        "Campamento Toccoa, Georgia, Estados Unidos."
+
+REFERENCE           TRAINING_DATE
+LANG_ENGLISH        "August 10, 1942"
+LANG_SPANISH        "10 de agosto, 1942"
+
+REFERENCE           TRAINING_TIME
+LANG_ENGLISH        "0900 hrs"
+LANG_SPANISH        "9:00 horas"
+
+REFERENCE           PATHFINDER_PLACE
+LANG_ENGLISH        "Outskirts of St. Mere Eglise, France"
+LANG_SPANISH        "Afueras de St. Mere Eglise, Francia"
+
+REFERENCE           PATHFINDER_DATE
+LANG_ENGLISH        "JUNE 5, 1944"
+LANG_SPANISH        "5 de JUNIO, 1944"
+
+REFERENCE           PATHFINDER_TIME
+LANG_ENGLISH        "2330 hrs"
+LANG_SPANISH        "23:30 horas"
+
+REFERENCE           BURNVILLE_PLACE
+LANG_ENGLISH        "Ste. Mere Eglise, France"
+LANG_SPANISH        "Ste. Mere Eglise, Francia"
+
+REFERENCE           BURNVILLE_DATE
+LANG_ENGLISH        "June 6, 1944"
+LANG_SPANISH        "6 de Junio, 1944"
+
+REFERENCE           BURNVILLE_TIME
+LANG_ENGLISH        "0020 hrs"
+LANG_SPANISH        "00:20 horas"
+
+REFERENCE           DAWNVILLE_PLACE
+LANG_ENGLISH        "St. Mere Eglise, France"
+LANG_SPANISH        "St. Mere Eglise, Francia"
+
+REFERENCE           DAWNVILLE_DATE
+LANG_ENGLISH        "June 6, 1944"
+LANG_SPANISH        "6 de Junio, 1944"
+
+REFERENCE           DAWNVILLE_TIME
+LANG_ENGLISH        "0730 hrs"
+LANG_SPANISH        "07:30 horas"
+
+REFERENCE           CARRIDE_PLACE
+LANG_ENGLISH        "Normandy, Route N13"
+LANG_SPANISH        "Normandía, Ruta N13"
+
+REFERENCE           CARRIDE_DATE
+LANG_ENGLISH        "June 6, 1944"
+LANG_SPANISH        "6 de Junio, 1944"
+
+REFERENCE           CARRIDE_TIME
+LANG_ENGLISH        "0815 hrs"
+LANG_SPANISH        "8:15 horas"
+
+REFERENCE           BRECOURT_PLACE
+LANG_ENGLISH        "Brecourt Manor, France"
+LANG_SPANISH        "Brecourt Manor, Francia"
+
+REFERENCE           BRECOURT_DATE
+LANG_ENGLISH        "June 6, 1944"
+LANG_SPANISH        "6 de Junio, 1944"
+
+REFERENCE           BRECOURT_TIME
+LANG_ENGLISH        "0900 hrs"
+LANG_SPANISH        "9:00 horas"
+
+REFERENCE           CHATEAU_PLACE
+LANG_ENGLISH        "Bavarian Alps, Germany"
+LANG_SPANISH        "Alpes Bávaros, Alemania"
+
+REFERENCE           CHATEAU_DATE
+LANG_ENGLISH        "August 7, 1944"
+LANG_SPANISH        "7 de agosto, 1944"
+
+REFERENCE           CHATEAU_TIME
+LANG_ENGLISH        "0130 hrs"
+LANG_SPANISH        "1:30 horas"
+
+REFERENCE           POWCAMP_PLACE
+LANG_ENGLISH        "Dulag IIIA - Strasshof, Austria"
+LANG_SPANISH        "#same"
+
+REFERENCE           POWCAMP_DATE
+LANG_ENGLISH        "September 18, 1944"
+LANG_SPANISH        "18 de septiembre, 1944"
+
+REFERENCE           POWCAMP_TIME
+LANG_ENGLISH        "0320 hrs"
+LANG_SPANISH        "3:20 horas"
+
+REFERENCE           PEGASUSNIGHT_PLACE
+LANG_ENGLISH        "Benouville, France"
+LANG_SPANISH        "Benouville, Francia"
+
+REFERENCE           PEGASUSNIGHT_DATE
+LANG_ENGLISH        "June 6, 1944"
+LANG_SPANISH        "6 de junio, 1944"
+
+REFERENCE           PEGASUSNIGHT_TIME
+LANG_ENGLISH        "0007 hrs"
+LANG_SPANISH        "00:07 horas"
+
+REFERENCE           PEGASUSDAY_PLACE
+LANG_ENGLISH        "Benouville, France"
+LANG_SPANISH        "Benouville, Francia"
+
+REFERENCE           PEGASUSDAY_DATE
+LANG_ENGLISH        "June 6, 1944"
+LANG_SPANISH        "6 de Junio, 1944"
+
+REFERENCE           PEGASUSDAY_TIME
+LANG_ENGLISH        "1230 hrs"
+LANG_SPANISH        "12:30 horas"
+
+REFERENCE           DAM_PLACE
+LANG_ENGLISH        "Eder Dam, Germany"
+LANG_SPANISH        "Presa de Eder, Alemania"
+
+REFERENCE           DAM_DATE
+LANG_ENGLISH        "September 2, 1944"
+LANG_SPANISH        "2 de septiembre, 1944"
+
+REFERENCE           DAM_TIME
+LANG_ENGLISH        "0545 hrs"
+LANG_SPANISH        "05:45 horas"
+
+REFERENCE           SHIP_PLACE
+LANG_ENGLISH        "Hakoya, Norway"
+LANG_SPANISH        "Hakoya, Noruega"
+
+REFERENCE           SHIP_DATE
+LANG_ENGLISH        "October 27, 1944"
+LANG_SPANISH        "27 de octubre, 1944"
+
+REFERENCE           SHIP_TIME
+LANG_ENGLISH        "1900 hrs"
+LANG_SPANISH        "19:00 horas"
+
+REFERENCE           STALINGRAD_PLACE
+LANG_ENGLISH        "Volga River, Stalingrad"
+LANG_SPANISH        "Río Volga, Stalingrado"
+
+REFERENCE           STALINGRAD_DATE
+LANG_ENGLISH        "September 18, 1942"
+LANG_SPANISH        "18 de septiembre, 1942"
+
+REFERENCE           STALINGRAD_TIME
+LANG_ENGLISH        "1100 hrs"
+LANG_SPANISH        "11:00 horas"
+
+REFERENCE           REDSQUARE_PLACE
+LANG_ENGLISH        "Red Square, Stalingrad"
+LANG_SPANISH        "Plaza Roja, Stalingrado"
+
+REFERENCE           REDSQUARE_DATE
+LANG_ENGLISH        "September 18, 1942"
+LANG_SPANISH        "18 de septiembre, 1942"
+
+REFERENCE           REDSQUARE_TIME
+LANG_ENGLISH        "1300 hrs"
+LANG_SPANISH        "13:00 horas"
+
+REFERENCE           SEWER_PLACE
+LANG_ENGLISH        "Stalingrad Sewers"
+LANG_SPANISH        "Alcantarillas Stalingrado"
+
+REFERENCE           SEWER_DATE
+LANG_ENGLISH        "November 9, 1942"
+LANG_SPANISH        "9 de Noviembre, 1942"
+
+REFERENCE           SEWER_TIME
+LANG_ENGLISH        "1300 hrs"
+LANG_SPANISH        "13:00 horas"
+
+REFERENCE           FACTORY_DATE
+LANG_ENGLISH        "January 17, 1945"
+LANG_SPANISH        "17 de enero, 1945"
+
+REFERENCE           FACTORY_PLACE
+LANG_ENGLISH        "Warsaw, Poland"
+LANG_SPANISH        "Varsovia, Polonia"
+
+REFERENCE           FACTORY_TIME
+LANG_ENGLISH        "1030 hrs"
+LANG_SPANISH        "10:30 horas"
+
+REFERENCE           TANKDRIVECOUNTRY_PLACE
+LANG_ENGLISH        "Approaching the Oder River"
+LANG_SPANISH        "Aproximándose al río Oder"
+
+REFERENCE           TANKDRIVECOUNTRY_DATE
+LANG_ENGLISH        "January 26, 1945"
+LANG_SPANISH        "26 de enero, 1945"
+
+REFERENCE           TANKDRIVECOUNTRY_TIME
+LANG_ENGLISH        "1345 hrs"
+LANG_SPANISH        "13:45 horas"
+
+REFERENCE           HURTGEN_PLACE
+LANG_ENGLISH        "Northeast of Bastogne, Belgium"
+LANG_SPANISH        "Noreste de Bastogne, Bélgica"
+
+REFERENCE           HURTGEN_DATE
+LANG_ENGLISH        "January 15, 1945"
+LANG_SPANISH        "15 de enero, 1945"
+
+REFERENCE           HURTGEN_TIME
+LANG_ENGLISH        "1520 hrs"
+LANG_SPANISH        "15:20 horas"
+
+REFERENCE           ROCKET_PLACE
+LANG_ENGLISH        "Burgsteinfurt, Germany"
+LANG_SPANISH        "Burgsteinfurt, Alemania"
+
+REFERENCE           ROCKET_DATE
+LANG_ENGLISH        "February 2, 1945"
+LANG_SPANISH        "2 de febrero, 1945"
+
+REFERENCE           ROCKET_TIME
+LANG_ENGLISH        "1600 hrs"
+LANG_SPANISH        "16:00 horas"
+
+REFERENCE           BERLIN_PLACE
+LANG_ENGLISH        "Approaching the Reichstag, Berlin"
+LANG_SPANISH        "Aproximándose al Reichstag, Berlín"
+
+REFERENCE           BERLIN_DATE
+LANG_ENGLISH        "April 30, 1945"
+LANG_SPANISH        "30 de abril, 1945"
+
+REFERENCE           BERLIN_TIME
+LANG_ENGLISH        "1100 hrs"
+LANG_SPANISH        "11:00 horas"
+
+
+ENDMARKER
+
+

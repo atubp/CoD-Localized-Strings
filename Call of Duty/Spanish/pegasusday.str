@@ -1,0 +1,47 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HOLD_THE_BRIDGE_UNTIL
+LANG_ENGLISH        "Hold the bridge until relieved by Allied forces."
+LANG_SPANISH        "Mantener el puente hasta ser relevados por las fuerzas Aliadas."
+
+REFERENCE           DEFEND_THE_WEST_BANK
+LANG_ENGLISH        "Defend the west bank of the canal."
+LANG_SPANISH        "Defender la orilla oeste del canal."
+
+REFERENCE           FALL_BACK_ACROSS_THE
+LANG_ENGLISH        "Fall back to the machine gun and provide covering fire."
+LANG_SPANISH        "Retroceder hasta la ametralladora y proporcionar fuego de cobertura."
+
+REFERENCE           HELP_THE_REINFORCEMENTS
+LANG_ENGLISH        "Help the reinforcements clear the area of any remaining enemies."
+LANG_SPANISH        "Ayudar a los refuerzos a despejar la zona de cualquier enemigo restante."
+
+REFERENCE           DEBRIEF_WITH_CAPTAIN
+LANG_ENGLISH        "Debrief with Captain Price."
+LANG_SPANISH        "Informarse con el capitán Price."
+
+REFERENCE           DESTROY_THE_INCOMING
+LANG_ENGLISH        "Destroy the incoming tank."
+LANG_SPANISH        "Destruir el tanque que se acerca."
+
+REFERENCE           REINFORCEMENTS_ARRIVING
+LANG_ENGLISH        "Reinforcements arriving in: %s"
+LANG_SPANISH        "Los refuerzos llegarán en: %s"
+
+
+ENDMARKER
+
+

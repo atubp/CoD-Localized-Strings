@@ -1,0 +1,459 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk-work\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OR
+LANG_ENGLISH        "or"
+LANG_SPANISH        "o"
+
+REFERENCE           UNBOUND
+LANG_ENGLISH        "Unbound"
+LANG_SPANISH        "Liberado"
+
+REFERENCE           TAB
+LANG_ENGLISH        "Tab"
+LANG_SPANISH        "Tabulador"
+
+REFERENCE           ENTER
+LANG_ENGLISH        "Enter"
+LANG_SPANISH        "Intro"
+
+REFERENCE           ESCAPE
+LANG_ENGLISH        "Escape"
+LANG_SPANISH        "Esc"
+
+REFERENCE           SPACE
+LANG_ENGLISH        "Space"
+LANG_SPANISH        "Barra espaciadora"
+
+REFERENCE           BACKSPACE
+LANG_ENGLISH        "Backspace"
+LANG_SPANISH        "Retroceso"
+
+REFERENCE           UPARROW
+LANG_ENGLISH        "Up Arrow"
+LANG_SPANISH        "Flecha arriba"
+
+REFERENCE           DOWNARROW
+LANG_ENGLISH        "Down Arrow"
+LANG_SPANISH        "Flecha abajo"
+
+REFERENCE           LEFTARROW
+LANG_ENGLISH        "Left Arrow"
+LANG_SPANISH        "Flecha izquierda"
+
+REFERENCE           RIGHTARROW
+LANG_ENGLISH        "Right Arrow"
+LANG_SPANISH        "Flecha derecha"
+
+REFERENCE           ALT
+LANG_ENGLISH        "Alt"
+LANG_SPANISH        "#same"
+
+REFERENCE           CTRL
+LANG_ENGLISH        "Ctrl"
+LANG_SPANISH        "#same"
+
+REFERENCE           SHIFT
+LANG_ENGLISH        "Shift"
+LANG_SPANISH        "Mayúsculas"
+
+REFERENCE           CAPSLOCK
+LANG_ENGLISH        "Caps Lock"
+LANG_SPANISH        "Bloq Mayús"
+
+REFERENCE           INS
+LANG_ENGLISH        "Ins"
+LANG_SPANISH        "Insertar"
+
+REFERENCE           DEL
+LANG_ENGLISH        "Del"
+LANG_SPANISH        "Supr"
+
+REFERENCE           PGDN
+LANG_ENGLISH        "Page Down"
+LANG_SPANISH        "Av Pág"
+
+REFERENCE           PGUP
+LANG_ENGLISH        "Page Up"
+LANG_SPANISH        "Re Pág"
+
+REFERENCE           HOME
+LANG_ENGLISH        "Home"
+LANG_SPANISH        "Inicio"
+
+REFERENCE           END
+LANG_ENGLISH        "End"
+LANG_SPANISH        "Fin"
+
+REFERENCE           MOUSE1
+LANG_ENGLISH        "Left Mouse"
+LANG_SPANISH        "Ratón izquierdo"
+
+REFERENCE           MOUSE2
+LANG_ENGLISH        "Right Mouse"
+LANG_SPANISH        "Ratón derecho"
+
+REFERENCE           MOUSE3
+LANG_ENGLISH        "Middle Mouse"
+LANG_SPANISH        "Ratón Medio"
+
+REFERENCE           MOUSE4
+LANG_ENGLISH        "Mouse 4"
+LANG_SPANISH        "Ratón 4"
+
+REFERENCE           MOUSE5
+LANG_ENGLISH        "Mouse 5"
+LANG_SPANISH        "Ratón 5"
+
+REFERENCE           MWHEELUP
+LANG_ENGLISH        "Wheel Up"
+LANG_SPANISH        "Rueda arriba"
+
+REFERENCE           MWHEELDOWN
+LANG_ENGLISH        "Wheel Down"
+LANG_SPANISH        "Rueda abajo"
+
+REFERENCE           JOY1
+LANG_ENGLISH        "Joystick 1"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY2
+LANG_ENGLISH        "Joystick 2"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY3
+LANG_ENGLISH        "Joystick 3"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY4
+LANG_ENGLISH        "Joystick 4"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY5
+LANG_ENGLISH        "Joystick 5"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY6
+LANG_ENGLISH        "Joystick 6"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY7
+LANG_ENGLISH        "Joystick 7"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY8
+LANG_ENGLISH        "Joystick 8"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY9
+LANG_ENGLISH        "Joystick 9"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY10
+LANG_ENGLISH        "Joystick 10"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY11
+LANG_ENGLISH        "Joystick 11"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY12
+LANG_ENGLISH        "Joystick 12"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY13
+LANG_ENGLISH        "Joystick 13"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY14
+LANG_ENGLISH        "Joystick 14"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY15
+LANG_ENGLISH        "Joystick 15"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY16
+LANG_ENGLISH        "Joystick 16"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY17
+LANG_ENGLISH        "Joystick 17"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY18
+LANG_ENGLISH        "Joystick 18"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY19
+LANG_ENGLISH        "Joystick 19"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY20
+LANG_ENGLISH        "Joystick 20"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY21
+LANG_ENGLISH        "Joystick 21"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY22
+LANG_ENGLISH        "Joystick 22"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY23
+LANG_ENGLISH        "Joystick 23"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY24
+LANG_ENGLISH        "Joystick 24"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY25
+LANG_ENGLISH        "Joystick 25"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY26
+LANG_ENGLISH        "Joystick 26"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY27
+LANG_ENGLISH        "Joystick 27"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY28
+LANG_ENGLISH        "Joystick 28"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY29
+LANG_ENGLISH        "Joystick 29"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY30
+LANG_ENGLISH        "Joystick 30"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY31
+LANG_ENGLISH        "Joystick 31"
+LANG_SPANISH        "#same"
+
+REFERENCE           JOY32
+LANG_ENGLISH        "Joystick 32"
+LANG_SPANISH        "#same"
+
+REFERENCE           AUX1
+LANG_ENGLISH        "Auxiliary 1"
+LANG_SPANISH        "Auxiliar 1"
+
+REFERENCE           AUX2
+LANG_ENGLISH        "Auxiliary 2"
+LANG_SPANISH        "Auxiliar 2"
+
+REFERENCE           AUX3
+LANG_ENGLISH        "Auxiliary 3"
+LANG_SPANISH        "Auxiliar 3"
+
+REFERENCE           AUX4
+LANG_ENGLISH        "Auxiliary 4"
+LANG_SPANISH        "Auxiliar 4"
+
+REFERENCE           AUX5
+LANG_ENGLISH        "Auxiliary 5"
+LANG_SPANISH        "Auxiliar 5"
+
+REFERENCE           AUX6
+LANG_ENGLISH        "Auxiliary 6"
+LANG_SPANISH        "Auxiliar 6"
+
+REFERENCE           AUX7
+LANG_ENGLISH        "Auxiliary 7"
+LANG_SPANISH        "Auxiliar 7"
+
+REFERENCE           AUX8
+LANG_ENGLISH        "Auxiliary 8"
+LANG_SPANISH        "Auxiliar 8"
+
+REFERENCE           AUX9
+LANG_ENGLISH        "Auxiliary 9"
+LANG_SPANISH        "Auxiliar 9"
+
+REFERENCE           AUX10
+LANG_ENGLISH        "Auxiliary 10"
+LANG_SPANISH        "Auxiliar 10"
+
+REFERENCE           AUX11
+LANG_ENGLISH        "Auxiliary 11"
+LANG_SPANISH        "Auxiliar 11"
+
+REFERENCE           AUX12
+LANG_ENGLISH        "Auxiliary 12"
+LANG_SPANISH        "Auxiliar 12"
+
+REFERENCE           AUX13
+LANG_ENGLISH        "Auxiliary 13"
+LANG_SPANISH        "Auxiliar 13"
+
+REFERENCE           AUX14
+LANG_ENGLISH        "Auxiliary 14"
+LANG_SPANISH        "Auxiliar 14"
+
+REFERENCE           AUX15
+LANG_ENGLISH        "Auxiliary 15"
+LANG_SPANISH        "Auxiliar 15"
+
+REFERENCE           AUX16
+LANG_ENGLISH        "Auxiliary 16"
+LANG_SPANISH        "Auxiliar 16"
+
+REFERENCE           F1
+LANG_ENGLISH        "F1"
+LANG_SPANISH        "#same"
+
+REFERENCE           F2
+LANG_ENGLISH        "F2"
+LANG_SPANISH        "#same"
+
+REFERENCE           F3
+LANG_ENGLISH        "F3"
+LANG_SPANISH        "#same"
+
+REFERENCE           F4
+LANG_ENGLISH        "F4"
+LANG_SPANISH        "#same"
+
+REFERENCE           F5
+LANG_ENGLISH        "F5"
+LANG_SPANISH        "#same"
+
+REFERENCE           F6
+LANG_ENGLISH        "F6"
+LANG_SPANISH        "#same"
+
+REFERENCE           F7
+LANG_ENGLISH        "F7"
+LANG_SPANISH        "#same"
+
+REFERENCE           F8
+LANG_ENGLISH        "F8"
+LANG_SPANISH        "#same"
+
+REFERENCE           F9
+LANG_ENGLISH        "F9"
+LANG_SPANISH        "#same"
+
+REFERENCE           F10
+LANG_ENGLISH        "F10"
+LANG_SPANISH        "#same"
+
+REFERENCE           F11
+LANG_ENGLISH        "F11"
+LANG_SPANISH        "#same"
+
+REFERENCE           F12
+LANG_ENGLISH        "F12"
+LANG_SPANISH        "#same"
+
+REFERENCE           KP_HOME
+LANG_ENGLISH        "KP Home"
+LANG_SPANISH        "TN Inicio"
+
+REFERENCE           KP_UPARROW
+LANG_ENGLISH        "KP Up Arrow"
+LANG_SPANISH        "TN Flecha arriba"
+
+REFERENCE           KP_PGUP
+LANG_ENGLISH        "KP Page Up"
+LANG_SPANISH        "TN Flecha abajo"
+
+REFERENCE           KP_LEFTARROW
+LANG_ENGLISH        "KP Left Arrow"
+LANG_SPANISH        "TN Flecha izquierda"
+
+REFERENCE           KP_5
+LANG_ENGLISH        "KP 5"
+LANG_SPANISH        "TN 5"
+
+REFERENCE           KP_RIGHTARROW
+LANG_ENGLISH        "KP Right Arrow"
+LANG_SPANISH        "TN Flecha derecha"
+
+REFERENCE           KP_END
+LANG_ENGLISH        "KP End"
+LANG_SPANISH        "TN Fin"
+
+REFERENCE           KP_DOWNARROW
+LANG_ENGLISH        "KP Down Arrow"
+LANG_SPANISH        "TN Flecha abajo"
+
+REFERENCE           KP_PGDN
+LANG_ENGLISH        "KP Page Down"
+LANG_SPANISH        "TN Av Pág"
+
+REFERENCE           KP_ENTER
+LANG_ENGLISH        "KP Enter"
+LANG_SPANISH        "TN Intro"
+
+REFERENCE           KP_INS
+LANG_ENGLISH        "KP Ins"
+LANG_SPANISH        "TN Ins"
+
+REFERENCE           KP_DEL
+LANG_ENGLISH        "KP Del"
+LANG_SPANISH        "TN Supr"
+
+REFERENCE           KP_SLASH
+LANG_ENGLISH        "KP Slash"
+LANG_SPANISH        "TN Barra"
+
+REFERENCE           KP_MINUS
+LANG_ENGLISH        "KP Minus"
+LANG_SPANISH        "TN Menos"
+
+REFERENCE           KP_PLUS
+LANG_ENGLISH        "KP Plus"
+LANG_SPANISH        "TN Más"
+
+REFERENCE           KP_NUMLOCK
+LANG_ENGLISH        "Num Lock"
+LANG_SPANISH        "Bloq Num"
+
+REFERENCE           KP_STAR
+LANG_ENGLISH        "KP Star"
+LANG_SPANISH        "KP Asterisco"
+
+REFERENCE           KP_EQUALS
+LANG_ENGLISH        "KP Equals"
+LANG_SPANISH        "TN Igual"
+
+REFERENCE           PAUSE
+LANG_ENGLISH        "Pause"
+LANG_SPANISH        "Pausa"
+
+REFERENCE           SEMICOLON
+LANG_ENGLISH        "Semicolon"
+LANG_SPANISH        "Punto y coma"
+
+REFERENCE           COMMAND
+LANG_ENGLISH        "Command"
+LANG_SPANISH        "Comando"
+
+REFERENCE           USE
+LANG_ENGLISH        "use"
+LANG_SPANISH        "usar"
+
+
+ENDMARKER
+
+

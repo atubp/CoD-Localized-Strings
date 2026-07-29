@@ -1,0 +1,55 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd.cfg"
+FILENOTES           "Strings used in trainyard go in this file."
+
+REFERENCE           OBJ_REGROUP
+LANG_ENGLISH        "Regroup with second squad at the trainyard."
+LANG_SPANISH         "Reúnete con el segundo pelotón en la estación."
+
+REFERENCE           OBJ_CAPTUREHQ
+LANG_ENGLISH        "Capture the enemy HQ in the Station House."
+LANG_SPANISH         "Toma el CG enemigo de la comisaría."
+
+REFERENCE           OBJ_DEFENDHQ
+LANG_ENGLISH        "Defend the Station House."
+LANG_SPANISH         "Defiende la comisaría."
+
+REFERENCE           OBJ_DESTROYTANK
+LANG_ENGLISH        "Use your sticky bombs to destroy the enemy tank."
+LANG_SPANISH         "Utiliza las bombas adhesivas para destruir el tanque enemigo."
+
+REFERENCE           OBJ_HARDPOINT1
+LANG_ENGLISH        "Clear the suspected enemy supply dumps."
+LANG_SPANISH         "Despeja los posibles depósitos de suministros enemigos."
+
+REFERENCE           OBJ_HARDPOINT2
+LANG_ENGLISH        "Eliminate the enemy forward position."
+LANG_SPANISH         "Elimina la posición de vanguardia enemiga."
+
+REFERENCE           OBJ_HARDPOINT3
+LANG_ENGLISH        "Eliminate the enemy machine gun position."
+LANG_SPANISH         "Elimina la posición de ametralladora enemiga."
+
+REFERENCE           OBJ_RENDEZVOUS
+LANG_ENGLISH        "Rendezvous with your comrades."
+LANG_SPANISH         "Reúnete con tus camaradas."
+
+REFERENCE           HINT_NONLINEAR1
+LANG_ENGLISH        "Multiple gold markers on the compass means you can choose your path to complete these objectives."
+LANG_SPANISH         "Varios marcadores dorados en la brújula significan que puedes elegir el camino que quieras para cumplir esos objetivos."
+
+
+ENDMARKER
+
+

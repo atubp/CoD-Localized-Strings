@@ -1,0 +1,407 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TRENCHES1
+LANG_ENGLISH        "Get into the Bunker"
+LANG_SPANISH        "Entra en el búnker"
+
+REFERENCE           TRENCHES2
+LANG_ENGLISH        "Defend Right Flank"
+LANG_SPANISH        "Defiende el flanco derecho"
+
+REFERENCE           TRENCHES3
+LANG_ENGLISH        "Flush out Left Flank"
+LANG_SPANISH        "Despeja el flanco izquierdo"
+
+REFERENCE           TRENCHES4
+LANG_ENGLISH        "Incoming Elefant Tanks"
+LANG_SPANISH        "Se acercan tanques Elefant"
+
+REFERENCE           TRENCHES5
+LANG_ENGLISH        "Head Back to Village"
+LANG_SPANISH        "Vuelve al pueblo"
+
+REFERENCE           TRENCHES6
+LANG_ENGLISH        "Eliminate Enemies in Village"
+LANG_SPANISH        "Elimina a los enemigos en el pueblo"
+
+REFERENCE           BASTOGNE1_1
+LANG_ENGLISH        "En route to Company HQ"
+LANG_SPANISH        "De camino al cuartel general de la compañía"
+
+REFERENCE           BASTOGNE1_2
+LANG_ENGLISH        "Following Pvt. Anderson to your foxhole"
+LANG_SPANISH        "Siguiendo al soldado Anderson a tu trinchera"
+
+REFERENCE           BASTOGNE1_3
+LANG_ENGLISH        "Holding the line (right)"
+LANG_SPANISH        "Aguantando la línea (derecha)"
+
+REFERENCE           BASTOGNE1_4
+LANG_ENGLISH        "Holding the line (left)"
+LANG_SPANISH        "Aguantando la línea (izquierda)"
+
+REFERENCE           BASTOGNE1_5
+LANG_ENGLISH        "Attacking the two MG34 gunners"
+LANG_SPANISH        "Atacando a los dos artilleros de las MG34"
+
+REFERENCE           BASTOGNE1_6
+LANG_ENGLISH        "Defending from tanks"
+LANG_SPANISH        "Defendiéndote de los tanques"
+
+REFERENCE           KHARKOV2_1
+LANG_ENGLISH        "Found Antonov"
+LANG_SPANISH        "Has encontrado a Antonov"
+
+REFERENCE           KHARKOV2_2
+LANG_ENGLISH        "Reached Miesha"
+LANG_SPANISH        "Has alcanzado a Miesha"
+
+REFERENCE           KHARKOV2_3
+LANG_ENGLISH        "Engineers Blew up Trolleys."
+LANG_SPANISH        "Los ingenieros volaron las vagonetas."
+
+REFERENCE           KHARKOV2_4
+LANG_ENGLISH        "Destroyed He111s"
+LANG_SPANISH        "He111 destruidos"
+
+REFERENCE           KHARKOV2_5
+LANG_ENGLISH        "Enroute to Trainyard"
+LANG_SPANISH        "De camino a la cochera"
+
+REFERENCE           KHARKOV1_1
+LANG_ENGLISH        "Advancing into City"
+LANG_SPANISH        "Entrando en la ciudad"
+
+REFERENCE           KHARKOV1_2
+LANG_ENGLISH        "Destroyed 2nd Anti-Tank Location"
+LANG_SPANISH        "Destruida la segunda posición antitanque"
+
+REFERENCE           KHARKOV1_3
+LANG_ENGLISH        "Advancing into City through Buildings."
+LANG_SPANISH        "Entrando en la ciudad entre los edificios."
+
+REFERENCE           KHARKOV1_4
+LANG_ENGLISH        "Clearing out Buildings"
+LANG_SPANISH        "Despejando los edificios"
+
+REFERENCE           KHARKOV1_5
+LANG_ENGLISH        "Entering Last Courtyard"
+LANG_SPANISH        "Entrando en el último patio"
+
+REFERENCE           SICILY1_1
+LANG_ENGLISH        "Approaching the dock house"
+LANG_SPANISH        "Llegando a la casa del muelle"
+
+REFERENCE           SICILY1_2
+LANG_ENGLISH        "Approaching the Lighthouse"
+LANG_SPANISH        "Llegando al faro"
+
+REFERENCE           SICILY1_3
+LANG_ENGLISH        "En route up the cliffside path"
+LANG_SPANISH        "Subiendo por el camino del acantilado"
+
+REFERENCE           SICILY1_4
+LANG_ENGLISH        "Approaching the breach in the fort wall"
+LANG_SPANISH        "Llegando a la brecha del muro del fuerte"
+
+REFERENCE           SICILY1_5
+LANG_ENGLISH        "Courtyard battle"
+LANG_SPANISH        "La batalla del patio"
+
+REFERENCE           SICILY1_6
+LANG_ENGLISH        "Entering the motorpool"
+LANG_SPANISH        "Entrando en el taller"
+
+REFERENCE           SICILY1_7
+LANG_ENGLISH        "Going down!"
+LANG_SPANISH        "¡Bajando!"
+
+REFERENCE           SICILY1_8
+LANG_ENGLISH        "Gun 1 down"
+LANG_SPANISH        "Cañón 1 abatido"
+
+REFERENCE           SICILY1_10
+LANG_ENGLISH        "All guns destroyed!"
+LANG_SPANISH        "¡Destruidos todos los cañones!"
+
+REFERENCE           SICILY1_9
+LANG_ENGLISH        "Gun 2 down"
+LANG_SPANISH        "Cañón 2 abatido"
+
+REFERENCE           SICILY1_11
+LANG_ENGLISH        "On the way back to the motorpool"
+LANG_SPANISH        "De vuelta al taller"
+
+REFERENCE           BASTOGNE2_1
+LANG_ENGLISH        "Leaving for the mission."
+LANG_SPANISH        "Yendo a la misión."
+
+REFERENCE           BASTOGNE2_2
+LANG_ENGLISH        "Entering the forest."
+LANG_SPANISH        "Entrando en el bosque"
+
+REFERENCE           BASTOGNE2_3
+LANG_ENGLISH        "Forest has been cleared"
+LANG_SPANISH        "El bosque ha sido despejado"
+
+REFERENCE           BASTOGNE2_4
+LANG_ENGLISH        "Clear the MG42 nest (right flank)"
+LANG_SPANISH        "Despeja el nido de MG42 (flanco derecho)"
+
+REFERENCE           BASTOGNE2_5
+LANG_ENGLISH        "Spiking the guns."
+LANG_SPANISH        "Silenciando los cañones"
+
+REFERENCE           BASTOGNE2_6
+LANG_ENGLISH        "The interrogation"
+LANG_SPANISH        "El interrogatorio"
+
+REFERENCE           BASTOGNE2_7
+LANG_ENGLISH        "Rescuing the missing patrol."
+LANG_SPANISH        "Rescatando a la patrulla perdida"
+
+REFERENCE           BASTOGNE2_8
+LANG_ENGLISH        "En route to the crossroads."
+LANG_SPANISH        "De camino a la encrucijada"
+
+REFERENCE           BASTOGNE2_9
+LANG_ENGLISH        "Arriving at the Crossroads"
+LANG_SPANISH        "Cruce asegurado."
+
+REFERENCE           BASTOGNE2_10
+LANG_ENGLISH        "Crossroads secured"
+LANG_SPANISH        "Éxito de la emboscada al convoy"
+
+REFERENCE           FOY_1
+LANG_ENGLISH        "Assaulting the town."
+LANG_SPANISH        "Asaltando la ciudad."
+
+REFERENCE           FOY_2
+LANG_ENGLISH        "Kill the spotter."
+LANG_SPANISH        "Mata al observador"
+
+REFERENCE           FOY_3
+LANG_ENGLISH        "88 has been destroyed."
+LANG_SPANISH        "88 ha sido destruido"
+
+REFERENCE           FOY_4
+LANG_ENGLISH        "Cleared first house."
+LANG_SPANISH        "Despejada la primera casa."
+
+REFERENCE           FOY_5
+LANG_ENGLISH        "Clearing second house."
+LANG_SPANISH        "Despejada la segunda casa."
+
+REFERENCE           FOY_6
+LANG_ENGLISH        "Escaped burning house."
+LANG_SPANISH        "Has escapado de la casa en llamas"
+
+REFERENCE           FOY_7
+LANG_ENGLISH        "Destroyed tiger tank."
+LANG_SPANISH        "Tanque Tiger destruido."
+
+REFERENCE           FOY_8
+LANG_ENGLISH        "En route to the church."
+LANG_SPANISH        "De camino a la iglesia"
+
+REFERENCE           FOY_9
+LANG_ENGLISH        "Captured the church."
+LANG_SPANISH        "Iglesia tomada"
+
+REFERENCE           FOY_10
+LANG_ENGLISH        "Kill german anti_tank troops."
+LANG_SPANISH        "Matar a las tropas antitanque alemanas"
+
+REFERENCE           FOY_11
+LANG_ENGLISH        "Moving up with the tanks."
+LANG_SPANISH        "Subiendo con los tanques"
+
+REFERENCE           FOY_12
+LANG_ENGLISH        "Assault across the bridge."
+LANG_SPANISH        "Asalto en el puente"
+
+REFERENCE           FOY_13
+LANG_ENGLISH        "Destroyed Hidden Tiger."
+LANG_SPANISH        "Destruido Tiger escondido"
+
+REFERENCE           TRAINBRIDGE_1
+LANG_ENGLISH        "Rescued by Major Ingram."
+LANG_SPANISH        "Rescatado por el Mayor Ingram"
+
+REFERENCE           TRAINBRIDGE_2
+LANG_ENGLISH        "Leaving the road."
+LANG_SPANISH        "Saliendo de la carretera."
+
+REFERENCE           TRAINBRIDGE_3
+LANG_ENGLISH        "Approaching the farm house."
+LANG_SPANISH        "Llegando a la casa de la granja"
+
+REFERENCE           TRAINBRIDGE_4
+LANG_ENGLISH        "Farmhouse has been cleared."
+LANG_SPANISH        "La casa de la granja ha sido despejada"
+
+REFERENCE           TRAINBRIDGE_5
+LANG_ENGLISH        "The barn has been cleared."
+LANG_SPANISH        "El granero ha sido despejado"
+
+REFERENCE           TRAINBRIDGE_6
+LANG_ENGLISH        "After woods."
+LANG_SPANISH        "Después de los bosques"
+
+REFERENCE           TRAINBRIDGE_7
+LANG_ENGLISH        "Going to plant charges on the bridge."
+LANG_SPANISH        "Colocando explosivos en el puente"
+
+REFERENCE           TRAINBRIDGE_8
+LANG_ENGLISH        "All charges have been planted."
+LANG_SPANISH        "Todos los explosivos han sido colocados"
+
+REFERENCE           TRAINBRIDGE_9
+LANG_ENGLISH        "Waiting for the train to come."
+LANG_SPANISH        "Esperando a que llegue el tren"
+
+REFERENCE           TRAINBRIDGE_10
+LANG_ENGLISH        "Bridge has been blown."
+LANG_SPANISH        "El puente ha sido volado"
+
+REFERENCE           TRAINBRIDGE_11
+LANG_ENGLISH        "Escaping through the woods."
+LANG_SPANISH        "Huyendo por el bosque."
+
+REFERENCE           TRAINBRIDGE_12
+LANG_ENGLISH        "Returning to the farmhouse."
+LANG_SPANISH        "Volviendo a la casa de la granja"
+
+REFERENCE           TRAINBRIDGE_13
+LANG_ENGLISH        "In the truck."
+LANG_SPANISH        "En el camión"
+
+REFERENCE           TRAINBRIDGE_14
+LANG_ENGLISH        "Hiding from German trucks."
+LANG_SPANISH        "Escondiéndote de los camiones alemanes."
+
+REFERENCE           NOVILLE_1
+LANG_ENGLISH        "Off tank."
+LANG_SPANISH        "Fuera del tanque"
+
+REFERENCE           NOVILLE_2
+LANG_ENGLISH        "Artillery."
+LANG_SPANISH        "Artillería."
+
+REFERENCE           NOVILLE_3
+LANG_ENGLISH        "Before basement."
+LANG_SPANISH        "Antes del sótano"
+
+REFERENCE           NOVILLE_4
+LANG_ENGLISH        "Basement blown."
+LANG_SPANISH        "Sótano destruido"
+
+REFERENCE           NOVILLE_5
+LANG_ENGLISH        "Before street."
+LANG_SPANISH        "Antes de la calle."
+
+REFERENCE           NOVILLE_6
+LANG_ENGLISH        "At chateau."
+LANG_SPANISH        "En el chateau."
+
+REFERENCE           NOVILLE_7
+LANG_ENGLISH        "Protect South flank."
+LANG_SPANISH        "Proteger el flanco sur."
+
+REFERENCE           NOVILLE_8
+LANG_ENGLISH        "Protect North flank."
+LANG_SPANISH        "Protege el flanco norte"
+
+REFERENCE           NOVILLE_9
+LANG_ENGLISH        "End protect North."
+LANG_SPANISH        "Deja de proteger el norte"
+
+REFERENCE           NOVILLE_10
+LANG_ENGLISH        "Start protect third squad."
+LANG_SPANISH        "Comienza a proteger al tercer pelotón"
+
+REFERENCE           NOVILLE_11
+LANG_ENGLISH        "Protect Moody."
+LANG_SPANISH        "Protege a Moody"
+
+REFERENCE           NOVILLE_12
+LANG_ENGLISH        "End protect Moody."
+LANG_SPANISH        "Deja de proteger a Moody."
+
+REFERENCE           NOVILLE_13
+LANG_ENGLISH        "Start final defend."
+LANG_SPANISH        "Comienza la defensa final"
+
+REFERENCE           NOVILLE_14
+LANG_ENGLISH        "Finale."
+LANG_SPANISH        "Final."
+
+REFERENCE           BOMBER_1
+LANG_ENGLISH        "Flak over the coast"
+LANG_SPANISH        "Antiaéreos sobre la costa"
+
+REFERENCE           BOMBER_2
+LANG_ENGLISH        "Bandits, 11 o'clock!"
+LANG_SPANISH        "¡Bandidos a las once en punto!"
+
+REFERENCE           BOMBER_3
+LANG_ENGLISH        "Watch out for flak!"
+LANG_SPANISH        "¡Cuidado con los antiaéreos!"
+
+REFERENCE           BOMBER_4
+LANG_ENGLISH        "The Whole Bloody Luftwaffe"
+LANG_SPANISH        "¡La maldita Luftwaffe al completo!"
+
+REFERENCE           BOMBER_5
+LANG_ENGLISH        "Bombing run"
+LANG_SPANISH        "Bombardeo"
+
+REFERENCE           BASTOGNE2_11
+LANG_ENGLISH        "Convoy Ambush successful"
+LANG_SPANISH        "Emboscada al convoy exitosa"
+
+REFERENCE           SICILY2_1
+LANG_ENGLISH        "Get to the shore."
+LANG_SPANISH        "Llega a la playa."
+
+REFERENCE           SICILY2_2
+LANG_ENGLISH        "Get to the shore."
+LANG_SPANISH        "Llega a la playa."
+
+REFERENCE           SICILY2_3
+LANG_ENGLISH        "Get to the shore."
+LANG_SPANISH        "Llega a la playa."
+
+REFERENCE           SICILY2_4
+LANG_ENGLISH        "Follow Ingram."
+LANG_SPANISH        "Sigue a Ingram."
+
+REFERENCE           SICILY2_5
+LANG_ENGLISH        "Follow Ingram."
+LANG_SPANISH        "Sigue a Ingram."
+
+REFERENCE           SICILY2_6
+LANG_ENGLISH        "Board the captured German PT boat."
+LANG_SPANISH        "Entra en la lancha de escape."
+
+REFERENCE           SICILY2_7
+LANG_ENGLISH        "Destroy all German PT boats."
+LANG_SPANISH        "Destruye todos los barcos enemigos."
+
+
+ENDMARKER
+
+

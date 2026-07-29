@@ -1,0 +1,109 @@
+// Dumped from fastfile "see1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE1_OBJECTIVE3A
+LANG_ENGLISH        "Elimina todos los tanques\nenemigos. (Quedan 4)"
+
+REFERENCE           SEE1_OBJECTIVE2
+LANG_ENGLISH        "Elige un camino, IZQUIERDA o DERECHA"
+
+REFERENCE           SEE1_RIDE_TANK
+LANG_ENGLISH        "Pulsa[{+activate}] para subirte al tanque."
+
+REFERENCE           SEE1_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Su tierra, su sangre\""
+
+REFERENCE           SEE1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Seelow Heights, Alemania"
+
+REFERENCE           SEE1_INTROSCREEN_DATE
+LANG_ENGLISH        "18 de abril de 1945"
+
+REFERENCE           SEE1_OBJECTIVE1_C
+LANG_ENGLISH        "Súbete al tanque Tiger y destrúyelo."
+
+REFERENCE           SEE1_INTROSCREEN_NAME
+LANG_ENGLISH        "Sld. Petrenko"
+
+REFERENCE           SEE1_OBJECTIVE1
+LANG_ENGLISH        "Avanza hacia el río."
+
+REFERENCE           SEE1_OBJECTIVE11
+LANG_ENGLISH        "Elimina a los alemanes que huyen."
+
+REFERENCE           SEE1_OBJECTIVE4
+LANG_ENGLISH        "Reagrúpate en la entrada al establo."
+
+REFERENCE           SEE1_OBJECTIVE5
+LANG_ENGLISH        "Destruye el último tanque alemán."
+
+REFERENCE           SEE1_OBJECTIVE6
+LANG_ENGLISH        "Sigue a Reznov al establo."
+
+REFERENCE           SEE1_OBJECTIVE12
+LANG_ENGLISH        "Ve a la estación de tren"
+
+REFERENCE           SEE1_MANTLE_TANK
+LANG_ENGLISH        "Mantén pulsado X para trepar al tanque enemigo."
+
+REFERENCE           SEE1_ACHIEVEMENT_UNLOCK
+LANG_ENGLISH        "Logro desbloqueado"
+
+REFERENCE           SEE1_OBJECTIVE7
+LANG_ENGLISH        "Avanza por la carretera."
+
+REFERENCE           SEE1_OBJECTIVE3C
+LANG_ENGLISH        "Elimina todos los tanques\nenemigos. (Quedan 2)"
+
+REFERENCE           SEE1_OBJECTIVE8
+LANG_ENGLISH        "Entra en el campamento alemán."
+
+REFERENCE           SEE1_USE_MOLOTOV
+LANG_ENGLISH        "Pulsa [{+smoke}] para lanzar Molotovs."
+
+REFERENCE           SEE1_OBJECTIVE3B
+LANG_ENGLISH        "Elimina todos los tanques\nenemigos. (Quedan 3)"
+
+REFERENCE           SEE1_OBJECTIVE9
+LANG_ENGLISH        "Despeja el campamento alemán."
+
+REFERENCE           SEE1_OBJECTIVE10A
+LANG_ENGLISH        "Destruye los semiorugas alemanes. (Quedan 2)"
+
+REFERENCE           SEE1_OBJECTIVE10B
+LANG_ENGLISH        "Destruye los semiorugas alemanes. (Queda 1)"
+
+REFERENCE           SEE1_OBJECTIVE10C
+LANG_ENGLISH        "Destruye los semiorugas alemanes."
+
+REFERENCE           SEE1_OBJECTIVE1_B
+LANG_ENGLISH        "Atraviesa las defensas alemanas."
+
+REFERENCE           SEE1_OFF_TANK_PC
+LANG_ENGLISH        "Mantén pulsado F para bajarte del tanque."
+
+REFERENCE           SEE1_OFF_TANK
+LANG_ENGLISH        "Mantén pulsado [{+activate}] para bajarte del tanque."
+
+REFERENCE           SEE1_OBJECTIVE3D
+LANG_ENGLISH        "Elimina todos los tanques\nenemigos. (Queda 1)"
+
+REFERENCE           SEE1_INTROSCREEN_INFO
+LANG_ENGLISH        "3er ejército de choque"
+
+REFERENCE           SEE1_OBJECTIVE3E
+LANG_ENGLISH        "Elimina todos los tanques enemigos."
+
+REFERENCE           SEE1_LATER
+LANG_ENGLISH        "Estación de tren: camino a Berlín"
+
+REFERENCE           SEE1_RIDE_TANK_PC
+LANG_ENGLISH        "Mantén pulsado F detrás del tanque para subirte a él."
+
+REFERENCE           SEE1_MANTLE_TANK_PC
+LANG_ENGLISH        "Mantén pulsado F para trepar al tanque enemigo."
+
+ENDMARKER

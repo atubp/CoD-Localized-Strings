@@ -1,0 +1,115 @@
+// Dumped from fastfile "pby_fly".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           VEHICLENAME_CRUSADER_TANK
+LANG_ENGLISH        "Tanque Crusader"
+
+REFERENCE           PBY_FLY_OBJ_EV1
+LANG_ENGLISH        "Continuar patrulla rutinaria"
+
+REFERENCE           PBY_FLY_TUT_INTRO
+LANG_ENGLISH        "Bienvenido al tutorial de torretas PBY."
+
+REFERENCE           PBY_FLY_TUT_SWITCH
+LANG_ENGLISH        "Usa el mando de dirección para cambiar entre las torretas."
+
+REFERENCE           PBY_FLY_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Black Cats\""
+
+REFERENCE           PBY_FLY_INTROSCREEN_PLACE
+LANG_ENGLISH        "Sur de Okinawa"
+
+REFERENCE           PBY_FLY_INTROSCREEN_DATE
+LANG_ENGLISH        "3 de abril de 1945"
+
+REFERENCE           PBY_FLY_INTROSCREEN_NAME
+LANG_ENGLISH        "Oficial de marina Locke"
+
+REFERENCE           VEHICLENAME_FLETCHER
+LANG_ENGLISH        "Destructor, clase Fletcher"
+
+REFERENCE           PBY_FLY_INTROSCREEN_INFO
+LANG_ENGLISH        "Escuadrilla de Black Cat VPB-54"
+
+REFERENCE           PBY_FLY_OBJ_EV2_PTBOATS
+LANG_ENGLISH        "Rechaza a las patrulleras japonesas (&&1 destruidas)."
+
+REFERENCE           PBY_FLY_OBJ_EV2
+LANG_ENGLISH        "Destruye los barcos japoneses. [Quedan: &&1]"
+
+REFERENCE           PBY_FLY_PBY_NAME_B
+LANG_ENGLISH        "HAMMERHEAD"
+
+REFERENCE           PBY_FLY_OBJ_EV3B
+LANG_ENGLISH        "Responder a la llamada de socorro de la flota."
+
+REFERENCE           PBY_FLY_OBJ_EV3
+LANG_ENGLISH        "Volver a la base"
+
+REFERENCE           VEHICLENAME_SHERMAN_TANK
+LANG_ENGLISH        "Tanque Sherman"
+
+REFERENCE           PBY_FLY_OBJ_EV4
+LANG_ENGLISH        "Rescata a todos los posibles supervivientes. (&&1 rescatados)"
+
+REFERENCE           PBY_FLY_MERCHANT
+LANG_ENGLISH        "Barcos mercantes:"
+
+REFERENCE           PBY_FLY_SWITCH_FRONT
+LANG_ENGLISH        "Pulsa [{+activate}] para cambiar a torreta de proa."
+
+REFERENCE           PBY_FLY_SWITCH_RIGHT
+LANG_ENGLISH        "Pulsa [{+activate}] para cambiar a torreta derecha."
+
+REFERENCE           PBY_FLY_OBJ_EV5
+LANG_ENGLISH        "Borra a los Zeros japoneses de los cielos."
+
+REFERENCE           PBY_FLY_SWITCH_LEFT
+LANG_ENGLISH        "Pulsa [{+activate}] para cambiar a torreta izquierda."
+
+REFERENCE           VEHICLENAME_ARMORED_CAR
+LANG_ENGLISH        "Coche blindado"
+
+REFERENCE           PBY_FLY_SWITCH_REAR
+LANG_ENGLISH        "Pulsa [{+activate}] para cambiar a torreta inferior."
+
+REFERENCE           PBY_FLY_RESCUE
+LANG_ENGLISH        "Pulsa [{+activate}] para rescatar al superviviente."
+
+REFERENCE           PBY_FLY_ADS_HINT
+LANG_ENGLISH        "Mantén pulsado [{+speed_throw}] para usar el reflector y la mirilla de hierro."
+
+REFERENCE           PBY_FLY_PBY_NAME_A
+LANG_ENGLISH        "MANTA RAY"
+
+REFERENCE           PBY_FLY_PBY_SQUAD
+LANG_ENGLISH        "VPB 54 - BLACK CAT"
+
+REFERENCE           PBY_FLY_SURVIVOR
+LANG_ENGLISH        "Supervivientes:"
+
+REFERENCE           PBY_FLY_PTBOAT
+LANG_ENGLISH        "Lanchas patrulla:"
+
+REFERENCE           PBY_FLY_ZEROES
+LANG_ENGLISH        "Zero:"
+
+REFERENCE           PBY_FLY_X
+LANG_ENGLISH        "x"
+
+REFERENCE           PBY_FLY_OBJ_EV3B_ZEROES
+LANG_ENGLISH        "Rechaza a los Zeros japoneses (&&1 destruidos)."
+
+REFERENCE           PBY_FLY_CANNON
+LANG_ENGLISH        "Pulsa [{+frag}] para disparar el cañón de 20 mm"
+
+REFERENCE           VEHICLENAME_BUFFALO
+LANG_ENGLISH        "Buffalo"
+
+REFERENCE           VEHICLENAME_T34_TANK
+LANG_ENGLISH        "Tanque T34"
+
+ENDMARKER

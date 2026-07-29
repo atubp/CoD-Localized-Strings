@@ -1,0 +1,63 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod2\bin\StringEd_PC.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJ_SECURE_CROSSROADS
+LANG_ENGLISH        "Secure the town crossroads for the inbound convoy."
+LANG_SPANISH         "Asegura el cruce del pueblo para la llegada de la caravana."
+
+REFERENCE           OBJ_DESTORY_TIGER
+LANG_ENGLISH        "Find a Panzerschreck anti-tank weapon to destroy the Tiger tank."
+LANG_SPANISH         "Encuentra un antitanque Panzerschreck para destruir el tanque Tiger."
+
+REFERENCE           OBJ_REGROUP
+LANG_ENGLISH        "Regroup with Cpt. Price."
+LANG_SPANISH         "Reúnete con el capitán Price."
+
+REFERENCE           OBJ_FARMHOUSE
+LANG_ENGLISH        "Secure the farm house."
+LANG_SPANISH         "Asegura la casa."
+
+REFERENCE           OBJ_BARN
+LANG_ENGLISH        "Secure the barn."
+LANG_SPANISH         "Asegura el granero."
+
+REFERENCE           OBJ_RADIO
+LANG_ENGLISH        "Destroy the radio equipment."
+LANG_SPANISH         "Destruye el equipo de radio."
+
+REFERENCE           OBJ_REPULSE
+LANG_ENGLISH        "Repulse the enemy attack waves.  [&&1 remaining]"
+LANG_SPANISH         "Repele las oleadas de ataque enemigo. [&&1 restantes]"
+
+REFERENCE           OBJ_CONVOY
+LANG_ENGLISH        "Escort the convoy to safety."
+LANG_SPANISH         "Escolta la caravana a lugar seguro."
+
+REFERENCE           OBJ_REPULSE6
+LANG_ENGLISH        "Repulse the enemy attack waves.  [6 remaining]"
+LANG_SPANISH         "Repele las oleadas de ataque enemigo. [6 restantes]"
+
+REFERENCE           OBJ_REPULSE_2
+LANG_ENGLISH        "Repulse the enemy attack waves."
+LANG_SPANISH         "Repele las oleadas de ataque enemigas."
+
+REFERENCE           HINT_RADIO
+LANG_ENGLISH        "Press USE [&&1] to destroy the radio."
+LANG_SPANISH         "Pulsa USAR [&&1] para destruir la radio."
+
+
+ENDMARKER
+
+

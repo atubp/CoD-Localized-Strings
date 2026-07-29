@@ -1,0 +1,91 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BOMB_UNARMED
+LANG_ENGLISH        "The bomb is not armed."
+LANG_SPANISH        "La bomba no está activada"
+
+REFERENCE           BASE_ASSAULT
+LANG_ENGLISH        "Base Assault"
+LANG_SPANISH        "Asalto a la base"
+
+REFERENCE           MATCHSTARTING
+LANG_ENGLISH        "Match Starting"
+LANG_SPANISH        "Comienza la partida"
+
+REFERENCE           MATCHRESUMING
+LANG_ENGLISH        "Match Resuming"
+LANG_SPANISH        "Se reanuda la partida"
+
+REFERENCE           ATTACKER_OBJECTIVE
+LANG_ENGLISH        "Destroy the opposing team's bases."
+LANG_SPANISH        "Destruye las bases del otro equipo"
+
+REFERENCE           SPECTATOR_OBJECTIVE
+LANG_ENGLISH        "Join the battle and help your team destroy the enemy team's bases."
+LANG_SPANISH        "Aquí no hay nada que ver. ¿Quieres volver a la partida?"
+
+REFERENCE           TIMEEXPIRED
+LANG_ENGLISH        "The time has expired."
+LANG_SPANISH        "Se acabó el tiempo"
+
+REFERENCE           ROUND_DRAW
+LANG_ENGLISH        "The round is a draw."
+LANG_SPANISH        "Este asalto es un empate"
+
+REFERENCE           PLANTING_BOMB
+LANG_ENGLISH        "Planting Bomb"
+LANG_SPANISH        "Colocar bomba"
+
+REFERENCE           DIFFUSING_BOMB
+LANG_ENGLISH        "Diffusing Bomb"
+LANG_SPANISH        "Desactivar bomba"
+
+REFERENCE           USE_TO_DEFUSE
+LANG_ENGLISH        "Press [{+activate}] to defuse the bomb."
+LANG_SPANISH        "Pulsa [USAR] para desactivar la bomba."
+
+REFERENCE           USE_TO_PLANT
+LANG_ENGLISH        "Press [{+activate}] to arm the bomb."
+LANG_SPANISH        "Pulsa [USAR] para armar la bomba."
+
+REFERENCE           AXIS_DEFEND
+LANG_ENGLISH        "This bomb can only be armed by the Allies. Defend it!"
+LANG_SPANISH        "Esta bomba solo puede ser armada por los Aliados. ¡Defiéndela!"
+
+REFERENCE           ALLIES_DEFEND
+LANG_ENGLISH        "This bomb can only be armed by the Axis. Defend it!"
+LANG_SPANISH        "Esta bomba solo puede ser armada por el Eje. ¡Defiéndela!"
+
+REFERENCE           AXIS_DEFEND_DEFUSE
+LANG_ENGLISH        "This bomb can only be defused by the Allies. Defend it!"
+LANG_SPANISH        "Esta bomba solo puede ser desactivada por los Aliados. ¡Defiéndela!"
+
+REFERENCE           ALLIES_DEFEND_DEFUSE
+LANG_ENGLISH        "This bomb can only be defused by the Axis. Defend it!"
+LANG_SPANISH        "Esta bomba solo puede ser desactivada por el Eje. ¡Defiéndela!"
+
+REFERENCE           DEFENDED_AXIS_BASE
+LANG_ENGLISH        "%s ^9defended an axis base."
+LANG_SPANISH        "%s ^9defendió una base del Eje."
+
+REFERENCE           DEFENDED_ALLIES_BASE
+LANG_ENGLISH        "%s ^8defended an allied base."
+LANG_SPANISH        "%s ^8defendió una base de los Aliados."
+
+
+ENDMARKER
+
+

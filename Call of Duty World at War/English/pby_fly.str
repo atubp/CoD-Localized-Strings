@@ -1,0 +1,115 @@
+// Dumped from fastfile "pby_fly".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           VEHICLENAME_CRUSADER_TANK
+LANG_ENGLISH        "Crusader Tank"
+
+REFERENCE           PBY_FLY_OBJ_EV1
+LANG_ENGLISH        "Continue Routine Patrol"
+
+REFERENCE           PBY_FLY_TUT_INTRO
+LANG_ENGLISH        "Welcome to the PBY Turret Tutorial."
+
+REFERENCE           PBY_FLY_TUT_SWITCH
+LANG_ENGLISH        "Use the D-Pad to switch between turrets."
+
+REFERENCE           PBY_FLY_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Black Cats'"
+
+REFERENCE           PBY_FLY_INTROSCREEN_PLACE
+LANG_ENGLISH        "South of Okinawa"
+
+REFERENCE           PBY_FLY_INTROSCREEN_DATE
+LANG_ENGLISH        "April 3, 1945"
+
+REFERENCE           PBY_FLY_INTROSCREEN_NAME
+LANG_ENGLISH        "Petty Officer Locke"
+
+REFERENCE           VEHICLENAME_FLETCHER
+LANG_ENGLISH        "Destroyer - Fletcher Class"
+
+REFERENCE           PBY_FLY_INTROSCREEN_INFO
+LANG_ENGLISH        "Black Cat Squadron VPB-54"
+
+REFERENCE           PBY_FLY_OBJ_EV2_PTBOATS
+LANG_ENGLISH        "Defend against Japanese PT Boats. [&&1 destroyed]"
+
+REFERENCE           PBY_FLY_OBJ_EV2
+LANG_ENGLISH        "Destroy Japanese Merchant Ships. [&&1 remaining]"
+
+REFERENCE           PBY_FLY_PBY_NAME_B
+LANG_ENGLISH        "HAMMERHEAD"
+
+REFERENCE           PBY_FLY_OBJ_EV3B
+LANG_ENGLISH        "Respond to Fleet Distress Call"
+
+REFERENCE           PBY_FLY_OBJ_EV3
+LANG_ENGLISH        "Return to Base"
+
+REFERENCE           VEHICLENAME_SHERMAN_TANK
+LANG_ENGLISH        "Sherman Tank"
+
+REFERENCE           PBY_FLY_OBJ_EV4
+LANG_ENGLISH        "Rescue All Possible Survivors [&&1 rescued]"
+
+REFERENCE           PBY_FLY_MERCHANT
+LANG_ENGLISH        "Merchant Ships:"
+
+REFERENCE           PBY_FLY_SWITCH_FRONT
+LANG_ENGLISH        "Press [{+activate}] To Switch To The Bow Turret"
+
+REFERENCE           PBY_FLY_SWITCH_RIGHT
+LANG_ENGLISH        "Press [{+activate}] To Switch To The Right Turret"
+
+REFERENCE           PBY_FLY_OBJ_EV5
+LANG_ENGLISH        "Clear the skies of Japanese Zeroes."
+
+REFERENCE           PBY_FLY_SWITCH_LEFT
+LANG_ENGLISH        "Press [{+activate}] To Switch To The Left Turret"
+
+REFERENCE           VEHICLENAME_ARMORED_CAR
+LANG_ENGLISH        "Armored Car"
+
+REFERENCE           PBY_FLY_SWITCH_REAR
+LANG_ENGLISH        "Press [{+activate}] To Switch To The Ventral Turret"
+
+REFERENCE           PBY_FLY_RESCUE
+LANG_ENGLISH        "Press [{+activate}] To Rescue Survivor"
+
+REFERENCE           PBY_FLY_ADS_HINT
+LANG_ENGLISH        "Press and Hold [{+speed_throw}] to use Reflector and Iron Sights."
+
+REFERENCE           PBY_FLY_PBY_NAME_A
+LANG_ENGLISH        "MANTA RAY"
+
+REFERENCE           PBY_FLY_PBY_SQUAD
+LANG_ENGLISH        "VPB 54 - BLACK CAT"
+
+REFERENCE           PBY_FLY_SURVIVOR
+LANG_ENGLISH        "Survivors:"
+
+REFERENCE           PBY_FLY_PTBOAT
+LANG_ENGLISH        "Patrol Boats:"
+
+REFERENCE           PBY_FLY_ZEROES
+LANG_ENGLISH        "Zeroes:"
+
+REFERENCE           PBY_FLY_X
+LANG_ENGLISH        "x"
+
+REFERENCE           PBY_FLY_OBJ_EV3B_ZEROES
+LANG_ENGLISH        "Defend against Japanese Zeroes. [&&1 destroyed]"
+
+REFERENCE           PBY_FLY_CANNON
+LANG_ENGLISH        "Press [{+frag}] To Fire 20mm Cannon"
+
+REFERENCE           VEHICLENAME_BUFFALO
+LANG_ENGLISH        "Buffalo"
+
+REFERENCE           VEHICLENAME_T34_TANK
+LANG_ENGLISH        "T34 Tank"
+
+ENDMARKER

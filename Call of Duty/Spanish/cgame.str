@@ -1,0 +1,239 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\mk\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           NOSPECTATORVOICECHAT
+LANG_ENGLISH        "Can't voice chat as a spectator."
+LANG_SPANISH        "Un espectador no puede participar en un chat de voz."
+
+REFERENCE           SPECTATOR
+LANG_ENGLISH        "SPECTATOR"
+LANG_SPANISH        "ESPECTADOR"
+
+REFERENCE           COMPLAINTFILED
+LANG_ENGLISH        "Your complaint has been filed"
+LANG_SPANISH        "Tu queja ha sido archivada"
+
+REFERENCE           COMPLAINTDISMISSED
+LANG_ENGLISH        "Complaint dismissed"
+LANG_SPANISH        "Queja retirada"
+
+REFERENCE           COMPLAINTSERVERHOST
+LANG_ENGLISH        "Server Host cannot be complained against"
+LANG_SPANISH        "No se puede elevar una queja contra el servidor"
+
+REFERENCE           SERVERHOSTTEAMKILLED
+LANG_ENGLISH        "You were team-killed by the Server Host"
+LANG_SPANISH        "Has sido eliminado por un miembro de tu equipo, el servidor"
+
+REFERENCE           COMPLAINTTEAMKILLFILE
+LANG_ENGLISH        "File complaint against %s for team-killing?"
+LANG_SPANISH        "¿Te quejas de %s por matar a un miembro del equipo?"
+
+REFERENCE           PRESSYESNO
+LANG_ENGLISH        "Press '%s' for YES, or '%s' for No"
+LANG_SPANISH        "Pulsa '%s' para Sí, o '%s' para No"
+
+REFERENCE           VOTE
+LANG_ENGLISH        "VOTE"
+LANG_SPANISH        "VOTO"
+
+REFERENCE           YES
+LANG_ENGLISH        "YES"
+LANG_SPANISH        "SÍ"
+
+REFERENCE           NO
+LANG_ENGLISH        "NO"
+LANG_SPANISH        "#same"
+
+REFERENCE           FOLLOWNEXTPLAYER
+LANG_ENGLISH        "- Press [%s] to follow next player"
+LANG_SPANISH        "- Pulsa [%s] para seguir al siguiente jugador"
+
+REFERENCE           FOLLOWPREVIOUSPLAYER
+LANG_ENGLISH        "- Press [%s] to follow previous player"
+LANG_SPANISH        "- Pulsa [%s] para seguir al anterior jugador"
+
+REFERENCE           FOLLOWSTOP
+LANG_ENGLISH        "- Press [%s] to stop following"
+LANG_SPANISH        "- Pulsa [%s] para dejar de seguir"
+
+REFERENCE           FOLLOWING
+LANG_ENGLISH        "following"
+LANG_SPANISH        "siguiendo"
+
+REFERENCE           YOUKILLED
+LANG_ENGLISH        "You killed %s"
+LANG_SPANISH        "Mataste a %s"
+
+REFERENCE           TEAMMATE
+LANG_ENGLISH        "TEAMMATE"
+LANG_SPANISH        "Compañero"
+
+REFERENCE           UNKNOWN
+LANG_ENGLISH        "unknown"
+LANG_SPANISH        "desconocido"
+
+REFERENCE           MISSIONOBJECTIVES
+LANG_ENGLISH        "Mission Objectives"
+LANG_SPANISH        "Objetivos de la Misión"
+
+REFERENCE           PAUSED
+LANG_ENGLISH        "Paused"
+LANG_SPANISH        "Pausado"
+
+REFERENCE           PLAYERRENAMES
+LANG_ENGLISH        "renamed to"
+LANG_SPANISH        "Cambio de nombre a"
+
+REFERENCE           CONNECTIONINTERUPTED
+LANG_ENGLISH        "Connection Interrupted"
+LANG_SPANISH        "Conexión interrumpida"
+
+REFERENCE           STANCEHINT_JUMP
+LANG_ENGLISH        "Press [%s] to jump"
+LANG_SPANISH        "Pulsa [%s] para saltar"
+
+REFERENCE           STANCEHINT_STAND
+LANG_ENGLISH        "Press [%s] to stand"
+LANG_SPANISH        "Pulsa [%s] para ponerte de pie"
+
+REFERENCE           STANCEHINT_CROUCH
+LANG_ENGLISH        "Press [%s] to crouch"
+LANG_SPANISH        "Pulsa [%s] para agacharte"
+
+REFERENCE           STANCEHINT_PRONE
+LANG_ENGLISH        "Press [%s] to go prone"
+LANG_SPANISH        "Pulsa [%s] para tumbarse"
+
+REFERENCE           SB_PLAYER
+LANG_ENGLISH        "%s player"
+LANG_SPANISH        "%s jugador"
+
+REFERENCE           SB_PLAYERS
+LANG_ENGLISH        "%s players"
+LANG_SPANISH        "%s jugadores"
+
+REFERENCE           SPECTATORS
+LANG_ENGLISH        "Spectators"
+LANG_SPANISH        "Espectadores"
+
+REFERENCE           SB_SCORE
+LANG_ENGLISH        "Score"
+LANG_SPANISH        "Puntuación"
+
+REFERENCE           SB_DEATHS
+LANG_ENGLISH        "Deaths"
+LANG_SPANISH        "Muertes"
+
+REFERENCE           SB_PING
+LANG_ENGLISH        "Ping"
+LANG_SPANISH        "#same"
+
+REFERENCE           SWAPWEAPONS
+LANG_ENGLISH        "Hold USE [%s] to swap"
+LANG_SPANISH        "Mantén USAR [%s] para cambiar"
+
+REFERENCE           FOR
+LANG_ENGLISH        "for"
+LANG_SPANISH        "para"
+
+REFERENCE           PICKUPHEALTH
+LANG_ENGLISH        "Press USE [%s] to pickup health"
+LANG_SPANISH        "Pulsa USAR [%s] para coger salud"
+
+REFERENCE           USEMG42
+LANG_ENGLISH        "Press [%s] to use the MG42"
+LANG_SPANISH        "Pulsa [%s] para usar el MG42"
+
+REFERENCE           USEFLAK88
+LANG_ENGLISH        "Press [%s] to use the Flak 88 gun"
+LANG_SPANISH        "Pulsar [%s] para usar la arma antiaérea 88"
+
+REFERENCE           USEPTRS41
+LANG_ENGLISH        "Press [%s] to use the PTRS-41 Anti-Tank Rifle"
+LANG_SPANISH        "Pulsa [%s] para usar el rifle antitanque PTRS-41"
+
+REFERENCE           PICKUPNEWWEAPON
+LANG_ENGLISH        "Hold USE [%s] to pick up the %s"
+LANG_SPANISH        "Mantén USAR [%s] para coger el %s"
+
+REFERENCE           PICKUPAMMO
+LANG_ENGLISH        "Press USE [%s] to pickup the %s ammo"
+LANG_SPANISH        "Pulsa USAR [%s] para coger la %s munición"
+
+REFERENCE           DIED
+LANG_ENGLISH        "died"
+LANG_SPANISH        "murió"
+
+REFERENCE           MELEE
+LANG_ENGLISH        "melee"
+LANG_SPANISH        "cuerpo a cuerpo"
+
+REFERENCE           SUICIDE
+LANG_ENGLISH        "suicide"
+LANG_SPANISH        "suicidio"
+
+REFERENCE           FALLING
+LANG_ENGLISH        "falling"
+LANG_SPANISH        "cayendo"
+
+REFERENCE           CRUSH
+LANG_ENGLISH        "crush"
+LANG_SPANISH        "aplastado"
+
+REFERENCE           DROWN
+LANG_ENGLISH        "drown"
+LANG_SPANISH        "ahogado"
+
+REFERENCE           SLIME
+LANG_ENGLISH        "slime"
+LANG_SPANISH        "limo"
+
+REFERENCE           WAITINGFORSERVERLOAD
+LANG_ENGLISH        "Waiting for server to load new map"
+LANG_SPANISH        "Esperando a que el servidor cargue un nuevo mapa"
+
+REFERENCE           HEAD_SHOT
+LANG_ENGLISH        "head shot"
+LANG_SPANISH        "disparo a la cabeza"
+
+REFERENCE           PRONE_BLOCKED
+LANG_ENGLISH        "Prone Blocked"
+LANG_SPANISH        "Agachado bloqueado"
+
+REFERENCE           USEFLAKVIERLING
+LANG_ENGLISH        "Press [%s] to use the Flak Vierling"
+LANG_SPANISH        "Pulsa [%s] para usar antiaéreo Vierling"
+
+REFERENCE           USEAIONMG42
+LANG_ENGLISH        "Press [%s] to commandeer the MG42"
+LANG_SPANISH        "Pulsa [%s] para hacerte con el MG42"
+
+REFERENCE           HEALTH
+LANG_ENGLISH        "Health"
+LANG_SPANISH        "Salud"
+
+REFERENCE           LISTENSERVER
+LANG_ENGLISH        "Listen Server"
+LANG_SPANISH        "Escuchar al Servidor"
+
+REFERENCE           THIS_WEAPON_HAS_NO_ALTERNATE
+LANG_ENGLISH        "This weapon has no alternate mode to switch to."
+LANG_SPANISH        "Esta arma no dispone de modo alternativo para cambiar."
+
+
+ENDMARKER
+
+

@@ -1,0 +1,52 @@
+// Dumped from fastfile "mak".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MAK_OBJ_PLANTCHARGE
+LANG_ENGLISH        "Plant Charges in Ammo Bunker with Roebuck"
+
+REFERENCE           MAK_OBJ_PLANTCHARGE_COOP
+LANG_ENGLISH        "Someone go support Roebuck to plant charges"
+
+REFERENCE           MAK_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Semper Fi'"
+
+REFERENCE           MAK_INTROSCREEN_PLACE
+LANG_ENGLISH        "Makin Atoll, South Pacific"
+
+REFERENCE           MAK_INTROSCREEN_DATE
+LANG_ENGLISH        "August 17th, 1942"
+
+REFERENCE           MAK_PLANTING
+LANG_ENGLISH        "Planting..."
+
+REFERENCE           MAK_INTROSCREEN_INFO
+LANG_ENGLISH        "2nd Marine Raider Battalion (Carlson's Raiders)"
+
+REFERENCE           MAK_OBJ_SECURE_VILLAGE
+LANG_ENGLISH        "Secure the Village"
+
+REFERENCE           MAK_OBJ_REGROUP_2ND_SQUAD
+LANG_ENGLISH        "Regroup with Second Squad"
+
+REFERENCE           MAK_OBJ_EXTRACTION_POINT
+LANG_ENGLISH        "Proceed to Extraction Point"
+
+REFERENCE           MAK_TRUCK_TRIGGER
+LANG_ENGLISH        "Press ^3&&1^7 to Activate Truck"
+
+REFERENCE           MAK_TRUCK_HINT
+LANG_ENGLISH        "You Activate objects by Pressing ^3[{+usereload}]^7"
+
+REFERENCE           MAK_CONTINUED
+LANG_ENGLISH        "To be continued..."
+
+REFERENCE           MAK_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller (M.I.A.)"
+
+REFERENCE           MAK_OBJ_RESCUE_2ND_SQUAD
+LANG_ENGLISH        "Rescue Second Squad"
+
+ENDMARKER

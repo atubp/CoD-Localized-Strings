@@ -1,0 +1,151 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod\source_data\string_resources\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           5_30CAL
+LANG_ENGLISH        "5. M1919A6 .30 cal"
+LANG_SPANISH        "#same"
+
+REFERENCE           THE_MG34_MACHINE_GUN
+LANG_ENGLISH        "The MG34 light machine gun is ideal for the squad support role. Due to its large size, it must be deployed for firing."
+LANG_SPANISH        "La ametralladora ligera M-34 es ideal como apoyo al pelotón. Debido a su tamaño, hay que desplegarla para disparar."
+
+REFERENCE           THE_30CAL_MACHINE_GUN
+LANG_ENGLISH        "The M1919 A6 .30 caliber machine gun is excellent  in the role of squad support. Due to its large size, it must be deployed and cannot be fired on the move. "
+LANG_SPANISH        "La ametralladora M1919 A6 del calibre .30 es excelente como apoyo al pelotón. Debido a su tamaño, hay que desplegarla y no se puede disparar en movimiento. "
+
+REFERENCE           6_30CAL
+LANG_ENGLISH        "6. M1919A6 .30 cal"
+LANG_SPANISH        "6. .30"
+
+REFERENCE           6_MG34
+LANG_ENGLISH        "6. MG34"
+LANG_SPANISH        "#same"
+
+REFERENCE           BATTLERANK
+LANG_ENGLISH        "Battle Rank:  "
+LANG_SPANISH        "Rango de batalla:  "
+
+REFERENCE           SHELLSHOCK
+LANG_ENGLISH        "Shell Shock:  "
+LANG_SPANISH        "Trauma:  "
+
+REFERENCE           4_GEWEHR
+LANG_ENGLISH        "4. Gewehr 43"
+LANG_SPANISH        "#same"
+
+REFERENCE           5_SCOPED_KAR98K
+LANG_ENGLISH        "5. Scoped Kar98k"
+LANG_SPANISH        "5. Kar98k con mira"
+
+REFERENCE           THE_GEWEHR43
+LANG_ENGLISH        "The Gewehr 43 is a powerful and accurate semi-automatic rifle. Its 10 round magazine allows for quicker reloading during combat."
+LANG_SPANISH        "El Gewehr 43 es un potente y preciso fusil semiautomático. Su cargador de diez cartuchos permite una rápida recarga en combate."
+
+REFERENCE           SPAWN_PRIMARY
+LANG_ENGLISH        "A) Primary Spawn Point"
+LANG_SPANISH        "A) Punto primario de aparición"
+
+REFERENCE           SPAWN_SECONDARY
+LANG_ENGLISH        "B) Secondary Spawn Point"
+LANG_SPANISH        "B) Punto secundario de aparición"
+
+REFERENCE           3_SVT40
+LANG_ENGLISH        "3. Tokarev SVT40"
+LANG_SPANISH        "#same"
+
+REFERENCE           5_DP28
+LANG_ENGLISH        "5. Degtyarev DP28"
+LANG_SPANISH        "#same"
+
+REFERENCE           THE_SVT40
+LANG_ENGLISH        "The Tokarev SVT40  is a powerful and accurate semi-automatic rifle. Its box magazine  allows for quicker reloading."
+LANG_SPANISH        "El Tokarev SVT-40  es un potente y preciso fusil semiautomático. Su cargador de caja permite una rápida recarga."
+
+REFERENCE           THE_DP28
+LANG_ENGLISH        "The Degtyarev DP28  light machine gun is ideal  in  the squad support role. Due to its large size, it must be deployed before it can be fired."
+LANG_SPANISH        "\nLa ametralladora ligera DP-1928 es ideal como apoyo al pelotón. Debido a su tamaño, hay que desplegarla para disparar."
+
+REFERENCE           A_M1A1_CARBINE
+LANG_ENGLISH        "a. M1A1 Carbine"
+LANG_SPANISH        "a. Carabina M1A1"
+
+REFERENCE           B_M1_GARAND
+LANG_ENGLISH        "b. M1 Garand"
+LANG_SPANISH        "#same"
+
+REFERENCE           C_THOMPSON
+LANG_ENGLISH        "c. Thompson"
+LANG_SPANISH        "#same"
+
+REFERENCE           D_BAR
+LANG_ENGLISH        "d. BAR"
+LANG_SPANISH        "#same"
+
+REFERENCE           E_SPRINGFIELD
+LANG_ENGLISH        "e. Springfield"
+LANG_SPANISH        "#same"
+
+REFERENCE           F_30CAL
+LANG_ENGLISH        "f. M1919A6 .30 cal"
+LANG_SPANISH        "f. .30"
+
+REFERENCE           A_LEEENFIELD
+LANG_ENGLISH        "a. Lee-Enfield"
+LANG_SPANISH        "#same"
+
+REFERENCE           C_BREN_LMG
+LANG_ENGLISH        "c. Bren LMG"
+LANG_SPANISH        "Bren (ametr. ligera)"
+
+REFERENCE           B_STEN
+LANG_ENGLISH        "b. Sten"
+LANG_SPANISH        "#same"
+
+REFERENCE           D_SPRINGFIELD
+LANG_ENGLISH        "d. Springfield"
+LANG_SPANISH        "#same"
+
+REFERENCE           E_30CAL
+LANG_ENGLISH        "e. M1919A6 .30 cal"
+LANG_SPANISH        "e. .30"
+
+REFERENCE           E_DP28
+LANG_ENGLISH        "e. DP28"
+LANG_SPANISH        "#same"
+
+REFERENCE           A_MOSINNAGANT
+LANG_ENGLISH        "a. Mosin-Nagant"
+LANG_SPANISH        "#same"
+
+REFERENCE           B_PPSH
+LANG_ENGLISH        "b. PPSH"
+LANG_SPANISH        "#same"
+
+REFERENCE           D_SCOPED_MOSINNAGANT
+LANG_ENGLISH        "d. Scoped Mosin-Nagant"
+LANG_SPANISH        "d. Mosin-Nagant con mira"
+
+REFERENCE           4_SCOPED_MOSINNAGANT
+LANG_ENGLISH        "4. Scoped Mosin-Nagant"
+LANG_SPANISH        "4. Mosin-Nagant con mira"
+
+REFERENCE           C_SVT40
+LANG_ENGLISH        "c. Tokarev SVT40"
+LANG_SPANISH        "#same"
+
+
+ENDMARKER
+
+
