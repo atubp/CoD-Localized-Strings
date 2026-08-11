@@ -1,0 +1,658 @@
+// Dumped from fastfile "ja_rebirth".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_1
+LANG_ENGLISH        "^L送信# 8-5-19-1-25-19 指定: ECHO^L"
+
+REFERENCE           REBIRTH_PROMPT_ATTACK
+LANG_ENGLISH        "^3[{+attack}]^7"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_2
+LANG_ENGLISH        "^L^L^C1メイソ\ン^C^Lはソ\連の生物化学兵器工場に向かった模様^L"
+
+REFERENCE           REBIRTH_BTR_HINT_ADS
+LANG_ENGLISH        "^3[{+speed_throw}]^7長押しでズーム"
+
+REFERENCE           REBIRTH_BTR_HINT_GUN
+LANG_ENGLISH        "^3[{+attack}]^7長押しで機関銃を発射"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_035A_REZN
+LANG_ENGLISH        "^1レズノフ:^7見つからなかったな"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_3
+LANG_ENGLISH        "^Lソ\連領内、ボズロジェーニエ。通称^L^C1“リバース島”^C^L ^L"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_3
+LANG_ENGLISH        "^Lソ\連領内、ボズロジェーニエ。通称^L^C1\"リバース\"島^C^L ^L"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_4
+LANG_ENGLISH        "^Lハドソ\ンおよびチーム2はシュタイナー回収のため強襲作戦を展開^L"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_2
+LANG_ENGLISH        "^Lメイソ\ンはソ\連の生物化学兵器工場に向かったと思われる^L"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_5
+LANG_ENGLISH        "^L2230時^L ^C11968年2月23日^C"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_317A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7シュタイナーだな。連絡をとろうとしているんだ。シュタイナー、状況は？"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_077A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7私を殺しても、ノヴァは止まらん！"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_1
+LANG_ENGLISH        "^L送信# 8-5-19-1-25-19 指定: ALPHA^L"
+
+REFERENCE           REBIRTH_FOLLOW
+LANG_ENGLISH        "FOLLOW"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_069A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7ぎゃあ！"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_4
+LANG_ENGLISH        "^C1ハドソ\ン^C^L、ウィーバー両名はシュタイナー回収を目的として強襲作戦を展開^L"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_139A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7こっちへ。シュタイナーの研究所はすぐそこだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_012A_REZN
+LANG_ENGLISH        "^1レズノフ:^7数では勝てないぞ、メイソ\ン"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_112A_RED1_M_S
+LANG_ENGLISH        "^1アメリカ海兵隊:^7助けてくれ！ うわー！"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_701A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7間違いなくシュタイナーは死んだ。俺の目の前でレズノフが殺したんだ！"
+
+REFERENCE           REBIRTH_CLIMB_STEALTH_KILL
+LANG_ENGLISH        "^3[{+melee}]^7で格闘攻撃"
+
+REFERENCE           REBIRTH_PULL_DOWN_GUARD
+LANG_ENGLISH        "^3[{+melee}]^7で格闘攻撃"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_5
+LANG_ENGLISH        "^L2200時^L ^C11968年2月23日^C"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_153A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ン！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_108A_RED1
+LANG_ENGLISH        "^1アメリカ海兵隊:^7隠れろ！"
+
+REFERENCE           REBIRTH_BASH_WINDOW
+LANG_ENGLISH        "^3[{+speed_throw}]^7と^3[{+attack}]^7を押して、窓を叩く"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_078A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7何... ノヴァなど知ったことか！"
+
+REFERENCE           REBIRTH_OBJECTIVE_1
+LANG_ENGLISH        "ソ\連の研究所に侵入してシュタイナーを探せ"
+
+REFERENCE           REBIRTH_OBJECTIVE_2
+LANG_ENGLISH        "ソ\連の研究所に侵入してシュタイナーを捕まえろ"
+
+REFERENCE           REBIRTH_OBJECTIVE_3A
+LANG_ENGLISH        "敵ヘリコプターを撃墜せよ（残り2／2機）"
+
+REFERENCE           REBIRTH_OBJECTIVE_3B
+LANG_ENGLISH        "敵ヘリコプターを撃墜せよ（残り1／2機）"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_163A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7俺はこの目で見るまで信じない主義だが...."
+
+REFERENCE           REBIRTH_PROMPT_AND
+LANG_ENGLISH        "と"
+
+REFERENCE           REBIRTH_OBJECTIVE_4
+LANG_ENGLISH        "島から脱出せよ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_016A_REZN
+LANG_ENGLISH        "^1レズノフ:^7行くぞ。早く"
+
+REFERENCE           REBIRTH_BTR_20_TITLE
+LANG_ENGLISH        "20分前"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_704B_INTE
+LANG_ENGLISH        "^1尋問官:^7ジェイソ\ン・ハドソ\ンの報告書がある。フリードリヒ・シュタイナーを殺したのはヴィクトル・レズノフではない。ハドソ\ンが証人だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_309A_REZN
+LANG_ENGLISH        "^1レズノフ:^7明かりに近すぎるぞ！"
+
+REFERENCE           REBIRTH_BTR_20_AGENTS
+LANG_ENGLISH        "エージェント：ハドソ\ンおよびウィーバー"
+
+REFERENCE           REBIRTH_BTR_20_BODY
+LANG_ENGLISH        "島の南側"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_157A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7私はヴィクトル・レズノフ。これは私の復讐だ！"
+
+REFERENCE           REBIRTH_BTR_HINT_GRENADE
+LANG_ENGLISH        "^3[{+smoke}]^7または^3[{+frag}]^7の長押しでグレネードランチャーを発射"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_134A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン、ヘリにSTRELAを使え！"
+
+REFERENCE           REBIRTH_OPEN_CRATE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでドアを開ける"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_017A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン、離れるな！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_102A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7左側だ！！"
+
+REFERENCE           REBIRTH_OPEN_DOOR
+LANG_ENGLISH        "^3[{+activate}]^7長押しでドアを開ける"
+
+REFERENCE           REBIRTH_RETRIEVE_HATCHET
+LANG_ENGLISH        "^3[{+activate}]^7押しでトマホークを回収"
+
+REFERENCE           REBIRTH_HATCHET_THROW
+LANG_ENGLISH        "^3[{+frag}]^7でトマホークを投げる"
+
+REFERENCE           REBIRTH_OPEN_STEINER_DOOR
+LANG_ENGLISH        "^3[{+activate}]^7長押しでドアを開ける"
+
+REFERENCE           REBIRTH_PROMPT_PRESS
+LANG_ENGLISH        "押せ："
+
+REFERENCE           REBIRTH_VOX_REB1_S03_167A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7行くぞ"
+
+REFERENCE           REBIRTH_PROMPT_SPEED_THROW
+LANG_ENGLISH        "^3[{+speed_throw}]^7"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_705A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7レズノフ！"
+
+REFERENCE           REBIRTH_PROMPT_TO_BASH_WINDOW
+LANG_ENGLISH        "窓を叩く"
+
+REFERENCE           REBIRTH_TACKLE_MASON
+LANG_ENGLISH        "^3[{+melee}]^7でメイソ\ンにタックル"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_702A_INTE
+LANG_ENGLISH        "^1尋問官:^7違う、メイソ\ン。シュタイナーを殺したのはお前だ。これは事実だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_311A_REZN
+LANG_ENGLISH        "^1レズノフ:^7発見されたぞ！"
+
+REFERENCE           REBIRTH_HAZMAT_PUNCTURED
+LANG_ENGLISH        "防護服に穴が開いた！\nノヴァ6にさらされた！"
+
+REFERENCE           REBIRTH_NOVA6_EXPOSED
+LANG_ENGLISH        "ノヴァ6にさらされた！"
+
+REFERENCE           REBIRTH_STEALTH_FAIL
+LANG_ENGLISH        "発見された。"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_700A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7俺はレズノフとリバース島に着いた。シュタイナーの息の根をとめるために"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_018A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン、見つかるぞ！ 離れるな！"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_310A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン、見られるぞ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_080A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7やめろ..."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_702B_INTE
+LANG_ENGLISH        "^1尋問官:^7違う、メイソ\ン。シュタイナーを殺したのはお前だ。これは事実だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_703A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7レズノフは念願どおり復讐を果たしたんだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_004A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7リバース島...ドラゴヴィッチの毒の源"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_704A_INTE
+LANG_ENGLISH        "^1尋問官:^7報告書を見たぞ、メイソ\ン。フリードリヒ・シュタイナーを\n殺したのはヴィクトル・レズノフではない。ハドソ\ンが証人だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_119A_RED3
+LANG_ENGLISH        "^1アメリカ海兵隊:^7了解"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_042A_REZN
+LANG_ENGLISH        "^1レズノフ:^7近づいているぞ、メイソ\ン"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_002A_REZN_M
+LANG_ENGLISH        "^1メイソ\ン:^7俺とレズノフはリバース島に潜入した... \n^1レズノフ:^7着いたな"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_006A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7奴らはノヴァ6の搬出準備をしている"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_706A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7そうはさせるか"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_300A_STEI_F
+LANG_ENGLISH        "^1シュタイナー:^7ドラゴヴィッチの部下たちが、島じゅうの人間を集めている..."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_011A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7奴を殺せ、メイソ\ン"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_061A_REZN
+LANG_ENGLISH        "^1レズノフ:^7慎重にな、友よ..."
+
+REFERENCE           REBIRTH_VOX_REB1_S99_308A_REZN
+LANG_ENGLISH        "^1レズノフ:^7斧を使え"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_133A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7ああ、任せろ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_013A_REZN
+LANG_ENGLISH        "^1レズノフ:^7連中の注意を引くわけにはいかん"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_014A_REZN
+LANG_ENGLISH        "^1レズノフ:^7影に隠れ、ヘリのサーチライトを避けろ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_015A_REZN
+LANG_ENGLISH        "^1レズノフ:^7通過するまで待て"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_059A_REZN
+LANG_ENGLISH        "^1レズノフ:^7このドアを開けなくては"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_312A_REZN
+LANG_ENGLISH        "^1レズノフ:^7奴らに見つかるな！"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_019A_REZN
+LANG_ENGLISH        "^1レズノフ:^7どこへ行く？ 計画通りにやれ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_143A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン、俺と左に回れ。隠れるぞ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_020A_REZN
+LANG_ENGLISH        "^1レズノフ:^7見つかるわけにはいかんのだ！ 目立たないようにしろ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_024A_REZN
+LANG_ENGLISH        "^1レズノフ:^7撤収を開始したのか..."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_025A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7俺たちの存在に気づいている..."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_028A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン...  沈黙させろ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_029A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン！"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_030A_REZN
+LANG_ENGLISH        "^1レズノフ:^7いいぞ友よ。ついて来い"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_076A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7それも終わりだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_031A_REZN
+LANG_ENGLISH        "^1レズノフ:^7またヘリが戻ってきた"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_032A_REZN
+LANG_ENGLISH        "^1レズノフ:^7別の隠れ場所を探さんと"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_033A_REZN
+LANG_ENGLISH        "^1レズノフ:^7明るい場所に出るな"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_034A_REZN
+LANG_ENGLISH        "^1レズノフ:^7待て...そこを動くな"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_127A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7もうすぐだウィーバー。こらえろ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_036A_REZN
+LANG_ENGLISH        "^1レズノフ:^7こっちだ。上の階だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_040A_REZN
+LANG_ENGLISH        "^1レズノフ:^7いいぞ...やるな"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_041A_REZN
+LANG_ENGLISH        "^1レズノフ:^7シュタイナーの研究所には屋上から行けるはずだ..."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_044A_REZN
+LANG_ENGLISH        "^1レズノフ:^7敵は今や厳戒態勢だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_045A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7CIAだ... シュタイナーを生け捕る気か"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_150A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7いったい何をしているんだ？"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_046A_REZN
+LANG_ENGLISH        "^1レズノフ:^7先を越されるわけにはいかん"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_707A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ン、こちらハドソ\ン。リバース島にいるのはわかっている。応答しろ、メイソ\ン"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_047A_REZN
+LANG_ENGLISH        "^1レズノフ:^7思わぬ獲物だが、しっかり狙え"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_082A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7ウィーバー！"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_049A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ついて来い。エレベーターシャフトを使おう"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_051A_REZN
+LANG_ENGLISH        "^1レズノフ:^7こっちだ..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_056A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7撃て！ 撃つんだ..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_060A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7分かった"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_063A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7ケリをつけよう..."
+
+REFERENCE           REBIRTH_VOX_REB1_S99_314A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7見られていないな"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_064A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7ドラゴヴィッチの部下どもが、島じゅうの人間を集めている..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_065A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7計画に必要のなくなった連中を処刑するつもりだ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_066A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7急いでくれ、私も殺されてしまう！"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_067A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7フリードリヒ・シュタイナー。貴様は死ぬんだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_068A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7お前は...！？"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_069B_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7ぐわあああ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_070A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7貴様は...ヴォルクタの！"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_071A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7知らんだろうな..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_072A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7貴様に何をしたのか..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_137A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7ロックオンが先だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_074A_HUDS_F_M
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ン、答えてくれ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_074B_HUDS_F_M
+LANG_ENGLISH        "^1ハドソ\ン:^7ハドソ\ンだ！ メイソ\ン、応答しろ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_315A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7手遅れになる前にシュタイナーを探すんだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_075A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7貴様の邪悪さのせいで、多くの人間が死んだ..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_079A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7私はヴィクトル・レズノフ"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_313A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン、奴らはどこへ？"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_081A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7そしてこれが、私の、復讐だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_707A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ン、こちらハドソ\ン。リバース島にいるのはわかっている。応答しろ、メイソ\ン"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_155A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7防弾だ！ メイソ\ン！ そいつを殺したら意味がない！ 攻撃するな、メイソ\ン！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_083A_WEAV_F_M
+LANG_ENGLISH        "^1ウィーバー:^7どうした、ハドソ\ン"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_084A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ンとの通信は途絶えたままだ。研究所を抜けなければならない。後方を警戒してくれ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_085A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ンとの通信は途絶えたままだ。研究所へ行き、シュタイナーを確保するぞ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_086A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7ヤンキー分隊、移動する！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_087A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7アルファ分隊、行動開始"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_088A_USS1_F
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ンから応答なし。\n^1アメリカ海兵隊:^7了解。これより移動する"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_089A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7奴ら、撤収を始めたな"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_151A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7シュタイナーを殺すためなら、見境がつかなくなってる"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_090A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7いや、撤収じゃない... 虐殺だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_091A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7口封じのために1人残らず殺すつもりだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_708A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7撤収じゃない... シュタイナーの言っていたとおりだ。奴らは全員の口を封じる気だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_092A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7右だ！ 研究所につづいている"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_093A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7正面に敵車両"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_094A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7あれが研究所に通じている道だ。ヤンキー分隊は西から回り込んで、現地で合流"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_095A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7わかった。アルファ分隊、移動！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_096A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7了解"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_097A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7ターゲット複数、バルコニーだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_098A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7火炎ビン！ 屋上だ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_158A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ン... よせ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_099A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ン！ 火炎ビンを持った奴を倒せ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_100A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7RPG！！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_120A_RED2
+LANG_ENGLISH        "^1アメリカ海兵隊:^7死ぬぞ！ 通りから離れろ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_101A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7RPGを片づけろ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_103A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7右側だ！！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_104A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7路上に敵、複数"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_113A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7アルファ分隊！ 前進！ 防護服に気をつけろ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_105A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7ハドソ\ン、偵察部隊からMi-8がこちらに向かっていると連絡が入った"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_106A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7わかった。急ぐとしよう"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_107A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7正面にMi-8！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_109A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7ロックオンされている！ 逃げろ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_110A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7来たぞ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_111A_RED2
+LANG_ENGLISH        "^1アメリカ海兵隊:^7ノヴァ6だ！ 防護服、着用！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_112A_RED1_M
+LANG_ENGLISH        "^1アメリカ海兵隊:^7くそ！ くそ！ 助けてくれ！ うわー！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_114A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7服が破れたら数分で死ぬぞ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_115A_RED2
+LANG_ENGLISH        "^1アメリカ海兵隊:^7聞いたな！ 気をつけるんだぞ！ よし、行こう！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_116A_RED2
+LANG_ENGLISH        "^1アメリカ海兵隊:^7スペツナズだ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_117A_RED3
+LANG_ENGLISH        "^1アメリカ海兵隊:^7確認"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_159A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7俺は大丈夫だ。シュタイナーを調べろ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_118A_RED3
+LANG_ENGLISH        "^1アメリカ海兵隊:^7後方に注意！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_121A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7ヤンキー分隊、西外周部を制圧。北へ向かう"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_122A_RED2
+LANG_ENGLISH        "^1アメリカ海兵隊:^7そのまま西へ進め！ あの路地の先だ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_123A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7回り込む。そのまま北へ進め！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_124A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7了解。こちらはヘリの猛攻を受けている"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_125A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7こらえろ。こちらは研究室まであと0.5キロだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_126A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7アルファ分隊、敵の激しい攻撃を受けている。援護をたのむ、オーバー"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_128A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7ヤンキー分隊、装甲車を放棄する！ やられ..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_129A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7ウィーバー！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_130A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7生きている、ハドソ\ン。だが身動きがとれない。敵は東側だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_131A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7わかった"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_132A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7くそったれ！ ハドソ\ン！ ヘリを片づけないと前進は無理だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_147A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7シュタイナーを探そう"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_135A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン、敵のヘリを叩き落とせ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_136A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7ロックオンしなければ撃てないんでな"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_138A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7どうだ、くそったれども！ もう1機だ、ハドソ\ン！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_138A_WEAV_S_F_S
+LANG_ENGLISH        "^1ウィーバー:^7どうだ！ もう1機もやれ、ハドソ\ン！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_140A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7あれが研究所だ。歓迎してくれるらしい"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_141A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7移動する。目立つな"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_142A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7任意に発砲せよ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_144A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ここだ。シュタイナーはここにいるはずだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_145A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7こっちだ。研究所はこの下だ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_301A_STEI_F
+LANG_ENGLISH        "^1シュタイナー:^7計画に必要のなくなった連中を処刑するつもりだ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_146A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7汚染除去エリアを通らないと"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_148A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ン、こちらハドソ\ン。聞こえるか？"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_149A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7メイソ\ンだ..."
+
+REFERENCE           REBIRTH_VOX_REB1_S99_316A_WEAV_F
+LANG_ENGLISH        "^1ウィーバー:^7今のはいったい何だ？"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_317B_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7シュタイナー！ 状況は？"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_302A_STEI_F
+LANG_ENGLISH        "^1シュタイナー:^7急いでくれ、私も殺されてしまう！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_303A_MASO_F_M
+LANG_ENGLISH        "^1メイソ\ン:^7フリードリヒ・シュタイナー。貴様は死ぬんだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_154A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7早くあいつを止めないと！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_156A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7うわぁー！ 手を貸せ！"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_160A_RED2_M
+LANG_ENGLISH        "^1アメリカ海兵隊:^7死んでいます"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_161A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7レズノフは？ 亡命者だろ？ 見つけないと"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_162A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7いいや。ここにはいない"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_164A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7ヴォルクタで何をされた、メイソ\ン？"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_165A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7シュタイナーが死んで、送信施設の手がかりはメイソ\ンだけだ"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_166A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7こいつを連れ戻そう..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_168A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7こっちだ。ドックにつづいている。こちらウィーバー。荷物は回収した... これより移動する"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_169A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解。これよりドックを制圧する"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_170A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解した"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_171A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7進むぞ。急ごう"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_172A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7あいつを..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_173A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7奴らに何をされた、メイソ\ン？"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_157B_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7私はヴィクトル・レズノフ。これは私の復讐だ！"
+
+ENDMARKER

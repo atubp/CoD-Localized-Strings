@@ -1,0 +1,970 @@
+// Dumped from fastfile "ja_common_zombie".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを作動させる"
+
+REFERENCE           ZM_PT_DEATH_CARD
+LANG_ENGLISH        "死亡場所マーカーを拾うことで失った装備を取り戻せる"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：1750]"
+
+REFERENCE           ZOMBIE_WEAPON_FAMAS
+LANG_ENGLISH        "^3[{+activate}]^7長押しでFAMASを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_COOLDOWN_WAIT
+LANG_ENGLISH        "冷却待ち"
+
+REFERENCE           ZOMBIE_AIRSTRIKE_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "空爆支援機が、そちらの位置に接近中"
+
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "&&1長押しで火炎バリケードを有効化する[コスト：500]"
+
+REFERENCE           ZM_PT_PISTOL_LOW_AMMO
+LANG_ENGLISH        "ハンドガンの弾薬が残りわずかだ。もっといい武器を購入しろ"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：200]"
+
+REFERENCE           ZM_PT_WHY_DONT_YOU_BUY_WEAPONS_PART2
+LANG_ENGLISH        "壁からもっと強力な武器を購入しろ！"
+
+REFERENCE           ZOMBIE_CROSSBOW_EXPLOSIVE_UPGRADED
+LANG_ENGLISH        "アウフル・ロートン"
+
+REFERENCE           ZM_PT_REPAIR_BOARDS
+LANG_ENGLISH        "窓のバリケードを作り直せばゾンビたちを足止めできる"
+
+REFERENCE           ZM_PT_WHY_DONT_YOU_BUY_WEAPONS_PART1
+LANG_ENGLISH        "武器をアップグレードしないと！"
+
+REFERENCE           ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "ジップラインは使用前に有効化する必要がある"
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "^3&&1^7長押しで武器をトレードする"
+
+REFERENCE           ZM_PT_UNLOCK_DOORS
+LANG_ENGLISH        "ドアを開錠すれば新たなエリアを探索できる"
+
+REFERENCE           ZM_PT_ENTER_NML
+LANG_ENGLISH        "次の停車駅：無人地帯"
+
+REFERENCE           ZM_PT_WALL_WEAPONS
+LANG_ENGLISH        "壁を探せばより強力な武器や弾薬が手に入る"
+
+REFERENCE           ZM_PT_MONEY_DROP
+LANG_ENGLISH        "方向パッドの下で資金を落としてチームメイトにまわせる"
+
+REFERENCE           ZOMBIE_CZ75_DW_UPGRADED
+LANG_ENGLISH        "カラミティ＆ジェーン"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：250]"
+
+REFERENCE           ZM_PT_ZOMBIE_BREAKOUT
+LANG_ENGLISH        "警告！ 宇宙港でゾンビが大量発生！"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：1250]"
+
+REFERENCE           ZM_PT_BACK_FOR_MAP
+LANG_ENGLISH        "BACKボタンでマップを表\示"
+
+REFERENCE           ZM_PT_SECRET_WEAPONS
+LANG_ENGLISH        "箱によっては秘密武器が隠されている"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：200]"
+
+REFERENCE           ZM_PT_REINFORCEMENTS
+LANG_ENGLISH        "方向パッドの上で特殊アビリティを使用できる"
+
+REFERENCE           ZM_PT_WEAPON_BOX
+LANG_ENGLISH        "マップを活用してミステリーボックスの位置を特定せよ"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：2000]"
+
+REFERENCE           ZM_PT_PLAYER_DOWN
+LANG_ENGLISH        "衛生兵、衛生兵！ チームメイトに頼んで蘇生してもらえ"
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Round"
+
+REFERENCE           ZOMBIE_SPAS_UPGRADED
+LANG_ENGLISH        "スパッズ-24"
+
+REFERENCE           ZOMBIE_ABILITY_ENDURANCE_USED
+LANG_ENGLISH        "耐久力アビリティを使用した"
+
+REFERENCE           ZOMBIE_ABILITY_DOGS
+LANG_ENGLISH        "^3[{+activate}]^7長押しで軍用犬を購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ROUND_NAPALM
+LANG_ENGLISH        "ナパームはラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_EARNED_RADAR
+LANG_ENGLISH        "レーダーを手に入れた"
+
+REFERENCE           ZM_PT_MACHINES_ON
+LANG_ENGLISH        "全てのPERK系メカが有効になった"
+
+REFERENCE           ZOMBIE_PLAYER_ABILITIES
+LANG_ENGLISH        "プレイヤーのアビリティ"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：200]"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを有効化する"
+
+REFERENCE           ZM_PT_PLAYER_NEEDS_REVIVING
+LANG_ENGLISH        "チームメイトの誰かが倒れた！ 蘇生してやれ！"
+
+REFERENCE           ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "^3&&1^7長押しで購入"
+
+REFERENCE           ZM_PT_WEAPON_BOX2
+LANG_ENGLISH        "青い光を目印にミステリーボックスを探せ"
+
+REFERENCE           ZOMBIE_WEAPON_WA2000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでWA2000を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：1000]"
+
+REFERENCE           ZOMBIE_LANDER_HAS_ARRIVED
+LANG_ENGLISH        "着陸船がタッチダウン。利用準備完了"
+
+REFERENCE           ZOMBIE_WEAPON_M60
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM60を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：750]"
+
+REFERENCE           ZOMBIE_LANDER_LAUNCH_IN
+LANG_ENGLISH        "月への発射まで"
+
+REFERENCE           ZOMBIE_CHAINSAW_PICKUP
+LANG_ENGLISH        "チェーンソ\ー大虐殺！"
+
+REFERENCE           ZOMBIE_BACK
+LANG_ENGLISH        "戻る"
+
+REFERENCE           ZOMBIE_CALLING_LANDER
+LANG_ENGLISH        "月着陸船を指定座標へ誘導"
+
+REFERENCE           ZOMBIE_SOLO_LIFE_LOST
+LANG_ENGLISH        "命を落とした。プレイヤーを蘇生中"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：950]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：100]"
+
+REFERENCE           ZOMBIE_EXTRA_LIFE
+LANG_ENGLISH        "エクストラライフが与えられた"
+
+REFERENCE           ZOMBIE_PARIS_TRANSPORTER_ACTIVATED
+LANG_ENGLISH        "トランスポーターが稼働した"
+
+REFERENCE           ZOMBIE_PARIS_TRANSPORTER_WAITING
+LANG_ENGLISH        "トランスポーターは全プレイヤーを待っている"
+
+REFERENCE           ZOMBIE_WEAPON_M16
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM16を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "^3[{+activate}]^7長押しで武器[^3&&1^7]、弾薬[&&2]、\nアップグレードされた弾薬[4500]"
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "弾薬最大！"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO_UPGRADE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで武器[&&1]、弾薬[&&2]、\nアップグレードされた弾薬[4500]"
+
+REFERENCE           ZOMBIE_WEAPON_SPAS
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSPASを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "さあ、猛攻撃を始めるぞ"
+
+REFERENCE           ZOMBIE_WEAPON_L96A1
+LANG_ENGLISH        "^3[{+activate}]^7長押しでL96A1を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "猛攻撃を切り抜けた"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：500]"
+
+REFERENCE           ZOMBIE_WEAPON_SKORPION
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSKORPIONを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "&&1長押しでバリケードを買い戻す[コスト：10]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "&&1ラウンド生き残った"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "&&1長押しでバリケードを買い戻す[コスト：20]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "&&1長押しでバリケードを買い戻す[コスト：50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "&&1長押しでバリケードを買い戻す[コスト：100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：250]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "&&1長押しでバリケードを作り直す[報酬：40]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "&&1長押しで残がいを片付ける[コスト：1250]"
+
+REFERENCE           ZOMBIE_M16_UPGRADED
+LANG_ENGLISH        "スカルクラッシャー"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：500]"
+
+REFERENCE           ZOMBIE_WEAPON_HK21
+LANG_ENGLISH        "^3[{+activate}]^7長押しでHK21を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：100]"
+
+REFERENCE           ZOMBIE_ABILITY_RCBOMB
+LANG_ENGLISH        "^3[{+activate}]^7長押しでRC爆弾を購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "&&1長押しでドアを開ける[コスト：2000]"
+
+REFERENCE           ZOMBIE_ABILITY_TURRET_USED
+LANG_ENGLISH        "ターレットアビリティを使用した"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：750]"
+
+REFERENCE           ZOMBIE_WEAPON_AK47
+LANG_ENGLISH        "^3[{+activate}]^7長押しでAK-47を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：1250]"
+
+REFERENCE           ZOMBIE_WEAPON_STONER63
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSTONER63  LMGを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：1500]"
+
+REFERENCE           ZOMBIE_AK74U_UPGRADED
+LANG_ENGLISH        "AK74fu2"
+
+REFERENCE           ZOMBIE_WEAPON_PYTHON
+LANG_ENGLISH        "^3[{+activate}]^7長押しでPYTHONを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：2000]"
+
+REFERENCE           ZOMBIE_WEAPON_CROSSBOW_EXPLOSIVE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでクロスボウさく裂ボルトを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "^3&&1^7長押しでキャビネットを開く[コスト：500]"
+
+REFERENCE           ZOMBIE_M14_UPGRADED
+LANG_ENGLISH        "エムネジア"
+
+REFERENCE           ZOMBIE_DOOR_ACTIVATE_COUNTER
+LANG_ENGLISH        "^3[{+activate}]^7長押しでキルカウンターを有効化する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "^3&&1^7長押しでキャビネットを開く[コスト：1000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "^3&&1^7長押しでキャビネットを開く[コスト：1500]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "^3&&1^7長押しでキャビネットを開く[コスト：2000]"
+
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "^3&&1^7長押しでファウンテン・ターレットを有効化する [コスト：750]"
+
+REFERENCE           ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "^3[{+activate}]^7長押しでボウィーナイフを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_TRAP_COOLDOWN
+LANG_ENGLISH        "トラップは再チャージ中"
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "ゾンビがやられた！"
+
+REFERENCE           ZOMBIE_CLAYMORE_ALREADY_PURCHASED
+LANG_ENGLISH        "クレイモアは購入済み"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでリバイブを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_FAMAS_UPGRADED
+LANG_ENGLISH        "G16-GL35"
+
+REFERENCE           ZOMBIE_EARNED_NAPALM
+LANG_ENGLISH        "ナパームを手に入れた"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE_SOLO
+LANG_ENGLISH        "^3[{+activate}]^7長押しでリバイブを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_TESLA_GUN
+LANG_ENGLISH        "超兵器DG-2"
+
+REFERENCE           ZOMBIE_WEAPON_ROTTWEIL72
+LANG_ENGLISH        "^3[{+activate}]^7長押しでOLYMPIAを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_NEED_POWER
+LANG_ENGLISH        "先に電源を入れる必要がある"
+
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "^3[{+activate}]^7長押しでスピードコーラを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "^3[{+activate}]^7長押しでダブルタップ・ルートビールを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "^3[{+activate}]^7長押しでジャガーノグを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_HELICOPTER_COMLINK_NOT_AVAILABLE
+LANG_ENGLISH        "コムリンク・ヘリコプターは現在利用できない"
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "^3[{+activate}]^7長押しでパック・ア・パンチを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_PM63
+LANG_ENGLISH        "^3[{+activate}]^7長押しでPM63を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_AK74U
+LANG_ENGLISH        "^3[{+activate}]^7長押しでAK-74uを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "インスタキル: "
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "ゾンビニューク！"
+
+REFERENCE           ZOMBIE_MP40_UPGRADED
+LANG_ENGLISH        "アフターバーナー"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "ダブルポイント: "
+
+REFERENCE           ZOMBIE_POWERUP_MINIGUN
+LANG_ENGLISH        "ミニガン！"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "&&1長押しでバリケードを作り直す[報酬：10]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "&&1長押しでバリケードを作り直す[報酬：20]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "&&1長押しでバリケードを作り直す[報酬：30]"
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "GAME OVER"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "&&1長押しでバリケードを作り直す[報酬：50]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "1ラウンド生き残った"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：850]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：750]"
+
+REFERENCE           ZOMBIE_CHINA_LAKE_UPGRADED
+LANG_ENGLISH        "チャイナビーチ"
+
+REFERENCE           ZOMBIE_CLAYMORE_HOWTO
+LANG_ENGLISH        "^3[{+actionslot 4}]^7を押して^3[{+attack}]^7でクレイモアを設置する"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：650]"
+
+REFERENCE           ZOMBIE_EARNED_PORTAL
+LANG_ENGLISH        "ポータルを手に入れた"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "&&1長押しでバリケードを作り直す"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "&&1長押しでエリアを開く[コスト：2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_TRAP
+LANG_ENGLISH        "^3[{+activate}]^7長押しでトラップを有効化する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "&&1長押しでバウンシングベティを購入する[コスト：1000 - 1回限り]"
+
+REFERENCE           ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "バウンシングベティは購入済みです"
+
+REFERENCE           ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "^3[{+actionslot 4}]^7を押して^3[{+attack}]^7でバウンシングベティを設置"
+
+REFERENCE           ZOMBIE_CLAYMORE_PURCHASE
+LANG_ENGLISH        "^3&&1^7長押しでクレイモアを購入する[コスト：1000 - 1回限り]"
+
+REFERENCE           ZOMBIE_M1911_UPGRADED
+LANG_ENGLISH        "マスタング＆サリー"
+
+REFERENCE           ZOMBIE_WEAPON_MINIGUN
+LANG_ENGLISH        "^3[{+activate}]^7長押しでミニガンを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "^3&&1^7長押しで電源をオンにする"
+
+REFERENCE           ZOMBIE_TURRET_NOT_AVAILABLE
+LANG_ENGLISH        "ターレットは利用できない"
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER_X2
+LANG_ENGLISH        "ヘリコプターX2を手に入れた"
+
+REFERENCE           ZOMBIE_WEAPON_FRAG_GRENADE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでフラググレネードを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_TESLA
+LANG_ENGLISH        "^3[{+activate}]^7長押しでテスラガンを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "^3&&1^7長押しで粘着グレネードを購入する[コスト：10]"
+
+REFERENCE           ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "ゲートは先に開ける必要がある"
+
+REFERENCE           ZOMBIE_PM63_UPGRADED
+LANG_ENGLISH        "トーキョー＆ローズ"
+
+REFERENCE           ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを有効化する[コスト：1500]"
+
+REFERENCE           ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "^3&&1^7長押しでメインフレームへのリンクを開始する"
+
+REFERENCE           ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "^3&&1^7長押しでメインフレームにテレポートする[コスト：1500]"
+
+REFERENCE           ZOMBIE_RPK_UPGRADED
+LANG_ENGLISH        "R115レゾネーター"
+
+REFERENCE           ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "^3&&1^7長押しでテレポートパッドをメインフレームにリンク"
+
+REFERENCE           ZOMBIE_WEAPON_M16_GL
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM203付M16を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "リンクが確立した"
+
+REFERENCE           ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "テレポートパッドを始動する必要がある"
+
+REFERENCE           ZOMBIE_START_TPAD
+LANG_ENGLISH        "コアに引き返せ"
+
+REFERENCE           ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "テレポーターは冷却中"
+
+REFERENCE           ZOMBIE_AUG_GL_UPGRADED
+LANG_ENGLISH        "AUGグレネードランチャーアップグレード"
+
+REFERENCE           ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "^3&&1^7長押しでトラップドアを有効化する[コスト：1000]"
+
+REFERENCE           ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "^3&&1^7長押しでドアを開ける"
+
+REFERENCE           ZOMBIE_SURVIVED_NONE
+LANG_ENGLISH        "0ラウンドを生き残った"
+
+REFERENCE           ZOMBIE_WEAPON_UZI
+LANG_ENGLISH        "^3[{+activate}]^7長押しでUZIを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "^3&&1^7長押しでエレベーターを有効化する[コスト：500]"
+
+REFERENCE           ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "^3[{+activate}]^7長押しでターレットを使用する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "^3[{+activate}]^7長押しで自動ターレットを有効化する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_G11
+LANG_ENGLISH        "^3[{+activate}]^7長押しでG11を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "^3&&1^7長押しで橋を築く[コスト：1000]"
+
+REFERENCE           ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "^3&&1^7長押しでアップグレードされた武器をとる"
+
+REFERENCE           ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "^3[{+activate}]^7長押しでテレポーターを使用する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_CLOAK_NOT_AVAILABLE
+LANG_ENGLISH        "クロークは利用できない"
+
+REFERENCE           ZOMBIE_EARNED_TURRET
+LANG_ENGLISH        "ターレットを手に入れた"
+
+REFERENCE           ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "^3&&1^7長押しでテレポーターを有効化する"
+
+REFERENCE           ZOMBIE_REVIVING_SOLO
+LANG_ENGLISH        "蘇生中"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを使用する[コスト：1000]"
+
+REFERENCE           ZOMBIE_WEAPON_AUG
+LANG_ENGLISH        "^3[{+activate}]^7長押しでAUGを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "ジップラインを先に有効化する必要がある"
+
+REFERENCE           ZOMBIE_FIRE_SALE_COST
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：10]"
+
+REFERENCE           ZOMBIE_EARNED_AIRSTRIKE
+LANG_ENGLISH        "空爆支援を手に入れた"
+
+REFERENCE           ZOMBIE_WEAPON_P90
+LANG_ENGLISH        "^3[{+activate}]^7長押しでOLD P90を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M14
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM14を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_DRAGUNOV
+LANG_ENGLISH        "^3[{+activate}]^7長押しでDRAGUNOVを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_RPK
+LANG_ENGLISH        "^3[{+activate}]^7長押しでRPKを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_AK47_MK
+LANG_ENGLISH        "^3[{+activate}]^7長押しでGP30付AK-47を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_AIRSTRIKE_NOT_AVAILABLE
+LANG_ENGLISH        "空爆支援は現在行えない"
+
+REFERENCE           ZOMBIE_WEAPON_BOX_STORE
+LANG_ENGLISH        "^3&&1^7 長押しで武器を収納"
+
+REFERENCE           ZOMBIE_WEAPON_THUNDERGUN
+LANG_ENGLISH        "^3[{+activate}]^7長押しでサンダーガンを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PERK_STOPPINGPOWER
+LANG_ENGLISH        "^3[{+activate}]^7長押しでダメージ・アデを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PERK_BANDOLIER
+LANG_ENGLISH        "^3[{+activate}]^7長押しでキャンドルランプを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M1911
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM1911を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_FREEZEGUN_UPGRADED
+LANG_ENGLISH        "ウィンターフューリー"
+
+REFERENCE           ZOMBIE_WEAPON_KIPARIS
+LANG_ENGLISH        "^3[{+activate}]^7長押しでKIPARISデュアルを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MAC11
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMac-11を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MP5K
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMP5Kを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_XP
+LANG_ENGLISH        "EXP"
+
+REFERENCE           ZOMBIE_WEAPON_MP40
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMP40を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MPL
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMPLを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ABILITY_HELICOPTER
+LANG_ENGLISH        "^3[{+activate}]^7長押しでヘリコプターを購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_ENFIELD
+LANG_ENGLISH        "^3[{+activate}]^7長押しでENFIELDを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ABILITY_AIRSTRIKE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで空爆を購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_ITHACA
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSTAKEOUTを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ROUND_DOGS
+LANG_ENGLISH        "軍用犬はラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_POWERCELL_PICKUP
+LANG_ENGLISH        "^3&&1^7 長押しでパワーセルを取り出す"
+
+REFERENCE           ZOMBIE_POWERCELL_DROPOFF
+LANG_ENGLISH        "^3&&1^7 長押しでパワーセルの挿入"
+
+REFERENCE           ZOMBIE_WEAPON_SABERTOOTH
+LANG_ENGLISH        "^3[{+activate}]^7長押しでセイバートゥースを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN
+LANG_ENGLISH        "^3[{+activate}]^7長押しでレイガンを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CLAYMORE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでクレイモアを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M202_FLASH
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM202フラッシュを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_EARNED_ARTILLERY
+LANG_ENGLISH        "砲撃支援を手に入れた"
+
+REFERENCE           ZOMBIE_EARNED_DOGS
+LANG_ENGLISH        "犬を手に入れた"
+
+REFERENCE           ZOMBIE_EARNED_ENDURANCE
+LANG_ENGLISH        "耐久力を手に入れた"
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER
+LANG_ENGLISH        "ヘリコプターを手に入れた"
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER_COMLINK
+LANG_ENGLISH        "コムリンク・ヘリコプターを手に入れた"
+
+REFERENCE           ZOMBIE_RADAR_NOT_AVAILABLE
+LANG_ENGLISH        "レーダーは現在使用できない"
+
+REFERENCE           ZOMBIE_ARTILLERY_NOT_AVAILABLE
+LANG_ENGLISH        "砲撃支援は現在行えない"
+
+REFERENCE           ZOMBIE_NAPALM_NOT_AVAILABLE
+LANG_ENGLISH        "ナパームは現在利用できない"
+
+REFERENCE           ZOMBIE_DOGS_NOT_AVAILABLE
+LANG_ENGLISH        "犬は現在利用できない"
+
+REFERENCE           ZOMBIE_HELICOPTER_NOT_AVAILABLE
+LANG_ENGLISH        "ヘリコプターは現在利用できない"
+
+REFERENCE           ZOMBIE_HELICOPTER_X2_NOT_AVAILABLE
+LANG_ENGLISH        "ヘリコプターX2は現在利用できない"
+
+REFERENCE           ZOMBIE_NAPALM_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "ナパームが、そちらの位置に接近中"
+
+REFERENCE           ZOMBIE_ARTILLERY_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "そちらの目標に砲撃中"
+
+REFERENCE           ZOMBIE_HELICOPTER_X2_INBOUND
+LANG_ENGLISH        "ヘリコプターX2接近中"
+
+REFERENCE           ZOMBIE_HELICOPTER_COMLINK_INBOUND
+LANG_ENGLISH        "コムリンク・ヘリコプター接近中"
+
+REFERENCE           ZOMBIE_HELICOPTER_INBOUND
+LANG_ENGLISH        "ヘリ接近中"
+
+REFERENCE           ZOMBIE_BARRACKS
+LANG_ENGLISH        "兵舎"
+
+REFERENCE           ZOMBIE_CHALLENGES
+LANG_ENGLISH        "チャレンジ"
+
+REFERENCE           ZOMBIE_MUTATORS
+LANG_ENGLISH        "突然変異誘発因子"
+
+REFERENCE           ZOMBIE_LEADERBOARDS
+LANG_ENGLISH        "ランキング"
+
+REFERENCE           ZOMBIE_AWARDS_AND_TITLES
+LANG_ENGLISH        "賞と称号"
+
+REFERENCE           ZOMBIE_CHALLENGES_DONE
+LANG_ENGLISH        "新規テキスト"
+
+REFERENCE           ZOMBIE_XP_REWARD
+LANG_ENGLISH        "報奨EXP"
+
+REFERENCE           ZOMBIE_MAIN_MENU
+LANG_ENGLISH        "メインメニュー"
+
+REFERENCE           ZOMBIE_SOLO
+LANG_ENGLISH        "ソ\ロ"
+
+REFERENCE           ZOMBIE_COOP
+LANG_ENGLISH        "コープ"
+
+REFERENCE           ZOMBIE_VERSUS
+LANG_ENGLISH        "VS"
+
+REFERENCE           ZOMBIE_OPTIONS
+LANG_ENGLISH        "オプション"
+
+REFERENCE           ZOMBIE_CREDITS
+LANG_ENGLISH        "クレジット"
+
+REFERENCE           ZOMBIE_ROUND_CLOAK
+LANG_ENGLISH        "クロークはラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_MISSION_SELECT
+LANG_ENGLISH        "ミッション選択"
+
+REFERENCE           ZOMBIE_REWARD
+LANG_ENGLISH        "報酬："
+
+REFERENCE           ZOMBIE_ROUND_AIRSTRIKE
+LANG_ENGLISH        "空爆支援はラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_ROUND_TURRET
+LANG_ENGLISH        "ターレットはラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_EARNED_RCBOMB
+LANG_ENGLISH        "RC爆弾を手に入れた"
+
+REFERENCE           ZOMBIE_ROUND_PORTAL
+LANG_ENGLISH        "ポータルはラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_ROUND_ARTILLERY
+LANG_ENGLISH        "砲撃支援はラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_ROUND_HELICOPTER
+LANG_ENGLISH        "ヘリコプターはラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_ROUND_RCBOMB
+LANG_ENGLISH        "RC爆弾はラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_ROUND_TIMEDISTORTION
+LANG_ENGLISH        "タイムディストーションはラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_ROUND_ENDURANCE
+LANG_ENGLISH        "耐久力はラウンド &&1 で利用可能\"
+
+REFERENCE           ZOMBIE_CROSSBOW_UPGRADED
+LANG_ENGLISH        "アウフル・ロートン"
+
+REFERENCE           ZOMBIE_ABILITY_TURRET
+LANG_ENGLISH        "^3[{+activate}]^7長押しでターレットを購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ABILITY_PORTAL
+LANG_ENGLISH        "^3[{+activate}]^7長押しでポータルを購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ABILITY_RCCAR_USED
+LANG_ENGLISH        "RCカーアビリティを使用した"
+
+REFERENCE           ZOMBIE_ABILITY_NAPALM
+LANG_ENGLISH        "^3[{+activate}]^7長押しでナパーム弾を購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ABILITY_ARTILLERY
+LANG_ENGLISH        "^3[{+activate}]^7長押しで砲撃を購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ABILITY_TIMEDISTORTION
+LANG_ENGLISH        "^3[{+activate}]^7長押しで時間歪曲を購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_SPECTRE_UPGRADED
+LANG_ENGLISH        "ファントム"
+
+REFERENCE           ZOMBIE_ABILITY_CLOAK
+LANG_ENGLISH        "^3[{+activate}]^7長押しでクロークを購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ABILITY_ENDURANCE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでRC爆弾を購入する[初回：500]\n追加[コスト：&&1]"
+
+REFERENCE           ZOMBIE_APE_ENTRY
+LANG_ENGLISH        "警告！ APE再突入が迫っている！"
+
+REFERENCE           ZOMBIE_TRAP_ACTIVE
+LANG_ENGLISH        "トラップは稼働している"
+
+REFERENCE           ZOMBIE_HAS_ABILITY
+LANG_ENGLISH        "このアビリティは既に持っている"
+
+REFERENCE           ZOMBIE_HK21_UPGRADED
+LANG_ENGLISH        "H115オシレーター"
+
+REFERENCE           ZOMBIE_WEAPON_HS10
+LANG_ENGLISH        "^3[{+activate}]^7長押しでHS10を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_ABILITY_ARTILLERY_USED
+LANG_ENGLISH        "砲撃アビリティを使用した"
+
+REFERENCE           ZOMBIE_ABILITY_AIRSTRIKE_USED
+LANG_ENGLISH        "空爆アビリティを使用した"
+
+REFERENCE           ZOMBIE_ABILITY_NAPALM_USED
+LANG_ENGLISH        "ナパームアビリティを使用した"
+
+REFERENCE           ZOMBIE_ABILITY_DOGS_USED
+LANG_ENGLISH        "犬アビリティを使用した"
+
+REFERENCE           ZOMBIE_ABILITY_CLOAK_USED
+LANG_ENGLISH        "クロークアビリティを使用した"
+
+REFERENCE           ZOMBIE_ABILITY_HELI_USED
+LANG_ENGLISH        "ヘリコプターアビリティを使用した"
+
+REFERENCE           ZOMBIE_ABILITY_PORTAL_USED
+LANG_ENGLISH        "ポータルアビリティを使用した"
+
+REFERENCE           ZOMBIE_EARNED_CLOAK
+LANG_ENGLISH        "クロークを手に入れた"
+
+REFERENCE           ZOMBIE_PORTAL_NOT_AVAILABLE
+LANG_ENGLISH        "ポータルは利用できない"
+
+REFERENCE           ZOMBIE_ENDURANCE_NOT_AVAILABLE
+LANG_ENGLISH        "耐久力は使用できない"
+
+REFERENCE           ZOMBIE_RCBOMB_NOT_AVAILABLE
+LANG_ENGLISH        "RC爆弾は使用できない"
+
+REFERENCE           ZOMBIE_WEAPON_GALIL
+LANG_ENGLISH        "^3[{+activate}]^7長押しでGALILを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_COMMANDO
+LANG_ENGLISH        "^3[{+activate}]^7長押しでCOMMANDOを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_FNFAL
+LANG_ENGLISH        "^3[{+activate}]^7長押しでFN FALを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SPECTRE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSPECTREを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CZ75DW
+LANG_ENGLISH        "^3[{+activate}]^7長押しでCZ75DWを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M72_LAW
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM72 LAWを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CHINA_LAKE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでチャイナレイクを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PYTHON_UPGRADED
+LANG_ENGLISH        "コブラ"
+
+REFERENCE           ZOMBIE_G11_UPGRADED
+LANG_ENGLISH        "G115ジェネレーター"
+
+REFERENCE           ZOMBIE_MP5K_UPGRADED
+LANG_ENGLISH        "MP115コリダー"
+
+REFERENCE           ZOMBIE_MPL_UPGRADED
+LANG_ENGLISH        "MPL-LF"
+
+REFERENCE           ZOMBIE_MAC11_UPGRADED
+LANG_ENGLISH        "MAC11アップグレード"
+
+REFERENCE           ZOMBIE_CZ75_UPGRADED
+LANG_ENGLISH        "カラミティ"
+
+REFERENCE           ZOMBIE_ITHACA_UPGRADED
+LANG_ENGLISH        "レイド"
+
+REFERENCE           ZOMBIE_ROTTWEIL72_UPGRADED
+LANG_ENGLISH        "ハデス"
+
+REFERENCE           ZOMBIE_HS10_UPGRADED
+LANG_ENGLISH        "タイポイド＆メアリー"
+
+REFERENCE           ZOMBIE_ENFIELD_UPGRADED
+LANG_ENGLISH        "ENFIELDアップグレード"
+
+REFERENCE           ZOMBIE_AUG_UPGRADED
+LANG_ENGLISH        "AUG-50M3"
+
+REFERENCE           ZOMBIE_GALIL_UPGRADED
+LANG_ENGLISH        "ラメンテーション"
+
+REFERENCE           ZOMBIE_COMMANDO_UPGRADED
+LANG_ENGLISH        "プレデター"
+
+REFERENCE           ZOMBIE_FNFAL_UPGRADED
+LANG_ENGLISH        "EPC勝利"
+
+REFERENCE           ZOMBIE_M202_FLASH_UPGRADED
+LANG_ENGLISH        "グリムリーパーアップグレード"
+
+REFERENCE           ZOMBIE_DRAGUNOV_UPGRADED
+LANG_ENGLISH        "D115ディスアッセンブラー"
+
+REFERENCE           ZOMBIE_L96A1_UPGRADED
+LANG_ENGLISH        "L115アイソ\レーター"
+
+REFERENCE           ZOMBIE_M72_LAW_UPGRADED
+LANG_ENGLISH        "M72アナーキー"
+
+REFERENCE           ZOMBIE_RAY_GUN_UPGRADED
+LANG_ENGLISH        "ポーターのX2レイガン"
+
+REFERENCE           ZOMBIE_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "超兵器DG-3 JZ\n"
+
+REFERENCE           ZOMBIE_THUNDERGUN_UPGRADED
+LANG_ENGLISH        "ゼウスキャノン"
+
+REFERENCE           ZOMBIE_FREEZEGUN
+LANG_ENGLISH        "ウィンターハウル"
+
+REFERENCE           ZOMBIE_KNIFE_BALLISTIC_UPGRADED
+LANG_ENGLISH        "クラウス除細動器"
+
+REFERENCE           ZOMBIE_G11_LPS_UPGRADED
+LANG_ENGLISH        "G115ジェネレーター"
+
+ENDMARKER

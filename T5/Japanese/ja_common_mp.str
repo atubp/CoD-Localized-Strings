@@ -1,0 +1,1273 @@
+// Dumped from fastfile "ja_common_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVES_TAG
+LANG_ENGLISH        "タグがついている状態で他のプレイヤーを倒すことでポイントを稼げ。タグがついているプレイヤーを倒せば自分にタグがつく"
+
+REFERENCE           OBJECTIVES_THP
+LANG_ENGLISH        "敵プレイヤーを殲滅してポイントを獲得しろ。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CROUCHTOGGLEFROM
+LANG_ENGLISH        "[&&1]をもう一度押せばしゃがみ状態から立ち上がる。"
+
+REFERENCE           MEDAL_ASSISTS
+LANG_ENGLISH        "アシスト"
+
+REFERENCE           OBJECTIVES_TAG_SCORE
+LANG_ENGLISH        "タグがついている状態で他のプレイヤーを倒すことでポイントを稼げ。タグがついているプレイヤーを倒せば自分にタグがつく。最初に&&1ポイントに到達したプレイヤーの勝利となる"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_TAKEEXPLOSIVES
+LANG_ENGLISH        "[&&1]で爆弾を入手する。"
+
+REFERENCE           OBJECTIVES_THP_SCORE
+LANG_ENGLISH        "敵プレイヤーを倒しポイントを稼げ。&&1ポイントを先取すれば勝利となる。"
+
+REFERENCE           CGAME_SB_CP
+LANG_ENGLISH        "CODポイント"
+
+REFERENCE           CGAME_SQUAD_LONEWOLF
+LANG_ENGLISH        "一匹狼になった"
+
+REFERENCE           OBJECTIVES_NVC_DEFENDER_SCORE
+LANG_ENGLISH        "いかなる手段を用いても、敵を目標エリアに近寄らせるな"
+
+REFERENCE           CGAME_SQUAD_REGROUP
+LANG_ENGLISH        "分隊長が集結命令を発令"
+
+REFERENCE           OBJECTIVES_TAG_HINT
+LANG_ENGLISH        "自分にタグをつけて他のプレイヤーを倒せ"
+
+REFERENCE           CGAME_SB_POINTS
+LANG_ENGLISH        "ポイント"
+
+REFERENCE           MEDAL_FLAG_CAPTURE_DESC
+LANG_ENGLISH        "敵のフラッグを持ち帰った"
+
+REFERENCE           OBJECTIVES_DOM
+LANG_ENGLISH        "フラッグを奪取ないし防衛しろ。"
+
+REFERENCE           MEDAL_BOMBER_DESC
+LANG_ENGLISH        "爆弾を起爆した"
+
+REFERENCE           OBJECTIVES_THP_HINT
+LANG_ENGLISH        "敵プレイヤーの殲滅"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPEXPLOSIVES
+LANG_ENGLISH        "[&&1]で爆弾を拾う"
+
+REFERENCE           OBJECTIVES_WAR_HINT
+LANG_ENGLISH        "争奪戦状態になっている旗を奪取せよ"
+
+REFERENCE           CGAME_SQUAD_CREATEDSQUAD
+LANG_ENGLISH        "分隊を任命した"
+
+REFERENCE           OBJECTIVES_WAR
+LANG_ENGLISH        "旗を全て奪取せよ"
+
+REFERENCE           MEDAL_MULTI_KILL_DESC
+LANG_ENGLISH        "3人以上の敵を続けざまに倒した"
+
+REFERENCE           OBJECTIVES_SD_ATTACKER
+LANG_ENGLISH        "目標AとBに爆弾を設置して破壊しろ。"
+
+REFERENCE           OBJECTIVES_NVC_ATTACKER_HINT
+LANG_ENGLISH        "警告：敵は動きが素早く、レーダー画面上で常にこちらの動きを把握している"
+
+REFERENCE           MEDAL_DESTROYER_M220_TOW_DESC
+LANG_ENGLISH        "ヴァルキリーを破壊した"
+
+REFERENCE           MEDAL_AVENGER
+LANG_ENGLISH        "復讐者"
+
+REFERENCE           OBJECTIVES_WAR_SCORE
+LANG_ENGLISH        "争奪戦状態になっている旗を奪取してポイントを稼げ。最初に&&1ポイントに到達したチームの勝利となる"
+
+REFERENCE           OBJECTIVES_SD_ATTACKER_SCORE
+LANG_ENGLISH        "目標AまたはBに爆弾を設置して破壊せよ。設置した爆弾が敵側に解除されないように守れ。\nスコア上限：&&1"
+
+REFERENCE           OBJECTIVES_KOTH_TEAM
+LANG_ENGLISH        "司令部を制圧して守り続けることでポイントを稼げ"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS
+LANG_ENGLISH        "難易度ボーナス"
+
+REFERENCE           SCRIPT_INTELLIGENCE_FOUND
+LANG_ENGLISH        "敵の軍事情報を発見した。"
+
+REFERENCE           OBJECTIVES_SD_ATTACKER_HINT
+LANG_ENGLISH        "目標AもしくはBを破壊せよ"
+
+REFERENCE           OBJECTIVES_NVC_DEFENDER
+LANG_ENGLISH        "敵を目標エリアに近寄らせるな"
+
+REFERENCE           OBJECTIVES_NVC_DEFENDER_HINT
+LANG_ENGLISH        "警告：敵は動きが遅いが、威力の高い武器を使用している"
+
+REFERENCE           OBJECTIVES_TDM
+LANG_ENGLISH        "敵プレイヤーを殲滅してポイントを獲得しろ。"
+
+REFERENCE           MEDAL_STUCK_TO_PLAYER_DESC
+LANG_ENGLISH        "敵に粘着系爆発物をとりつけた"
+
+REFERENCE           OBJECTIVES_KOTH_SCORE
+LANG_ENGLISH        "司令部を制圧して守り続けることでポイントを稼げ。最初に&&1ポイントに到達したチームの勝利となる"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_TOO_SOON
+LANG_ENGLISH        "犬がかみついてくるのを待って^3( ^3[{+melee}]^7 )^7で格闘攻撃を 繰り出せば首をつかめる。"
+
+REFERENCE           OBJECTIVES_SD_DEFENDER
+LANG_ENGLISH        "目標の破壊を阻止しろ。"
+
+REFERENCE           OBJECTIVES_HLND_HINT
+LANG_ENGLISH        "他のプレイヤーを殲滅しろ"
+
+REFERENCE           OBJECTIVES_TDM_SCORE
+LANG_ENGLISH        "敵プレイヤーを倒しポイントを稼げ。&&1ポイントを先取すれば勝利となる。"
+
+REFERENCE           OBJECTIVES_SD_DEFENDER_SCORE
+LANG_ENGLISH        "目標が破壊されないよう防衛せよ。どちらかに爆弾が設置された場合、爆破される前に解除せよ。\nスコア上限：&&1"
+
+REFERENCE           SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_SMOKE
+LANG_ENGLISH        "煙幕を張れば^3[{+smoke}]^7敵車両に安全に接近できる。"
+
+REFERENCE           OBJECTIVES_TDM_HINT
+LANG_ENGLISH        "敵プレイヤーの殲滅"
+
+REFERENCE           MEDAL_DESTROYER_UAV_DESC
+LANG_ENGLISH        "偵察機を撃墜した"
+
+REFERENCE           OBJECTIVES_SD_DEFENDER_HINT
+LANG_ENGLISH        "目標AおよびBを防衛しろ"
+
+REFERENCE           OBJECTIVES_AQ_TEAM_HINT
+LANG_ENGLISH        "チームが旗を入手して運べるように支援せよ"
+
+REFERENCE           OBJECTIVES_SAB
+LANG_ENGLISH        "爆弾を回収し、敵の目標に設置しろ。同時に味方の目標を防衛しろ。"
+
+REFERENCE           CGAME_QUAKE_SUICIDE
+LANG_ENGLISH        "セルフキル"
+
+REFERENCE           OBJECTIVES_SAB_SCORE
+LANG_ENGLISH        "爆弾を入手して敵側の目標に設置しつつ、味方側の目標を守れ。相手側の目標を先に破壊したチームの勝利となる。\nスコア上限：&&1"
+
+REFERENCE           OBJECTIVES_AQ_TEAM
+LANG_ENGLISH        "チームのために旗を運んでポイントを得る"
+
+REFERENCE           OBJECTIVES_SAB_HINT
+LANG_ENGLISH        "敵側の目標を破壊する"
+
+REFERENCE           OBJECTIVES_CTF_HINT
+LANG_ENGLISH        "敵のフラッグを奪取しろ"
+
+REFERENCE           CGAME_HEALTH
+LANG_ENGLISH        "体力"
+
+REFERENCE           MEDAL_AVENGER_DESC
+LANG_ENGLISH        "チームメイトを最近殺した敵を倒した"
+
+REFERENCE           OBJECTIVES_DOM_SCORE
+LANG_ENGLISH        "旗を入手して防衛せよ。&&1ポイントに到達したチームの勝利となる"
+
+REFERENCE           OBJECTIVES_DOM_HINT
+LANG_ENGLISH        "フラッグを奪取したうえで守り抜け"
+
+REFERENCE           OBJECTIVES_DM
+LANG_ENGLISH        "他のプレイヤーを殲滅してポイントを獲得しろ。"
+
+REFERENCE           SCRIPT_C4_USE
+LANG_ENGLISH        "^3[{+actionslot 2}]^7でC4を使用する。"
+
+REFERENCE           OBJECTIVES_KOTH_TEAM_HINT
+LANG_ENGLISH        "チームのために丘を確保せよ"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STRAFERIGHT
+LANG_ENGLISH        "右移動キー[&&1]で右に移動する。"
+
+REFERENCE           OBJECTIVES_DM_SCORE
+LANG_ENGLISH        "他のプレイヤーを倒してポイントを稼げ。&&1ポイントを先取すれば勝利となる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MELEEATTACK
+LANG_ENGLISH        "[&&1]で格闘攻撃を繰り出せる。"
+
+REFERENCE           OBJECTIVES_DM_HINT
+LANG_ENGLISH        "他のプレイヤーを殲滅しろ"
+
+REFERENCE           CGAME_NOW_SAVING
+LANG_ENGLISH        "保存中..."
+
+REFERENCE           MEDAL_FIRST_BLOOD_DESC
+LANG_ENGLISH        "最初のキルをきめた"
+
+REFERENCE           OBJECTIVES_TAG_TEAM
+LANG_ENGLISH        "タグがついている状態で敵側のプレイヤーを倒すことでポイントを稼げ。タグがついている敵を倒せば自分にタグがつく"
+
+REFERENCE           OBJECTIVES_TAG_TEAM_SCORE
+LANG_ENGLISH        "タグがついている状態で敵側のプレイヤーを倒すことでポイントを稼げ。タグがついている敵を倒せば自分にタグがつく。最初に&&1ポイントに到達したプレイヤーの勝利となる"
+
+REFERENCE           OBJECTIVES_TAG_TEAM_HINT
+LANG_ENGLISH        "自分にタグをつけて敵側のプレイヤーを倒せ"
+
+REFERENCE           OBJECTIVES_AQ
+LANG_ENGLISH        "旗を運ぶことでポイントを得る"
+
+REFERENCE           OBJECTIVES_OIC_HINT
+LANG_ENGLISH        "他のプレイヤーを殲滅しろ"
+
+REFERENCE           OBJECTIVES_VTDM_HINT
+LANG_ENGLISH        "敵プレイヤーの殲滅"
+
+REFERENCE           OBJECTIVES_AQ_SCORE
+LANG_ENGLISH        "旗を運ぶことでポイントを得る。最初に&&1ポイントに到達したプレイヤーの勝利となる"
+
+REFERENCE           OBJECTIVES_CTF_SCORE
+LANG_ENGLISH        "敵の旗を奪取して味方側の基地にある自軍の旗に触れることでポイントを得る。旗を&&1回奪取すればラウンドに勝利できる"
+
+REFERENCE           SCRIPT_NIGHTVISION_STOP_USE
+LANG_ENGLISH        "^3[{+actionslot 1}]^7でナイトビジョンゴーグルを解除する。"
+
+REFERENCE           OBJECTIVES_AQ_HINT
+LANG_ENGLISH        "旗を入手して運べ"
+
+REFERENCE           OBJECTIVES_AQ_TEAM_SCORE
+LANG_ENGLISH        "チームのために旗を運んでポイントを得る。最初に&&1ポイントに到達したプレイヤーの勝利となる"
+
+REFERENCE           OBJECTIVES_KOTH
+LANG_ENGLISH        "司令部を制圧して守り続けることでポイントを稼げ"
+
+REFERENCE           SCRIPT_PICKUPSTIELHANDGRANATES
+LANG_ENGLISH        "ドイツ軍の手榴弾を拾え。"
+
+REFERENCE           OBJECTIVES_GUN
+LANG_ENGLISH        "全ての武器でキルをきめろ"
+
+REFERENCE           OBJECTIVES_KOTH_HINT
+LANG_ENGLISH        "丘を確保せよ"
+
+REFERENCE           OBJECTIVES_KOTH_TEAM_SCORE
+LANG_ENGLISH        "司令部を制圧して守り続けることでポイントを稼げ。最初に&&1ポイントに到達したチームの勝利となる"
+
+REFERENCE           SCRIPT_HINT_DOOR
+LANG_ENGLISH        "^3[{+activate}]^7長押しでドアを開く"
+
+REFERENCE           OBJECTIVES_VTDM
+LANG_ENGLISH        "敵プレイヤーを殲滅してポイントを獲得しろ。"
+
+REFERENCE           SCRIPT_AM_ROUND_BONUS
+LANG_ENGLISH        "ラウンドボーナス"
+
+REFERENCE           OBJECTIVES_VTDM_SCORE
+LANG_ENGLISH        "敵プレイヤーを倒しポイントを稼げ。&&1ポイントを先取すれば勝利となる。"
+
+REFERENCE           OBJECTIVES_FLAG_AWAY_CAPS
+LANG_ENGLISH        "アウェイ"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_ENGLISH        "近接航空支援、準備完了！  ^3[{+actionslot 4}]^7で発動する。"
+
+REFERENCE           OBJECTIVES_CTF
+LANG_ENGLISH        "敵のフラッグを盗み、味方基地のフラッグに触れればポイントを獲得する。"
+
+REFERENCE           OBJECTIVES_FLAG_HOME_CAPS
+LANG_ENGLISH        "ベース"
+
+REFERENCE           OBJECTIVES_DEM_ATTACKER_SCORE
+LANG_ENGLISH        "それぞれに爆弾を設置して目標AおよびBを破壊せよ。設置した爆弾が敵側に解除されないように守れ。\nスコア上限：&&1"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CROUCHKEY
+LANG_ENGLISH        "[&&1]でしゃがむ。"
+
+REFERENCE           OBJECTIVES_DEM_ATTACKER_HINT
+LANG_ENGLISH        "目標AおよびBを破壊せよ"
+
+REFERENCE           MEDAL_FIRST_BLOOD
+LANG_ENGLISH        "ファーストブラッド"
+
+REFERENCE           OBJECTIVES_DEM_ATTACKER
+LANG_ENGLISH        "それぞれに爆弾を設置して目標AおよびBを破壊せよ"
+
+REFERENCE           CGAME_TEAMMATE
+LANG_ENGLISH        "チームメイト"
+
+REFERENCE           OBJECTIVES_HLND_SCORE
+LANG_ENGLISH        "他のプレイヤーを殲滅せよ。トマホークを使って相手を破産させろ。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RAISEFROMCROUCHTOSTAND
+LANG_ENGLISH        "[&&1]を短く1回押せばしゃがみ状態から立ち上がれる。"
+
+REFERENCE           MEDAL_BACK_STABBER_DESC
+LANG_ENGLISH        "プレイヤーを背中からナイフで刺した"
+
+REFERENCE           OBJECTIVES_HLND
+LANG_ENGLISH        "他のプレイヤーを殲滅しろ。"
+
+REFERENCE           CGAME_SPECTATORS
+LANG_ENGLISH        "観戦者"
+
+REFERENCE           OBJECTIVES_NVC_ATTACKER
+LANG_ENGLISH        "目標エリア内に入ることでポイントを稼いでチームに貢献せよ"
+
+REFERENCE           OBJECTIVES_NVC_ATTACKER_SCORE
+LANG_ENGLISH        "目標エリア内に入り、とどまることでポイントを稼いでチームに貢献せよ"
+
+REFERENCE           SCRIPT_AM_BONUS_HARDEST_2_KILL
+LANG_ENGLISH        "ハード・トゥ・キル+&&1"
+
+REFERENCE           OBJECTIVES_GUN_SCORE
+LANG_ENGLISH        "&&1の武器でキルをきめろ。ナイフキルで相手を降格させられる"
+
+REFERENCE           CGAME_KILLED
+LANG_ENGLISH        "死亡した"
+
+REFERENCE           CGAME_CONTINUE_SAVING_CAP
+LANG_ENGLISH        "セーブして終了"
+
+REFERENCE           CGAME_WAITINGFORSERVERLOAD
+LANG_ENGLISH        "サーバーが新しいマップを ロードするのを待っています"
+
+REFERENCE           OBJECTIVES_GUN_HINT
+LANG_ENGLISH        "全ての武器でキルをきめた最初のプレイヤーの勝利となる"
+
+REFERENCE           SCRIPT_RADIATION_DEATH
+LANG_ENGLISH        "放射能\に汚染されている地帯は避けて通れ。\nガイガーカウンターの反応を聞き逃すな。"
+
+REFERENCE           OBJECTIVES_SHRP
+LANG_ENGLISH        "他のプレイヤーを殲滅してポイントを獲得しろ。"
+
+REFERENCE           OBJECTIVES_SHRP_SCORE
+LANG_ENGLISH        "他のプレイヤーを殲滅してポイントを稼げ。"
+
+REFERENCE           SCRIPT_OBJ_FOLEYDEBRIEF
+LANG_ENGLISH        "分岐点でフォーリー大尉に報告しろ。"
+
+REFERENCE           OBJECTIVES_SHRP_HINT
+LANG_ENGLISH        "キルストリークをきめてPERKを獲得しろ"
+
+REFERENCE           OBJECTIVES_PREGAME
+LANG_ENGLISH        "プレゲーム"
+
+REFERENCE           MEDAL_BUZZ_KILL
+LANG_ENGLISH        "キルストッパー"
+
+REFERENCE           SCRIPT_USE_THE_PANZERFAUST_ANTITANK
+LANG_ENGLISH        "核シェルターの後ろにある対戦車兵器「パンツァーファウスト」を使って戦車を破壊しろ。"
+
+REFERENCE           MEDAL_BUZZ_KILL_DESC
+LANG_ENGLISH        "キルストリーク報酬を獲得する目前の敵を倒した"
+
+REFERENCE           MEDAL_LONG_SHOT
+LANG_ENGLISH        "ロングショット"
+
+REFERENCE           MEDAL_LONG_SHOT_DESC
+LANG_ENGLISH        "遠距離から敵を倒した"
+
+REFERENCE           MEDAL_HEAD_SHOT
+LANG_ENGLISH        "ヘッドショット"
+
+REFERENCE           CGAME_FOLLOWING
+LANG_ENGLISH        "追尾中"
+
+REFERENCE           MEDAL_HEAD_SHOT_DESC
+LANG_ENGLISH        "\"BOOM, HEADSHOT\""
+
+REFERENCE           MEDAL_STUCK_TO_PLAYER
+LANG_ENGLISH        "粘着気質"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOPRONEKEY
+LANG_ENGLISH        "[&&1]を放すと伏せ撃ち姿勢を解除する。"
+
+REFERENCE           MEDAL_BULLS_EYE
+LANG_ENGLISH        "トマホークキル"
+
+REFERENCE           MEDAL_BULLS_EYE_DESC
+LANG_ENGLISH        "トマホークで敵を倒した"
+
+REFERENCE           MEDAL_EXECUTION
+LANG_ENGLISH        "処刑人"
+
+REFERENCE           MEDAL_EXECUTION_DESC
+LANG_ENGLISH        "ダウンした敵をヘッドショットで倒した"
+
+REFERENCE           CGAME_OBJECTIVE_BELOW
+LANG_ENGLISH        "後述の目標"
+
+REFERENCE           MEDAL_COMEBACK
+LANG_ENGLISH        "カムバック"
+
+REFERENCE           MEDAL_COMEBACK_DESC
+LANG_ENGLISH        "デスストリーク状態から盛り返した"
+
+REFERENCE           SCRIPT_PLATFORM_FIRE_TO_SKIP
+LANG_ENGLISH        "射撃ボタンでスキップできる。"
+
+REFERENCE           MEDAL_AFTERLIFE
+LANG_ENGLISH        "死に土産"
+
+REFERENCE           MEDAL_AFTERLIFE_DESC
+LANG_ENGLISH        "死亡中に敵を倒した"
+
+REFERENCE           SCRIPT_EXPLOSIVESPLANTED
+LANG_ENGLISH        "爆弾を設置した！  退避しろ！"
+
+REFERENCE           MEDAL_DOUBLE_KILL
+LANG_ENGLISH        "ダブルキル"
+
+REFERENCE           MEDAL_DOUBLE_KILL_DESC
+LANG_ENGLISH        "敵2人を続けざまに倒した"
+
+REFERENCE           CGAME_SQUAD_ATTACK
+LANG_ENGLISH        "分隊長が攻撃命令を発令"
+
+REFERENCE           MEDAL_FLAG_RUNNER
+LANG_ENGLISH        "フラッグランナー"
+
+REFERENCE           MEDAL_TRIPLE_KILL
+LANG_ENGLISH        "トリプルキル"
+
+REFERENCE           CGAME_DW_SENT_GAME_INVITE
+LANG_ENGLISH        "からゲームへの招待を受信しました。"
+
+REFERENCE           MEDAL_FLAG_RUNNER_DESC
+LANG_ENGLISH        "敵のフラッグを取った"
+
+REFERENCE           MEDAL_TRIPLE_KILL_DESC
+LANG_ENGLISH        "続けざまに3人倒した"
+
+REFERENCE           MEDAL_MULTI_KILL
+LANG_ENGLISH        "マルチキル"
+
+REFERENCE           SCRIPT_SHOT_TEAMMATE
+LANG_ENGLISH        "仲間を撃ってしまった！"
+
+REFERENCE           MEDAL_BACK_STABBER
+LANG_ENGLISH        "バックスタバー"
+
+REFERENCE           CGAME_COOP_FOUND_COLLECTIBLE
+LANG_ENGLISH        "&&1はデスカードを発見した"
+
+REFERENCE           MEDAL_HIJACKER
+LANG_ENGLISH        "ハイジャック"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDFROMPRONEKEY
+LANG_ENGLISH        "[&&1]で伏せ撃ち姿勢から立ち上がれる"
+
+REFERENCE           MEDAL_HIJACKER_DESC
+LANG_ENGLISH        "敵の箱を横取りした"
+
+REFERENCE           MEDAL_SHARE_PACKAGE
+LANG_ENGLISH        "シェアパッケージ"
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_ENGLISH        "^3 &&1 ^7長押しで敵の軍事情報を入手する。"
+
+REFERENCE           MEDAL_SHARE_PACKAGE_DESC
+LANG_ENGLISH        "チームメイトが箱を確保してくれた"
+
+REFERENCE           MEDAL_ONE_SHOT_KILL
+LANG_ENGLISH        "ワンショット・ワンキル"
+
+REFERENCE           MEDAL_ONE_SHOT_KILL_DESC
+LANG_ENGLISH        "敵を1発で倒した"
+
+REFERENCE           SCRIPT_PLUS_DOLLAR
+LANG_ENGLISH        "+$"
+
+REFERENCE           MEDAL_SABOTEUR
+LANG_ENGLISH        "サボタージュ要員"
+
+REFERENCE           MEDAL_POSITION_SECURE_DESC
+LANG_ENGLISH        "目標地点を確保した"
+
+REFERENCE           MEDAL_PAYBACK
+LANG_ENGLISH        "復讐"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88_DONE
+LANG_ENGLISH        "88ミリ対空砲の操作員を排除しろ。"
+
+REFERENCE           MEDAL_SABOTEUR_DESC
+LANG_ENGLISH        "爆弾を設置した"
+
+REFERENCE           MEDAL_PAYBACK_DESC
+LANG_ENGLISH        "自分を殺した敵を倒した"
+
+REFERENCE           MEDAL_RESCUER
+LANG_ENGLISH        "救助者"
+
+REFERENCE           MEDAL_RESCUER_DESC
+LANG_ENGLISH        "負傷したチームメイトを救護した"
+
+REFERENCE           MEDAL_ASSISTED_SUICIDE
+LANG_ENGLISH        "セルフキルアシスト"
+
+REFERENCE           MEDAL_ASSISTED_SUICIDE_DESC
+LANG_ENGLISH        "負傷させた敵が自滅した"
+
+REFERENCE           MEDAL_HEROIC
+LANG_ENGLISH        "限界を超えて"
+
+REFERENCE           MEDAL_HEROIC_DESC
+LANG_ENGLISH        "セカンドチャンス中に拠点を確保した"
+
+REFERENCE           MEDAL_ASSISTS_DESC
+LANG_ENGLISH        "キルの達成をアシストした"
+
+REFERENCE           MEDAL_DESTROYER
+LANG_ENGLISH        "廃車確定"
+
+REFERENCE           SCRIPT_TANKSHELL_DEATH
+LANG_ENGLISH        "戦車砲弾にやられた！"
+
+REFERENCE           MEDAL_DESTROYER_DESC
+LANG_ENGLISH        "敵の車両を破壊した"
+
+REFERENCE           MEDAL_STREAKER
+LANG_ENGLISH        "ストリーカー"
+
+REFERENCE           SCRIPT_PLATFORM_CHEAT_USETOSLOWMO
+LANG_ENGLISH        "^3[{+melee}]^7でスローモーションを開始／停止できる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RELOAD
+LANG_ENGLISH        "[&&1]でいつでもリロードできる。"
+
+REFERENCE           MEDAL_STREAKER_DESC
+LANG_ENGLISH        "キルストリーク報酬を発動した"
+
+REFERENCE           MEDAL_HERO
+LANG_ENGLISH        "ヒーロー"
+
+REFERENCE           MEDAL_HERO_DESC
+LANG_ENGLISH        "爆弾を解除した"
+
+REFERENCE           MEDAL_ANTI_BOMBER
+LANG_ENGLISH        "アンチサボタージュ"
+
+REFERENCE           MEDAL_ANTI_BOMBER_DESC
+LANG_ENGLISH        "爆弾を解除している敵を倒した"
+
+REFERENCE           MEDAL_OFFENSE
+LANG_ENGLISH        "攻勢に貢献"
+
+REFERENCE           SCRIPT_AM_PLAYER_KICKED
+LANG_ENGLISH        "&&1はキックされた"
+
+REFERENCE           CGAME_SB_ASSISTS
+LANG_ENGLISH        "アシスト"
+
+REFERENCE           MEDAL_OFFENSE_DESC
+LANG_ENGLISH        "目標地点近くで敵を倒した"
+
+REFERENCE           MEDAL_CP_POPUP
+LANG_ENGLISH        "^2+&&1^7"
+
+REFERENCE           MEDAL_DEFENSE
+LANG_ENGLISH        "防衛に貢献"
+
+REFERENCE           MEDAL_DEFENSE_DESC
+LANG_ENGLISH        "防衛地点近くで敵を倒した"
+
+REFERENCE           MEDAL_POSITION_SECURE
+LANG_ENGLISH        "拠点確保"
+
+REFERENCE           MEDAL_FLAG_CAPTURE
+LANG_ENGLISH        "フラッグ奪取"
+
+REFERENCE           MEDAL_BOMBER
+LANG_ENGLISH        "爆破成功"
+
+REFERENCE           CGAME_SPECTATING
+LANG_ENGLISH        "観戦"
+
+REFERENCE           MEDAL_DESTROYER_COUNTERUAV_DESC
+LANG_ENGLISH        "カウンター偵察機を撃墜した"
+
+REFERENCE           MEDAL_DESTROYER_TURRET_DESC
+LANG_ENGLISH        "ターレットを破壊した"
+
+REFERENCE           MEDAL_DESTROYER_HELICOPTER_DESC
+LANG_ENGLISH        "ヘリコプターを撃墜した"
+
+REFERENCE           MEDAL_FLAG_RETURN
+LANG_ENGLISH        "フラッグ奪還"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USEARTILLERY
+LANG_ENGLISH        "[^3[{+activate}]^7]で砲撃を要請"
+
+REFERENCE           SCRIPT_HINT_THROW_C4_TOGGLE
+LANG_ENGLISH        "^3[{+toggleads_throw}]^7でC4爆薬を投げる。"
+
+REFERENCE           MEDAL_FLAG_RETURN_DESC
+LANG_ENGLISH        "フラッグを取り返した"
+
+REFERENCE           SCRIPT_PLATFORM_AIRLIFT_HINT_GETPILOT
+LANG_ENGLISH        "パイロットへ近付き、^3[{+activate}]^7長押しで連れて行きましょう"
+
+REFERENCE           SCRIPT_AM_SUICIDE_ONE_LAST_GO
+LANG_ENGLISH        "もう一度自滅するとキックされる"
+
+REFERENCE           SCRIPT_LEARN_CLAYMORES
+LANG_ENGLISH        "^3[{+actionslot 4}]^7でクレイモアを使用できる。"
+
+REFERENCE           MEDAL_DESC_POPUP
+LANG_ENGLISH        "&&1 &&2"
+
+REFERENCE           CGAME_SB_RETURNS
+LANG_ENGLISH        "回収成功数"
+
+REFERENCE           MEDAL_BANK_SHOT
+LANG_ENGLISH        "バンクショット"
+
+REFERENCE           MEDAL_XP_POPUP
+LANG_ENGLISH        "^3+&&1^7"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_BINOCULAR
+LANG_ENGLISH        "[&&1]で双眼鏡を覗く。"
+
+REFERENCE           MEDAL_DESTROYER_TURRET
+LANG_ENGLISH        "ターレットキル"
+
+REFERENCE           MEDAL_BALLISTIC_KNIFE_KILL
+LANG_ENGLISH        "串刺し"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_HEADSHOTS
+LANG_ENGLISH        "ヘッドショット最多+&&1"
+
+REFERENCE           CGAME_WAGER_SPEC_BET_ON_PLAYER
+LANG_ENGLISH        "このプレイヤーにベットした"
+
+REFERENCE           CGAME_DROWN
+LANG_ENGLISH        "引き分け"
+
+REFERENCE           MEDAL_BALLISTIC_KNIFE_KILL_DESC
+LANG_ENGLISH        "バリスティックナイフで敵を撃って倒した"
+
+REFERENCE           MEDAL_BANK_SHOT_DESC
+LANG_ENGLISH        "物体に跳ね返ったトマホークで敵を倒した"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_REVIVES
+LANG_ENGLISH        "蘇生最多+&&1"
+
+REFERENCE           MEDAL_REVIVE
+LANG_ENGLISH        "衛生兵"
+
+REFERENCE           MEDAL_REVIVE_DESC
+LANG_ENGLISH        "倒れたチームメイトを蘇生した"
+
+REFERENCE           SCRIPT_PLATFORM_OFF_TANK
+LANG_ENGLISH        "^3[{+activate}]^7を長押しで戦車から降りる"
+
+REFERENCE           MEDAL_DESTROYER_M220_TOW
+LANG_ENGLISH        "送信終了"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_DOUBLETAPPRONEKEY
+LANG_ENGLISH        "[&&1]をダブルタップすれば伏せ撃ち姿勢になる。"
+
+REFERENCE           MEDAL_DESTROYER_RCBOMB
+LANG_ENGLISH        "交通事故"
+
+REFERENCE           MEDAL_DESTROYER_RCBOMB_DESC
+LANG_ENGLISH        "RC‐XDを破壊した"
+
+REFERENCE           MEDAL_AIRCRAFT_ASSIST
+LANG_ENGLISH        "スクラップアシスト"
+
+REFERENCE           SCRIPT_EXPLOSIVE_BOLT_DEATH
+LANG_ENGLISH        "炸裂式ボルトによって死亡した。"
+
+REFERENCE           MEDAL_AIRCRAFT_ASSIST_DESC
+LANG_ENGLISH        "航空機の撃墜をアシストした"
+
+REFERENCE           CGAME_NEEDS_REVIVE
+LANG_ENGLISH        "に蘇生が必要"
+
+REFERENCE           CGAME_YOUREVIVED
+LANG_ENGLISH        "&&1を蘇生した"
+
+REFERENCE           CGAME_NOSPECTATORVOICECHAT
+LANG_ENGLISH        "観戦中はボイスチャットが使用できません。"
+
+REFERENCE           SCRIPT_MINUS_AMOUNT
+LANG_ENGLISH        "-%s"
+
+REFERENCE           CGAME_SPECTATOR
+LANG_ENGLISH        "観戦者"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PICKUPWEAPONKEY
+LANG_ENGLISH        "武器を拾うには、武器を見ながら「使う」[&&1]を押せ。"
+
+REFERENCE           SCRIPT_HINTSTR_GRENADESFULL
+LANG_ENGLISH        "これ以上グレネードを持ち歩くことはできない。"
+
+REFERENCE           CGAME_SB_HEADSHOTS
+LANG_ENGLISH        "ヘッド"
+
+REFERENCE           CGAME_COMPLAINTFILED
+LANG_ENGLISH        "苦情が報告されました"
+
+REFERENCE           CGAME_COMPLAINTDISMISSED
+LANG_ENGLISH        "苦情は却下されました"
+
+REFERENCE           SCRIPT_NIGHTVISION_USE
+LANG_ENGLISH        "^3[{+actionslot 1}]^7でナイトビジョンゴーグルを使用する。"
+
+REFERENCE           CGAME_COMPLAINTSERVERHOST
+LANG_ENGLISH        "サーバーホストに抗議することはできません"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RAISEFROMPRONETOCROUCH
+LANG_ENGLISH        "[&&1]でしゃがみ状態から伏せ撃ち姿勢になる。"
+
+REFERENCE           CGAME_SB_PLAYER
+LANG_ENGLISH        "&&1"
+
+REFERENCE           CGAME_SERVERHOSTTEAMKILLED
+LANG_ENGLISH        "サーバーホストからチームキルされました"
+
+REFERENCE           CGAME_COMPLAINTTEAMKILLFILE
+LANG_ENGLISH        "&&1のチームキルに苦情を報告しますか？"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FIRSTOBJECTIVE
+LANG_ENGLISH        "1つめの目標を見て「使う」[&&1]を押せば回収できる"
+
+REFERENCE           CGAME_PRESSYESNO
+LANG_ENGLISH        "'&&1' で「はい」、'&&2' で「いいえ」"
+
+REFERENCE           CGAME_VOTE
+LANG_ENGLISH        "投票"
+
+REFERENCE           CGAME_YES
+LANG_ENGLISH        "はい"
+
+REFERENCE           CGAME_NO
+LANG_ENGLISH        "いいえ"
+
+REFERENCE           CGAME_YOUKILLED
+LANG_ENGLISH        "&&1を殺した"
+
+REFERENCE           CGAME_UNKNOWN
+LANG_ENGLISH        "不明"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_TOO_LATE
+LANG_ENGLISH        "犬がかみつく前に^3( ^3[{+melee}]^7 )^7で格闘攻撃を 繰り出せば首をつかめる。"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES_CAP
+LANG_ENGLISH        "ミッション目標"
+
+REFERENCE           SCRIPT_FIRE_TO_SKIP
+LANG_ENGLISH        "射撃ボタンでスキップできる。"
+
+REFERENCE           CGAME_DW_IS_OFFLINE
+LANG_ENGLISH        "：オフライン"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES
+LANG_ENGLISH        "ミッション目標"
+
+REFERENCE           CGAME_PAUSED
+LANG_ENGLISH        "ポーズ中"
+
+REFERENCE           CGAME_PLAYERRENAMES
+LANG_ENGLISH        "名前変更："
+
+REFERENCE           CGAME_CONNECTIONINTERUPTED
+LANG_ENGLISH        "接続が中断しました"
+
+REFERENCE           SCRIPT_DEBUG_LEVEL_END
+LANG_ENGLISH        "現ステージ終了。"
+
+REFERENCE           CGAME_SB_PLAYERS
+LANG_ENGLISH        "&&1"
+
+REFERENCE           CGAME_SB_SCORE
+LANG_ENGLISH        "スコア"
+
+REFERENCE           CGAME_SB_DEATHS
+LANG_ENGLISH        "デス"
+
+REFERENCE           CGAME_SB_PING
+LANG_ENGLISH        "Ping"
+
+REFERENCE           SCRIPT_PLATFORM_SPOOL_MINIGUN
+LANG_ENGLISH        "^3[{+speed_throw}]^7の長押しでミニガンを回転させる。"
+
+REFERENCE           CGAME_FOR
+LANG_ENGLISH        "の対象："
+
+REFERENCE           CGAME_DIED
+LANG_ENGLISH        "死亡"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STRAFELEFT
+LANG_ENGLISH        "左移動キー[&&1]で左に移動する。"
+
+REFERENCE           CGAME_MELEE
+LANG_ENGLISH        "格闘"
+
+REFERENCE           CGAME_SUICIDE
+LANG_ENGLISH        "セルフキル"
+
+REFERENCE           SCRIPT_LEARN_CLAYMORE_PLACEMENT
+LANG_ENGLISH        "^3[{+attack}]^7でクレイモアを設置する。"
+
+REFERENCE           CGAME_SB_DESTRUCTIONS
+LANG_ENGLISH        "爆破成功数"
+
+REFERENCE           CGAME_FALLING
+LANG_ENGLISH        "落下中"
+
+REFERENCE           CGAME_CRUSH
+LANG_ENGLISH        "クラッシュ"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CHECKCURRENTOBJECTIVE
+LANG_ENGLISH        "[&&1]で現在の目標を確認できる。"
+
+REFERENCE           CGAME_SLIME
+LANG_ENGLISH        "スライム"
+
+REFERENCE           CGAME_HEAD_SHOT
+LANG_ENGLISH        "ヘッドショット"
+
+REFERENCE           CGAME_PRONE_BLOCKED
+LANG_ENGLISH        "伏せ撃ち不能\"
+
+REFERENCE           CGAME_PRONE_BLOCKED_WEAPON
+LANG_ENGLISH        "この武器では伏せ撃ちできない"
+
+REFERENCE           SCRIPT_DOLLAR
+LANG_ENGLISH        "$"
+
+REFERENCE           CGAME_LISTENSERVER
+LANG_ENGLISH        "リッスンサーバー"
+
+REFERENCE           CGAME_THIS_WEAPON_HAS_NO_ALTERNATE
+LANG_ENGLISH        "この武器では射撃モードの切り替えができない。"
+
+REFERENCE           CGAME_YOUWEREREVIVED
+LANG_ENGLISH        "&&1に蘇生された"
+
+REFERENCE           CGAME_YOUWEREKILLED
+LANG_ENGLISH        "&&1に殺された"
+
+REFERENCE           CGAME_CONTINUE_SAVING
+LANG_ENGLISH        "セーブして終了"
+
+REFERENCE           CGAME_SAVE_WARNING
+LANG_ENGLISH        "セーブすると、チェックポイント以降の\n進行状況は失われます。\n\nセーブしますか？"
+
+REFERENCE           CGAME_RESTART_WARNING
+LANG_ENGLISH        "再起動すると、\nこのミッションの\n進行状況が失われます\n\n再起動しますか？"
+
+REFERENCE           CGAME_SAVE_VICTORY
+LANG_ENGLISH        "ゲームの進行状況をセーブしますか？"
+
+REFERENCE           CGAME_OBJECTIVE_ABOVE
+LANG_ENGLISH        "前述の目標"
+
+REFERENCE           CGAME_SQUAD_CLEAR
+LANG_ENGLISH        "分隊長が命令を取り消した"
+
+REFERENCE           CGAME_SQUAD_DEFEND
+LANG_ENGLISH        "分隊長が防衛命令を発令"
+
+REFERENCE           CGAME_SQUAD_LEADERCHANGED
+LANG_ENGLISH        "分隊長が交代した！ 新任の分隊長："
+
+REFERENCE           CGAME_SQUAD_DISBANDED
+LANG_ENGLISH        "分隊が解散され、一匹狼になった"
+
+REFERENCE           CGAME_SQUAD_MEMBERJOINED
+LANG_ENGLISH        "が分隊に配属された"
+
+REFERENCE           CGAME_SQUAD_MEMBERLEFT
+LANG_ENGLISH        "が分隊から離脱した"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPGRENADES
+LANG_ENGLISH        "[&&1]でグレネードを拾う"
+
+REFERENCE           CGAME_SQUAD_JOINEDSQUAD
+LANG_ENGLISH        "分隊に配属された："
+
+REFERENCE           CGAME_SQUAD_MEMBERKICKED
+LANG_ENGLISH        "の判断で分隊から除外された"
+
+REFERENCE           CGAME_SQUAD_INVITERECEIVED
+LANG_ENGLISH        "から分隊に招待された"
+
+REFERENCE           SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_PLANT_C4_GLOW
+LANG_ENGLISH        "光っている目標マーカーに近づいて^3[{+activate}]^7を長押しでC4爆薬を設置。"
+
+REFERENCE           CGAME_DW_ACCEPTED_FRIEND
+LANG_ENGLISH        "がフレンド登録の依頼を承諾しました。"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_ENGLISH        "味方への誤射は許されない！"
+
+REFERENCE           CGAME_DW_CANCEL_FRIEND
+LANG_ENGLISH        "がフレンド登録の依頼をキャンセルしました。"
+
+REFERENCE           CGAME_SB_CAPTURES
+LANG_ENGLISH        "確保成功数"
+
+REFERENCE           CGAME_DW_REVOKED_FRIEND
+LANG_ENGLISH        "がフレンド登録を取り消しました。"
+
+REFERENCE           CGAME_DW_REJECTED_FRIEND
+LANG_ENGLISH        "がフレンド登録の依頼を拒否しました。"
+
+REFERENCE           CGAME_DW_WANTS_TO_BE_FRIEND
+LANG_ENGLISH        "がらフレンド登録の依頼を受信しました。"
+
+REFERENCE           CGAME_DW_IS_ONLINE
+LANG_ENGLISH        "：オンライン"
+
+REFERENCE           CGAME_SB_KILLS
+LANG_ENGLISH        "キル"
+
+REFERENCE           CGAME_SB_KDRATIO
+LANG_ENGLISH        "比率"
+
+REFERENCE           CGAME_SB_REVIVES
+LANG_ENGLISH        "蘇生数"
+
+REFERENCE           CGAME_SB_DOWNS
+LANG_ENGLISH        "ダウン"
+
+REFERENCE           CGAME_SB_ACCURACY
+LANG_ENGLISH        "命中率"
+
+REFERENCE           SCRIPT_AM_STREAK_COMPLETE
+LANG_ENGLISH        "ボーナス達成"
+
+REFERENCE           CGAME_AM_IN_FIRST_PLACE
+LANG_ENGLISH        "&&1はリードを奪った"
+
+REFERENCE           CGAME_SQUAD_LEFTSQUAD
+LANG_ENGLISH        "分隊から離脱した"
+
+REFERENCE           CGAME_TEAMKILLED
+LANG_ENGLISH        "味方をチームキルした："
+
+REFERENCE           SCRIPT_INTELLIGENCE_ONEREMAINING
+LANG_ENGLISH        "敵の軍事情報の残り：&&1"
+
+REFERENCE           CGAME_KILLEDBY
+LANG_ENGLISH        "殺された"
+
+REFERENCE           CGAME_TEAMKILLEDBY
+LANG_ENGLISH        "味方にチームキルされた："
+
+REFERENCE           CGAME_SB_DEFENDS
+LANG_ENGLISH        "防衛成功数"
+
+REFERENCE           CGAME_SB_PLANTS
+LANG_ENGLISH        "設置数"
+
+REFERENCE           CGAME_SB_DEFUSES
+LANG_ENGLISH        "解除数"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SIGHTARTILLERY_BREATH
+LANG_ENGLISH        "[^3[{+breath_binoculars}]^7]で双眼鏡を覗いて砲撃を指示する。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANLEFTKEY
+LANG_ENGLISH        "[&&1]長押しで左にのぞき込む。"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_ENGLISH        "仲間を裏切った！"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH
+LANG_ENGLISH        "味方への誤射は許されない！"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MOVEBACKWARD
+LANG_ENGLISH        "後退キー[&&1]で後退できる。"
+
+REFERENCE           SCRIPT_HINT_OBJECTIVEONCOMPASS
+LANG_ENGLISH        "次の目標はコンパス上に星として表\示されている"
+
+REFERENCE           SCRIPT_OBJ_DESTROYFLAKPANZERS
+LANG_ENGLISH        "フラックパンツァー対空戦車を破壊せよ［残り&&1］"
+
+REFERENCE           SCRIPT_COLLECTIBLE_PICKUP
+LANG_ENGLISH        "^3&&1^7長押しで機密ファイルを入手"
+
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_ENGLISH        "この扉を開くことはできない。閉じている扉は、開くかどうか確かめる必要はない。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_ADSKEY
+LANG_ENGLISH        "[&&1]でサイトを使用"
+
+REFERENCE           SCRIPT_HINT_PICKUPAMMOKEY
+LANG_ENGLISH        "別の武器から弾薬を入手するには近づくか視線を向けて操作ボタン[&&1]を押す"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MOVEFORWARD
+LANG_ENGLISH        "前進キー[&&1]で前進できる。"
+
+REFERENCE           SCRIPT_HINT_LEANINGSLOWMOVE
+LANG_ENGLISH        "のぞき込み中は移動速度が低下する。"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPPATROLLOGS
+LANG_ENGLISH        "[&&1]でパトロールログを拾う"
+
+REFERENCE           SCRIPT_GLOWING_MARKER
+LANG_ENGLISH        "ドイツ軍の対空車両上の光るマーカーを探せ。"
+
+REFERENCE           SCRIPT_CLEARBUILDING
+LANG_ENGLISH        "機銃の配置されている建物を制圧しろ。"
+
+REFERENCE           SCRIPT_TAKELEFTFLANK
+LANG_ENGLISH        "左側面から攻撃しろ。"
+
+REFERENCE           SCRIPT_PLATFORM_BANZAI_DEATH_DO_NOTHING
+LANG_ENGLISH        "バンザイアタッカーに刺されそうになったら、逆に刺しましょう。^3( ^3[{+melee}]^7 )^7"
+
+REFERENCE           SCRIPT_ARTILLERY_TOOFAR
+LANG_ENGLISH        "通信兵から離れすぎているため、砲撃支援を要請できない。"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88
+LANG_ENGLISH        "88ミリ対空砲の操作員を排除しろ。［残り&&1］"
+
+REFERENCE           SCRIPT_GRENADE_DEATH
+LANG_ENGLISH        "グレネードの爆発で死亡した。\nグレネードの警告マーカーを見逃すな。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWITCHTOGRENADE
+LANG_ENGLISH        "[&&1]でグレネードに切り替わる。"
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE1
+LANG_ENGLISH        "グレネードを長く持ちすぎて爆死してしまった。"
+
+REFERENCE           SCRIPT_AM_SUICIDE_COMMITED
+LANG_ENGLISH        "自滅したためペナルティを受けた"
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE2
+LANG_ENGLISH        "^3[{+frag}]^7を長押しで点火したグレネードを持ったままにできる。"
+
+REFERENCE           SCRIPT_EXPLODING_VEHICLE_DEATH
+LANG_ENGLISH        "乗り物の爆発に巻き込まれて死亡した。\n炎上中の乗り物は爆発する可能\性が高い。"
+
+REFERENCE           SCRIPT_EXPLODING_BARREL_DEATH
+LANG_ENGLISH        "ドラム缶の爆発に巻き込まれた。\n赤いドラム缶は銃撃すると爆発する。"
+
+REFERENCE           SCRIPT_X2
+LANG_ENGLISH        "x2"
+
+REFERENCE           SCRIPT_X3
+LANG_ENGLISH        "x3"
+
+REFERENCE           SCRIPT_PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNADSKEY
+LANG_ENGLISH        "[&&1]長押しで銃のサイトを使用する"
+
+REFERENCE           SCRIPT_MINUS
+LANG_ENGLISH        "-"
+
+REFERENCE           SCRIPT_PLUS_AMOUNT
+LANG_ENGLISH        "+%s"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_RAPPEL
+LANG_ENGLISH        "^3 &&1 ^7長押しでラペリング。"
+
+REFERENCE           SCRIPT_MINUS_DOLLAR
+LANG_ENGLISH        "-$"
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_THIRTY
+LANG_ENGLISH        "敵の軍事情報を発見：&&1／30"
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYFIVE
+LANG_ENGLISH        "敵の軍事情報を発見：&&1／45"
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_SIXTY
+LANG_ENGLISH        "敵の軍事情報を発見：&&1／60"
+
+REFERENCE           SCRIPT_INTELLIGENCE_PTS
+LANG_ENGLISH        "敵の軍事情報を&&1ポイント分入手した。"
+
+REFERENCE           SCRIPT_INTELLIGENCE_REMAINING
+LANG_ENGLISH        "敵の軍事情報の残り：&&1"
+
+REFERENCE           SCRIPT_LEARN_GRENADE_LAUNCHER
+LANG_ENGLISH        "^3[{+actionslot 3}]^7でM203グレネードランチャーを使用できる。ターゲットのやや上を狙うと当て易い。"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1
+LANG_ENGLISH        "近接航空支援、準備完了！"
+
+REFERENCE           SCRIPT_ARMOR_DAMAGE
+LANG_ENGLISH        "装甲目標にダメージを与えられるのは\nC4とロケットのみだ。"
+
+REFERENCE           SCRIPT_MANTLE
+LANG_ENGLISH        "^3[{+gostand}]^7で"
+
+REFERENCE           SCRIPT_LEARN_M14_SWITCH
+LANG_ENGLISH        "^3[{weapnext}]^7でM21スナイパーライフルに切り替わる。"
+
+REFERENCE           SCRIPT_HOLD_TO_USE
+LANG_ENGLISH        "^3 &&1 ^7長押しで使用する。"
+
+REFERENCE           SCRIPT_COLON
+LANG_ENGLISH        "："
+
+REFERENCE           SCRIPT_HINT_THROW_C4
+LANG_ENGLISH        "^3[{+throw}]^7でC4爆薬を投げる。"
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED_TRIGGER
+LANG_ENGLISH        "^3[{+speed_throw}]^7でC4爆薬を投げる。"
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED
+LANG_ENGLISH        "^3[{+speed_throw}]^7でC4爆薬を投げる。"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS_X
+LANG_ENGLISH        "x&&1"
+
+REFERENCE           SCRIPT_AM_X
+LANG_ENGLISH        "x"
+
+REFERENCE           SCRIPT_AM_SUICIDE_KICKED
+LANG_ENGLISH        "自滅が多過ぎたためキックされた"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTEXPLOSIVES
+LANG_ENGLISH        "爆発物スポットを見て、[&&1]で爆弾を設置する。"
+
+REFERENCE           SCRIPT_AM_LOW_SCORE_WARNING
+LANG_ENGLISH        "警告：低いマイナススコアによりキック間近"
+
+REFERENCE           SCRIPT_AM_MISSION_SCORE
+LANG_ENGLISH        "ミッションスコア"
+
+REFERENCE           SCRIPT_AM_STREAK_BONUS_LOST
+LANG_ENGLISH        "ボーナス失効"
+
+REFERENCE           SCRIPT_AM_NEW_HIGH_SCORE
+LANG_ENGLISH        "ハイスコア更新！"
+
+REFERENCE           SCRIPT_TOTAL_SCORE
+LANG_ENGLISH        "合計スコア："
+
+REFERENCE           SCRIPT_TIME_REMAINING
+LANG_ENGLISH        "残り時間："
+
+REFERENCE           SCRIPT_AM_PLAYERNAME
+LANG_ENGLISH        "&&1"
+
+REFERENCE           SCRIPT_HINT_MELEE
+LANG_ENGLISH        "^3[{+melee}]^7で格闘攻撃"
+
+REFERENCE           SCRIPT_COLLECTIBLE
+LANG_ENGLISH        "機密ファイルを入手"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PRONEKEY
+LANG_ENGLISH        "[&&1]で伏せ撃ち姿勢"
+
+REFERENCE           SCRIPT_COLLECTIBLE_FOUND
+LANG_ENGLISH        "機密ファイルを回収 (%1 ／ %2)"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_NEUTRAL
+LANG_ENGLISH        "一般市民を撃ってしまった。射撃注意！"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOCROUCHKEY
+LANG_ENGLISH        "[&&1]を放すとしゃがむのをやめる。"
+
+REFERENCE           SCRIPT_MOVING_VEHICLE_DEATH
+LANG_ENGLISH        "車両にひかれて死亡した。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_OBJECTIVEKEY
+LANG_ENGLISH        "[&&1]で目標を確認"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNPRONEKEY
+LANG_ENGLISH        "[&&1]長押しで伏せ撃ち姿勢になる"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_DOUBLETAPSTANDKEY
+LANG_ENGLISH        "[&&1]をダブルタップすれば伏せ撃ち姿勢から立ち上がれる。"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_DO_NOTHING
+LANG_ENGLISH        "犬がかみつく瞬間に^3( ^3[{+melee}]^7 )^7 で格闘攻撃を 繰り出せば首をつかめる。"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_HINT
+LANG_ENGLISH        "^3( ^3[{+melee}]^7 )^7を押せ"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANOUTWINDOW
+LANG_ENGLISH        "使用ボタン[&&1]で窓から体を出せる"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWITCHTOSECONDWEAPON
+LANG_ENGLISH        "武器を2つ携行している状態になった。 [&&1]で2つめの武器に切り替わる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_TRAINING_SWITCHTOGRENADE
+LANG_ENGLISH        "[&&1]でグレネードに切り替わる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USECINDERBLOCKWALL
+LANG_ENGLISH        "ブロック壁へ近付き「使う」キー[&&1]で爆弾をしかける。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNCROUCHKEY
+LANG_ENGLISH        "[&&1]長押しでしゃがむ。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDKEY
+LANG_ENGLISH        "[&&1]で立ち上がる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOSECONDKEY
+LANG_ENGLISH        "伏せ撃ち姿勢になった場合、[&&1]をダブルタップする。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDFROMCROUCHKEY
+LANG_ENGLISH        "[&&1]をダブルタップすればしゃがみ状態から立ち上がれる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_ADSSTOP
+LANG_ENGLISH        "[&&1]をもう一度押せばサイトを使った射撃を解除できる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FIRSTWEAPONKEY
+LANG_ENGLISH        "[&&1]で1つめの武器に切り替わる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SECONDWEAPONKEY
+LANG_ENGLISH        "[&&1]で2つめの武器に切り替わる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWAPWEAPONSKEY
+LANG_ENGLISH        "「使う」[&&1]長押しで装備中の武器を、目の前の武器と交換できる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_JUMPSTANDKEY
+LANG_ENGLISH        "立っている状態で[&&1]を押せばジャンプできる。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANRIGHTKEY
+LANG_ENGLISH        "[&&1]長押しで右にのぞき込む。"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PLANTEXPLOSIVES
+LANG_ENGLISH        "[&&1]で爆弾を設置"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_DOCUMENTS
+LANG_ENGLISH        "[&&1]で書類を拾う"
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_USEELEVATOR
+LANG_ENGLISH        "[&&1]でエレベーターを起動する。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SIGHTARTILLERY
+LANG_ENGLISH        "[^3[{+binoculars}]^7]で、双眼鏡を覗いて砲撃を指示する。"
+
+REFERENCE           SCRIPT_PLATFORM_PIANO
+LANG_ENGLISH        "[&&1]を押す"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PICKUP_PANZERSCHRECK
+LANG_ENGLISH        "[&&1]で、パンツァーシュレックを拾う"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USERADIO
+LANG_ENGLISH        "[&&1]で無線を使う。"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTBEACON
+LANG_ENGLISH        "^3 &&1^7で赤外線ビーコンを設置できる。"
+
+REFERENCE           SCRIPT_PLATFORM_AIRLIFT_HINT_PICKUP_PILOT
+LANG_ENGLISH        "^3 &&1 ^7長押しでパイロットを拾う"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_GET_DETONATOR
+LANG_ENGLISH        "^3 &&1^7長押しで点火装置を拾える。"
+
+REFERENCE           SCRIPT_PLATFORM_LEARN_CHOPPER_AIR_SUPPORT2
+LANG_ENGLISH        "^3[{+attack}]^7で攻撃座標を送信しろ。"
+
+REFERENCE           SCRIPT_PLATFORM_BANZAI_HINT
+LANG_ENGLISH        "^3( ^3[{+melee}]^7 )^7を押せ"
+
+REFERENCE           SCRIPT_PLATFORM_BANZAI_DEATH_TOO_SOON
+LANG_ENGLISH        "バンザイアタッカーに倒された後に、彼を刺しましょう。^3( ^3[{+melee}]^7 )^7"
+
+REFERENCE           SCRIPT_PLATFORM_BANZAI_DEATH_TOO_LATE
+LANG_ENGLISH        "バンザイアタッカーに刺される前に、逆に刺しましょう。^3( ^3[{+melee}]^7 )^7"
+
+REFERENCE           SCRIPT_PLATFORM_SNIPER_HINT_CROUCH
+LANG_ENGLISH        "^3[{gocrouch}]^7でしゃがむ。"
+
+ENDMARKER

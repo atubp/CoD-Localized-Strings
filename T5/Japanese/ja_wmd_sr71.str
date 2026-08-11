@@ -1,0 +1,487 @@
+// Dumped from fastfile "ja_wmd_sr71".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WMD_SR71_COPILOT_NAME
+LANG_ENGLISH        "トーマス少佐"
+
+REFERENCE           WMD_SR71_INTRO_LOCATION
+LANG_ENGLISH        "^L0500時^L ^C11968年2月18日^C"
+
+REFERENCE           WMD_SR71_KILLED_BY_VEHICLE
+LANG_ENGLISH        "分隊に身を隠すよう指示して敵の車両をやり過ごせ"
+
+REFERENCE           WMD_SR71_INTRO_NAME
+LANG_ENGLISH        "^L作戦を率いるのは^L^C1モーズリー大尉^C"
+
+REFERENCE           WMD_SR71_KILLED_BY_HIT_BY_VEHICLE
+LANG_ENGLISH        "車両にはねられないように、分隊を道路上に出すな"
+
+REFERENCE           WMD_SR71_EXIT_SR71
+LANG_ENGLISH        "^3[{+activate}]^7で出る"
+
+REFERENCE           WMD_SR71_INTRO_LEVELNAME
+LANG_ENGLISH        "^L送信# 9-19 指定: SIERRA^L"
+
+REFERENCE           WMD_SR71_MOVE_EAST
+LANG_ENGLISH        "分隊を東へ移動させろ"
+
+REFERENCE           WMD_SR71_BARRACKS
+LANG_ENGLISH        "兵舎"
+
+REFERENCE           WMD_SR71_FIND_COVER
+LANG_ENGLISH        "稜線上に集結させろ"
+
+REFERENCE           WMD_SR71_LOCATE_SQUAD
+LANG_ENGLISH        "キロ1を探せ"
+
+REFERENCE           WMD_SR71_ELIMINATE_ENEMIES
+LANG_ENGLISH        "排除せよ"
+
+REFERENCE           WMD_SR71_INTRO_EXTRA
+LANG_ENGLISH        "^Lブラックバードが監視中、コードネーム：ビッグアイ^L"
+
+REFERENCE           WMD_SR71_INTRO_DATE
+LANG_ENGLISH        "^C1カリフォルニア州ビール空軍基地^C"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_125A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7一帯を確保。最高の結果だ"
+
+REFERENCE           WMD_SR71_FIRE_THRUSTERS
+LANG_ENGLISH        "^3[{+attack}]^7でエンジン始動"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_064A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解。撃破する"
+
+REFERENCE           WMD_SR71_LIFTOFF
+LANG_ENGLISH        "^3[{+movestick}]^7を下に倒すと離陸"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_075A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7ターゲット複数。交戦せよ"
+
+REFERENCE           WMD_SR71_MARK_TARGET
+LANG_ENGLISH        "^3[{+activate}]^7で敵の位置をマーク"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_032A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7了解。確認した"
+
+REFERENCE           WMD_SR71_ENEMY_LOCATION
+LANG_ENGLISH        "敵の位置"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_049A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、東へ進むんだ"
+
+REFERENCE           WMD_SR71_DESTROY_COMMS
+LANG_ENGLISH        "内部通信系を破壊せよ"
+
+REFERENCE           WMD_SR71_MOVE_SQUAD
+LANG_ENGLISH        "^3[{+gostand}]^7で分隊に命令"
+
+REFERENCE           WMD_SR71_MOVE_CAMERA
+LANG_ENGLISH        "^3[{+lookstick}]^7でカメラを操作"
+
+REFERENCE           WMD_SR71_ZOOM_IN
+LANG_ENGLISH        "^3[{+speed_throw}]^7でカメラをズームイン"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_010A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7KAD、滑走を開始する"
+
+REFERENCE           WMD_SR71_ZOOM_OUT
+LANG_ENGLISH        "^3[{+attack}]^7でカメラをズームアウト"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_072A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7わかった、ビッグアイ"
+
+REFERENCE           WMD_SR71_PLANT
+LANG_ENGLISH        "爆薬を設置"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_367A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7敵が入ってくるぞ。裏口から抜けて、建物の裏にある崖に身を隠せ！ 位置は捕捉している。急げ！"
+
+REFERENCE           WMD_SR71_OBJ_SUPPORT
+LANG_ENGLISH        "SUPPORT"
+
+REFERENCE           WMD_SR71_SQUAD_LABEL
+LANG_ENGLISH        "キロ1"
+
+REFERENCE           WMD_SR71_MOVE_OFFROAD
+LANG_ENGLISH        "キロ1を安全な場所に移動させろ"
+
+REFERENCE           WMD_SR71_SAFE_SPOT
+LANG_ENGLISH        "セーフハウス"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_038A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー、北へ向う"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_013A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7V-1、チェック"
+
+REFERENCE           WMD_SR71_JEEP_ENEMIES
+LANG_ENGLISH        "ジープ周辺の敵を排除せよ"
+
+REFERENCE           WMD_SR71_CLEAR_BARRACKS
+LANG_ENGLISH        "兵舎を制圧せよ"
+
+REFERENCE           WMD_SR71_CLEAR
+LANG_ENGLISH        "CLEAR"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_008A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7システムチェック完了。テイクオフパワー...マーク。ユーハブコントロール"
+
+REFERENCE           WMD_SR71_GUIDE_KILO_TO_INSERTION_POINT
+LANG_ENGLISH        "キロ1を突入ポイントまで誘導せよ"
+
+REFERENCE           WMD_SR71_COVER
+LANG_ENGLISH        "COVER"
+
+REFERENCE           WMD_SR71_PRONE_AVOID
+LANG_ENGLISH        "^3[{+melee}]^7で身を隠すよう分隊に指示"
+
+REFERENCE           WMD_SR71_GET_TO_BARRACKS
+LANG_ENGLISH        "兵舎を制圧し、通信リンクを破壊せよ"
+
+REFERENCE           WMD_SR71_HELP_EVADE_PATROL
+LANG_ENGLISH        "キロ1を敵から守れ"
+
+REFERENCE           WMD_SR71_DESTROY
+LANG_ENGLISH        "爆破"
+
+REFERENCE           WMD_SR71_INSERTION_POINT
+LANG_ENGLISH        "突入ポイント"
+
+REFERENCE           WMD_SR71_REGROUP_POINT
+LANG_ENGLISH        "集合"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_051A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7東へ進め"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_012A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7V-1、ローテイト"
+
+REFERENCE           WMD_SR71_PLANT_EXPLOSIVE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで爆弾を設置"
+
+REFERENCE           WMD_SR71_EVADE_CONVOY
+LANG_ENGLISH        "キロ1をセーフハウスに誘導せよ"
+
+REFERENCE           WMD_SR71_DETONATE
+LANG_ENGLISH        "^3[{+attack}]^7で爆破"
+
+REFERENCE           WMD_SR71_KILLED_BY_PATROLLER
+LANG_ENGLISH        "分隊に身を隠すよう指示して敵のパトロールをやり過ごせ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_414A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7よくやった、移動しろ"
+
+REFERENCE           WMD_SR71_TARGET_ENEMY
+LANG_ENGLISH        "分隊に警備兵を始末させる"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_503A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7ターゲットインジケーターをチェックせよ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_001A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7KAD、こちらビッグアイ6、離陸許可を"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_016A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7離陸、チェック"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_400A_USC3_F
+LANG_ENGLISH        "^1司令部:^7ビッグアイ6、ランウェイ4、離陸を許可する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_401A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7KAD、セクター・ブラボー69でKC-135からの給油を要請する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_006A_USC3_F
+LANG_ENGLISH        "^1司令部:^7ビッグアイ6、進路クリア"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_402A_USC3_F
+LANG_ENGLISH        "^1司令部:^7了解、ビッグアイ6。KC-135はセクター内を 飛行中。合流せよ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_007A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7OK、KAD。離陸する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_009A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7OK"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_115A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、停止し、身を隠せ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_017A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7KAD、こちらビッグアイ6、当機は離陸した"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_011A_USC3_F
+LANG_ENGLISH        "^1司令部:^7OK、ビッグアイ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_014A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7よし...  加速良好"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_368A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7敵の車両が前方の道路脇にいることを確認した。移動せよ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_015A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7離陸"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_034A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ1、こちらビッグアイ6。そちらの位置を確認した"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_424A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7KAD、キロ1が無力化された"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_403A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー、ビッグアイ6。地上は視程ゼロ。通信中継装置まで誘導してくれ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_356A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7CP、ターゲットインジケーターを使ってキロ1を探せ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_127A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7戦術偵察。敵車両、接近。分隊を道路からどかせ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_358A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7北に建造物がある模様。侵入させろ、CP"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_039A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、そのまま北へ進め"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_365A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7家のそばを通過している"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_366A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7待て、いかん。敵が家の正面で停止した"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_404A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7敵歩兵が接近... 排除せよ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_405A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ1、道路は敵だらけだ。建物の裏口から出ろ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_406A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7だめだ、キロ1"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_407A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7ネガティブ、キロ1"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_408A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、ターゲット2名が向かっている"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_409A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7始末しろ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_410A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7よくやった、移動しろ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_411B_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7CP、多数のパトロールが接近中"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_116A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7いったん停止する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_413A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7よし、キロ1。視界から外れたぞ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_415A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7オールクリア、キロ1"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_416A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7兵舎に分隊を移動させろ。最初の目標はその中だ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_417A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー、ビッグアイ。突入にそなえる"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_418A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7兵舎に接近。内部に複数のターゲット。突入し、排除しろ、キロ1"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_102A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解した、ビッグアイ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_419A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7内部通信ラインをカット。これで通話はできない。第2目標に移動する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_420A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7ラジャー、キロ1"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_421A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ1、敵歩兵が接近中。少なくとも6人はいる。多すぎるぞ！"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_422A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7停止して身を隠せ。見つかるな"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_057A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、西へ進んでくれ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_423A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー、ビッグアイ... 隠れる"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_037A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、北へ進め"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_040A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解、移動する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_041A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ。北へ向かえ、オーバー"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_042A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解、北に進路をとる"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_043A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7南へ行け、キロ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_044A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_045A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7南の座標をマークした"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_046A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解、南へ移動する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_047A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、南へ進め"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_048A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7移動する、オーバー"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_050A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7移動する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_426A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7KAD、キロ1は戦死した。"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_052A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_053A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、東へ向かえ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_054A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解した、ビッグアイ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_055A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7西へ進め、キロ1"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_506A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7ネガティブ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_056A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7西へ移動する、ビッグアイ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_058A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解、移動する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_059A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、西へ進め"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_060A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_065A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7ターゲット2名を捕捉。排除せよ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_066A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解した、ビッグアイ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_067A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、ターゲット2名を捉えた。片づけろ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_068A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_120A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7周辺クリア。グッジョブ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_069A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7射程内に敵兵3。排除せよ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_070A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー、これより会敵する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_071A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7コンタクト。ターゲット3名。片づけろ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_073A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7複数の敵を確認。攻撃を許可する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_074A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解、ビッグアイ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_076A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー。移動する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_077A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、敵を確認した。排除せよ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_078A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解、片づける"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_079A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7移動中の車両を捉えた。トラックだ。片づけろ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_080A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解、トラックを片づける"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_081A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7車両が接近。ジープの模様"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_082A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7視認した。会敵する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_083A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7射程内に敵車両。無力化せよ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_084A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7了解、ビッグアイ。用意する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_117A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7よくやった、キロ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_118A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、制圧を確認した"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_119A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7周辺を制圧。よくやった"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_121A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7やったな"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_112A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7わかった"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_122A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7目標を達成"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_123A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7よくやった、キロ1"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_124A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7見事だ。次の行動に移る"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_134A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7CP、道路上に複数のターゲット！ キロをそこから移動させろ！"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_135A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ、敵が接近！ すぐに身を隠せ！"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_136A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7伏せろ！ 伏せろ！"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_425A_USC2_F
+LANG_ENGLISH        "^1ネイトッシュ少佐:^7キロ1？ 応答せよ、キロ1！"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_062A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7ラジャー、交戦する"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_106A_HUDS_F
+LANG_ENGLISH        "^1ハドソ\ン:^7行動を開始する、ビッグアイ"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_504A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7だめだ、C.P"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_505A_USC1_F
+LANG_ENGLISH        "^1モーズリー大尉:^7今のは取り消せ、CP"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S99_813A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7フラッシュバン！"
+
+ENDMARKER

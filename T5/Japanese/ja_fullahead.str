@@ -1,0 +1,928 @@
+// Dumped from fastfile "ja_fullahead".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FULLAHEAD_MARKER_FOLLOW
+LANG_ENGLISH        "FOLLOW"
+
+REFERENCE           FULLAHEAD_SKIPTO_WRAPUP
+LANG_ENGLISH        "E9: 脱出\n"
+
+REFERENCE           FULLAHEAD_SKIPTO_NAZIBASE_END
+LANG_ENGLISH        "E3: やりかけの仕事、終端 (低い信ぴょう性)"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_3
+LANG_ENGLISH        "^L特殊部隊第3突撃軍が^L^C1北極圏^C^Lへ送られた^L"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPMAST
+LANG_ENGLISH        "E8: デッキの上で"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_362A_REZN
+LANG_ENGLISH        "^1レズノフ:^7グズグズしてる暇はないぞ！"
+
+REFERENCE           FULLAHEAD_MARKER_OPEN
+LANG_ENGLISH        "オープン"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_008A_REZN
+LANG_ENGLISH        "^1レズノフ:^7私は存分に味わってきた... 私たちは兄弟だ、メイソ\ン。同じなのだ..."
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPFIREFIGHT_BRIDGE
+LANG_ENGLISH        "E7: 橋 (低い信ぴょう性)"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_365A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7走れ！ もう時間がないぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_900A_INTE
+LANG_ENGLISH        "^1尋問官:^7ヴィクトル・レズノフは奴らを止めようとした。だから亡命した"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_4
+LANG_ENGLISH        "^C1ヴィクトル・レズノフ^C^Lは45部隊に派遣、作戦後の最終確認別名：「ザ・ウルフ」^L"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPFIREFIGHT
+LANG_ENGLISH        "E7: 今日を俺の命日にはしない"
+
+REFERENCE           FULLAHEAD_OBJ_REGROUP_VEHICLES
+LANG_ENGLISH        "車両の近くに集合せよ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_138A_REZN
+LANG_ENGLISH        "^1レズノフ:^7私を利用したように、お前も利用されるだろう..."
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPARRIVAL
+LANG_ENGLISH        "E4: 漆黒の闇へ"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPCINEMA
+LANG_ENGLISH        "E6: 裏切り"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPCARGO
+LANG_ENGLISH        "E5: 凍てつく煉獄"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_019A_DIMI_M
+LANG_ENGLISH        "^1ペトリェンコ:^7ネフスキー、装備をとれ。移動するぞ"
+
+REFERENCE           FULLAHEAD_OBJ_SHIPARRIVAL_PROCEED
+LANG_ENGLISH        "積荷区画を探せ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_339A_REZN
+LANG_ENGLISH        "^1レズノフ:^7そう願いたいがな、ディミトリ..."
+
+REFERENCE           FULLAHEAD_SKIPTO_NAZIBASE_HANGAR
+LANG_ENGLISH        "E3: やりかけの仕事、格納庫 (低い信ぴょう性)"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_702A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7よし、やったな"
+
+REFERENCE           FULLAHEAD_SKIPTO_NAZIBASE
+LANG_ENGLISH        "E3: やりかけの仕事"
+
+REFERENCE           FULLAHEAD_OBJ_SMOKE_GRENADES
+LANG_ENGLISH        "スモークグレネードを手に取る"
+
+REFERENCE           FULLAHEAD_SKIPTO_E1_SNOWCAT
+LANG_ENGLISH        "E1: 世界の頂点"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_1
+LANG_ENGLISH        "^L送信# 23-8-15 指定: X-RAY^L"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_2
+LANG_ENGLISH        "^Lソ\ビエトは終戦時にオリンパス作戦を発動^L"
+
+REFERENCE           FULLAHEAD_ACQUIRED_1_SMOKE
+LANG_ENGLISH        "スモークグレネードを入手"
+
+REFERENCE           FULLAHEAD_USE_SLED
+LANG_ENGLISH        "^3[{+activate}]^7でソ\リに乗る"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_5
+LANG_ENGLISH        "^L1200時^L ^C11945年10月29日^C"
+
+REFERENCE           FULLAHEAD_OBJ_DOGSLED_EXIT
+LANG_ENGLISH        "その場から離れろ"
+
+REFERENCE           FULLAHEAD_OBJ_ICEFALL_COMRADE
+LANG_ENGLISH        "同志を救え"
+
+REFERENCE           FULLAHEAD_USE_EXPLOSIVES
+LANG_ENGLISH        "^3[{+activate}]^7長押しで爆発物を設置"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_711A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7再装填する"
+
+REFERENCE           FULLAHEAD_OBJ_NAZIBASE_STEINER
+LANG_ENGLISH        "ドイツ軍の基地を強襲し、シュタイナーを探せ"
+
+REFERENCE           FULLAHEAD_OBJ_MARK_TARGET
+LANG_ENGLISH        "スモークグレネードでターゲーットをマーク"
+
+REFERENCE           FULLAHEAD_ACQUIRED_3_SMOKE
+LANG_ENGLISH        "スモークグレネードを3個入手"
+
+REFERENCE           FULLAHEAD_MORTAR_PROMPT
+LANG_ENGLISH        "^3[{+smoke}]^7で迫撃砲の目標を指示"
+
+REFERENCE           FULLAHEAD_OBJ_SECURE_WEAPON
+LANG_ENGLISH        "ドイツ軍の兵器を確保せよ"
+
+REFERENCE           FULLAHEAD_OBJ_SHIPARRIVAL_REGROUP
+LANG_ENGLISH        "ドラゴヴィッチ将軍に合流せよ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_046A_REZN
+LANG_ENGLISH        "^1レズノフ:^7もっと船の近くにいるはずだ"
+
+REFERENCE           FULLAHEAD_OBJ_SHOOTROCKET
+LANG_ENGLISH        "V2の固定具を撃て"
+
+REFERENCE           FULLAHEAD_MARKER_ASSAULT
+LANG_ENGLISH        "アサルト"
+
+REFERENCE           FULLAHEAD_OBJ_SHIPARRIVAL_AMBUSH
+LANG_ENGLISH        "待ち伏せを撃退せよ"
+
+REFERENCE           FULLAHEAD_OBJ_SHIPCARGO_ESCORT
+LANG_ENGLISH        "ドラゴヴィッチおよびシュタイナーに続け"
+
+REFERENCE           FULLAHEAD_OBJ_ARM_EXPLOSIVES
+LANG_ENGLISH        "V2に爆薬を仕掛けろ"
+
+REFERENCE           FULLAHEAD_OBJ_FOLLOW_PETRENKO
+LANG_ENGLISH        "ペトリェンコに続け"
+
+REFERENCE           FULLAHEAD_OBJ_ESCAPE_SHIP
+LANG_ENGLISH        "船から脱出せよ"
+
+REFERENCE           FULLAHEAD_MARKER_DOGSLED
+LANG_ENGLISH        "犬ぞり"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_314A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7バリケードのところに投げるんだ！"
+
+REFERENCE           FULLAHEAD_OBJ_ESCAPE_SHIP_DETONATE
+LANG_ENGLISH        "爆発前に船から脱出せよ"
+
+REFERENCE           FULLAHEAD_MARKER_EXPLOSIVES
+LANG_ENGLISH        "爆薬"
+
+REFERENCE           FULLAHEAD_CONTAINMENT_WARNING
+LANG_ENGLISH        "同志を見捨てようとしています。"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_024A_REZN
+LANG_ENGLISH        "^1レズノフ:^7将軍は手柄を立てたがっている。ここには母なるロシアにとって大きな価値のあるものがあると考えているようだ"
+
+REFERENCE           FULLAHEAD_USE_ZIPLINE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで滑降"
+
+REFERENCE           FULLAHEAD_OBJ_CLIMB_DECK
+LANG_ENGLISH        "窓から甲板に出ろ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_132A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7行け、レズノフ！ 行け！"
+
+REFERENCE           FULLAHEAD_SHIP_FAIL
+LANG_ENGLISH        "時間内に脱出できなかった。\n"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_006A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン...よく聞け..."
+
+REFERENCE           FULLAHEAD_USEPROMPT
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+REFERENCE           FULLAHEAD_USE_OPEN
+LANG_ENGLISH        "^3[{+activate}]^7長押しでドアを開ける"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_317A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7飲みすぎか、ヴィクトル？ バリケードに投げつけろ！"
+
+REFERENCE           FULLAHEAD_USE_WELDSPOT
+LANG_ENGLISH        "^3[{+activate}]^7で切断"
+
+REFERENCE           FULLAHEAD_USE_MONKEYBARS
+LANG_ENGLISH        "^3[{+activate}]^7でマストに登る"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_094A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7ドイツは降伏し、ベルリンにロシアの旗が掲げられたと"
+
+REFERENCE           FULLAHEAD_USE_RESCUE
+LANG_ENGLISH        "^3[{+activate}]^7で救出"
+
+REFERENCE           FULLAHEAD_CONTAINMENT_DESERTER
+LANG_ENGLISH        "自分の迫撃砲で死亡した。"
+
+REFERENCE           FULLAHEAD_MARKER_ESCORT
+LANG_ENGLISH        "護衛"
+
+REFERENCE           FULLAHEAD_MARKER_SHIPENTRANCE
+LANG_ENGLISH        "乗船口"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_044A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7発射管制棟を確認しろ！"
+
+REFERENCE           FULLAHEAD_MARKER_LIGHT
+LANG_ENGLISH        "照らす"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_013A_REZN
+LANG_ENGLISH        "^1レズノフ:^7戦争は終結したのに、戦いは続いていた..."
+
+REFERENCE           FULLAHEAD_SHOOT_STEINER_FAIL
+LANG_ENGLISH        "シュタイナーを撃つな"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_137A_REZN
+LANG_ENGLISH        "^1レズノフ:^7主義主張は違っても、やることは同じだ"
+
+REFERENCE           FULLAHEAD_MARKER_MOSCOW
+LANG_ENGLISH        "Home"
+
+REFERENCE           FULLAHEAD_ACQUIRED_2_SMOKE
+LANG_ENGLISH        "スモークグレネードを2個入手"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_020A_REZN
+LANG_ENGLISH        "^1レズノフ:^7私は部下たちと共に、東部戦線の厳しい冬を戦い抜いてきたのだ。寒さには馴染みがある..."
+
+REFERENCE           FULLAHEAD_ACQUIRED_4_SMOKE
+LANG_ENGLISH        "スモークグレネードを4個入手"
+
+REFERENCE           FULLAHEAD_CONTAINMENT_MISSIONAREA
+LANG_ENGLISH        "同志を見捨てた！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_134B_REZN
+LANG_ENGLISH        "^1レズノフ:^7時間がもうないのだ、友よ..."
+
+REFERENCE           FULLAHEAD_SINGLE_SPACE
+LANG_ENGLISH        " "
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_719A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7急げ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_126A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7なら誰と戦えばいい！？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_901A_INTE
+LANG_ENGLISH        "^1尋問官:^7いつだ。いつ聞いた？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_007A_REZN
+LANG_ENGLISH        "^1レズノフ:^7吐き気がするような喪失感、敗北の苦い味..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_054A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7SSに命令などはできんよドラゴヴィッチ将軍。彼らは死ぬまで帝国のために戦うと誓っているんだ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_300A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7またお前と一緒に戦えるんだな！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_009A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ドラゴヴィッチ、シュタイナー、クラフチェンコ。奴らに死を"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_010A_REZN
+LANG_ENGLISH        "^1レズノフ:^7奴らは私から奪ったように、お前からも奪った..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_043A_REZN
+LANG_ENGLISH        "^1レズノフ:^7させるな"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_011A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7教えてくれ、レズノフ。どうして奴らを殺すことが、あんたに取ってそんなに大事なんだ？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_327A_RRD9_F
+LANG_ENGLISH        "^1ロシア兵:^7これでは砲撃は無理だ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_012A_REZN
+LANG_ENGLISH        "^1レズノフ:^7戦争が終わった時、祖国の指導者たちは、飢えた狼のごとくドイツの死骸に殺到した。彼らはその肉片の一つまで奪い合ったのだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_014A_REZN
+LANG_ENGLISH        "^1レズノフ:^7第3突撃軍がドイツ占領部隊に加わったことで、戦争が終わっても我々は帰国できないことが明らかとなった..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_015A_REZN
+LANG_ENGLISH        "^1レズノフ:^7いや... 指導部には別の考えがあったのだ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_001B_REZN
+LANG_ENGLISH        "^1レズノフ:^7私の父親はスターリングラードに住む音楽家だった。ドイツ軍に占領されていたときも、父のバイオリンは辺りを素晴らしい音楽で満たした。コルサコフ、スターソ\フ。祖国の偉大なる作曲家たち..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_373A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7レズノフ！ 支柱を撃つんだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_002B_REZN
+LANG_ENGLISH        "^1レズノフ:^7同胞たちにとっては希望、ドイツにとっては抵抗の象徴だった。今でも私の耳にはあの音色が残っている..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_353A_REZN
+LANG_ENGLISH        "^1レズノフ:^7見えないものを恐れるのは自然なことだ... 心は幻を見せる"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_003B_REZN
+LANG_ENGLISH        "^1レズノフ:^7眠っている間に父はナチスに喉を切り裂かれた。そう、連中と手を組むのは裏切りだ。母なるロシアに対する裏切りなのだ。だが、ドラゴヴィッチやクラフチェンコは、そんなことを気にかけもしなかった..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_704A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7片づけた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_097A_KRAV
+LANG_ENGLISH        "^1クラフチェンコ:^7爆薬が起爆することはなかった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_004B_REZN
+LANG_ENGLISH        "^1レズノフ:^7奴らの頭にあるのは、己の利益と野望を叶えることだけだ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_098A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7ここだ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_069A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7ノヴァ6か"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_062B_REZN
+LANG_ENGLISH        "^1レズノフ:^7祖国が守ろうとしたあらゆるものが、奴らがあのネズミどもとの協力を選んだ時点で裏切られたのだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_311A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7スモークグレネードを...  迫撃砲に標的を指示するんだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_017A_DIMI_M
+LANG_ENGLISH        "^1ペトリェンコ:^7ヴィクトル...時間だ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_018A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7ああ、ディミトリ...  ファシストどもの残党を掃討しなければな"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_101A_REZN
+LANG_ENGLISH        "^1レズノフ:^7そう思ったのも束の間、勝利は長続きしなかった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_346A_REZN
+LANG_ENGLISH        "^1レズノフ:^7シーッ...用心しろ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_020B_REZN
+LANG_ENGLISH        "^1レズノフ:^7私は部下たちと共に、東部戦線の厳しい冬を戦い抜いてきたのだ。寒さには馴染みがある..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_091A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7だが間に合わなかった。イギリス軍の爆撃機に攻撃され、船は航行不能\に陥った"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_021A_REZN
+LANG_ENGLISH        "^1レズノフ:^7それでも、あの日の出来事を思い返すと、全身の血が凍りつく..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_316A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7もっとバリケードの近くだ、ヴィクトル！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_022A_REZN
+LANG_ENGLISH        "^1レズノフ:^7もう昔のことだが..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_710A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7再装填"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_083A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7足場を照らしてくれ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_023A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7そこまで重要なものがここにあるのか？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_025A_KRAV_M
+LANG_ENGLISH        "^1クラフチェンコ:^7ほう、ベルリンの英雄が一緒とは！ 戦いに飽きはしないのか、レズノフ？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_371A_REZN
+LANG_ENGLISH        "^1レズノフ:^7あと10秒だ、レズノフ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_026A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7母なるロシアに敵がいる限り、私は祖国の呼びかけに応えるだろう..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_087A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7ノヴァ6とやらがどれほど強力でも、運搬する手段が必要だったはずだが..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_027A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7くだらん対抗心は捨てろ、クラフチェンコ。レズノフ大尉なら今の言葉通りにやる"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_028A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7我々は1人のドイツ人のためだけにここにいるのだ。フリードリヒ・シュタイナー博士。彼は我々に協力を申\し出た..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_029A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7危害を加えることは許さん。命令に背いた者は、銃殺する！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_030A_DIMI_M
+LANG_ENGLISH        "^1ペトリェンコ:^7スターリングラードで何があった？ 将軍とモメたか？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_031A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7ドイツ軍による侵攻が開始された時、奴とクラフチェンコのせいで、私たちは絶望的な状況に置かれた..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_032A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7増援を確約されていたが、約束は... 破られた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_033A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7ドラゴヴィッチとクラフチェンコは日和見主義だ。二枚舌め..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_034A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7やつらに気を許すな、ディミトリ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_035A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ディミトリ・ペトリェンコは、私が出会った中でも屈指の勇敢な男だ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_036A_REZN
+LANG_ENGLISH        "^1レズノフ:^7スターリングラード攻防戦からベルリン陥落まで、私の横で戦ってくれた..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_037A_REZN
+LANG_ENGLISH        "^1レズノフ:^7勝利を勝ち取るために彼が受けた傷は、祖国で英雄として迎えられるのにふさわしいものだった..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_375A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7支柱を撃つんだ、レズノフ！ それしかない！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_055A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7立派だが... くだらん"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_038A_REZN
+LANG_ENGLISH        "^1レズノフ:^7だがスターリンは、英雄など必要としていなかった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_306A_REZN
+LANG_ENGLISH        "^1レズノフ:^7前進だ、同志よ。次の区画を制圧するぞ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_039A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7シュタイナーには手を出すな。奴が死んでは意味が無い。さあ行け。2人ともだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_040A_DIMI_M
+LANG_ENGLISH        "^1ペトリェンコ:^7行こう"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_301A_REZN
+LANG_ENGLISH        "^1レズノフ:^7そうだな、友よ。今一度、勝利を"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_131A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7ロープで下りろ！ 急げ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_302A_REZN
+LANG_ENGLISH        "^1レズノフ:^7くまなく探すんだ！ シュタイナー以外には容赦するな"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_041A_RRD8
+LANG_ENGLISH        "^1ロシア兵:^7奴らは降伏するつもりだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_042A_REZN
+LANG_ENGLISH        "^1レズノフ:^7以前にも同じ手を..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_303A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7戦わずに降参するつもりはなさそうだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_304A_REZN
+LANG_ENGLISH        "^1レズノフ:^7失うもののない者たちは手強いぞ、ディミトリ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_701A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7倒した"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_312A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7レズノフ、スモークグレネードを使え！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_305A_REZN
+LANG_ENGLISH        "^1レズノフ:^7気をつけろ、まだいるかもしれない"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_307A_REZN
+LANG_ENGLISH        "^1レズノフ:^7歯向かう者は叩き潰せ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_345B_REZN
+LANG_ENGLISH        "^1レズノフ:^7同感だ、ディミトリ...油断するなよ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_308A_REZN
+LANG_ENGLISH        "^1レズノフ:^7内部を制圧しろ。一人も見落とすな！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_141A_REZN
+LANG_ENGLISH        "^1レズノフ:^7奴らを...  生かしては...  おけない"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_045A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7ここにはいない..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_310A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7レズノフ！ このバリケードを突破しないと！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_313A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7スモークグレネードを使うんだ、レズノフ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_715A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7グレネードだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_372A_REZN
+LANG_ENGLISH        "^1レズノフ:^7間に合わない！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_113A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7シュタイナーを船に連れ帰れ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_315A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7迫撃砲にバリケードを攻撃させるんだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_122A_REZN
+LANG_ENGLISH        "^1レズノフ:^7よし！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_318A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7俺がやる、レズノフ。下がっててくれ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_319A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7それでは観測員に見えないぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_320A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7外に投げるんだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_376A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7甲板に下りるぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_321A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7外だ、レズノフ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_322A_RRD9_F
+LANG_ENGLISH        "^1ロシア兵:^7標的を確認"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_323A_RRD9_F
+LANG_ENGLISH        "^1ロシア兵:^7迫撃砲を撃ち込むぞ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_324A_RRD9_F
+LANG_ENGLISH        "^1ロシア兵:^7迫撃砲、発射する"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_077A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7この足場を迂回する道を探してみる"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_325A_RRD9_F
+LANG_ENGLISH        "^1ロシア兵:^7撃つぞ。身構\えろ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_326A_RRD9_F
+LANG_ENGLISH        "^1ロシア兵:^7迫撃砲、いくぞ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_328A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ウラー！！！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_329A_CROW
+LANG_ENGLISH        "^1群衆:^7ウラー！！！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_330A_REZN
+LANG_ENGLISH        "^1レズノフ:^7散開。建物を残らず調べろ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_079A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7何も見えない..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_331A_REZN
+LANG_ENGLISH        "^1レズノフ:^7シュタイナーを探せ！！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_332A_REZN
+LANG_ENGLISH        "^1レズノフ:^7こっちだ、ディミトリ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_333A_REZN
+LANG_ENGLISH        "^1レズノフ:^7死ね！ ファシストのクズどもめ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_070A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7死んだのは数日前... 攻撃より前だ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_334A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7レズノフ、スモークグレネードはまだあるか？ 使ってくれ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_071A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7何故だ？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_335A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7スモークグレネードを使うんだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_364A_REZN
+LANG_ENGLISH        "^1レズノフ:^7もう4分もないぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_336A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7スモークで迫撃砲に標的を指示しろ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_337A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7シュタイナーはこの近くのはずだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_338A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7この任務が終わったら... 故郷に戻れるだろうか？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_340A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7敵は残り少ないが...シュタイナーは見当たらないな"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_341A_REZN
+LANG_ENGLISH        "^1レズノフ:^7臆病者はみんな一緒だ...  戦場から一番遠くに身を置く"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_342A_REZN
+LANG_ENGLISH        "^1レズノフ:^7こっちだ、階段を上がる"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_343A_REZN
+LANG_ENGLISH        "^1レズノフ:^7いいか？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_344A_REZN
+LANG_ENGLISH        "^1レズノフ:^7フリードリヒ・シュタイナー..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_047A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7武器を私に向けるな、ロシアの犬め..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_107A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ディミトリ・ペトリェンコは英雄だった..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_048A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7会わせてもらおう、ドラゴヴィッチに"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_049A_REZN
+LANG_ENGLISH        "^1レズノフ:^7そのドイツ人の目の奥には、第三帝国の邪悪な炎がまだ燃え盛っていた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_102A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ドラゴヴィッチは毒の効果をその目で確かめたがっていた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_050A_REZN
+LANG_ENGLISH        "^1レズノフ:^7その瞬間、私は全身全霊でそいつの歪んだ人生を終わらせてやりたいと思った..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_103A_REZN
+LANG_ENGLISH        "^1レズノフ:^7目の上のこぶを消すにもいい機会だった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_051A_REZN
+LANG_ENGLISH        "^1レズノフ:^7だが私は兵士だ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_112A_RRD8_F
+LANG_ENGLISH        "^1ロシア兵:^7イギリス軍コマンドー部隊の襲撃です！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_051B_REZN
+LANG_ENGLISH        "^1レズノフ:^7命令は絶対だった..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_057A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7大尉...  部下を集めろ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_345A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7将軍とシュタイナー、まるで旧知の仲だ...嫌な予\感がする、レズノフ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_052A_STEI_M
+LANG_ENGLISH        "^1シュタイナー:^7時間がない。ドイツ人の中には、奪われるくらいなら破壊しようと考える者もいる..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_068A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7だが、完成した兵器の威力は、我々の予\想すら遥かに凌駕していた。そしてその兵器が今、この船に積まれているというわけだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_053A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7問題はないと保証したのは貴様だぞ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_056A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7クラフチェンコ、行くぞ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_058A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ペトリェンコ、ヴィカレフ、ネフスキー、ベロフ。移動するぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_059A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7大尉、部下たちと先行しろ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_060A_REZN
+LANG_ENGLISH        "^1レズノフ:^7了解"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_063A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7灯りをしっかり持ってくれ、ヴィクトル"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_064A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7ギフティッヘル・シュトゥルム計画への関与について聞かせてほしいのだ、博士"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_065A_STEI
+LANG_ENGLISH        "^1シュタイナー:^743年、総統閣下は連合軍をいつまでも押しとどめられないと悟った"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_066A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7我々は通常兵器によらない解決策を模索した"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_074A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7何かがおかしい。感じるんだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_067A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7戦時中、私は化学兵器の研究に没頭していた... 繊細で、ストレスのたまる仕事だよ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_095A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7SSは、攻撃された場合には船を破壊するように命令されていた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_072A_REZN
+LANG_ENGLISH        "^1レズノフ:^7彼らに何があったんだ？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_099A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7大尉、扉を開けろ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_073A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7戦争の犠牲者だよ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_075A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7部下たちを引き締めたまえ、大尉..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_076A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7ベルリンの英雄に何かあっては困るからな..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_078A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7レズノフ、灯りをこっちに"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_713A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7再装填。援護してくれ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_080A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7照らしてみてくれ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_081A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7離れるな"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_082A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7パイプの上だ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_084A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7照らし続けてくれ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_096A_KRAV
+LANG_ENGLISH        "^1クラフチェンコ:^7だが失敗した..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_085A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7俺の前方を照らしてくれ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_086A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7こっちだ、灯りが欲しい"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_100A_REZN
+LANG_ENGLISH        "^1レズノフ:^7こうして我々はついに見つけた... ノヴァ6を。ドイツの大量破壊兵器が、母なるロシアのものとなったのだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_347A_REZN
+LANG_ENGLISH        "^1レズノフ:^7この場所は絶望で満ちている"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_348A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7ここで何が起きたんだと思う、レズノフ？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_349A_REZN
+LANG_ENGLISH        "^1レズノフ:^7知らないほうがいいかもしれんな..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_350A_REZN
+LANG_ENGLISH        "^1レズノフ:^7先を急ごう"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_351A_REZN
+LANG_ENGLISH        "^1レズノフ:^7足元に注意しろ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_123A_REZN
+LANG_ENGLISH        "^1レズノフ:^7行け、友よ！ 行け！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_352A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7影が動いたような..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_093A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7最初の攻撃を始める前に報せが届いた―\―\"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_354A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7レズノフ、こっちだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_355A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7こっちだ、レズノフ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_356A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7どこへ行くんだ、レズノフ？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_357A_DIMI
+LANG_ENGLISH        "^1ペトリェンコ:^7離れるな、ヴィクトル"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_088A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7V2ロケットだ... この基地から発射されるはずだった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_128A_REZN
+LANG_ENGLISH        "^1レズノフ:^7味方はいない！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_089A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7ターゲットは指揮中枢だ。第一目標はワシントン、次はモスクワ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_090A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7ふむ... 見上げた野心と実行力だな、ヘル・シュタイナー..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_092A_STEI
+LANG_ENGLISH        "^1シュタイナー:^7やがて氷に閉ざされ...できる限り回収を試みたが、手遅れだった..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_104A_REZN
+LANG_ENGLISH        "^1レズノフ:^7私は長い間、奴らへの不信感を抱いてきた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_105A_REZN
+LANG_ENGLISH        "^1レズノフ:^7どういう連中だったか"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_106A_REZN
+LANG_ENGLISH        "^1レズノフ:^7予\知できた裏切りだった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_108A_REZN
+LANG_ENGLISH        "^1レズノフ:^7英雄らしく死なせてやるべきだった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_109A_REZN
+LANG_ENGLISH        "^1レズノフ:^7なのに、祖国の栄光のために死ぬのではなく、あんな無意味な... まさに犬死だ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_110A_REZN
+LANG_ENGLISH        "^1レズノフ:^7むしろベルリンで戦死していれば..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_111A_REZN
+LANG_ENGLISH        "^1レズノフ:^7無二の親友が死んでいく姿を見ながら、ドイツの兵器を追っていたのは我々だけではないことが分かってきた。西側連合軍は、ハゲワシのように旋回していた..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_714A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7再装填。援護を頼む"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_111B_REZN
+LANG_ENGLISH        "^1レズノフ:^7イギリス空軍の爆撃機が到着し、ナチの船を沈めにかかったのだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_111C_REZN
+LANG_ENGLISH        "^1レズノフ:^7もちろんドラゴヴィッチとクラフチェンコ、それにシュタイナーはさっさと逃げ出し、私はイギリス軍の矢面に取り残された"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_114A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7殺すのだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_115A_REZN
+LANG_ENGLISH        "^1レズノフ:^7行け！ 道を切り開け！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_116A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7イギリス軍の新手が！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_117A_REZN
+LANG_ENGLISH        "^1レズノフ:^7私が爆薬を仕掛ける..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_118A_REZN
+LANG_ENGLISH        "^1レズノフ:^7この船を地獄の底に沈めるんだ！ どちらにもこの悪魔の兵器を渡すわけにはいかん"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_358A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7長くはもたないぞ！ 爆薬を仕掛けるんだ、レズノフ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_359A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7急げ！ 爆薬を仕掛けるんだ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_360A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7レズノフ！ 爆薬を仕掛けないと！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_361A_REZN
+LANG_ENGLISH        "^1レズノフ:^7仕掛け終わったぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_119A_REZN
+LANG_ENGLISH        "^1レズノフ:^7急げ！ 船から降りるんだ。早く！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_363A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^72分もないぞ、レズノフ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_366A_REZN
+LANG_ENGLISH        "^1レズノフ:^73分後には船全体が火の海だ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_367A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7船外へ脱出するぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_368A_REZN
+LANG_ENGLISH        "^1レズノフ:^7急げ、もう2分しかない！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_369A_REZN
+LANG_ENGLISH        "^1レズノフ:^71分後には炎がこの船を焼き尽くす。走れ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_370A_REZN
+LANG_ENGLISH        "^1レズノフ:^7残り30秒！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_120A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7扉が開かない！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_121A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7構\造物の支えを撃て！ クレーンを落とせるはずだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_374A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7急げ！ クレーンを落とすんだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_377A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7レズノフ、そこの窓から出られるぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_378A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7急げ、窓から出ろ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_124A_REZN
+LANG_ENGLISH        "^1レズノフ:^7止まるな！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_125A_REZN
+LANG_ENGLISH        "^1レズノフ:^7これは我々の戦争ではない！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_127A_REZN
+LANG_ENGLISH        "^1レズノフ:^7全てのものだ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_716A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7片づけた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_129A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7船がバラバラになりかけていた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_130A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7レズノフ！ ロープを使えるぞ！"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_705A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7排除完了"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_133A_REZN
+LANG_ENGLISH        "^1レズノフ:^7奪われる前に積み荷のノヴァ6は破壊した。だがそれで終わらなかった。捕らえられ、ヴォルクタ送りになってからドラゴヴィッチの目的を知った。奴は死んでもノヴァ6を諦めるつもりなどなかった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_134A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン、聞いてくれ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_136A_REZN
+LANG_ENGLISH        "^1レズノフ:^7お前も私と同じように利用されるだろう。お前の国の首脳はあの兵器を破壊してくれるだろうか？ それとも使いたがるだろうか？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_136B_REZN
+LANG_ENGLISH        "^1レズノフ:^7彼らはあれを破壊してくれるだろうか？ それとも使いたがるだろうか？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_136C_REZN
+LANG_ENGLISH        "^1レズノフ:^7教えてくれ。お前の国の首脳はあのような兵器をどう扱う？"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_139A_REZN
+LANG_ENGLISH        "^1レズノフ:^7決めるんだ... 何のために戦うのかを..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_140A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ドラゴヴィッチ... クラフチェンコ... シュタイナー..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_700A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7仕留めたぞ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_703A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7死亡した"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_706A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7死亡を確認"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_707A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7仕留めた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_708A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7敵、無力化"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_709A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7よくやった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_712A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7再装填中"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_717A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7よくやった"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_718A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7仕留めた"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_720A_NEVS
+LANG_ENGLISH        "^1ネフスキー:^7前進！"
+
+ENDMARKER

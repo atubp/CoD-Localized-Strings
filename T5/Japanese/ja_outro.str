@@ -1,0 +1,523 @@
+// Dumped from fastfile "ja_outro".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_003A_INTE
+LANG_ENGLISH        "^1尋問官:^7命令に違反し、リバース島に向かったな。なぜだ、メイソ\ン！？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_091A_INTE
+LANG_ENGLISH        "^1尋問官:^7ハドソ\ン工作員を信頼していたのか？"
+
+REFERENCE           FRONTEND_NEWREF
+LANG_ENGLISH        "新規テキスト"
+
+REFERENCE           FRONTEND_ZORKSAVE_DESCRIPTION
+LANG_ENGLISH        "ゾークのセーブデータ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_065A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前の主張を裏付けられる者は？"
+
+REFERENCE           FRONTEND_PRESS_BUTTON_TO_SIT_DOWN
+LANG_ENGLISH        "^3[{+gostand}]^7で腰を下ろす"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_071A_INTE
+LANG_ENGLISH        "^1尋問官:^7祖国の関与は正当なものだと信じていたかね？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_300A_BROA
+LANG_ENGLISH        "^1発信者:^7Twenty-one, thirty-six, forty-nine.  Seventeen, seventeen, three, five, six. Twenty-one, thirty-six, forty-nine.  Seventeen, seventeen, three, five, six."
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_003A_INTE
+LANG_ENGLISH        "^1尋問官:^7クラークはノヴァ6を生み出した。人を一瞬で死に至らしめる神経毒だ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_040A_INTE
+LANG_ENGLISH        "^1尋問官:^7全てはお前次第だ"
+
+REFERENCE           FRONTEND_USE_COMPUTER
+LANG_ENGLISH        "^3[{+activate}]^7長押しでコンピューターを使用"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_079A_INTE
+LANG_ENGLISH        "^1尋問官:^7ノヴァ6の効果を見たのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_034A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7目を見てみろ。何かを考えている目だ"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_009A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前はクラフチェンコを殺した。\n彼らの基地も壊滅させた。メイソ\ン？"
+
+REFERENCE           FRONTEND_PRESS_X_TO_EXIT
+LANG_ENGLISH        "^3[{+activate}]^7で終了"
+
+REFERENCE           FRONTEND_HOLD_TO_SKIP
+LANG_ENGLISH        "^3[{+gostand}]^7長押しでスキップ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_056A_INTE
+LANG_ENGLISH        "^1尋問官:^7カストロが会っていた相手は？"
+
+REFERENCE           FRONTEND_HOLD_TO_SKIP_PS3
+LANG_ENGLISH        "長押しでスキップ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_062A_INTE
+LANG_ENGLISH        "^1尋問官:^7遠く故郷を離れて、ひとり。結末は決まっている。"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_001A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7何もかも話してもらうぞ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_002A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7黙秘で抵抗しているつもりか？ 無駄な意地を張るな"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_054A_INTE
+LANG_ENGLISH        "^1尋問官:^7どうして殺されなかった？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_004A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7俺をあまり怒らせるな。わざわざ痛い目を見ることもなかろう"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_070A_INTE
+LANG_ENGLISH        "^1尋問官:^7ベトナム戦争についてはどう思っていた？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_006A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7お前の「友」なんていない。ここには、俺とお前だけだ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_007A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7この後どうなるかはおまえ次第だ。さあ話せ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_009A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7そうしていてもムダだ。聞こえているのだろう？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_057A_INTE
+LANG_ENGLISH        "^1尋問官:^7彼らには事前に計画が筒抜けになってた...そうだな？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_060A_INTE
+LANG_ENGLISH        "^1尋問官:^7ヴォルクタで記録にある唯一の暴\動は3日で終結した。平和的にな"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_002A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ここは？ レズノフはどこへ？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_029A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7いいかげんにしろ。もう一度最初からだ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_010A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7すべて話して楽になれ。黙っていると、いつまでもおびえ続けることになるぞ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_012A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7逃げ道はない。いくら抵抗しても、俺がお前をここから逃がしはしない"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_014A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7ここでは俺が絶対だ。お前は誰にも知られず、忘れられた存在になる。おまえはいなかったことになる"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_069A_INTE
+LANG_ENGLISH        "^1尋問官:^7本当に探す気があったのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_015A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7よし。いいぞ、続けよう"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_052A_INTE
+LANG_ENGLISH        "^1尋問官:^7カストロと関係が？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_017A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7考えろ。考えぬけ。何を思い出した？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_021A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7いつでもいいぞ。さあ、話せ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_099A_INTE
+LANG_ENGLISH        "^1尋問官:^7彼を信じたのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_018A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7いいぞ。続けろ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_020A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7どうした、あと少しだ。ここから出たいんだろう？ 頑張れ！"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_012A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ああ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_078A_INTE
+LANG_ENGLISH        "^1尋問官:^7ソ\連の人間がなぜあそこにいたと思う？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_022A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7ほら、もう話してもいいだろう"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_024A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7最初からだ。だが時間は残り少ないぞ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_026A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7その調子だ。協力して事実を解明しよう"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_027A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7何か見落としていたか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_030A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7話していないことがあるんじゃないのか？"
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_001A_INTE
+LANG_ENGLISH        "^1尋問官:^7九龍でクラーク博士から聞き出した情報を、ジェイソ\ン・ハドソ\ンがお前に教えたことはわかっている"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_042A_INTE
+LANG_ENGLISH        "^1尋問官:^7何が本当にあったことなのか、確信を持てるのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_032A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7ボンヤリするな。しっかりしろ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_064A_INTE
+LANG_ENGLISH        "^1尋問官:^7他に誰がこのことを？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_036A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7楽になるつもりか？ あいにく、ここにそんな逃げ道はない"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_038A_INTE
+LANG_ENGLISH        "^1尋問官:^7時間がもうない"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_039A_INTE
+LANG_ENGLISH        "^1尋問官:^7集中しろ。思い出せ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_041A_INTE
+LANG_ENGLISH        "^1尋問官:^7思い出すだけでいい"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_007B_INTE
+LANG_ENGLISH        "^1尋問官:^7我々はシュタイナーを生け捕りにするつもりだった。なぜ殺した？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_043A_INTE
+LANG_ENGLISH        "^1尋問官:^7ここにいる理由はわかるはずだ"
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_007A_INTE
+LANG_ENGLISH        "^1尋問官:^7いつだ？ いつ言われた"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_044A_INTE
+LANG_ENGLISH        "^1尋問官:^7数字のことだ、メイソ\ン... 数字は何を意味していた？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_045A_INTE
+LANG_ENGLISH        "^1尋問官:^7なぜそいつを信用できた？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_046A_INTE
+LANG_ENGLISH        "^1尋問官:^7何故あんなことをした、メイソ\ン？ 何故だ？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_047A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前次第だ、メイソ\ン。全てお前次第だ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_048A_INTE
+LANG_ENGLISH        "^1尋問官:^7嘘をついても無駄だ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_049A_INTE
+LANG_ENGLISH        "^1尋問官:^7君が殺したんだ、メイソ\ン。他の誰でもない。君がだ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_050A_INTE
+LANG_ENGLISH        "^1尋問官:^7誰の指示で動いていた？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_051A_INTE
+LANG_ENGLISH        "^1尋問官:^7あのときのキューバか。キューバで何があった？"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_006A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7声... ロシア人たち... いつも頭の中に..."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_053A_INTE
+LANG_ENGLISH        "^1尋問官:^7何でもいい。何か言え。集中するんだ"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_055A_INTE
+LANG_ENGLISH        "^1尋問官:^7何を言われたんだ？"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_003B_INTE
+LANG_ENGLISH        "^1尋問官:^7命令に違反し、リバース島に向かったな。なぜだ、メイソ\ン！？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_058A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前はコミュニストに協力していたのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_059A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前の話は穴だらけだ、メイソ\ン"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_061A_INTE
+LANG_ENGLISH        "^1尋問官:^7レズノフはどうなった？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_063A_INTE
+LANG_ENGLISH        "^1尋問官:^7ケネディ自身が命令を出したと？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_066A_INTE
+LANG_ENGLISH        "^1尋問官:^7その後どうなった？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_067A_INTE
+LANG_ENGLISH        "^1尋問官:^7死亡を確認したのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_068A_INTE
+LANG_ENGLISH        "^1尋問官:^7ドラゴヴィッチを追うのに、お前は長い時間を費やした"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_072A_INTE
+LANG_ENGLISH        "^1尋問官:^7亡命者から何を聞きだそうとした？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_073A_INTE
+LANG_ENGLISH        "^1尋問官:^7その男が本当にドラゴヴィッチの手がかりを握っていると信じたのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_074A_INTE
+LANG_ENGLISH        "^1尋問官:^7亡命者の素性を前もって知ってたのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_075A_INTE
+LANG_ENGLISH        "^1尋問官:^7亡命者は―\お前の知人だったのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_076A_INTE
+LANG_ENGLISH        "^1尋問官:^7ヴィクトル・レズノフは友人だというのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_077A_INTE
+LANG_ENGLISH        "^1尋問官:^7ハドソ\ン特務工作員からクラーク博士について何を聞かされた？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_080A_INTE
+LANG_ENGLISH        "^1尋問官:^7亡命者をそのまま同行させようと判断した理由は？"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_007A_INTE_S
+LANG_ENGLISH        "^1尋問官:^7レズノフのことは忘れろ！ 集中するんだ、メイソ\ン！ 時間がない！ 世界は戦争の瀬戸際にあるんだ！"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_081A_INTE
+LANG_ENGLISH        "^1尋問官:^7それを許可した人物は？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_082A_INTE
+LANG_ENGLISH        "^1尋問官:^7フラッシュポイント作戦以降、クラフチェンコに遭ったのはあれが初めてかね？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_083A_INTE
+LANG_ENGLISH        "^1尋問官:^7フラッシュポイント作戦以降、ドラゴヴィッチに遭ったのはあれが初めてかね？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_084A_INTE
+LANG_ENGLISH        "^1尋問官:^7ソ\連側はお前たちが来るのを知っていたと思うかね？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_085A_INTE
+LANG_ENGLISH        "^1尋問官:^7洞窟では他に誰が一緒にいた？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_090A_INTE
+LANG_ENGLISH        "^1尋問官:^7ノヴァ6の犠牲者はどんな様子だった？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_092A_INTE
+LANG_ENGLISH        "^1尋問官:^7彼は何をしようとしていたのかね？"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_001A_INTE
+LANG_ENGLISH        "^1尋問官:^7ラオスで部隊が壊滅し、クラフチェンコの拠点を発った後、お前は任務を放棄した"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_093A_INTE
+LANG_ENGLISH        "^1尋問官:^7ハドソ\ンの任務以前にシュタイナーに会ったことは？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_094A_INTE
+LANG_ENGLISH        "^1尋問官:^7プロジェクト・ノヴァにおいてヤマンタウ基地の果たした役割は？"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_007A_INTE
+LANG_ENGLISH        "^1尋問官:^7我々はシュタイナーを生け捕りにするつもりだった。なぜ殺した？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_095A_INTE
+LANG_ENGLISH        "^1尋問官:^7亡命者はお前と共に捉えられたのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_096A_INTE
+LANG_ENGLISH        "^1尋問官:^7クラフチェンコはお前のことを覚えていたか？"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_005A_INTE
+LANG_ENGLISH        "^1尋問官:^7だがハドソ\ンとCIAが既にシュタイナーを捕らえにリバース島に向かっていた。何故お前が行く必要があった？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_009B_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7うあああああ！！"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_097A_INTE
+LANG_ENGLISH        "^1尋問官:^7どうしてお前は殺されなかったのかね？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_098A_INTE
+LANG_ENGLISH        "^1尋問官:^7レズノフからは何を聞いた？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_100A_INTE
+LANG_ENGLISH        "^1尋問官:^7彼を信用したのか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_101A_INTE
+LANG_ENGLISH        "^1尋問官:^7自分が何をしたか分かっているか？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_102A_INTE
+LANG_ENGLISH        "^1尋問官:^7望んでいたことは達成できたのかね？"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_103A_INTE
+LANG_ENGLISH        "^1尋問官:^7彼を殺したのか？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_001A_INTE
+LANG_ENGLISH        "^1尋問官:^7起きろ、起きるんだ！"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_001A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7何故か奴は生きてると確信できた"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_003A_INTE
+LANG_ENGLISH        "^1尋問官:^7質問に答えるんだ。わかったか？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_004A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7お前は何者だ？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_005A_INTE
+LANG_ENGLISH        "^1尋問官:^7そんなことはどうでもいい。 重要なのはお前のことだ。名前は？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_006A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7クソ\食らえ"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_006A_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7くたばれ"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_007A_INTE
+LANG_ENGLISH        "^1尋問官:^7生まれはどこだ？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_008A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7くたばりやがれ"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_009A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7うあああああ！！"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_004B_INTE
+LANG_ENGLISH        "^1尋問官:^7他の連中？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_010A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前の名はアレックス・メイソ\ン。アラスカ州フェアバンクス生まれ。 1961年、オペレーション40というCIAの暗殺チームに配属。間違いないかね？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_011A_INTE
+LANG_ENGLISH        "^1尋問官:^7間違いないかね？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_013A_INTE
+LANG_ENGLISH        "^1尋問官:^7送信施設はどこなんだ？"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_003A_INTE
+LANG_ENGLISH        "^1尋問官:^7よく聞くんだ、メイソ\ン。レズノフは信用できない。彼が何を言おうともだ..."
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_014A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7いったい何の話をして..."
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_015A_INTE
+LANG_ENGLISH        "^1尋問官:^7数字のことだ、メイソ\ン。あれには何の意味がある？ どこから送信されているんだ？"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_016A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7数字がどうしたっていうんだ！"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_009C_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7うあああああ！！"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_17A_INTE
+LANG_ENGLISH        "^1尋問官:^7ドラゴヴィッチはどうだ？ おぼえているかね？ おとなしく話せば安全は保証しよう"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_18A_INTE
+LANG_ENGLISH        "^1尋問官:^7最初から始めよう。1961年キューバのピッグズ湾。そこにお前がいたことはわかってる"
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_001A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7罠だったんだ。俺たちが来るのを奴らは知ってた。ドラゴヴィッチめ..."
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_002A_INTE
+LANG_ENGLISH        "^1尋問官:^7ロシア人か"
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_003A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ああ。あいつが黒幕だった"
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_004A_INTE
+LANG_ENGLISH        "^1尋問官:^7ドラゴヴィッチにどこに連れて行かれた？"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_001B_INTE
+LANG_ENGLISH        "^1尋問官:^7お前はドラゴヴィッチの右腕であるクラフチェンコがラオスで活動していることを確認した"
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_005A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ソ\連。収容所だ。ヴォルクタという名の地獄。 神よ..."
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_006A_INTE
+LANG_ENGLISH        "^1尋問官:^7何をされた、メイソ\ン？"
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_007A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7奴らにされたこと..."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_002A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前は奴に執着し、5年間、奴を追い続けていたんだ"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_003A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7奴は... 奴は... 奴はどこにでもいた。頭から離れない。他の連中もだ..."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_005B_WEAV
+LANG_ENGLISH        "^1尋問官:^7時間の無駄だ"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_005C_WEAV
+LANG_ENGLISH        "^1尋問官:^7妄想にとりつかれてる"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_005A_WEAV
+LANG_ENGLISH        "^1尋問官:^7クソ\をぶち込まれ過ぎて、何を言ってるか自分でもわかってないんだ"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_005A_WEAV_S
+LANG_ENGLISH        "^1尋問官:^7何を言ってるか自分でもわかってないんだ"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_007A_INTE
+LANG_ENGLISH        "^1尋問官:^7いや、この調子で追い込めば..."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_008A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7おい！ お前たちは誰だ？ 俺に何の用だ？"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_009A_WEAV
+LANG_ENGLISH        "^1尋問官:^7数字だ、メイソ\ン。肝心なのは数字の意味だ"
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_001B_INTE
+LANG_ENGLISH        "^1尋問官:^7九龍でクラーク博士から聞き出した情報を、ジェイソ\ン・ハドソ\ンがお前に教えたことはわかっている"
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_002A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7クラークは正気じゃないとハドソ\ンが言っていた。疑心暗鬼にかられ、数字に執着していると"
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_004A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ドラゴヴィッチの右腕、クラフチェンコがベトナムでテストを。ベトナム人、俺たちの仲間、自分の部下...  手当たり次第だった"
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_006A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7あいつは奴らを憎んでいた。生かしておくなと言われた。何度も何度も"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_001A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前はドラゴヴィッチの右腕であるクラフチェンコがラオスで活動していることを確認した"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_002A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ああ。レズノフが言っていた。数え切れないほど大勢が殺されたと"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_004A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7だがクラークの記録をくれた！ ノヴァ6へと導いてくれたんだ！"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_005A_INTE
+LANG_ENGLISH        "^1尋問官:^7レズノフはお前が思っているような男ではない"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_006A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7いや、仲間だ！ 俺を逃がしてくれた！ 裏切られ、忘れられ、見捨てられ... 同胞たちはみんな..."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_007A_INTE
+LANG_ENGLISH        "^1尋問官:^7レズノフのことは忘れろ！ 集中するんだ、メイソ\ン！ 時間がない！ 世界は戦争の瀬戸際にあるんだ！"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_012A_INTE
+LANG_ENGLISH        "^1尋問官:^7君だけだ、メイソ\ン"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_008A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7誰の戦争だ？ そもそもお前は誰なんだ？"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_008A_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7誰の戦争だ？ そもそもお前は誰なんだ？"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_009A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7うう。き、聞こえる...  いつも...  くそ...  数字が..."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_009A_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7うう。き、聞こえる...  いつも...  数字が..."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_010A_INTE
+LANG_ENGLISH        "^1尋問官:^7メイソ\ン、数列は広く送信されている。お前は洗脳を受けたんだ"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_010A_INTE
+LANG_ENGLISH        "^1尋問官:^7ウッズとボウマンは殺された。SOGチームは壊滅したんだ。メイソ\ン、生き残ったのは君だけだ"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_011A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7いや、ちがう... レズノフは生き延びた"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_013A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ちがう... レズノフは今だって一緒だ... ヴォルクタからずっと"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_001B_INTE
+LANG_ENGLISH        "^1尋問官:^7ラオスで部隊が壊滅し、クラフチェンコの拠点を発った後、お前は任務を放棄した"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_002A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7放棄なんてしてない！ 俺は任務を続行していた！"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_004A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7シュタイナーがいたんだ、 生かしちゃおけなかった！"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_005B_INTE
+LANG_ENGLISH        "^1尋問官:^7だがハドソ\ンとCIAが既にシュタイナーを捕らえにリバース島に向かっていた。何故お前が行く必要があった？"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_006A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ドラゴヴィッチ、クラフチェンコ、シュタイナー。1人も生かしてはおけなかった"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_008A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7数字がそうしろって言ったんだよ！ なんでわからねーんだ？！"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_008A_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7数字が教えてくれるんだ！ なぜわからない！？"
+
+ENDMARKER

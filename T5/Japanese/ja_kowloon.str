@@ -1,0 +1,523 @@
+// Dumped from fastfile "ja_kowloon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KOWLOON_E3_CACHE_RUN
+LANG_ENGLISH        "隠し場所を求めて"
+
+REFERENCE           KOWLOON_E2_GAS_LEAK
+LANG_ENGLISH        "ガスからの待避"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_128A_CLAR
+LANG_ENGLISH        "^1クラーク:^7こっちだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_102A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7信じられん、これはまずいぞ...54...23...思い出せない！"
+
+REFERENCE           KOWLOON_INTERROGATION_PUNCH
+LANG_ENGLISH        "^3[{+attack}]^7でパンチ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_008A_CLAR_M
+LANG_ENGLISH        "^1ハドソ\ン:^7知ってることを話すんだ\n^1クラーク:^7私はもう死人だ…"
+
+REFERENCE           KOWLOON_INTERROGATION_BREAK_GLASS
+LANG_ENGLISH        "^3[{+speed_throw}]^7で窓を壊す"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_007A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7私は既に死人だ..."
+
+REFERENCE           KOWLOON_OBJECTIVE_FOLLOW_CLARK
+LANG_ENGLISH        "クラークを護衛せよ"
+
+REFERENCE           KOWLOON_INTROSCREEN_TITLE
+LANG_ENGLISH        "^L送信# 23-1-19 指定: VICTOR^L"
+
+REFERENCE           KOWLOON_OBJECTIVE_GO_DOWN
+LANG_ENGLISH        "ウィーバーに続け"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_014A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7どんな化合物だ！？"
+
+REFERENCE           KOWLOON_OBJECTIVE_SHOOT_CANISTER
+LANG_ENGLISH        "容器を撃て"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_086B_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7研究成果を目当てに、掃除部隊を送り込んだな"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_006A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7こちらの欲しいものを提供するなら、身の安全を保証してやる..."
+
+REFERENCE           KOWLOON_OBJECTIVE_DEFEND_CLARK
+LANG_ENGLISH        "スペツナズの襲撃を撃退せよ"
+
+REFERENCE           KOWLOON_OBJECTIVE_FOLLOW
+LANG_ENGLISH        "護衛"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_036A_CLAR
+LANG_ENGLISH        "^1クラーク:^7階段を！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_018A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7頭を上げるな！"
+
+REFERENCE           KOWLOON_OBJECTIVE_DEFEND
+LANG_ENGLISH        "DEFEND"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_067A_CLAR
+LANG_ENGLISH        "^1クラーク:^7パイプを下りるんだ！"
+
+REFERENCE           KOWLOON_OBJECTIVE_SHOOT
+LANG_ENGLISH        "発砲"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_065A_CLAR
+LANG_ENGLISH        "^1クラーク:^7想定の範囲内だ"
+
+REFERENCE           KOWLOON_INTROSCREEN_PLACE
+LANG_ENGLISH        "^L標的：ダニエル・クラーク博士の位置を特定。^L^C1香港、九龍城^C"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_056A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7よし...  来い"
+
+REFERENCE           KOWLOON_INTROSCREEN_NAME
+LANG_ENGLISH        "^L回収チーム：^L^C1ハドソ\ン^C^L、ウィーバー、ステーション3作戦要員は現地到着^L"
+
+REFERENCE           KOWLOON_INTROSCREEN_INFO
+LANG_ENGLISH        "^C1C.I.A.^C ^Lステーション #4568  指定: \"k\"^L"
+
+REFERENCE           KOWLOON_INTROSCREEN_DATE
+LANG_ENGLISH        "^L1700時^L ^C11968年2月9日^C"
+
+REFERENCE           KOWLOON_E7_PISTOL
+LANG_ENGLISH        "^3[{+activate}]^7長押しでCz75を入手"
+
+REFERENCE           KOWLOON_OBJECTIVE_ESCAPE
+LANG_ENGLISH        "クラーク博士と共に脱出せよ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_095A_CLAR
+LANG_ENGLISH        "^1クラーク:^7また外へ。右のバルコニーだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_009A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7...お前らに見つかるなら、奴らも見つける、何でも知っている奴らだ... もう、ここに向かってるだろう"
+
+REFERENCE           KOWLOON_JUMP_DEATH
+LANG_ENGLISH        "向こう側に到達するにはダッシュしてジャンプする必要がある。"
+
+REFERENCE           KOWLOON_OBJECTIVE_ESCAPE_WEAVER
+LANG_ENGLISH        "ウィーバーと脱出せよ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_123A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7レッドアイ、交信終了"
+
+REFERENCE           KOWLOON_NOVA6_DEATH
+LANG_ENGLISH        "ノヴァ6にさらされた！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_700A_INTE
+LANG_ENGLISH        "^1尋問官:^7ハドソ\ンに拷問されていた男が、1分後には協力関係にあった。なぜだ？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_040A_CLAR
+LANG_ENGLISH        "^1クラーク:^7反対側の棟に行かないと！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_023A_CLAR
+LANG_ENGLISH        "^1クラーク:^7天井にハッチがある！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_093A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7天井を破るつもりだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_004A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7失うものについて考えてみろよ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_701A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7なぜ？ ドラゴヴィッチが奴の命を狙ってたからだ。CIAは情報が欲しかっただけだ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_001A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7お前らには分からんだろう？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_002A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7政府の後ろ盾を受けたお前らの蛮行で私を脅せると思ってるなら、ドラゴヴィッチについて何も分かっちゃいないってことだ..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_003A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7ドラゴヴィッチの恐ろしさを知らんようだ\n.私がお前らに話して、得るものがあるのか？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_021A_CLAR
+LANG_ENGLISH        "^1クラーク:^7仕方あるまい！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_005A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^71日中続けたっていいぜ。窓はまだあるしな"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_066A_CLAR
+LANG_ENGLISH        "^1クラーク:^7急げ、下だ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_037A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7右側の窓だ！ 右！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_118A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7タグボート、こちらレッドアイ..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_010A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7何故だ？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_026A_CLAR
+LANG_ENGLISH        "^1クラーク:^7ガスを吸ったか！？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_011A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7ドラゴヴィッチは、やり残しを嫌う。奴と直接接触したことはない。シュタイナーとだけだ。ドイツ人のな..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_039A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7クソ\！ スナイパーだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_303A_CLAR
+LANG_ENGLISH        "^1クラーク:^7部屋を出ろ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_012A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7お前の仕事はどんなものだった？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_013A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7私はある種の、「揮発性化合物」の安定化を、任されていた"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_035A_CLAR
+LANG_ENGLISH        "^1クラーク:^7屋根に！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_105A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7暗証番号を忘れたのか？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_015A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7ノヴァ6。生物化学兵器さ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_017A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7奴らを連れて来たな！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_019A_CLAR
+LANG_ENGLISH        "^1クラーク:^7銃撃で容器が割れた！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_061A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7どっちだ？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_020A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7貴様、毒ガスをこんな街中に持ち込んだのか！？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_048A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7クソ\ッタレ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_304A_CLAR
+LANG_ENGLISH        "^1クラーク:^7死にたいのか！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_305A_CLAR
+LANG_ENGLISH        "^1クラーク:^7ここから連れ出してくれたらすべて話す！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_041A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7どうやって！？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_022A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7脱出路はあるな？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_024A_CLAR
+LANG_ENGLISH        "^1クラーク:^7こっちだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_110A_CLAR
+LANG_ENGLISH        "^1クラーク:^7クソ\..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_025A_CLAR
+LANG_ENGLISH        "^1クラーク:^7急げ。早くせんか！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_027A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7大丈夫そうだ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_028A_CLAR
+LANG_ENGLISH        "^1クラーク:^7運がいいな..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_029A_CLAR
+LANG_ENGLISH        "^1クラーク:^7吸ったら死は確実だ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_032A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7スペツナズが来るぞ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_033A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7西の廊下だ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_034A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7どっちだ？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_038A_CLAR
+LANG_ENGLISH        "^1クラーク:^7屋根に上がれ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_042A_CLAR
+LANG_ENGLISH        "^1クラーク:^7跳べ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_043A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7冗談を言うな！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_044A_CLAR
+LANG_ENGLISH        "^1クラーク:^7跳ぶんだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_045A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7行くぞ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_046A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7何をグズグズしている？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_047A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン、跳ぶか死ぬかだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_079A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7他には？ 噂\でもいい。何かないのか！？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_048A_HUDS_S
+LANG_ENGLISH        "^1ハドソ\ン:^7クソ\...！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_049A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7フゥゥ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_050A_CLAR
+LANG_ENGLISH        "^1クラーク:^7これを動かすのを手伝ってくれ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_051A_CLAR
+LANG_ENGLISH        "^1クラーク:^7必要なものを取れ。奴らはすぐに来るぞ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_306A_CLAR
+LANG_ENGLISH        "^1クラーク:^7後は頼むぞ！ この扉のロックを解除する！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_052A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7死人のわりには準備がいいな"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_703A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7急げ。脱出するぞ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_053A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7運命を受け入れたからと言ってな、喜々として死に急ぐつもりはないんだよ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_053B_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7運命を受け入れたからと言ってな、死に急ぐつもりはないんだよ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_115A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7数字について聞かせもらうぞ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_054A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7ハッ、勝手に言ってろ、イギリス野郎"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_055A_CLAR
+LANG_ENGLISH        "^1クラーク:^7こっちだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_057A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7追ってくるぞ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_058A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン！ 左だ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_308A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7フラッシュバン！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_308B_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7フラッシュバン！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_060A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7窓を破ってくるぞ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_062A_CLAR
+LANG_ENGLISH        "^1クラーク:^7左のドアだ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_063A_CLAR
+LANG_ENGLISH        "^1クラーク:^7屋上に！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_064A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7迷っているんじゃないだろうな？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_068A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7こいつ、本当に学者か？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_069A_CLAR
+LANG_ENGLISH        "^1クラーク:^7もっと急げ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_070A_CLAR
+LANG_ENGLISH        "^1クラーク:^7さっさとこっちへ来い！！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_071A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7下にも2人いるぞ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_071A_WEAV_S
+LANG_ENGLISH        "^1ウィーバー:^7下に2人いる"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_086A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7研究成果を目当てに、掃除部隊を送り込んだな"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_072A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7問題ない"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_073A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7俺に任せろ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_107A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7数字を刺青に？ 何をかくしているんだ、クラーク！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_074A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ドラゴヴィッチはここまでして、お前の口を封じたがっている...まだ何か隠しているな？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_075A_CLAR
+LANG_ENGLISH        "^1クラーク:^7ノヴァ6のことは話したろう..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_076A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7奴らの活動拠点は？ ベトナム？ ラオス？ カンボジアか？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_077A_CLAR
+LANG_ENGLISH        "^1クラーク:^7本拠地はウラル山脈のヤマンタウだ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_078A_CLAR
+LANG_ENGLISH        "^1クラーク:^7シュタイナーはそこにいる。プロジェクトノヴァの最終準備のために"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_702A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン、バンへ向かえ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_078B_CLAR
+LANG_ENGLISH        "^1クラーク:^7元ナチスにして奴の参謀、シュタイナーはそこにいる。プロジェクト・ノヴァの最終準備のために"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_080A_CLAR
+LANG_ENGLISH        "^1クラーク:^7シュタイナーはドラゴヴィッチと数字について話していた..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_081A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7どんな数字だ？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_082A_CLAR
+LANG_ENGLISH        "^1クラーク:^7計画の鍵をにぎる数字だ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_109A_CLAR
+LANG_ENGLISH        "^1クラーク:^7あああ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_108A_CLAR
+LANG_ENGLISH        "^1クラーク:^7行くぞ！ 私を信じてついて来い！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_083A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7敵だ！12時方向！ 下だ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_085A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7クソ\..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_085A_CLAR_M_S
+LANG_ENGLISH        "^1クラーク:^7くそ..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_087A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7いらん世話だ、ドラゴヴィッチ... 後始末に人の手は借りん！ ハハハ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_087B_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7いらん世話だ、ドラゴヴィッチ...後始末に人の手は借りん！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_088A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7弾はまだ残ってるか？ まだ先は長いぞ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_089A_CLAR
+LANG_ENGLISH        "^1クラーク:^7左のバルコニーだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_090A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン！ 気をつけろ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_091A_CLAR
+LANG_ENGLISH        "^1クラーク:^7廊下を！ 突き当りまで行け！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_092A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7スペツナズの新手！ 右！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_094A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7次はどっちだ？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_096A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7まったく、よく覚えていられるものだな、クラーク！？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_097A_CLAR
+LANG_ENGLISH        "^1クラーク:^7次のバルコニーに移れ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_098A_CLAR
+LANG_ENGLISH        "^1クラーク:^7もう少しだ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_099A_CLAR
+LANG_ENGLISH        "^1クラーク:^7武器と弾薬だ。いるものを取れ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_100A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7よーし...  しばらくぶりだ..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_103A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^75...11...19...45？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_104A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^76時方向！！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_106A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7そうか... ラッキー7だ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_302A_WEAV
+LANG_ENGLISH        "^1クラーク:^7ゴー、ゴー、ゴー！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_307A_CLAR
+LANG_ENGLISH        "^1クラーク:^7扉を開けるまで援護してくれ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_111A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ハドソ\ン、クラークを！ 行くぞ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_112A_CLAR
+LANG_ENGLISH        "^1クラーク:^7滑る！ 滑る！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_113A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7跳べ！ ハドソ\ン！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_114A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7つかんだぞ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_116A_CLAR_M
+LANG_ENGLISH        "^1クラーク:^7ああ... 数字か... あの数字は鍵として..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_117A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7クソ\...行こう"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_117A_WEAV_M_S
+LANG_ENGLISH        "^1ウィーバー:^7行くぞ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_119A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7すぐに回収してくれ。ストリートレベル。タワー4。南側だ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_120A_AGT1_F
+LANG_ENGLISH        "^1エージェント:^7ラジャー、レッドアイ。すぐに行く"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_301A_AGT1_F
+LANG_ENGLISH        "^1エージェント:^7レッドアイ、まもなく回収する。クソ\、なんとかしろ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_301A_AGT1_S_F_S
+LANG_ENGLISH        "^1エージェント:^7レッドアイ、回収地点に接近中。急げ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_121A_AGT1_F
+LANG_ENGLISH        "^1エージェント:^7戦闘があったことは確認している... 目標を確保したか？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_122A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ネガティブ... 殺された"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_124A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7来い、ハドソ\ン...下に行けそうだ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_125A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7こっちだ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_704A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7何をぐずぐずしている。バンに乗るんだ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_126A_AGT1_M
+LANG_ENGLISH        "^1エージェント:^7どこに向かう？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_127A_HUDS
+LANG_ENGLISH        "^1ハドソ\ン:^7クラークはドラゴヴィッチの下で働く元ナチスの科学者についてつかんでいた。そいつの名はシュタイナー。ソ\連のヤマンタウ山に向かうぞ"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_300A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7ヤマンタウか"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_129A_CLAR
+LANG_ENGLISH        "^1クラーク:^7急げ！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_130A_CLAR
+LANG_ENGLISH        "^1クラーク:^7止まらずに進め！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_131A_CLAR
+LANG_ENGLISH        "^1クラーク:^7どこに行く？"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_132A_CLAR
+LANG_ENGLISH        "^1クラーク:^7違う！ そっちじゃない！"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_133A_CLAR
+LANG_ENGLISH        "^1クラーク:^7離れるな！"
+
+ENDMARKER

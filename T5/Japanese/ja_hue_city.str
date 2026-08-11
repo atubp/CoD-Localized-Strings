@@ -1,0 +1,1042 @@
+// Dumped from fastfile "ja_hue_city".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HUE_CITY_OBJ_3
+LANG_ENGLISH        "無線機を確保して航空支援を要請せよ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_416A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7了解だ、リマ9。移動する"
+
+REFERENCE           HUE_CITY_RAPELHINT
+LANG_ENGLISH        "Xでラペリング"
+
+REFERENCE           HUE_CITY_GET_TO_BOAT
+LANG_ENGLISH        "ボートに向かえ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_437A_WOOD_F_M
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ 目当ては見つかったのか？"
+
+REFERENCE           HUE_CITY_SUPPORT
+LANG_ENGLISH        "SUPPORT"
+
+REFERENCE           HUE_CITY_ACTION_4_BOMB
+LANG_ENGLISH        "^3[{+actionslot 4}]^7で航空支援を要請"
+
+REFERENCE           HUE_CITY_INTROSCREEN_PLACE
+LANG_ENGLISH        "ベトナム、フエ市"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_480A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7なんとか"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_448A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7リマ9、回収の手はずは！？"
+
+REFERENCE           HUE_CITY_OBJ_HELP_WOODS
+LANG_ENGLISH        "ウッズに手を貸せ"
+
+REFERENCE           HUE_CITY_INTROSCREEN_NAME
+LANG_ENGLISH        "カーター軍曹"
+
+REFERENCE           HUE_CITY_OBJ_1
+LANG_ENGLISH        "亡命者と情報を回収せよ"
+
+REFERENCE           HUE_CITY_X_BUTTON
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+REFERENCE           HUE_CITY_EXTRACTION_IN
+LANG_ENGLISH        "脱出まで："
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_080A_CROS_M
+LANG_ENGLISH        "^1クロスビー:^7ウソ\だろ... マジかよ！"
+
+REFERENCE           HUE_CITY_CLAYMORE_HINT_EQUIP
+LANG_ENGLISH        "^3[{+actionslot 4}]^7でC4爆薬を装備"
+
+REFERENCE           HUE_CITY_OBJ_2A
+LANG_ENGLISH        "着陸地点に向かえ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_044A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7伏せろ！"
+
+REFERENCE           HUE_CITY_C4_HINT_EQUIP
+LANG_ENGLISH        "^3[{+actionslot 1}]^7でC4爆薬を装備"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_494A_NVA3
+LANG_ENGLISH        "^1基地の拡声器:^7アメリカ兵ども！ ベトナム民主共和国に対する貴様らの侵略行為には、必ず報いがあるだろう"
+
+REFERENCE           HUE_CITY_TAKE_C4_FROM_STASH
+LANG_ENGLISH        "^3[{+activate}]^7で爆弾を入手"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_402A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7見つけるさ... 生きているならな"
+
+REFERENCE           HUE_CITY_OBJ_3A
+LANG_ENGLISH        "無線機をとれ"
+
+REFERENCE           HUE_CITY_RIGHTSTICK
+LANG_ENGLISH        "^3[{+melee}]^7"
+
+REFERENCE           HUE_CITY_TAKE_RADIO
+LANG_ENGLISH        "^3[{+activate}]^7長押しで無線機を確保"
+
+REFERENCE           HUE_CITY_TARGET_IS_FRIENDLY
+LANG_ENGLISH        "その目標は味方だ！"
+
+REFERENCE           HUE_CITY_SPAS_SWITCH
+LANG_ENGLISH        "^3[{+actionslot 3}]^7でドラゴンブレス弾を使用"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_079A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ラジャー、エックスレイ。どこを叩くか指示してくれ"
+
+REFERENCE           HUE_CITY_PROMPT_PRESS_OPEN
+LANG_ENGLISH        "^F^3[{+activate}]^7^Fでドアを開く"
+
+REFERENCE           HUE_CITY_ACTION_4_GUNSHIP_FIRE
+LANG_ENGLISH        "^3[{+attack}]^7で航空支援の目標を指示"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_514A_REZN
+LANG_ENGLISH        "^1レズノフ:^7あそこだ！ 屋根の上！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_150A_MASO_M_S
+LANG_ENGLISH        "^1メイソ\ン:^7クソ\ッタレ！"
+
+REFERENCE           HUE_CITY_APC_NAME
+LANG_ENGLISH        "ボトムフィーダー"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_539A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7急げ、早くしろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_412A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7情報センターは1つ下の階だ"
+
+REFERENCE           HUE_CITY_APC_TYPE
+LANG_ENGLISH        "M113"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_090A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン、使えないなら俺に通信機をよこせ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_401A_MASO
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7...MACV基地はもうダメだ\n^1メイソ\ン:^7基地にいるソ\連の亡命者を見つけないと！"
+
+REFERENCE           HUE_CITY_HUEY_TYPE
+LANG_ENGLISH        "ヒューイガンシップ"
+
+REFERENCE           HUE_CITY_BASH_HINT
+LANG_ENGLISH        "^3[{+activate}]^7で押す"
+
+REFERENCE           HUE_CITY_OBJ_7A
+LANG_ENGLISH        "砲撃観測員を排除せよ（残り3／3人）"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE3
+LANG_ENGLISH        "^L機密情報をもつソ\ビエト亡命者の安否が懸念される^L"
+
+REFERENCE           HUE_CITY_ACTION_4_GUNSHIP
+LANG_ENGLISH        "^3[{+actionslot 4}]^7で航空支援を要請"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_072A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^715、そのセクターは許可外だ。悪いがどこも必死なんだ"
+
+REFERENCE           HUE_CITY_C4_HINT_THROW
+LANG_ENGLISH        "^3[{+speed_throw}]^7でC4爆薬を投げ、^3[{+attack}]^7で起爆する"
+
+REFERENCE           HUE_CITY_OBJ_2B
+LANG_ENGLISH        "着陸地点まで突破せよ"
+
+REFERENCE           HUE_CITY_CLAYMORE_HINT_THROW
+LANG_ENGLISH        "^3[{+attack}]^7でクレイモアを設置"
+
+REFERENCE           HUE_CITY_BOTTOM_FEEDER
+LANG_ENGLISH        "ボトムフィーダー"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_430A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_002A_MAR3_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7今すぐ航空支援がいるんだ！"
+
+REFERENCE           HUE_CITY_TAKE_CLAYMORE_FROM_STASH
+LANG_ENGLISH        "^3[{+activate}]^7でクレイモアを入手"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_553A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7このままだとやられるぞ、メイソ\ン。そのライフルを使え！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_473A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7道から下がれ！"
+
+REFERENCE           HUE_CITY_C4_PLANT
+LANG_ENGLISH        "^3[{+activate}]^7長押しで爆弾を設置"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_076A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7いいから通信機をよこせ"
+
+REFERENCE           HUE_CITY_FOLLOW
+LANG_ENGLISH        "FOLLOW"
+
+REFERENCE           HUE_CITY_BREACH
+LANG_ENGLISH        "CHARGE"
+
+REFERENCE           HUE_CITY_OBJ_5
+LANG_ENGLISH        "脱出まで着陸地点を防衛せよ"
+
+REFERENCE           HUE_CITY_TAKE_RADIO_OBJ
+LANG_ENGLISH        "無線機を確保"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_101A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7テキサス、指示座標を攻撃せよ"
+
+REFERENCE           HUE_CITY_OBJ_7C
+LANG_ENGLISH        "砲撃観測員を排除せよ（残り1／3人）"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE1
+LANG_ENGLISH        "^L送信# 20-8-5-18-5 指定: OSCAR^L"
+
+REFERENCE           HUE_CITY_ESCORT
+LANG_ENGLISH        "護衛"
+
+REFERENCE           HUE_CITY_LANDING_ZONE
+LANG_ENGLISH        "着陸地点"
+
+REFERENCE           HUE_CITY_PLANT_C4
+LANG_ENGLISH        "C4を設置"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_019A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7リマ9、ホテル6がやられた"
+
+REFERENCE           HUE_CITY_SPOTTER
+LANG_ENGLISH        "砲撃観測員"
+
+REFERENCE           HUE_CITY_SUPPLIES
+LANG_ENGLISH        "補給物資"
+
+REFERENCE           HUE_CITY_OBJ_9
+LANG_ENGLISH        "ボートに向かえ"
+
+REFERENCE           HUE_CITY_TARGET
+LANG_ENGLISH        "目標"
+
+REFERENCE           HUE_CITY_DEFEND
+LANG_ENGLISH        "DEFEND"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_489A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7了解"
+
+REFERENCE           HUE_CITY_CLAYMORES
+LANG_ENGLISH        "クレイモア"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_113A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ネガティブ、エックスレイ。それは有効なターゲットではない"
+
+REFERENCE           HUE_CITY_SATCHEL_CHARGES
+LANG_ENGLISH        "工兵用爆薬"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_485A_REZN
+LANG_ENGLISH        "^1レズノフ:^7安全な場所まで下がれ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_106A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7気をつけろ、エックスレイ。伏せてろ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_449A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、注意しろ。MACVウェストで海兵隊が多数の敵と交戦中だ"
+
+REFERENCE           HUE_CITY_OBJ_8
+LANG_ENGLISH        "無線で燃料気化爆弾の投下を要請せよ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_434A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7あんたが亡命者か？"
+
+REFERENCE           HUE_CITY_OBJ_4
+LANG_ENGLISH        "ZSU対空砲を破壊せよ"
+
+REFERENCE           HUE_CITY_OBJ_6
+LANG_ENGLISH        "着陸地点の守りを固めて確保せよ"
+
+REFERENCE           HUE_CITY_PROMPT_PRESS_BUTTON
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_060A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7脱出するにはひと頑張りが必要だぞ"
+
+REFERENCE           HUE_CITY_OBJ_7B
+LANG_ENGLISH        "砲撃観測員を排除せよ（残り2／3人）"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_802A_USC4_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、哨戒艇到着まで1分だ。こらえてくれ"
+
+REFERENCE           HUE_CITY_OBJ_ACOG
+LANG_ENGLISH        "ACOGコマンドーをとれ"
+
+REFERENCE           HUE_CITY_REGROUP
+LANG_ENGLISH        "集合"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_533A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ ターゲットを指示しろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_116A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解した、エックスレイ。避難せよ"
+
+REFERENCE           HUE_CITY_TARGET_TOO_CLOSE
+LANG_ENGLISH        "目標が近すぎる！"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE2
+LANG_ENGLISH        "^C1フエ市^C^Lは敵勢力により制圧^L"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE4
+LANG_ENGLISH        "^L回収チームリード：^L^C1メイソ\ン^C^L（SOG指揮下）^L"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_503A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7押し返せ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_350A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ボウマン！ 北東の角だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_029A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7リマ9、了解"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE5
+LANG_ENGLISH        "^L1900時^L ^C11968年2月2日^C"
+
+REFERENCE           HUE_CITY_SCOPED_RIFLE
+LANG_ENGLISH        "ACOGコマンドー"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_080A_CROS_M_S
+LANG_ENGLISH        "^1クロスビー:^7マジかよ"
+
+REFERENCE           HUE_CITY_PUSH_DOOR
+LANG_ENGLISH        "^3[{+activate}]^7連打でドアを開く"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_501A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7動くものは撃て！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_133A_USC3_S_F_S
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7回避運動だ...エックスレイ、砲火が激しい！"
+
+REFERENCE           HUE_CITY_PROMPT_PRESS
+LANG_ENGLISH        "押せ："
+
+REFERENCE           HUE_CITY_DETONATE_EXPLOSIVE
+LANG_ENGLISH        "爆弾を起爆せよ"
+
+REFERENCE           HUE_CITY_ESCAPE_FAILED
+LANG_ENGLISH        "任務失敗：時間内に脱出できなかった。"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_432A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7また生きて会えるとはな..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_700A_INTE
+LANG_ENGLISH        "^1尋問官:^7フエ市。お前をめぐる状況がおかしくなったのはあの時だ、メイソ\ン"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_701A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7亡命者..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_467A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7着陸地点は0.5キロ先、道の外れだ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_069A_CROS_M
+LANG_ENGLISH        "^1クロスビー:^7RTテキサス、こちら1-5。航空支援を頼む、座標は7、デルタ・オスカー・タンゴ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_702A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7信じられなかった。亡命者の正体が彼だったなんて"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_703A_INTE
+LANG_ENGLISH        "^1尋問官:^7戻って来たんだ、メイソ\ン。レズノフは戻って来た"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_001A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ネガティブ。チーム・テキサスはセクター外にいる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_110A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7見えている、エックスレイ。支援に向かう"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_003A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7被弾！ 被弾！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_496A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、外周に爆薬を設置しろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_073A_CROS_M
+LANG_ENGLISH        "^1クロスビー:^7クソ\ッタレめ...ちくしょう！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_004A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7MACVイーストが陥落。繰り返す、MACVイーストが陥落"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_050A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7窓のところ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_005A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7装甲車をよこせ！ 負傷者がいるんだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_164A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^71-0、チャーリーを足止め中。あとどれくらい保たせればいい？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_006A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7北からの攻撃が激しい。もう長くはもたないぞ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_109A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7テキサス、ターゲットをマーク"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_007A_MAR3_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7命令なんて知ったことか。今すぐタンゴ・リマ5に火力を集中させろ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_008A_USS1_F
+LANG_ENGLISH        "^1アメリカ海兵隊:^7下がれ！ 退却だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_009A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7MACVの基地を視認。相当まずい状況だ、ウッズ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_130A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ラジャー、エックスレイ。対地攻撃を実施する"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_049A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7火炎ビン！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_009A_USC1_S_F_S
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7MACVの基地を視認。相当まずい状況だ、ウッズ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_400A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7俺たちは、亡命者の回収に来た。ソ\連の関与についての情報を持ってる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_403A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7SOGエックスレイチーム、降下準備"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_484A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^73秒だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_404A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7チーム降下中"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_014A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7対空砲火だ！ 被弾した、被弾した！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_015A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7リマ9、墜落してる！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_097A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解、エックスレイ。5階建ての建物に向けて撃つ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_405A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7気をつけろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_017A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7つかまれ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_018A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ホテル6、応答せよ。ホテル6、聞こえるか？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_020A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ほら、SPAS-12だ。焼夷弾も使える。どっちだ、メイソ\ン？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_107A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ターゲットを指示する。叩き潰せ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_094A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解、エックスレイ。2階建ての建物を狙う"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_406A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7移動する！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_407A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7リマ9、エックスレイを目視したぞ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_408A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7北側の棟はNVAだらけだぜ、ウッズ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_481A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7集合地点で会おう"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_441A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7奴を止めなければ、メイソ\ン"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_409A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ぶちかませ、ボウマン！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_030A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7エックスレイ、頭下げてろよ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_801A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、これより攻撃する"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_031A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7エックスレイ、進路はクリアした！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_526A_COMM_F
+LANG_ENGLISH        "^1司令部:^7別の方法を考える。待機せよ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_508A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7東だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_032A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7行くぞ、進め！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_509A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7南東から来る！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_033A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7邪魔だ！ 行け！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_410A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7了解した"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_411A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7エックスレイ、こちら天井から突入！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_038A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7建物じゅう、敵だらけだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_413A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7亡命者は生き延びてると思うか！？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_414A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7だとすれば、そうとうタフな男だな！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_414A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7だとすれば、そうとうタフな奴だな！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_040A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ボウマン、聞き取れたか？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_041A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7民間人を殺せ、と"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_042A_NVA3
+LANG_ENGLISH        "^1基地の拡声器:^7アメリカ人への協力は重罪である。党の規則に則り、即時、処罰を執行する"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_045A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7悪いな、クソ\野郎め！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_071A_CROS_M
+LANG_ENGLISH        "^1クロスビー:^7友軍なんかいない！ 攻撃で分断された！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_045A_BOWM_S
+LANG_ENGLISH        "^1ボウマン:^7悪いな、クソ\野郎め！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_415A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、こちらリマ9。早くしないと脱出できなくなるぞ。北ベトナム軍が北棟に殺到している"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_417A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7セーフルームはすぐ先だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_507A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7北東から来るぞ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_108A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7テキサス、そちらへ向かう"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_545A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7セーフルームは発令所の向こうだ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_051A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7クリア！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_092A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7こちらテキサス、攻撃指示を待つ。オーバー"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_418A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7セーフルームはこの下だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_419A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7セーフルームが突破されている"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_420A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7突破されているぞ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_457A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ダメだ、エックスレイ。屋根の上にRPGがいる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_421A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7協力者は？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_422A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7司令室まで後退したかもしれない... 生きている可能\性はある"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_423A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7行こう"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_300A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、建物は確保した。オーバー"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_424A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7リマ9、状況は。オーバー！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_425A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、北ベトナム軍がMACVサウスを再び占拠。孤立させられた"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_091A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、テキサスが待機中"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_058A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7クソ\"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_058A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7クソ\"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_059A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7了解だ、リマ9"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_805A_USC4_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7到着まで1分"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_426A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7急ごう。来い"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_067A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7発令所だ。反対側に出口がある"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_559A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7RPG！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_150A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7ちくしょう！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_427A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ここの部屋のどれかにいるはずだ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_472A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7戦車だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_428A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、廊下の一番奥のドアを頼む"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_705A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7ノヴァ［不明瞭に］... 数列... ルサルカの... 数列だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_429A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ボウマン、来い"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_512A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7砲兵だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_554A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、ドアを破れ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_513A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ 観測員をやれ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_555A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ドアを破るんだ、メイソ\ン"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_510A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7南から来ているぞ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_505A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7敵だらけだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_556A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ドアはまだ破れないのか？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_511A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7南西に注意！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_557A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7先を急がないと。ドアを破れ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_558A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7時間がないぞ、メイソ\ン"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_128A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7T-55め！ メイソ\ン、航空支援の要請を！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_704A_DRAG
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7数字... 施設... 数列... 送信源... 数字..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_546A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン、そこにあるスコープ付のライフルで観測員を片づけろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_431A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7レズノフ！ ヴォルクタから脱出したのか？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_103A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7座標を送る。吹っ飛ばしてくれ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_438A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7大丈夫だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_433A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7私もだ、友よ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_435A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7私はアメリカ政府に警告するためにここに来た..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_436A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7ドラゴヴィッチが西側への攻撃を画策してる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_439A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7ドラゴヴィッチ... やはり生きていたか"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_440A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7奴の影響力は癌のように広がりつつある...  誰も奴の真意に気づいていない、クレムリンでさえな"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_442A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ドラゴヴィッチ、クラフチェンコ、シュタイナー...奴らに死を"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_459A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解、エックスレイ。部隊をその一帯から下がらせろ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_443A_REZN
+LANG_ENGLISH        "^1レズノフ:^7彼らは仲間か？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_444A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ウッズとボウマンだ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_445A_REZN
+LANG_ENGLISH        "^1レズノフ:^7私はレズノフ... 名はヴィクトル"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_446A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7やけに手間取ったな、メイソ\ン。それに見合う情報なんだろうな！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_450A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7集合地点デルタまで突っ切れ。川沿いに2キロ北に行け"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_538A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急いで船に乗り込め！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_072A_USC3_S_F_S
+LANG_ENGLISH        "^1アメリカ軍パイロット:^715、そのセクターは許可外だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_451A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7なんとかする...  必ず迎えを寄越してくれ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_452A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7こいつは航空支援がないとどうしようもない"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_452A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7こいつは航空支援がないと無理だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_068A_NVA3
+LANG_ENGLISH        "^1基地の拡声器:^7アメリカ兵よ！ 武器を捨てろ！ これはおまえたちの戦いではない。危害は加えない。ベトナム人民軍はおまえたちを解放しに来たのだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_532A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7了解。エックスレイ、交信終了"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_070A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ネガティブ、15。優先目標はMACVサウスだ。友軍から離れるな"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_073A_CROS_M_S
+LANG_ENGLISH        "^1クロスビー:^7マジかよ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_074A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7おい、通信機を貸せ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_455A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何をしているんだ？ 無線機がいるんだ、メイソ\ン"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_075A_CROS_M
+LANG_ENGLISH        "^1クロスビー:^7お前SOGか？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_077A_CROS_M
+LANG_ENGLISH        "^1クロスビー:^7せいぜい頑張るんだな"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_077A_CROS_M_S
+LANG_ENGLISH        "^1クロスビー:^7せいぜい頑張れ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_453A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7さっさと通信機をとれ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_454A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ 無線機をとるんだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_078A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7テキサス、こちらシエラ・オスカー・ゴルフ・エックスレイ。優先命令を伝える。認証はゴルフシューズ。オーバー"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_456A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7エックスレイ、前進だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_088A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、あの建物を攻撃しろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_803A_USC4_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、船が向かっている"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_093A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、目標を視認できない。座標を指示せよ。オーバー"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_095A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解、エックスレイ。3階建ての建物を攻撃する"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_096A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解、4階建ての建物を叩く"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_098A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7座標確認。6階建ての建物に着弾させる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_099A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7テキサス、支援を頼む"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_157A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7了解"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_100A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解、そちらに向かう"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_102A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7了解、エックスレイ。待機せよ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_104A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7下がれ、エックスレイ。攻撃に移る"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_105A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7テキサス、いますぐ敵の巣を叩け。至急だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_111A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ネガティブ、エックスレイ。指示地点に味方が見える"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_112A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、その座標には友軍がいる。確認せよ。オーバー"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_458A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、攻撃が激しい！ RPGを始末してくれ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_114A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7わかった、エックスレイ。部隊を退避させろ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_493A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7別のヘリも向かっている。我慢してくれ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_115A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7退避！ 来るぞ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_117A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7第1分隊、そこを離れろ。攻撃がくるぞ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_118A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、4階建ての建物の屋上に敵がいる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_119A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、屋根の上にRPG"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_463A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ハハハ、また一緒に戦えるとは、こんなに嬉しいことはない！ ウラー！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_120A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ターゲット、排除"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_121A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7敵を倒した"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_540A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7行け！ 乗るんだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_122A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7敵、被害多数。制圧完了"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_301A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7周囲の敵に甚大な被害を確認。一帯を確保した"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_302A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、進んで大丈夫だ。安全を確保した"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_303A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、建物を制圧した。前進しろ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_460A_REZN
+LANG_ENGLISH        "^1レズノフ:^7見事だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_461A_REZN
+LANG_ENGLISH        "^1レズノフ:^7烈火の攻撃を！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_462A_REZN
+LANG_ENGLISH        "^1レズノフ:^7その調子だ、メイソ\ン！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_123A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7装甲車がやられた！ 戦車がきてる！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_123A_BOWM_S
+LANG_ENGLISH        "^1ボウマン:^7装甲車がやられた！ 戦車がきてる！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_488A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、負傷者を収容している間、航空支援はできない"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_124A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ あれをマーキングしろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_124A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ あれをマーキングしろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_516A_REZN
+LANG_ENGLISH        "^1レズノフ:^7退却じゃない。戦列の立て直しだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_125A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7テキサス、前方の戦車を叩いてくれ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_534A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7座標を知らせる。デルタ・スコードロン、焼き尽くしてくれ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_126A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7テキサス、敵戦車だ。ヴィクター・ズールー7 フォックストロット"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_464A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン、何をぐずぐずしている！？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_129A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7テキサス了解。地獄を見せてやる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_465A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7戦車を撃破。エックスレイ、進んでも大丈夫だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_466A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7エックスレイ、前進！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_474A_REZN
+LANG_ENGLISH        "^1レズノフ:^7無事か、友よ？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_133A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7クソ\、回避運動... エックスレイ、ものすごい攻撃だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_134A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7エックスレイ、攻撃が激しい。テキサスは後退する。対空砲が片づいたら支援を再開する。"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_482A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7対空車両は真上だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_468A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7了解だ、テキサス"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_469A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あのゲートを開けろ！ 近くに対空砲がいる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_137A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7いた！ 2階に対空砲。通りの突き当たり"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_470A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7別の道を探そう。通りを行くのは自殺行為だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_471A_REZN
+LANG_ENGLISH        "^1レズノフ:^7あの建物の側面を突く！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_140A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よさそうだ。掃除を手伝ってくれ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_144A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ こいつをどかすぞ！ ぐっ..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_148A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7押せー！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_549A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7このままだとやられるぞ、メイソ\ン。そのライフルを使え！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_475A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7もちろん"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_476A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、対空車両を始末するぞ。ボウマンは連中の護衛だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_158A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ふさがれている。階段を"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_159A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7エックスレイ、チャーリーに押されてる。急いでくれ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_477A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7行くぞ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_478A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_479A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7行けるか、兄弟？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_483A_REZN
+LANG_ENGLISH        "^1レズノフ:^7爆薬を天井に仕掛けろ。穴を開けるんだ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_486A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7いいぞ！ そっちは、レズノフ？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_495A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7待つしかないようだな。みんな、準備しろ。着陸地点を確保する！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_487A_REZN
+LANG_ENGLISH        "^1レズノフ:^7見事だ、メイソ\ン！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_490A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7一安心だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_542A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7テトの停戦が聞いて呆れる"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_491A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7それはどうかな..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_492A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7負傷者が先だ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_497A_NVA3
+LANG_ENGLISH        "^1基地の拡声器:^7祖国には帰れない。お前たちはここで死ぬ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_500A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7おでましだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_502A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7屋根の上だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_504A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7迫ってきてる！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_506A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7懲りない連中だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_550A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、そのスコープ付のコマンドで観測員を始末しろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_551A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7観測員を始末するんだ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_552A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7そこのライフルで観測員を何とかしろ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_515A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7退却していく！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_522A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7司令部！ こちらエックスレイ10！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_523A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7周り中、敵だらけだ。回収はどうなってる！？"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_524A_COMM_F
+LANG_ENGLISH        "^1司令部:^7街は北ベトナム軍の手に落ちつつある。ヘリも次々と落とされている。迎えを待っているのは他にも大勢いるんだ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_525A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7最優先で脱出させるべき奴がいる。ヘリをまわしてくれ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_527A_COMM_F
+LANG_ENGLISH        "^1司令部:^7エックスレイ、海軍の船をまわせそうだが時間がかかる。踏ん張ってくれ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_528A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7踏ん張るぞ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_529A_COMM_F
+LANG_ENGLISH        "^1司令部:^7エックスレイ。後ろを見ろ。海軍の哨戒艇を送った"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_530A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7了解だ！ 待ちかねたぞ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_531A_COMM_F
+LANG_ENGLISH        "^1司令部:^7到着を援護する。デルタ・スコードロンが配置についている"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_535A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ラジャー、エックスレイ。攻撃するから味方を下がらせろ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_536A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7船が来たぞ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_537A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7来るぞ！ 至近距離だ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_541A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7乗れ！"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_543A_REZN_M
+LANG_ENGLISH        "^1レズノフ:^7敵の大胆さは、新たな味方を得たからかもしれんな"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_544A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ドラゴヴィッチか"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_800A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ラジャー、エックスレイ。攻撃に備えろ"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_804A_USC4_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7到着まで2分"
+
+ENDMARKER

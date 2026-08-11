@@ -1,0 +1,61 @@
+// Dumped from fastfile "ja_zombie_temple".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_TEMPLE_BLOW_GUN_UPGRADED
+LANG_ENGLISH        "スーパー ブロー・ガン"
+
+REFERENCE           ZOMBIE_TEMPLE_USE_ELEVATOR
+LANG_ENGLISH        "^3[{+activate}]^7長押しでエレベーターを使用する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_BLOCKED_PAP
+LANG_ENGLISH        "パック・ア・パンチ・ラウンドではエレベーター使用不可"
+
+REFERENCE           ZOMBIE_TEMPLE_CALL_ELEVATOR
+LANG_ENGLISH        "^3[{+activate}]^7長押しでエレベーターを呼び出す"
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_BLOCKED
+LANG_ENGLISH        "サルが近くにいる時はエレベーター使用不可"
+
+REFERENCE           ZOMBIE_TEMPLE_DESTINATION_NOT_OPEN
+LANG_ENGLISH        "目標が開いていません"
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_PRESSURE_PLATE
+LANG_ENGLISH        "落ろせば、上昇するかもしれない"
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_PURCHASE
+LANG_ENGLISH        "^3&&1^7長押しでスパイクモアを購入する[コスト: 1000]"
+
+REFERENCE           ZOMBIE_TEMPLE_BLOW_GUN
+LANG_ENGLISH        "ブロー・ガン"
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_ALREADY_PURCHASED
+LANG_ENGLISH        "スパイクモアは購入済みです"
+
+REFERENCE           ZOMBIE_TEMPLE_USE_WATER_TRAP
+LANG_ENGLISH        "^3[{+activate}]^7を長押ししないでください"
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_HOWTO
+LANG_ENGLISH        "^3[{+actionslot 4}]^7を押して^3[{+attack}]^7でスパイクモアを設置する"
+
+REFERENCE           ZOMBIE_TEMPLE_WEAPON_SPIKEMORE
+LANG_ENGLISH        "スパイクモア"
+
+REFERENCE           ZOMBIE_TEMPLE_WEAPON_SPIKEMORE_PICKUP
+LANG_ENGLISH        "^3&&1^7長押しでスパイクモアを拾う"
+
+REFERENCE           ZOMBIE_TEMPLE_MINECART_COST
+LANG_ENGLISH        "^3[{+activate}]^7長押しでトロッコを動かす[コスト: &&1]"
+
+REFERENCE           ZOMBIE_TEMPLE_MINECART_UNAVAVILABLE
+LANG_ENGLISH        "トロッコは使用中です"
+
+REFERENCE           ZOMBIE_TEMPLE_RELEASE_WATER
+LANG_ENGLISH        "^3&&1^7長押しで放水する"
+
+REFERENCE           ZOMBIE_TEMPLE_WATER_TRAP_COOL
+LANG_ENGLISH        "水が満たされています"
+
+ENDMARKER

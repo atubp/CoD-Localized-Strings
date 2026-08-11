@@ -1,0 +1,1087 @@
+// Dumped from fastfile "ja_river".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RIVER_OBJ_BOSS_BOAT
+LANG_ENGLISH        "武装哨戒艇と戦闘せよ"
+
+REFERENCE           RIVER_CONTROLS_WOODS_REMINDER
+LANG_ENGLISH        "^3[{+smoke}]^7でウッズの位置からミサイルを発射"
+
+REFERENCE           RIVER_WATCH_YOUR_HEAD
+LANG_ENGLISH        "頭に注意しろ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_086A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7気をつけろ！"
+
+REFERENCE           RIVER_OBJ_DRAG_TIE_ROPE
+LANG_ENGLISH        "ロープを結べ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_193A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7そうだといいが"
+
+REFERENCE           RIVER_VOX_RIV1_S02_169A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ボウマンはポイントマン。メイソ\ンは操縦だ"
+
+REFERENCE           RIVER_CONTROLS_BOWMAN_REMINDER
+LANG_ENGLISH        "^3[{+frag}]^7でボウマンの位置からミサイルを発射"
+
+REFERENCE           RIVER_CONTROLS_ADS
+LANG_ENGLISH        "^3[{+melee}]^7でズームイン／ズームアウト"
+
+REFERENCE           RIVER_WARNING_MORTARS
+LANG_ENGLISH        "警告：迫撃砲攻撃が迫っている"
+
+REFERENCE           RIVER_CONTROLS_RTRIG
+LANG_ENGLISH        "^3[{+attack}]^7で機銃を発射"
+
+REFERENCE           RIVER_CONTROLS_RB
+LANG_ENGLISH        "^3[{+frag}]^7でボウマンに発射指示"
+
+REFERENCE           RIVER_VOX_RIV1_S01_138A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7火を吹いたぞ！ その調子だ"
+
+REFERENCE           RIVER_CONTROLS_RSTICK
+LANG_ENGLISH        "で照準"
+
+REFERENCE           RIVER_OBJ_GETAWAY_RAIL
+LANG_ENGLISH        "脱出せよ！"
+
+REFERENCE           RIVER_CONTROLS_FIRE_MISSILES
+LANG_ENGLISH        "^3[{+speed_throw}]^7でミサイル発射"
+
+REFERENCE           RIVER_VOX_RIV1_S01_129A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ダスヴィターニャ！"
+
+REFERENCE           RIVER_CONTROLS_LSTICK
+LANG_ENGLISH        "で移動\n"
+
+REFERENCE           RIVER_OBJ_BOAT_DRIVE
+LANG_ENGLISH        "敵基地に侵入せよ"
+
+REFERENCE           RIVER_HEAD_TO_BRIDGE
+LANG_ENGLISH        "橋に向かえ、航空攻撃が迫っている"
+
+REFERENCE           RIVER_VOX_RIV1_S03_205A_SLDR_M
+LANG_ENGLISH        "^1アメリカ海兵隊:^7お待ちしていました！ どうしますか？"
+
+REFERENCE           RIVER_INTROSCREEN_5
+LANG_ENGLISH        "^L1300時^L ^C11968年2月11日^C"
+
+REFERENCE           RIVER_OBJ_SNIPER_SUPPORT
+LANG_ENGLISH        "舟に戻るウッズとボウマンを援護せよ"
+
+REFERENCE           RIVER_INTROSCREEN_4
+LANG_ENGLISH        "^C1メイソ\ン^C^LおよびSOGチームを現地に投入、残骸からのノヴァ6回収を図る^L"
+
+REFERENCE           RIVER_VOX_RIV1_S03_222A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7あの積荷は多分ノヴァ6だ。クラフチェンコが意味もなくこんな手間をかけるとは思えない"
+
+REFERENCE           RIVER_VOX_RIV1_S01_119A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7わかった！ 注意しろ、もっといるかもしれん"
+
+REFERENCE           RIVER_INTROSCREEN_3
+LANG_ENGLISH        "^Lソ\連の商用輸送機が^L^C1ラオス^C^L上空にて被弾、墜落^L"
+
+REFERENCE           RIVER_OBJ_CUT_ROPE
+LANG_ENGLISH        "ロープを切れ"
+
+REFERENCE           RIVER_OBJ_BOATJACK
+LANG_ENGLISH        "ボート上の北ベトナム兵を始末せよ"
+
+REFERENCE           RIVER_INTROSCREEN_2
+LANG_ENGLISH        "^L確定事項：ソ\連側は北ベトナム軍に化学兵器を供給^L\n"
+
+REFERENCE           RIVER_OBJ_AA_GUNS
+LANG_ENGLISH        "対空砲を破壊せよ"
+
+REFERENCE           RIVER_INTROSCREEN_1
+LANG_ENGLISH        "^L送信# 2-15-4-25 指定: INDIA^L\n"
+
+REFERENCE           RIVER_OBJ_ENGAGE_ENEMY
+LANG_ENGLISH        "敵ターゲットと戦闘せよ"
+
+REFERENCE           RIVER_OBJ_AFTERMATH
+LANG_ENGLISH        "ボートを操縦せよ"
+
+REFERENCE           RIVER_OBJ_BOAT_DRAG
+LANG_ENGLISH        "船首のロープを切れ"
+
+REFERENCE           RIVER_OBJ_MISSILES_3
+LANG_ENGLISH        "ミサイルランチャーを破壊せよ（残り3／3）"
+
+REFERENCE           RIVER_VOX_RIV1_S03_217A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7スペツナズだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_028A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン、ターゲットを指示しろ！"
+
+REFERENCE           RIVER_OBJ_DRIVE_BOAT
+LANG_ENGLISH        "川をさかのぼって墜落現場に向かえ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_902A_MASO
+LANG_ENGLISH        "^1ウッズ:^7...墜落現場で、ノヴァ6を確保するぞ\n^1メイソ\ン:^7ああ... 行こう"
+
+REFERENCE           RIVER_OBJ_RIVER_PACING
+LANG_ENGLISH        "チヌークの墜落現場に向かえ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_100A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7S.O.G!"
+
+REFERENCE           RIVER_OBJ_JUNGLE_APPROACH
+LANG_ENGLISH        "墜落したヘリの乗員を救出せよ"
+
+REFERENCE           RIVER_TIE_ROPE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでロープを結ぶ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_261A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7昔話でもしようじゃないか"
+
+REFERENCE           RIVER_VOX_RIV1_S01_013A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7時間を無駄にするな、メイソ\ン！ 乗れ！"
+
+REFERENCE           RIVER_OBJ_WOUNDED_MAN
+LANG_ENGLISH        "パイロットの命を救え"
+
+REFERENCE           RIVER_VOX_RIV1_S01_023A_BOWM
+LANG_ENGLISH        "^1ボウマン:^74発撃ったらリロードだ"
+
+REFERENCE           RIVER_OBJ_SNIPER_DUEL
+LANG_ENGLISH        "敵スナイパーを倒せ"
+
+REFERENCE           RIVER_OBJ_AA_GUNS_3
+LANG_ENGLISH        "対空砲を破壊せよ"
+
+REFERENCE           RIVER_OBJ_PLANE_CRASH_SEARCH
+LANG_ENGLISH        "墜落現場を調査せよ"
+
+REFERENCE           RIVER_OBJ_RECAPTURE_PBR
+LANG_ENGLISH        "舟に戻れ！"
+
+REFERENCE           RIVER_BOAT_HP
+LANG_ENGLISH        "哨戒船のHP"
+
+REFERENCE           RIVER_BOAT_DRIVE
+LANG_ENGLISH        "^3[{+activate}]^7で車両を運転"
+
+REFERENCE           RIVER_BOSS_BOAT_COWARD
+LANG_ENGLISH        "敵の哨戒艇と交戦しなかった"
+
+REFERENCE           RIVER_VOX_RIV1_S01_072A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7前方にタワー！"
+
+REFERENCE           RIVER_BOAT_ENTRY
+LANG_ENGLISH        "^3[{+attack}]^7でボートに乗る"
+
+REFERENCE           RIVER_VOX_RIV1_S03_208A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ついて来い。散らばるな。動くものはすべて撃て"
+
+REFERENCE           RIVER_OBJ_PARK_BOAT
+LANG_ENGLISH        "安全な場所を探して舟を接岸させよ"
+
+REFERENCE           RIVER_PILOT
+LANG_ENGLISH        "チヌークのパイロット"
+
+REFERENCE           RIVER_VOX_RIV1_S01_088A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7待て、メイソ\ン、そっちじゃない。ランチャーを潰せ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_062A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、味方を殺す気か！"
+
+REFERENCE           RIVER_CUT_ROPE
+LANG_ENGLISH        "^3[{+melee}]^7でロープを切る"
+
+REFERENCE           RIVER_VOX_RIV1_S01_901A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ソ\連側に片づけられてしまう前に、ノヴァ6を確保するぞ"
+
+REFERENCE           RIVER_BARNES
+LANG_ENGLISH        "バーンズ"
+
+REFERENCE           RIVER_OBJ_MISSILES_DONE
+LANG_ENGLISH        "ミサイルランチャーを破壊せよ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_096A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7命中！"
+
+REFERENCE           RIVER_LEWIS
+LANG_ENGLISH        "ルイス"
+
+REFERENCE           RIVER_VOX_RIV1_S01_076A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7接近中！"
+
+REFERENCE           RIVER_REZNOV
+LANG_ENGLISH        "レズノフ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_260A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7久しいな、メイソ\ン"
+
+REFERENCE           RIVER_OBJ_KILL_STREAM_GUYS
+LANG_ENGLISH        "墜落現場を防衛せよ"
+
+REFERENCE           RIVER_OBJ_FIGHT_UPHILL
+LANG_ENGLISH        "墜落現場を調査せよ"
+
+REFERENCE           RIVER_LT_MISSILES
+LANG_ENGLISH        ""
+
+REFERENCE           RIVER_OBJ_LAND_REGROUP
+LANG_ENGLISH        "海岸の部隊と再編成せよ"
+
+REFERENCE           RIVER_OBJ_DRAG_TO_CHOPPER
+LANG_ENGLISH        "救出ヘリに向かえ"
+
+REFERENCE           RIVER_OBJ_MEET_AT_DOCK
+LANG_ENGLISH        "ドックで集合せよ"
+
+REFERENCE           RIVER_OBJ_CONTROL_BOAT
+LANG_ENGLISH        "ボートを操縦せよ"
+
+REFERENCE           RIVER_OBJ_DRIVE
+LANG_ENGLISH        "ドライブ"
+
+REFERENCE           RIVER_OBJ_MISSILES_2
+LANG_ENGLISH        "ミサイルランチャーを破壊せよ（残り2／3）"
+
+REFERENCE           RIVER_VOX_RIV1_S01_039A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7リロード！"
+
+REFERENCE           RIVER_OBJ_MISSILES_1
+LANG_ENGLISH        "ミサイルランチャーを破壊せよ（残り1／3）"
+
+REFERENCE           RIVER_OBJ_REGROUP_BRIDGE
+LANG_ENGLISH        "橋で再編成せよ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_188A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7そちらを確認した、ウルフ10。パラダイスへようこそ"
+
+REFERENCE           RIVER_VOX_RIV1_S02_148A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ラジャー。俺たちは空輸で移動する。メイソ\ン、あれが合流地点だ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_009A_RED3
+LANG_ENGLISH        "^1アメリカ海兵隊:^7急げ、馬鹿野郎！"
+
+REFERENCE           RIVER_OBJ_FOLLOW
+LANG_ENGLISH        "FOLLOW"
+
+REFERENCE           RIVER_OBJ_BUNKER
+LANG_ENGLISH        "コンクリート製の貯蔵庫を破壊せよ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_118A_RED4
+LANG_ENGLISH        "^1アメリカ海兵隊:^7軍曹、別の対空車両が！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_045A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7くそ、危うく撃沈されかけた"
+
+REFERENCE           RIVER_OBJ_ZPU
+LANG_ENGLISH        "対空砲を破壊せよ"
+
+REFERENCE           RIVER_OBJ_BOAT_LANDING
+LANG_ENGLISH        "上流のアメリカ軍と再編成せよ"
+
+REFERENCE           RIVER_RT_MACHINE_GUN
+LANG_ENGLISH        ""
+
+REFERENCE           RIVER_OBJ_DESTROY
+LANG_ENGLISH        "TARGET"
+
+REFERENCE           RIVER_OBJ_DESTROY_TARGETS
+LANG_ENGLISH        "敵ターゲットを破壊せよ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_800A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7あの新人はダメだった。\nウッズは泣いていただろうが、他人に涙を見せる男じゃなかった。"
+
+REFERENCE           RIVER_VOX_RIV1_S01_900A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7こから5キロ先でCIAが輸送機を撃墜した"
+
+REFERENCE           RIVER_VOX_RIV1_S01_001A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あれに乗る！ 行くぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_255A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7遅れてすまない。チャーリーの傍受を恐れて警告できなかったんだ。あれはこちらで対処する"
+
+REFERENCE           RIVER_VOX_RIV1_S01_002A_RED1
+LANG_ENGLISH        "^1アメリカ海兵隊:^74人いたのを見た！ 奴らはどこへ行ったんだ？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_003A_RED1
+LANG_ENGLISH        "^1アメリカ海兵隊:^7最後のチャンスだ..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_126A_BOWM_S
+LANG_ENGLISH        "^1ボウマン:^7やったか、くそったれめ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_004A_RED1
+LANG_ENGLISH        "^1アメリカ海兵隊:^7お前がやれ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_005A_RED2
+LANG_ENGLISH        "^1アメリカ海兵隊:^7今のはウィルソ\ンの分だ。まだ18だったんだぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_052A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7ちくしょう！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_006A_PLDR_M
+LANG_ENGLISH        "^1小隊長:^7無理に決まっている！ ゴー、ゴー、ゴー！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_007A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7もっとひどい状態で、生き延びた奴だっている"
+
+REFERENCE           RIVER_VOX_RIV1_S01_117A_BOWM_S
+LANG_ENGLISH        "^1ボウマン:^7ざまあみろってんだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_008A_PLDR_M
+LANG_ENGLISH        "^1小隊長:^7ああ、だがそれでどうなる？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_009A_RED3_S
+LANG_ENGLISH        "^1アメリカ海兵隊:^7急げ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_010A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ 船に乗れ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_235A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7ノヴァ6は消えたがこれを見ろ。地図があったぜ。これがクラフチェンコの拠点だろう。ラオスの奥地か"
+
+REFERENCE           RIVER_VOX_RIV1_S01_011A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7グズグズするな！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_012A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン！ 乗れ、早く！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_115A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7前方に塔が2つ！ 左右にも敵だ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_092A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7それは後で使え。まずミサイルランチャーを破壊するんだ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_014A_RED4_M
+LANG_ENGLISH        "^1アメリカ海兵隊:^7SOGだな？ そうだろ？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_015A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7あいつらはダメだった"
+
+REFERENCE           RIVER_VOX_RIV1_S01_016A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7機銃につけ、死ぬんじゃないぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_112A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7左に対空車両。ミンチにされるぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_040A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7弾が。リロードする"
+
+REFERENCE           RIVER_VOX_RIV1_S01_262A_RED4_M
+LANG_ENGLISH        "^1アメリカ海兵隊:^7了解"
+
+REFERENCE           RIVER_VOX_RIV1_S01_263A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7よし..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_133A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7手加減するな！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_017A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7M202だ。ボウマン！ 右舷に回って、構\えろ。メイソ\ン、操縦だ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_257A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7連中の反応を見てやろう"
+
+REFERENCE           RIVER_VOX_RIV1_S01_264A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7行くぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_018A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7レズノフはどうする？"
+
+REFERENCE           RIVER_VOX_RIV1_S99_702A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7押せ、押せ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_019A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何だって？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_079A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7迫撃砲！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_020A_REZN
+LANG_ENGLISH        "^1レズノフ:^7私はスナイパーを警戒しよう"
+
+REFERENCE           RIVER_VOX_RIV1_S01_021A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7前方に敵、攻撃してきたぞ。メイソ\ン、ターゲットを指示しろ。全員がお前の合図を待つ。いいな"
+
+REFERENCE           RIVER_VOX_RIV1_S01_058A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7火災発生！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_022A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7俺の言ったことを忘れるな"
+
+REFERENCE           RIVER_VOX_RIV1_S01_024A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、ターゲットを指示しろ！ 急げ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_025A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7どこを撃てばいいんだ！？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_109A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ヴォルクタを思い出すな、メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_026A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7合図を待っているんだぞ、メイソ\ン"
+
+REFERENCE           RIVER_VOX_RIV1_S01_027A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7リロード完了！ ターゲットを指示しろ"
+
+REFERENCE           RIVER_VOX_RIV1_S02_181A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7無理だ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_029A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7どこを撃てばいい、メイソ\ン？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_030A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン、リロード完了！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_228A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7慎重にな"
+
+REFERENCE           RIVER_VOX_RIV1_S01_031A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン、早くターゲットの指示を！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_031A_BOWM_S
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン、どこを撃てばいい？！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_032A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7リロード中！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_033A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7リロード"
+
+REFERENCE           RIVER_VOX_RIV1_S01_034A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7待て、リロードする！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_035A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7弾切れだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_214A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7敵ヘリ、接近！ ソ\連のハインド。3機だ..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_036A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7弾がない！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_173A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ラジャー。連絡を絶やすな"
+
+REFERENCE           RIVER_VOX_RIV1_S01_037A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7リロード！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_203A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7岸に行け、メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_142A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7引き返せ、メイソ\ン。あの船を潰すんだ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_038A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7弾が足りない！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_252A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7このままだとジリ貧だ。ウッズ、どうする？"
+
+REFERENCE           RIVER_VOX_RIV1_S03_216A_USC3_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7センチュリオン4から基地へ。応答せよ。こちら..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_041A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7弾が！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_042A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7紙一重だった！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_045A_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7撃沈されかけた"
+
+REFERENCE           RIVER_VOX_RIV1_S01_043A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7こいつを片づけるぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_044A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7そこら中にいやがるぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_046A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7これ以上被弾するとまずい！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_047A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7回避しろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_048A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ボウマンが死ぬところだった！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_049A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7攻撃が激しい！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_050A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7ここを離れないと、メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_051A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7まわりは敵だらけだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_052A_BOWM_S
+LANG_ENGLISH        "^1ボウマン:^7クソ\が！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_053A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン、もっと速く！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_054A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7これまでか！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_055A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7沈むぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_056A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7沈んでる！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_057A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7ウッズ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_256A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何をグズグズしてる？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_059A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7浸水してるぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_060A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よせ、メイソ\ン。味方だ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_189A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7後方はクリア。その調子だ。待て。あれは何だ？ ちょっと待ってくれ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_061A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何をしている！ 味方だぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S99_703A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7前進！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_158A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7レスキュー1、撤収だ！ 撤収しろ！ これ以上はもたない"
+
+REFERENCE           RIVER_VOX_RIV1_S01_089A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7やめろメイソ\ン。ランチャーを潰すのが先だ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_063A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7撃つな！ 味方だ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_146A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7あれで全部か？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_064A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7よく見ろ。あれは味方だ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_065A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7撃つのをやめろ！ 味方を殺す気か！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_066A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ンやめろ。あいつらは味方だ"
+
+REFERENCE           RIVER_VOX_RIV1_S02_185A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ボウマン。何があった？"
+
+REFERENCE           RIVER_VOX_RIV1_S02_182A_REZN
+LANG_ENGLISH        "^1レズノフ:^7墜落機はもう近いはずだ、メイソ\ン。クラフチェンコも"
+
+REFERENCE           RIVER_VOX_RIV1_S01_066A_BOWM_S
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ンやめろ。友軍だ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_067A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7撃ち方やめ！ 撃つな！ 友軍だ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_085A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7近いぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_068A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7注意しろ。前方左に敵キャンプ。RPGだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S99_707A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7木立にスナイパー！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_083A_REZN
+LANG_ENGLISH        "^1レズノフ:^7撃破しろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_069A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン、ミサイルを撃て！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_070A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いいぞ、吹き飛ばせ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_070A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7吹き飛ばせ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_071A_REZN
+LANG_ENGLISH        "^1レズノフ:^7ためらうな！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_242A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ 向こうに敵の魚雷艇がある。哨戒艇を沈める気だ。チャイナレイクで撃沈しろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_073A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ヘリが落ちて来る！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_245A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7だめか。味方の船が沈む"
+
+REFERENCE           RIVER_VOX_RIV1_S01_074A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7迫撃砲！ 前方に自走ミサイルランチャー、3両"
+
+REFERENCE           RIVER_VOX_RIV1_S01_075A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7敵、移動中！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_246A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7くそ！ ハインドが戻ってきた！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_099A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あれで最後だ！ いいぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_077A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、回避を！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_249A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ボウマン、メイソ\ン。やったぞ。よし、守りを固めろ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_078A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7加速しろ、メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_080A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7気をつけろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_221A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7だからハインドが消えたんだ。証拠を残すわけにはいかんからな"
+
+REFERENCE           RIVER_VOX_RIV1_S01_120A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7前方に橋。こいつは簡単だ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_081A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7頭を下げろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_082A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン、右に転進！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_084A_REZN
+LANG_ENGLISH        "^1レズノフ:^7衝撃に備えろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_087A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7方向が違うぞ、メイソ\ン！ 迫撃砲を潰すんだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_090A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7今それを使うな"
+
+REFERENCE           RIVER_VOX_RIV1_S01_091A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7やめろ！ あの迫撃砲を潰すんだ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_091A_BOWM_S
+LANG_ENGLISH        "^1ボウマン:^7やめろ！ あの迫撃砲を潰すんだ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_093A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7まずは1つ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_094A_WOOD
+LANG_ENGLISH        "^1ウッズ:^71基破壊！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_095A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7よし！ 直撃だ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_097A_REZN
+LANG_ENGLISH        "^1レズノフ:^7いい腕だ！ あと1つだぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_114A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7思い知ったか！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_098A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7そら！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_101A_REZN
+LANG_ENGLISH        "^1レズノフ:^7見事だ、友よ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_102A_RED4
+LANG_ENGLISH        "^1アメリカ海兵隊:^7やったな！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_103A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よくやったメイソ\ン！ 川を封鎖しているバリケードへ向かえ。うちの連中が何とかする！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_104A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7いいぞ！ ヒャッホー！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_105A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ターゲット複数！ 正面に塔、右にRPG。頭を低くしていろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_106A_REZN
+LANG_ENGLISH        "^1レズノフ:^7大当たりだ！ 崩れるぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_107A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7蹴散らせ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_223A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7今ので最後だな"
+
+REFERENCE           RIVER_VOX_RIV1_S01_122A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7サンパンだ！ 接近させるな。吹き飛ばせ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_108A_RED4
+LANG_ENGLISH        "^1アメリカ海兵隊:^7いいぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_224A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7胴体にたどりつくには主翼をよじ登るしかないな"
+
+REFERENCE           RIVER_VOX_RIV1_S01_125A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7稜線に対空車両！ 攻撃しろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_110A_RED4
+LANG_ENGLISH        "^1アメリカ海兵隊:^7塔がもう1つ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_227A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7俺がこっちを押さえておく"
+
+REFERENCE           RIVER_VOX_RIV1_S01_111A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7こいつも片付いた！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_112A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7くそ！ 左に対空車両。ミンチにされるぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_258A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7くそ、1人やられた！ メイソ\ン、お返しだ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_258A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^71人やられた！ メイソ\ン、お返しだ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_215A_USC2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7待ちかまえていたんだ..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_113A_REZN
+LANG_ENGLISH        "^1レズノフ:^7メイソ\ン、ボンヤリするな。撃て！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_114A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7どうだ、見たか！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_116A_REZN
+LANG_ENGLISH        "^1レズノフ:^7地獄に叩き込んでやれ、メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_238A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7OK。行こう、メイソ\ン"
+
+REFERENCE           RIVER_VOX_RIV1_S01_117A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7ざまあみろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_121A_REZN
+LANG_ENGLISH        "^1レズノフ:^7見ろ、燃えているぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_149A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、集結地点へ向かえ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_122A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7サンパンだ！ 接近させるな。粉砕しろ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_123A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7もう1隻！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_124A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よし、これで最後のようだな！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_126A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7くたばっていろってんだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_127A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7サンパンがさらに2隻。頼むぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_128A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あと1隻！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_130A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7また対空車両だ！ いったい何両あるんだ？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_130A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7また対空車両だ！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_136A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7敵の魚雷艇だ！ 船尾のエンジンを狙え！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_131A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7これで最後のはずだ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_132A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あれは何だ？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_134A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7連中の拠点だったんだな。放棄していったようだが"
+
+REFERENCE           RIVER_VOX_RIV1_S01_135A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7デカいのがいるぞ... 全員、気をつけろ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_137A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7ぼんやりするな、メイソ\ン。こっちが粉々にされるぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_139A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7エンジンに当たったな！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_207A_USP2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7目立たないように援護する。敵が地上にいるはずだ。気を抜くな"
+
+REFERENCE           RIVER_VOX_RIV1_S03_201A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、グズグズするんじゃない！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_140A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7オイルを吹いてる。エンジンが死んだな。止めを刺せ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_200A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、岸に向かえ。時間がないぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_141A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7撃て！ 早く片づけるんだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_202A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何をグズグズしている？"
+
+REFERENCE           RIVER_VOX_RIV1_S01_143A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、まだだ。まずあの船を叩かないと"
+
+REFERENCE           RIVER_VOX_RIV1_S01_144A_REZN
+LANG_ENGLISH        "^1レズノフ:^7あの建物を盾にしろ、メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S01_145A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7やった！ やったぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_265A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ちくしょう！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_180A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7こちらからはさっぱりだ"
+
+REFERENCE           RIVER_VOX_RIV1_S02_147A_CHI1_F_M
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ウルフ10、こちらレスキュー1。そちらを確認した。セクターを突破されたので救出に向かう"
+
+REFERENCE           RIVER_VOX_RIV1_S02_266A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7クソ\...安らかに眠れよ..."
+
+REFERENCE           RIVER_VOX_RIV1_S02_150A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7時間がない。急がないと間に合わんぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S99_708A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7上を、スナイパーだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_151A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7レスキュー1、こちらセンチュリオン5。敵の大攻勢だ。回収中止。時間がない！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_152A_CHI1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ネガティブ。SOGを見捨てることはできない。これより回収する"
+
+REFERENCE           RIVER_VOX_RIV1_S02_153A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7CH-47。急いでくれ。チヌークが着陸地点デルタ・タンゴまで運んでくれる"
+
+REFERENCE           RIVER_VOX_RIV1_S03_236A_REZN
+LANG_ENGLISH        "^1レズノフ:^7クラフチェンコ。生かしてはおけん"
+
+REFERENCE           RIVER_VOX_RIV1_S02_155A_CHI1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ウルフ10、こちらは位置についた。センチュリオン、やってくれ！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_154A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7ウッズ、動きがある！ イーストリバーだ。"
+
+REFERENCE           RIVER_VOX_RIV1_S03_196A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7あれが目当ての飛行機か、ウルフ10。こちらは帰投する。向こうで会おう"
+
+REFERENCE           RIVER_VOX_RIV1_S02_159A_CHI1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7分かってる"
+
+REFERENCE           RIVER_VOX_RIV1_S02_160A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_161A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7行こう"
+
+REFERENCE           RIVER_VOX_RIV1_S03_194A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7連中が前方で見つけた。繋ぐぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S02_162A_CHI1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7被弾した！ 被弾した！ ウルフ10、ケーブルを切れ。高度が下がっている。ケーブルを切れ！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_164A_CHI1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7もう無理だ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_206A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^71人ボートの警備に残せ。残りは、俺たちについて来い。行くぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_165A_CHI1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7衝撃に備えろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S02_166A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7レスキュー1が落ちた。チャーリーは森まで後退"
+
+REFERENCE           RIVER_VOX_RIV1_S02_167A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ラジャー、センチュリオン。支援を頼めるか？"
+
+REFERENCE           RIVER_VOX_RIV1_S03_801A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7ドラゴヴィッチ...クラフチェンコ..."
+
+REFERENCE           RIVER_VOX_RIV1_S02_168A_USC1_F_M
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7問題ない、ウルフ10。上流へ向かえ。援護する"
+
+REFERENCE           RIVER_VOX_RIV1_S03_241A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7了解"
+
+REFERENCE           RIVER_VOX_RIV1_S02_175A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7しっかり見張れ"
+
+REFERENCE           RIVER_VOX_RIV1_S02_171A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7いったんは引いたが、チャーリーはまた来るぞ。警戒を怠るな"
+
+REFERENCE           RIVER_VOX_RIV1_S03_192A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7クラフチェンコだ。奴は近くにいる"
+
+REFERENCE           RIVER_VOX_RIV1_S02_172A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7動きはないが、何かありそうだ。先行して前方の様子を偵察する"
+
+REFERENCE           RIVER_VOX_RIV1_S02_174A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7いやな感じがする。ワナかもしれない"
+
+REFERENCE           RIVER_VOX_RIV1_S99_701A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7クリア。前進"
+
+REFERENCE           RIVER_VOX_RIV1_S02_176A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7オールクリア。下の様子はどうだ、ウルフ10？"
+
+REFERENCE           RIVER_VOX_RIV1_S02_177A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7今の所は何も...待て、森に何かいるぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S02_178A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7何だったかは分からないが、確認できなかった"
+
+REFERENCE           RIVER_VOX_RIV1_S02_179A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7墜落機があるはずだ。見えないか？"
+
+REFERENCE           RIVER_VOX_RIV1_S02_181A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7くそ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_237A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7クラフチェンコ。生かしてはおけない"
+
+REFERENCE           RIVER_VOX_RIV1_S02_183A_USC1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7現在、そちらから500メートル北の谷にいる。ここで待機する。センチュリオン3と4がパトロール中。いまのところ敵影はない"
+
+REFERENCE           RIVER_VOX_RIV1_S02_184A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いまはな。敵は我々を待ち構\えているはずだ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_233A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7グレネードランチャー、チャイナレイクだぜ。ロシア人がアメリカの武器で何をやってやがる？"
+
+REFERENCE           RIVER_VOX_RIV1_S02_186A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7ここには何も"
+
+REFERENCE           RIVER_VOX_RIV1_S02_187A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7そうか"
+
+REFERENCE           RIVER_VOX_RIV1_S03_231A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7化学兵器だ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_190A_REZN
+LANG_ENGLISH        "^1レズノフ:^7感じる。クラフチェンコは近い"
+
+REFERENCE           RIVER_VOX_RIV1_S03_191A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7何だって？"
+
+REFERENCE           RIVER_VOX_RIV1_S03_193A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7そうだといいがな"
+
+REFERENCE           RIVER_VOX_RIV1_S03_234A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7何かの罠だろうな"
+
+REFERENCE           RIVER_VOX_RIV1_S03_195A_USP2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7目視で確認した。墜落地点だ。遺体と積み荷が散らばってる。くりかえす..."
+
+REFERENCE           RIVER_VOX_RIV1_S03_197A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よし。命令を忘れるな。コミュニストどもはそこらじゅうにいるぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_198A_REZN
+LANG_ENGLISH        "^1レズノフ:^7いよいよだ、メイソ\ン。クラフチェンコ、シュタイナー、ドラゴヴィッチへの手がかりだ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_199A_USP2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7ウルフ10、こちらセンチュリオン3。ついて来い。ここから上陸できる"
+
+REFERENCE           RIVER_VOX_RIV1_S03_204A_USP2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7対地支援は困難だ。我々はこれで帰投する"
+
+REFERENCE           RIVER_VOX_RIV1_S03_209A_USP2_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7敵だ！ センチュリオン4、5、航空支援を！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_210A_USP1_F
+LANG_ENGLISH        "^1アメリカ軍パイロット:^7敵だ！ そちらへ向かっている。"
+
+REFERENCE           RIVER_VOX_RIV1_S03_211A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何も見えないぞ。どこだ？"
+
+REFERENCE           RIVER_VOX_RIV1_S03_218A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あきらめるな！ ハインドは消えた！ まだチャンスはある"
+
+REFERENCE           RIVER_VOX_RIV1_S03_219A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7敵が後退するぞ！ 撃退したんだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_220A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7戻ってくるさ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_225A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7俺が先に行く"
+
+REFERENCE           RIVER_VOX_RIV1_S03_226A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7気をつけろよ、メイソ\ン"
+
+REFERENCE           RIVER_VOX_RIV1_S03_229A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7何があった？"
+
+REFERENCE           RIVER_VOX_RIV1_S03_230A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_232A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7ノヴァ6だ。墜落で拡散したな"
+
+REFERENCE           RIVER_VOX_RIV1_S03_239A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あっちだ。見ろ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_240A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ボウマン、スナイパーライフルを。メイソ\ンはチャイナレイクで奴らを吹き飛ばせ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_240A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7ボウマン、スナイパーライフルを。メイソ\ンはチャイナレイクで奴らを吹き飛ばせ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_243A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メイソ\ン、グレネードランチャーを使え。沈めるんだ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_244A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7こっちの船が沈められるぞ！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_246A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7ハインドが戻ってきた！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_247A_REZN
+LANG_ENGLISH        "^1レズノフ:^7しっかりしろ、メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_248A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7うおおおお！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_250A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7パイロットを狙撃しろ。それしかない！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_251A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いいぞ、メイソ\ン！"
+
+REFERENCE           RIVER_VOX_RIV1_S03_253A_WOOD
+LANG_ENGLISH        "^1ウッズ:^71人でも多く道連れにするぞ"
+
+REFERENCE           RIVER_VOX_RIV1_S03_254A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7了解"
+
+REFERENCE           RIVER_VOX_RIV1_S03_259B_KRAV_M
+LANG_ENGLISH        "^1クラフチェンコ:^7ヴォルクタ以来だ"
+
+REFERENCE           RIVER_VOX_RIV1_S99_700A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ スナイパーをやれ！"
+
+REFERENCE           RIVER_VOX_RIV1_S99_704A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7気をつけろ！"
+
+REFERENCE           RIVER_VOX_RIV1_S99_705A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7身動きがとれん！"
+
+REFERENCE           RIVER_VOX_RIV1_S99_706A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7身動きがとれない！"
+
+REFERENCE           RIVER_VOX_RIV1_S99_709A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7木立にスナイパー！"
+
+REFERENCE           RIVER_VOX_RIV1_S99_709B_BOWM
+LANG_ENGLISH        "^1ボウマン:^7木立にスナイパー！"
+
+ENDMARKER

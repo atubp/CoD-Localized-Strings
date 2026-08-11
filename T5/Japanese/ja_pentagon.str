@@ -1,0 +1,205 @@
+// Dumped from fastfile "ja_pentagon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PENTAGON_INTROSCREEN_0
+LANG_ENGLISH        "^0^L送信# 0 指定: ECHO^L"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_105A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ハドソ\ンはそれを口にする許可を得ていなかった"
+
+REFERENCE           PENTAGON_INTROSCREEN_1
+LANG_ENGLISH        "^0^L国家安全保障事案：優先度1^L"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_007A_GENE_M
+LANG_ENGLISH        "^1将官:^7急いでくれ！"
+
+REFERENCE           PENTAGON_INTROSCREEN_3
+LANG_ENGLISH        "^0^L1700時^L ^C11963年11月10日^C"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_036A_KENN_M
+LANG_ENGLISH        "^1ケネディ大統領:^7エージェント・メイソ\ン"
+
+REFERENCE           PENTAGON_INTROSCREEN_2
+LANG_ENGLISH        "^0^C1アレックス・メイソ\ン^C^Lを^L^C1ペンタゴン^C^Lに誘導のこと^L"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_102A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ジェイソ\ン・ハドソ\ンが新しく担当官になった"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_501A_SWIF_M_S
+LANG_ENGLISH        "^1スイフト:^7一体どうしたっていうんだ？"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_100A_INTE
+LANG_ENGLISH        "^1尋問官:^7君は任務に従事できると判断され、ペンタゴンに呼び出された"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_011A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7殺しにいくのはいつですか？"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_103A_INTE
+LANG_ENGLISH        "^1尋問官:^7どうしてペンタゴンに？"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_002A_PMP1_M
+LANG_ENGLISH        "^1ペンタゴンMP:^7車を待たせてあります。ようこそ、ペンタゴンへ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_115A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7そんなことは不可能\だ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_106A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前はドラゴヴィッチを知っていた。キューバの一件で"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_108A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7その場の全員が俺たちを、俺を見ているような気がした"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_130A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ええ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_040A_KENN_M
+LANG_ENGLISH        "^1ケネディ大統領:^7ドラゴヴィッチだ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_116A_INTE
+LANG_ENGLISH        "^1尋問官:^7私はペンタゴンにもいた"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_109A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7あの頃は誰も信用できなかった"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_110A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7時には自分自身さえ..."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_111A_INTE
+LANG_ENGLISH        "^1尋問官:^7そのために我々がいるんだ、メイソ\ン。お前が信用に値するかを見極めるために"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_113A_INTE
+LANG_ENGLISH        "^1尋問官:^7我々はずっとお前を監視していた"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_038A_KENN_M
+LANG_ENGLISH        "^1ケネディ大統領:^7かけたまえ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_006A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7君たちの評判は耳にしているよ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_005A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7マクナマラ国防長官"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_118A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7覚えている。数字が絶えず聞こえてきた。頭から... 頭から離れないんだ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_119A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7何かに... 蝕まれている気がした"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_004A_PMP2_M
+LANG_ENGLISH        "^1ペンタゴンMP:^7ようこそ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_017A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7我々が来たと伝えてくれ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_120A_INTE
+LANG_ENGLISH        "^1尋問官:^7何にだ、メイソ\ン？"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_122A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7わからない... まるで夢の中で... 2歩目、暗闇からの脱出... 3歩目、烈火の..."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_123A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前は目標に近づいていた"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_125A_INTE
+LANG_ENGLISH        "^1尋問官:^7予\定どおりに"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_032A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7シコラックス"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_127A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7予\定どおりにだ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_128A_INTE
+LANG_ENGLISH        "^1尋問官:^7ドラゴヴィッチの洗脳が開始されていた"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_001A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7着いたぞ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_003A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7遅刻だな"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_008A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7我が国の安全保障は危機に直面している。この男は恐れず、良心もなく、弱みもない。この男がニキータ・ドラゴヴィッチ。君たちは既に会っているな"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_500A_DRAG_M
+LANG_ENGLISH        "^1ドラゴヴィッチ:^7想像を絶する地獄を、味わせてやるとも"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_030A_AGT2_M
+LANG_ENGLISH        "^1エージェント:^7ウィリアムズ、フェニックス作戦の成果は？ リーク元を見つけたか？"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_022A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7アリエル"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_501A_SWIF_M
+LANG_ENGLISH        "^1スイフト:^7どういうつもりだよ？"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_012A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7君が戻ったのは幸運だ、メイソ\ン"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_013A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7VIPだよ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_018A_CPCL_M
+LANG_ENGLISH        "^1警備員:^7承知しました"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_014A_CLER_M
+LANG_ENGLISH        "^1職員:^7彼が来たぞ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_015A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7心配ない。ロシア人はいない"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_016A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7世界一優秀なスタッフが集う。これまでも、これからも"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_019A_CPCL_M
+LANG_ENGLISH        "^1警備員:^7クリアランス・プロスペロ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_020A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7最高の英雄たちと"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_021A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7最高のリーダーたちだ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_023A_ELG1_M
+LANG_ENGLISH        "^1エレベーター警備兵:^7VIPだ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_024A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7彼がお待ちだ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_039A_KENN_M
+LANG_ENGLISH        "^1ケネディ大統領:^7我が国はコミュニストの脅威にさらされている。\n我が国の自由...生活そのものが脅かされている"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_025A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7まさに中枢だ。人類全体を救った決断が、幾度となくなされた。この部屋でな"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_028A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7決して衰えることはない。圧倒的だろ？"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_031A_WILL_M
+LANG_ENGLISH        "^1ウィリアムズ:^7まあその... どこから漏れたかつかんだが、消された。まだ情報は漏れてる"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_029A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7この先だ"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_033A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7この中枢部は1943年に造られた。めったに使うことはない"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_042A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7ありがとうございます、長官"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_034A_HUDS_M
+LANG_ENGLISH        "^1ハドソ\ン:^7じゃあな、メイソ\ン"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_035A_MCNA_M
+LANG_ENGLISH        "^1マクナマラ:^7大統領"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_037A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7お目にかかれて光栄です"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_041A_KENN_M
+LANG_ENGLISH        "^1ケネディ大統領:^7君は最高の人材だと聞いている... どこに行ってもな... 君を求めていた... Mr.メイソ\ン、任せたぞ"
+
+ENDMARKER

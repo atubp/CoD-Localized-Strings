@@ -1,0 +1,856 @@
+// Dumped from fastfile "ja_patch_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PATCH_PREGAME_ENABLED_CAPS
+LANG_ENGLISH        "プレマッチ"
+
+REFERENCE           MPUI_ENTER_VALID_EMAIL
+LANG_ENGLISH        "登録には、有効なメールアドレスが必要です"
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "NOM4D"
+
+REFERENCE           PATCH_MINIMUM_PING_CAPS
+LANG_ENGLISH        "最小ピン"
+
+REFERENCE           MPUI_PRESTIGE_LB_PURCHASE_CONF
+LANG_ENGLISH        "プレステージランキングを争うには、プレステージで &&1 を使う必要がある。"
+
+REFERENCE           MENU_DOWNLOADING_GAME_SETTINGS_CAPS
+LANG_ENGLISH        "ゲーム設定のダウンロード"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "このセーブデータはゲームの現在のバージョンでは読み込めません。最後にプレイしたミッションの最初からプレイを再開するか、終了してメニューに戻ってください。"
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "システムリンクでのマルチプレイは、参加者全員が同じゲームバージョンをプレイしている必要があります。Xbox LIVE にサインインして、ゲームのバージョンが最新版にアップデートされていることをご確認ください。"
+
+REFERENCE           MPUI_SHOW_DLC_CONTENT
+LANG_ENGLISH        "ダウンロード コンテンツを確認"
+
+REFERENCE           PATCH_OPTIONS_COLOR_FRIENDS_CAPS
+LANG_ENGLISH        "チーム内のフレンド色づけ"
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "別の配色"
+
+REFERENCE           PLATFORM_BANNED
+LANG_ENGLISH        "このアカウントはブラックオプスサーバーへのアクセスが永久に禁止されました。"
+
+REFERENCE           PLATFORM_CHEATSREQUIREAMOD
+LANG_ENGLISH        "MODはこのチートを使用する必要があります"
+
+REFERENCE           PATCH_RESTORE_CONTROLS
+LANG_ENGLISH        "操作方法をデフォルト設定に戻す"
+
+REFERENCE           MPUI_DESC_MAP_DRIVEIN
+LANG_ENGLISH        "放棄された野外シアターで繰り広げられる、目を見張るような激しい戦い"
+
+REFERENCE           MPUI_HOTEL
+LANG_ENGLISH        "HOTEL"
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_CAPS
+LANG_ENGLISH        "最大プレイヤー"
+
+REFERENCE           PATCH_SERVER_NAME_CAPS
+LANG_ENGLISH        "サーバー名"
+
+REFERENCE           PATCH_BANNED_FROM_SERVER
+LANG_ENGLISH        "このサーバーから禁止されました"
+
+REFERENCE           MPUI_DESC_MAP_AREA51
+LANG_ENGLISH        "ソ\ビエト軍がアメリカの最高機密施設に侵入した"
+
+REFERENCE           PATCH_MAXIMUM_PING_DESC
+LANG_ENGLISH        "最大ピン以上のプレイヤーは参加できません。"
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "ゲームのバージョンが適合しないため、このモードでのオンラインプレイはできません。"
+
+REFERENCE           PATCH_LAPTOP_OR_SMALL_SPEAKERS_CAPS
+LANG_ENGLISH        "ノートPCか小さいスピーカー"
+
+REFERENCE           PATCH_SHADER_WARMING
+LANG_ENGLISH        "シェーダ ウォームアップ..."
+
+REFERENCE           PATCH_MAXIMUM_PING_CAPS
+LANG_ENGLISH        "最大ピン"
+
+REFERENCE           PATCH_PASSWORD1_CAPS
+LANG_ENGLISH        "パスワード"
+
+REFERENCE           PATCH_UNLOADMOD_FILM
+LANG_ENGLISH        "Mod ^3&&1^7を起動しています。\nModをアンロードするとフィルムを見られます。"
+
+REFERENCE           PATCH_AUTOBALANCE_TEAMS_CAPS
+LANG_ENGLISH        "チーム自動配分"
+
+REFERENCE           PATCH_ALLOW_VOTING_CAPS
+LANG_ENGLISH        "投票許可"
+
+REFERENCE           PATCH_SCREENSHOT_ZOOM
+LANG_ENGLISH        "マウスホイールでズーム"
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 はこの機能\の使用を永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           PATCH_PREGAME_MINPLAYERS_CAPS
+LANG_ENGLISH        "プレマッチの最小プレイヤー"
+
+REFERENCE           MPUI_RULES_6_5MINUTES_CAPS
+LANG_ENGLISH        "6.5分"
+
+REFERENCE           MPUI_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "本プレイリストを選択するにはDLCの購入が必要です"
+
+REFERENCE           PATCH_TOGGLE_COMPARE_FRIENDS
+LANG_ENGLISH        "フレンド比較の切替"
+
+REFERENCE           PATCH_GAME_CAPS
+LANG_ENGLISH        "ゲーム"
+
+REFERENCE           PATCH_COOPERATIVE_CAPS
+LANG_ENGLISH        "協力モード"
+
+REFERENCE           MPUI_WARMUSEUM
+LANG_ENGLISH        "WAR MUSEUM"
+
+REFERENCE           PATCH_DEMO_SPEED_UP
+LANG_ENGLISH        "^3UP^7"
+
+REFERENCE           EXE_COD_TEMP_BAN_HOURS
+LANG_ENGLISH        "アクセスが許可されるまであと&&1時間"
+
+REFERENCE           PATCH_SERVER_NAME_DESC
+LANG_ENGLISH        "サーバーの名前"
+
+REFERENCE           MPUI_DESC_MAP_FIREBASE
+LANG_ENGLISH        "発射基地での乱闘だ"
+
+REFERENCE           PATCH_PLAYLISTISOLD
+LANG_ENGLISH        "プレイリストのデータがホスト側のものより も古くなっています。ゲームを再起動する ことで新しいプレイリストのデータを取得 する必要があります。"
+
+REFERENCE           PATCH_MINIMUM_PING_DESC
+LANG_ENGLISH        "最小ピン以下のプレイヤーは参加できません。"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_CAPS
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           PATCH_PASSWORD_DESC
+LANG_ENGLISH        "サーバー参加に必要なパスワード"
+
+REFERENCE           PLATFORM_ZOMBIE_SOUNDTRACK_LOCATION_DESC
+LANG_ENGLISH        "コール オブ デューティ ゾンビ サウンドトラック （3つのボーナストラック付き）が「Soundtrack」サブフォルダの下のゲームインストールフォルダで利用できます。"
+
+REFERENCE           PATCH_DEMO_SKIPBACK
+LANG_ENGLISH        "^3LA^7"
+
+REFERENCE           PATCH_VOICECHAT_DESC
+LANG_ENGLISH        "ゲーム内ボイスチャットで通信する"
+
+REFERENCE           MPUI_STADIUM_CAPS
+LANG_ENGLISH        "STADIUM"
+
+REFERENCE           PATCH_SCREENSHOT_PAN
+LANG_ENGLISH        "マウス左ボタンで移動"
+
+REFERENCE           MENU_PURCHASE_CONFIRMAITON
+LANG_ENGLISH        "購入確認"
+
+REFERENCE           PATCH_AUTO_BALANCE_DESC
+LANG_ENGLISH        "プレイヤー数に応じてチームは分けられます"
+
+REFERENCE           PATCH_ALLOW_VOTING_DESC
+LANG_ENGLISH        "ゲームモードやマップの投票、プレイヤーのキックを許可します"
+
+REFERENCE           MPUI_OUTSKIRTS_CAPS
+LANG_ENGLISH        "STOCKPILE"
+
+REFERENCE           PATCH_PRE_MATCH_DESC
+LANG_ENGLISH        "マッチ開始までポイントなし/EXPなしのFREE-FOR-ALLをプレイ"
+
+REFERENCE           PATCH_MINIMUM_PLAYERS_DESC
+LANG_ENGLISH        "プレマッチを終了させてマッチを開始するために必要なプレイヤー数"
+
+REFERENCE           MENU_MATCHMAKING_IMPACTED_DUE_TO_PARTY
+LANG_ENGLISH        "パーティー内の1人以上のプレイヤーがマッチメイキングに影響のあるストリクトかモデレートのNATタイプです"
+
+REFERENCE           PATCH_VALVE_ANTI_CHEAT_DESC
+LANG_ENGLISH        "チート行為の常習犯からサーバーを保護する"
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_DESC
+LANG_ENGLISH        "参加できる最大のプレイヤー数"
+
+REFERENCE           PATCH_CONNECTING_CAPS
+LANG_ENGLISH        "接続中"
+
+REFERENCE           PATCH_NO_INVITES
+LANG_ENGLISH        "最近のゲームへの招待はありません"
+
+REFERENCE           MPUI_ELITE_DISCLAIMER
+LANG_ENGLISH        "登録時のメールアドレス情報は毎週消去しています。CALL OF DUTY: ELITEは現在英語版のみの提供となっています"
+
+REFERENCE           PATCH_DEMO_CHANGE_CAMERA
+LANG_ENGLISH        "^3F2^7"
+
+REFERENCE           PATCH_DEMO_TOGGLE_HUD
+LANG_ENGLISH        "^3F4^7 HUD切替"
+
+REFERENCE           PATCH_DEMO_TOGGLE_CONTROLS_HUD
+LANG_ENGLISH        "^3F1^7 操作表\示切替"
+
+REFERENCE           MPUI_SALVAGE_CAPS
+LANG_ENGLISH        "SALVAGE"
+
+REFERENCE           PATCH_DEMO_SKIPFOWARD
+LANG_ENGLISH        "^3RA^7"
+
+REFERENCE           PATCH_DEMO_SPEED_DOWN
+LANG_ENGLISH        "^3DN^7"
+
+REFERENCE           PLATFORM_MISSINGMAP_YOU_NEED_CONTENTPACK
+LANG_ENGLISH        "このマップを持っていません。Steamストアからコンテンツパックをダウンロードし、マップを入手してください。\n\n必要：^3^3&&1^7^7\n"
+
+REFERENCE           PATCH_BAD_STATS
+LANG_ENGLISH        "ステータスを認証できません"
+
+REFERENCE           PATCH_PLAYLISTISNEW
+LANG_ENGLISH        "プレイリストのデータがホスト側のものよりも新しくなっています。ホスト側が再起動して新しいプレイリストを取得しないと一緒にプレイできません。"
+
+REFERENCE           PATCH_EXE_KICKRESERVEDSLOT
+LANG_ENGLISH        "予\約されたスロットから自動でキックされました"
+
+REFERENCE           PATCH_MP_CANNOT_JOIN_TEAM
+LANG_ENGLISH        "この時点ではチームを変更できません"
+
+REFERENCE           MENU_PACKAGE_SELECTION_DESCRIPTION
+LANG_ENGLISH        "選択すると購入してダウンロードします。"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_DESC
+LANG_ENGLISH        "チーム変更許可"
+
+REFERENCE           PATCH_MP_TEAM_UP_PERIOD
+LANG_ENGLISH        "&&1 秒間、チームを変更できます"
+
+REFERENCE           PATCH_MENU_OPTION_SHADERWARMING_CAPS
+LANG_ENGLISH        "シェーダ ウォームアップ"
+
+REFERENCE           MENU_DLC3_MAPS
+LANG_ENGLISH        "ESCALATIONパック"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_CAPS
+LANG_ENGLISH        "チーム変更"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_CAPS
+LANG_ENGLISH        "チーム決定期限"
+
+REFERENCE           MP_ROUND_END_KILLCAM
+LANG_ENGLISH        "ラウンド終了時キルカメラ"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_CAPS
+LANG_ENGLISH        "バランスを守ったチーム"
+
+REFERENCE           MENU_GUN_DESC
+LANG_ENGLISH        "プレイヤーを武器で倒して、次の武器へと進む。最初に全ての武器で倒したプレイヤーが勝利する"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_DESC
+LANG_ENGLISH        "チーム変更が許可されるまでの時間"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_DESC
+LANG_ENGLISH        "バランスを守ったチーム変更のみ許可されます"
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "このデモはMod ^3&&1^7を起動しています。\nModをロードするとデモを見られます。"
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_CHECKSUM
+LANG_ENGLISH        "間違ったチェックサムでローカルファイルが存在します。"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_ENGLISH        "レーダー常時オン"
+
+REFERENCE           MPUI_CONNECT_CAPS
+LANG_ENGLISH        "CONNECT"
+
+REFERENCE           MPUI_PLAYLIST_MAPS_NOT_ENABLED
+LANG_ENGLISH        "適切な追加コンテンツをパーティの全員が所持していないとプレイできません"
+
+REFERENCE           MENU_STORE_FETCHING
+LANG_ENGLISH        "取得中..."
+
+REFERENCE           PATCH_LOADMOD_FILM
+LANG_ENGLISH        "このフィルムはMod ^3&&1^7を起動しています。\nModをロードするとフィルムを見られます。"
+
+REFERENCE           PATCH_UNLOADMOD_DEMO
+LANG_ENGLISH        "Mod ^3&&1^7を起動しています。\nModをアンロードするとデモを見られます。"
+
+REFERENCE           MPUI_TRAINWRECK
+LANG_ENGLISH        "TRAINWRECK"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_ENGLISH        "敵が常にレーダー上に表\示される"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_ENGLISH        "プレマッチタイマー"
+
+REFERENCE           MPUI_DESC_MAP_ZOO
+LANG_ENGLISH        "ソ\ビエトの放棄された動物園で長距離射撃に備えろ"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_ENGLISH        "ゲーム開始までの時間を変更する"
+
+REFERENCE           EXE_COD_TEMP_BAN_DAYS
+LANG_ENGLISH        "アクセスが許可されるまであと&&1日"
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "この本体はブラックオプスサーバーへのアクセスが永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1は一時的にブラックオプスサーバーへのアクセスが禁止されています"
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "この本体はブラックオプスサーバーへのアクセスが一時的に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           MPUI_DLC_CONTENT
+LANG_ENGLISH        "ダウンロード コンテンツ"
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "この本体はこの機能\の使用を永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "この本体はこの機能\の使用を一時的に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1は、権限のないコンテンツを検出したため、ブラックオプスサーバーへのアクセスが永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1は、権限のないコンテンツを検出したため、ブラックオプスサーバーへのアクセスが一時的に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 はブラックオプスサーバーへのアクセスが永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           MENU_UNLOAD_MODS_DESC
+LANG_ENGLISH        "現在ロードしているModをロードしない"
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1は本フィーチャーの利用により一時的にアクセスが禁止されています"
+
+REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
+LANG_ENGLISH        "あなたはこのランキングへの表\示を禁止されました。"
+
+REFERENCE           EXE_COD_BOOSTER_RESET
+LANG_ENGLISH        "コール オブ デューティ ブラックオプス のオンラインセキュリティポリシーに違反したため、ステータスがリセットされました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           MP_ELEVATOR_OVER_MAX
+LANG_ENGLISH        "最大積載重量超過"
+
+REFERENCE           EXE_SV_INFO_SCORE
+LANG_ENGLISH        "スコア"
+
+REFERENCE           MENU_NO_RECENT_PLAYERS
+LANG_ENGLISH        "最近会ったプレイヤーはいません"
+
+REFERENCE           EXE_SV_INFO_PING
+LANG_ENGLISH        "ピン"
+
+REFERENCE           EXE_SV_INFO_NAME
+LANG_ENGLISH        "名称"
+
+REFERENCE           MPUI_EDIT_EMAIL
+LANG_ENGLISH        "メールアドレスを編集"
+
+REFERENCE           EXE_INVALID_GAMERTAG
+LANG_ENGLISH        "無効なゲーマータグ"
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "この本体は、権限のないコンテンツを検出したため、ブラックオプスサーバーへのアクセスが一時的に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_CONSOLE
+LANG_ENGLISH        "この本体は、権限のないコンテンツを検出したため、ブラックオプスサーバーへのアクセスが永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_DOWNLOADSFULL
+LANG_ENGLISH        "ゲームファイルを自動ダウンロードできません:\n^3&&1^7\nサーバー上のダウンロードセッションが多すぎます。後ほどお試しください。"
+
+REFERENCE           MENU_TESTINGBANDWIDTH
+LANG_ENGLISH        "マッチテスト中: &&1.&&2% - &&3/&&4 ゲーム良質"
+
+REFERENCE           MP_DEFEND_HQ
+LANG_ENGLISH        "DEFEND THE HQ"
+
+REFERENCE           MENU_CONNECTING_TO_DW
+LANG_ENGLISH        "接続中…"
+
+REFERENCE           MENU_NO_FRIENDS
+LANG_ENGLISH        "フレンドがいません。"
+
+REFERENCE           MPUI_CARGO_CAPS
+LANG_ENGLISH        "CARGO"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MAX_POINTS
+LANG_ENGLISH        "使用できるマーカー数の上限に達しました。"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SAME_TIME
+LANG_ENGLISH        "同じ位置に複数のマーカーは設置できません"
+
+REFERENCE           MENU_DEMO_FREE_ROAM_MODE
+LANG_ENGLISH        "フリーロームモード"
+
+REFERENCE           MENU_ZOMBIES_SOUNDTRACK
+LANG_ENGLISH        "ゾンビ サウンドトラック"
+
+REFERENCE           MENU_DEMO_EDIT_CAMERA_MODE
+LANG_ENGLISH        "カメラモードの編集"
+
+REFERENCE           MENU_DEMO_DOLLY_CAMERA_MODE
+LANG_ENGLISH        "ドリーカメラ"
+
+REFERENCE           MENU_PACKAGE_BOUGHT_AND_DOWNLOADED_DESCRIPTION
+LANG_ENGLISH        "パッケージを購入/ダウンロードする。"
+
+REFERENCE           MENU_PACKAGE_DOWNLOAD_DESCRIPTION
+LANG_ENGLISH        "購入しました。選択するとダウンロードします。"
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_CAPS
+LANG_ENGLISH        "ASCENSION"
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_DESC
+LANG_ENGLISH        "ソ\ビエトの宇宙基地が蘇ったゾンビたちに乗っ取られ、混乱が生じている。今ゾンビ戦争へのカウントダウンが始まった。"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_EDIT
+LANG_ENGLISH        "ドリーカメラマーカー# &&1を編集"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_SPEED
+LANG_ENGLISH        "スピード設定"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE
+LANG_ENGLISH        "マーカー解除"
+
+REFERENCE           MENU_VISIT
+LANG_ENGLISH        "移動"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL
+LANG_ENGLISH        "全マーカー解除"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL_CONFIRMATION
+LANG_ENGLISH        "すべてのカメラマーカーを解除してもよろしいですか？"
+
+REFERENCE           PLATFORM_DEMO_EDIT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 カメラマーカー編集"
+
+REFERENCE           MENU_ZOMBIE_COAST_CAPS
+LANG_ENGLISH        "CALL OF THE DEAD"
+
+REFERENCE           MENU_ZOMBIE_COAST_DESC
+LANG_ENGLISH        "勇ましく探検に出たものの難破したクルー達は 放棄されたシベリアの前哨基地に、絶望的な 状況で取り残されてしまった。なぞに満ちた エレメント115の真相に迫るという彼らの 夢は地獄のような悪夢に変わる。"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_NO_MARKERS
+LANG_ENGLISH        "ドリーカメラに切り替えましたが、マーカーを設置していません。カメラモードの編集でマーカーを設置しているか確認してください。"
+
+REFERENCE           MENU_USE_GUEST
+LANG_ENGLISH        "ゲストでプレイ"
+
+REFERENCE           MENU_STORE_PS3_CAPS
+LANG_ENGLISH        "PlayStationｮStore"
+
+REFERENCE           PLATFORM_UNKNOWN
+LANG_ENGLISH        "未知"
+
+REFERENCE           MENU_INGAMESTORE
+LANG_ENGLISH        "ストア"
+
+REFERENCE           MENU_TAB_STORE_MAP_PACKS
+LANG_ENGLISH        "マップパック"
+
+REFERENCE           MENU_TAB_STORE_AVATARS
+LANG_ENGLISH        "アバター"
+
+REFERENCE           MENU_TAB_STORE_THEMES
+LANG_ENGLISH        "テーマ"
+
+REFERENCE           MENU_DLC5_MAPS
+LANG_ENGLISH        "REZURRECTION PACK"
+
+REFERENCE           MENU_STORE_FREE_PRODUCT
+LANG_ENGLISH        "自由"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REPOSITION
+LANG_ENGLISH        "カメラを再配置"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_NUMBER
+LANG_ENGLISH        "カメラマーカー # &&1"
+
+REFERENCE           MPUI_OUTSKIRTS
+LANG_ENGLISH        "STOCKPILE"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MODE
+LANG_ENGLISH        "スピードモード"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MANUAL
+LANG_ENGLISH        "マニュアル"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_FIXED
+LANG_ENGLISH        "固定"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_LINEAR
+LANG_ENGLISH        "リニア"
+
+REFERENCE           MPUI_IMPROVE_CAPS
+LANG_ENGLISH        "CHECK"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_VALUE
+LANG_ENGLISH        "スピード - &&1x"
+
+REFERENCE           MPUI_I_HAVE
+LANG_ENGLISH        "所持"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_PREVIEW_CAM_NUMBER_CAPS
+LANG_ENGLISH        "プレビューカメラ &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_CAM_NUMBER_CAPS
+LANG_ENGLISH        "カメラ &&1"
+
+REFERENCE           MENU_DEMO_PREVFREECAMMODE
+LANG_ENGLISH        "^3マウス右ボタン^7 前のフリーカメラモード"
+
+REFERENCE           MENU_DEMO_NEXTFREECAMMODE
+LANG_ENGLISH        "^3マウス左ボタン^7 次のフリーカメラモード"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           MPUI_SNOWMINE_CAPS
+LANG_ENGLISH        "SNOW MINE"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_DESC
+LANG_ENGLISH        "異国のジャングルのなかにある、失われた伝説の社。そこは入りくんだ洞窟の迷宮となっており、いまや死のワナや秘密が隠されているアンデッドの住みかだ。"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_TEMPLE
+LANG_ENGLISH        "異国のジャングルのなかにある、失われた伝説の社。そこは入りくんだ洞窟の迷宮となっており、いまや死のワナや秘密が隠されているアンデッドの住みかだ。"
+
+REFERENCE           MENU_LEVEL_ZOMBIE_TEMPLE
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           MENU_WAW_ZOMBIE_MAPS
+LANG_ENGLISH        "クラシックゾンビ・パック"
+
+REFERENCE           PLATFORM_OPTIONS_RESTRICT_EMBLEMS_CAPS
+LANG_ENGLISH        "エンブレム解除"
+
+REFERENCE           MENU_DLC2_MAPS
+LANG_ENGLISH        "ファーストストライク"
+
+REFERENCE           MENU_DLC4_MAPS
+LANG_ENGLISH        "ANNIHILATION"
+
+REFERENCE           MENU_DLC1_MAPS
+LANG_ENGLISH        "REZURRECTION PACK"
+
+REFERENCE           MENU_HC_KILL_PLAYERS_ON_THE_OPPOSING
+LANG_ENGLISH        "HUD制限でTEAM DEATHMATCH。 弾丸ダメージ増加。同士討ちが有効"
+
+REFERENCE           MENU_HC_KILL_EVERYONE_FIRST_PLAYER
+LANG_ENGLISH        "全員が自分のために戦う。弾丸ダメージ増加。HUD制限、体力回復なし。戦術マーカーなし"
+
+REFERENCE           MENU_HLND_DESC
+LANG_ENGLISH        "クロスボウ、バリスティックナイフ、トマホークを装備。キルでポイント獲得。トマホークキルで敵のスコアは0に戻る"
+
+REFERENCE           MENU_OIC_DESC
+LANG_ENGLISH        "弾倉に一発の弾を入れ、ナイフとライフ3および即キルで行われる。キルごとにプレイヤーは弾丸を受け取る"
+
+REFERENCE           MENU_SHRP_DESC
+LANG_ENGLISH        "武器は45秒に1度切り替わる。プレイヤーを倒すとポイントを獲得する。キルストリークを達成するとPERKが手に入る"
+
+REFERENCE           MENU_SYSINFO_Q
+LANG_ENGLISH        "Q: &&1"
+
+REFERENCE           MPUI_GRIDLOCK_CAPS
+LANG_ENGLISH        "CONVOY"
+
+REFERENCE           MENU_UNLOAD_MODS_CAPS
+LANG_ENGLISH        "MODなしBLACK OPS"
+
+REFERENCE           MENU_MOD_CONFIRM
+LANG_ENGLISH        "スイッチ:"
+
+REFERENCE           MENU_MODS_LOADED_CAPS
+LANG_ENGLISH        "Modのロード元:"
+
+REFERENCE           MENU_ZOMBIE_MOON
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MENU_ZOMBIE_MOON_CAPS
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MPUI_COD_ELITE_CAPS
+LANG_ENGLISH        "CALL OF DUTY: ELITE"
+
+REFERENCE           MENU_ZOMBIE_MOON_DESC
+LANG_ENGLISH        "我が国は、人を月面に着陸させ、無事に地球に帰還させるという目標を、今後10年以内に達成することを約束すべきであると、私は信じています (JFK, 1961)"
+
+REFERENCE           MP_CONTROL_HQ
+LANG_ENGLISH        "ヘッドクォーターを確保せよ"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_MOON
+LANG_ENGLISH        "我が国は、人を月面に着陸させ、無事に地球に帰還させるという目標を、今後10年以内に達成することを約束すべきであると、私は信じています (JFK, 1961)"
+
+REFERENCE           PLATFORM_ZOMBIE_NOMANS_SOLO_CAPS
+LANG_ENGLISH        "無人島 (ソ\ロ)"
+
+REFERENCE           MENU_LEVEL_ZOMBIE_MOON
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SURVIVAL_TIME
+LANG_ENGLISH        "無人島"
+
+REFERENCE           MPUI_OWNED
+LANG_ENGLISH        "所持"
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SOLO_SURVIVAL_TIME
+LANG_ENGLISH        "生存時間"
+
+REFERENCE           MENU_FREE_OFFER
+LANG_ENGLISH        "無料提供"
+
+REFERENCE           MENU_VISIT_DESC
+LANG_ENGLISH        "コール オブ デューティ ゾンビ サウンドトラックと3つのボーナストラックをダウンロードできます。"
+
+REFERENCE           MENU_OFFER_CODE
+LANG_ENGLISH        "オファーコード: "
+
+REFERENCE           MENU_VISIT_COMPLETE_DESC
+LANG_ENGLISH        "callofduty.com/blackops/dlc/zombiesからコール オブ デューティ ゾンビ サウンドトラックと3つのボーナストラックをダウンロードできます。"
+
+REFERENCE           MP_CAPTURE_HQ
+LANG_ENGLISH        "ヘッドクォーターを確保せよ"
+
+REFERENCE           MP_DESTROY_HQ
+LANG_ENGLISH        "DESTROY THE HQ"
+
+REFERENCE           MP_HOST_COMMS_FAILURE
+LANG_ENGLISH        "ホストとの通信に失敗しました"
+
+REFERENCE           MP_ZIPLINE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを使用する"
+
+REFERENCE           MPUI_KOWLOON_CAPS
+LANG_ENGLISH        "KOWLOON"
+
+REFERENCE           MP_ELEVATOR_UNAVAILABLE
+LANG_ENGLISH        "エレベーター使用不可"
+
+REFERENCE           MP_USE_ELEVATOR
+LANG_ENGLISH        "^3&&1^7長押しでエレベーターを使用する"
+
+REFERENCE           MP_CALL_ELEVATOR
+LANG_ENGLISH        "^3&&1^7長押しでエレベーターを呼び出す"
+
+REFERENCE           MP_OPERATE_DOOR
+LANG_ENGLISH        "^3&&1^7長押しでドアを操作"
+
+REFERENCE           MPUI_DISCOVERY
+LANG_ENGLISH        "Discovery"
+
+REFERENCE           MPUI_AIRBASE
+LANG_ENGLISH        "AIRBASE"
+
+REFERENCE           PLATFORM_CANT_DOWNLOAD
+LANG_ENGLISH        "このファイルはサーバーと異なります：\n\n ^3&&1^7"
+
+REFERENCE           MPUI_CUBATOWN
+LANG_ENGLISH        "CUBATOWN"
+
+REFERENCE           MPUI_CARGO
+LANG_ENGLISH        "CARGO"
+
+REFERENCE           MPUI_BERLINWALL2
+LANG_ENGLISH        "BERLIN WALL"
+
+REFERENCE           MPUI_KOWLOON
+LANG_ENGLISH        "Kowloon"
+
+REFERENCE           MPUI_STADIUM
+LANG_ENGLISH        "Stadium"
+
+REFERENCE           MPUI_AIRBASE_CAPS
+LANG_ENGLISH        "AIRBASE"
+
+REFERENCE           MPUI_TRAINWRECK_CAPS
+LANG_ENGLISH        "TRAINWRECK"
+
+REFERENCE           MPUI_CUBATOWN_CAPS
+LANG_ENGLISH        "CUBATOWN"
+
+REFERENCE           MPUI_BERLINWALL2_CAPS
+LANG_ENGLISH        "BERLIN WALL"
+
+REFERENCE           MPUI_DLC_MAPS_CAPS
+LANG_ENGLISH        "DLCマップ"
+
+REFERENCE           MPUI_DESC_MAP_DISCOVERY
+LANG_ENGLISH        "南極の廃棄されたドイツ軍の研究施設のなぞを解け"
+
+REFERENCE           MPUI_DESC_MAP_BERLINWALL2
+LANG_ENGLISH        "無人のこの場所では気をつけながらベルリンの壁を制圧しろ"
+
+REFERENCE           MPUI_DESC_MAP_KOWLOON
+LANG_ENGLISH        "嵐吹きすさぶ九龍城での戦闘。密集した建物屋上でスナイピングやスニークが威力を発揮する"
+
+REFERENCE           MPUI_DESC_MAP_STADIUM
+LANG_ENGLISH        "チャンス・スタジアムのホッケーリンクで激しく戦え"
+
+REFERENCE           MPUI_GAMEMODE_CAPS
+LANG_ENGLISH        "ゲームモード"
+
+REFERENCE           MPUI_OFFLINE_EDIT_GAME_OPTIONS_DESC
+LANG_ENGLISH        "ゲームモードのルールをカスタマイズしよう。"
+
+REFERENCE           MPUI_PREV_DISABLED_CAPS
+LANG_ENGLISH        "投票は許可されません"
+
+REFERENCE           MPUI_CONNECT_DESC
+LANG_ENGLISH        "他のプレイヤーと交流し、フレンドとグループやチームを作れる！"
+
+REFERENCE           MPUI_COMPETE_CAPS
+LANG_ENGLISH        "CONTEST"
+
+REFERENCE           MPUI_COMPETE_DESC
+LANG_ENGLISH        "初心者から上級者まで公式リーグ、イベントに挑戦できる！"
+
+REFERENCE           MPUI_IMPROVE_DESC
+LANG_ENGLISH        "ステータス/ヒートマップ/上級TIPSなど、ゲームに役立つ情報満載！"
+
+REFERENCE           MPUI_DESC_MAP_GRIDLOCK
+LANG_ENGLISH        "ソ\ビエトによるアメリカ本土への奇襲攻撃に より、激しい戦闘が繰り広げられる"
+
+REFERENCE           MPUI_JOIN_UP_CAPS
+LANG_ENGLISH        "参加"
+
+REFERENCE           MPUI_FREE_MEMBERSHIP_CAPS
+LANG_ENGLISH        "CALL OF DUTY: ELITE メンバーシップへの登録"
+
+REFERENCE           MPUI_SUBMIT_EMAIL_CAPS
+LANG_ENGLISH        "メール送信"
+
+REFERENCE           MPUI_MAPS_CAPS
+LANG_ENGLISH        "マップ"
+
+REFERENCE           MPUI_EMAIL_ACCEPTED
+LANG_ENGLISH        "CALL OF DUTY: ELITEへのご参加ありがとうございます。ご提供いただいたメールアドレスにメンバーシップ登録の完了手順をお送りします。詳しくはCallofDuty.com/Eliteをご覧ください。"
+
+REFERENCE           MPUI_EMAIL_REJECTED_TITLE
+LANG_ENGLISH        "無効なメールアドレス"
+
+REFERENCE           MPUI_DESC_MAP_OUTSKIRTS
+LANG_ENGLISH        "ソ\ビエトの田舎町にある、長い街道と倉庫の密集地帯で戦え"
+
+REFERENCE           MPUI_HOTEL_CAPS
+LANG_ENGLISH        "HOTEL"
+
+REFERENCE           MPUI_DESC_MAP_HOTEL
+LANG_ENGLISH        "しゃれたキューバのホテルの屋上を制圧しろ"
+
+REFERENCE           MPUI_SILO
+LANG_ENGLISH        "SILO"
+
+REFERENCE           MPUI_SILO_CAPS
+LANG_ENGLISH        "SILO"
+
+REFERENCE           PLATFORM_DEMO_PLACE_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 カメラマーカー設置"
+
+REFERENCE           MPUI_DESC_MAP_SILO
+LANG_ENGLISH        "ミサイル発射施設での戦闘。多数の脇道を駆使した接近戦に向いている"
+
+REFERENCE           MPUI_THEATER_PARTY_MISSING_MAP
+LANG_ENGLISH        "1人以上のパーティーメンバーがこのマップを持っていません"
+
+REFERENCE           MPUI_ZOO
+LANG_ENGLISH        "ZOO"
+
+REFERENCE           MPUI_ZOO_CAPS
+LANG_ENGLISH        "ZOO"
+
+REFERENCE           MPUI_GRIDLOCK
+LANG_ENGLISH        "CONVOY"
+
+REFERENCE           MPUI_AREA51
+LANG_ENGLISH        "HANGAR 18"
+
+REFERENCE           MPUI_PURCHASED
+LANG_ENGLISH        "購入済み"
+
+REFERENCE           MPUI_AREA51_CAPS
+LANG_ENGLISH        "HANGAR 18"
+
+REFERENCE           MPUI_DRIVEIN
+LANG_ENGLISH        "DRIVE-IN"
+
+REFERENCE           MPUI_DRIVEIN_CAPS
+LANG_ENGLISH        "DRIVE-IN"
+
+REFERENCE           MPUI_FIREBASE
+LANG_ENGLISH        "FIREBASE"
+
+REFERENCE           MPUI_FIREBASE_CAPS
+LANG_ENGLISH        "FIREBASE"
+
+REFERENCE           MPUI_GOLFCOURSE
+LANG_ENGLISH        "HAZARD"
+
+REFERENCE           MPUI_GOLFCOURSE_CAPS
+LANG_ENGLISH        "HAZARD"
+
+REFERENCE           MPUI_DESC_MAP_GOLFCOURSE
+LANG_ENGLISH        "この崖に立つゴルフコースのフェアウェイ上を移動する際はスナイパーに気をつけろ"
+
+REFERENCE           MPUI_SALVAGE
+LANG_ENGLISH        "SALVAGE"
+
+REFERENCE           MPUI_DESC_MAP_SALVAGE
+LANG_ENGLISH        "スクラップ回収所での2つのグループに分かれて争う"
+
+REFERENCE           MPUI_SNOWMINE
+LANG_ENGLISH        "SNOW MINE"
+
+REFERENCE           MPUI_DESC_MAP_SNOWMINE
+LANG_ENGLISH        "かれ果てた採掘場での冬の戦闘。目的ベースのゲームモードに最適"
+
+REFERENCE           MPUI_WARMUSEUM_CAPS
+LANG_ENGLISH        "WAR MUSEUM"
+
+REFERENCE           MPUI_DESC_MAP_WARMUSEUM
+LANG_ENGLISH        "博物館を制圧しろ。室内での緊迫した銃撃戦が味わえる"
+
+REFERENCE           MPUI_DISCOVERY_CAPS
+LANG_ENGLISH        "DISCOVERY"
+
+REFERENCE           MPUI_HIDE_DLC
+LANG_ENGLISH        "隠す"
+
+REFERENCE           MPUI_BASIC_TRAINING_HC_TDM
+LANG_ENGLISH        "HARDCORE TDM"
+
+REFERENCE           PLATFORM_DEMO_INSERT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 カメラマーカー挿入"
+
+REFERENCE           PLATFORM_STEAM_AUTH_DENIED
+LANG_ENGLISH        "Steam認証に失敗しました。"
+
+REFERENCE           PLATFORM_MISSINGMAP
+LANG_ENGLISH        "このマップを持っていません。Steamストアからコンテンツパックをダウンロードし、マップを入手してください。"
+
+REFERENCE           PLATFORM_ENABLE_DOWNLOADS
+LANG_ENGLISH        "サーバー側が参照するファイルがありません:\n^3&&1^7\nマルチプレイヤーのオプションメニューでダウンロードを許可してください。"
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_FILESIZE
+LANG_ENGLISH        "間違ったファイルサイズでローカルファイルが存在します。"
+
+REFERENCE           PLATFORM_OPEN_SOUNDTRACK_FOLDER
+LANG_ENGLISH        "サウンドトラックフォルダを開く"
+
+REFERENCE           WEAPON_ZIPLINE
+LANG_ENGLISH        "ジップライン"
+
+ENDMARKER

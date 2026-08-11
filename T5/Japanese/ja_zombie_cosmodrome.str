@@ -1,0 +1,82 @@
+// Dumped from fastfile "ja_zombie_cosmodrome".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_COOLING_DOWN
+LANG_ENGLISH        "ロケットは冷却中"
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_SET
+LANG_ENGLISH        "^3[{+activate}]^7長押しでロケットを指定の位置にセットする"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND_WAIT_ONE
+LANG_ENGLISH        "&&1の接続を待っています..."
+
+REFERENCE           ZOMBIE_COSMODROME_NEED_POWER_CENTRIFUGE
+LANG_ENGLISH        "遠心力トラップはパワーが必要！"
+
+REFERENCE           ZOMBIE_COSMODROME_NEED_POWER_ROCKET
+LANG_ENGLISH        "ロケットトラップはパワーが必要！"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_CALL
+LANG_ENGLISH        "^3[{+activate}]^7長押しで着陸船を指定の位置に呼び出す"
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_MOVING
+LANG_ENGLISH        "ロケットは現在動いている"
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_ACTIVATED
+LANG_ENGLISH        "ロケットは現在使用中"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_CONNECTIONS
+LANG_ENGLISH        "着陸船の有効な目的地がない"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_WAITING_FOR_CREW
+LANG_ENGLISH        "全プレイヤーは着陸船に乗船しなければならない"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_INACTIVE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで着陸船ステーションを有効化する"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER
+LANG_ENGLISH        "^3[{+activate}]^7長押しで着陸船を使用する [コスト：250]"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_IN_USE
+LANG_ENGLISH        "着陸船は現在使用中"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND
+LANG_ENGLISH        "^3[{+activate}]^7長押しで無人地帯に移動する[コスト：無料]"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND_WAIT
+LANG_ENGLISH        "&&1の接続を待っています..."
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_THREE
+LANG_ENGLISH        "プレイヤー3名が発射台近辺に来ていない"
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_TWO
+LANG_ENGLISH        "プレイヤー2名が発射台近辺に来ていない"
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_ONE
+LANG_ENGLISH        "プレイヤー1名が発射台近辺に来ていない"
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_AUTHORIZAION
+LANG_ENGLISH        "発射には認証が必要"
+
+REFERENCE           ZOMBIE_COSMODROME_LAUNCH_AVAILABLE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで発射シークエンスを開始する"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_REFUEL
+LANG_ENGLISH        "着陸船は燃料補給中"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_COOLDOWN
+LANG_ENGLISH        "着陸船は準備中"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_ON_WAY
+LANG_ENGLISH        "着陸船を要請した"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_AT_STATION
+LANG_ENGLISH        "着陸船はすでにステーションにいる"
+
+REFERENCE           ZOMBIE_COSMODROME_DOOR_CLOSED
+LANG_ENGLISH        "まず扉を開けなければならない"
+
+ENDMARKER

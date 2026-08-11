@@ -1,0 +1,25 @@
+// Dumped from fastfile "ja_zombie_theater".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_THEATER_USE_TELEPORTER
+LANG_ENGLISH        "^3[{+activate}]^7長押しでテレポーターを使用する"
+
+REFERENCE           ZOMBIE_THEATER_START_CORE
+LANG_ENGLISH        "リンクが使用不可"
+
+REFERENCE           ZOMBIE_THEATER_LINK_CORE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでパッドへのリンクを開始する"
+
+REFERENCE           ZOMBIE_THEATER_LINK_PAD
+LANG_ENGLISH        "^3[{+activate}]^7長押しでパッドとコアをリンクさせる"
+
+REFERENCE           ZOMBIE_THEATER_REEL_PROJECTOR
+LANG_ENGLISH        "^3[{+activate}]^7でフィルムリールを足す"
+
+REFERENCE           ZOMBIE_THEATER_FILM_REEL
+LANG_ENGLISH        "^3[{+activate}]^7長押しでフィルムリールを拾う"
+
+ENDMARKER

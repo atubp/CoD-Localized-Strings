@@ -1,0 +1,232 @@
+// Dumped from fastfile "ja_zombietron".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIETRON_SURVIVED_ROUNDS
+LANG_ENGLISH        "Round &&1まで到達した"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_PIG
+LANG_ENGLISH        "朝飯前"
+
+REFERENCE           ZOMBIETRON_GAMEOVER
+LANG_ENGLISH        "GAME OVER"
+
+REFERENCE           ZOMBIETRON_BUBBLE_HAHADOH
+LANG_ENGLISH        "バイバイ！"
+
+REFERENCE           ZOMBIETRON_BUBBLE_BIGPRIZES
+LANG_ENGLISH        "すごい賞金！"
+
+REFERENCE           ZOMBIETRON_ROUND_COMPLETE
+LANG_ENGLISH        "Round &&1  クリア"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION6
+LANG_ENGLISH        "  で戦術爆弾を投下し、広範囲の敵をまとめて倒す。"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_DOG
+LANG_ENGLISH        "オオカミ少年？"
+
+REFERENCE           ZOMBIETRON_ROUND
+LANG_ENGLISH        "ラウンド: &&1"
+
+REFERENCE           ZOMBIETRON_BUBBLE_GRUMBLE
+LANG_ENGLISH        "<うなり声>"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_QUAD
+LANG_ENGLISH        "はい回るウジ"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NOTBAD
+LANG_ENGLISH        "悪くない..."
+
+REFERENCE           ZOMBIETRON_BONUS
+LANG_ENGLISH        "ボーナスルームを発見した"
+
+REFERENCE           ZOMBIETRON_BUBBLE_OHYEAH
+LANG_ENGLISH        "オーイエー！"
+
+REFERENCE           ZOMBIETRON_TUTORIAL3
+LANG_ENGLISH        "説明"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION10
+LANG_ENGLISH        "ゲーム中宝物を見つけることもあるだろう。拾って必要なときに役立てるといい。"
+
+REFERENCE           ZOMBIETRON_FATE_HURRY
+LANG_ENGLISH        "大いなる力はいつまでも待ってくれないぞ"
+
+REFERENCE           ZOMBIETRON_CHALLENGE
+LANG_ENGLISH        "チャレンジラウンド"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_SERGEI
+LANG_ENGLISH        "プリズンブレイク！"
+
+REFERENCE           ZOMBIETRON_PAGE
+LANG_ENGLISH        "ページ &&1 / &&2"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION5
+LANG_ENGLISH        "  で武器を発射。"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_ENGINEER
+LANG_ENGLISH        "どしゃ降り！"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION9
+LANG_ENGLISH        "戦術爆弾の補充と同様に、スピードブーストもストックできる。私がいくつか用意しておこう。\nどちらも残りを気にかけておけ。"
+
+REFERENCE           ZOMBIETRON_PICK_A_PATH
+LANG_ENGLISH        "ルートを選べ"
+
+REFERENCE           ZOMBIETRON_APE_BOSS
+LANG_ENGLISH        "帰ってきたコスミック・シルバーバック"
+
+REFERENCE           ZOMBIETRON_BUBBLE_WHAT
+LANG_ENGLISH        "なんだ？！"
+
+REFERENCE           ZOMBIETRON_TUTORIAL1
+LANG_ENGLISH        "コスミック・シルバーバックは逃げ出した！ 追いかけろ！"
+
+REFERENCE           ZOMBIETRON_FATE_FURIOUS_FEET
+LANG_ENGLISH        "大いなる力は、すさまじい足の贈り物を授けた"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION4
+LANG_ENGLISH        " で自分のプレイヤーを動かす。"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB
+LANG_ENGLISH        "コスミック・シルバーバック"
+
+REFERENCE           ZOMBIETRON_FATE_FIREPOWER
+LANG_ENGLISH        "大いなる力により、火力がアップした"
+
+REFERENCE           ZOMBIETRON_NEXT_PAGE
+LANG_ENGLISH        "^3[{+activate}]^7で次のページ"
+
+REFERENCE           ZOMBIETRON_BUBBLE_RICH
+LANG_ENGLISH        "俺たちは金持ち！"
+
+REFERENCE           ZOMBIETRON_BOSS_ROUND_VICTORY
+LANG_ENGLISH        "勝利！"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB_DEFEATED2
+LANG_ENGLISH        "...もしくは..."
+
+REFERENCE           ZOMBIETRON_FATE_FRIENDSHIP
+LANG_ENGLISH        "大いなる力は、友情の贈り物を授けた\n"
+
+REFERENCE           ZOMBIETRON_FATE_FORTUNE
+LANG_ENGLISH        "大いなる力は、運と不屈の闘志の贈り物を授けた\n"
+
+REFERENCE           ZOMBIETRON_NAME
+LANG_ENGLISH        "&&1"
+
+REFERENCE           ZOMBIETRON_FATE_INTRO
+LANG_ENGLISH        "運命の部屋"
+
+REFERENCE           ZOMBIETRON_FATE_INTRO2
+LANG_ENGLISH        "出口を一つ選び、汝の定めを見いだすのだ"
+
+REFERENCE           ZOMBIETRON_FATE_EXIT
+LANG_ENGLISH        "汝の運命は定められた"
+
+REFERENCE           ZOMBIETRON_ARMORY
+LANG_ENGLISH        "武器庫を発見した"
+
+REFERENCE           ZOMBIETRON_TUTORIAL2
+LANG_ENGLISH        "または、基本的な説明のため、テレポートパッドに乗れ。"
+
+REFERENCE           ZOMBIETRON_BOSS_ROUND
+LANG_ENGLISH        "ボスラウンド"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB_DEFEATED
+LANG_ENGLISH        "コスミック・シルバーバックは敗れた！"
+
+REFERENCE           ZOMBIETRON_BUBBLE_TREASURE
+LANG_ENGLISH        "俺のお宝！"
+
+REFERENCE           ZOMBIETRON_TELEPORTER
+LANG_ENGLISH        "テレポーターに乗れば新しいアリーナへ移動する\n"
+
+REFERENCE           ZOMBIETRON_TITLE
+LANG_ENGLISH        "ゾンビトロン"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_COW
+LANG_ENGLISH        "突進！"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION1
+LANG_ENGLISH        "このゲームの究極の目標は、下劣なコスミック・シルバーバックに立ち向かい、死んだプリンセスの恨みを晴らすことだ。"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION2
+LANG_ENGLISH        "コスミック・シルバーバックに至る道は険しい。汝の行く手には、不死の軍隊が待ち構\えているだろう。"
+
+REFERENCE           ZOMBIETRON_BUBBLE_OHNO
+LANG_ENGLISH        "オーノー！"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION3
+LANG_ENGLISH        "だが心配するには及ばない！ 道中には助けとなる強力な武器や、宝が用意されている。"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION7
+LANG_ENGLISH        " でスピードブースト。窮地から脱するのに役立つ。"
+
+REFERENCE           ZOMBIETRON_SKIP_SCENE
+LANG_ENGLISH        "^3[{+activate}]^7でスキップ"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION8
+LANG_ENGLISH        "戦術爆弾を補充するには、爆弾を模したアイテムを拾えばいい。\nここぞという時のため、取っておくといいだろう。"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NOOO
+LANG_ENGLISH        "ノー！！"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION11
+LANG_ENGLISH        "宝物は獲得スコアを数倍にする。&&1 ポイント毎に新たなライフを与えられるだろう。"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NEXTTIME
+LANG_ENGLISH        "次だ！"
+
+REFERENCE           ZOMBIETRON_BUBBLE_HAHA
+LANG_ENGLISH        "ハハハ！"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION12
+LANG_ENGLISH        "色々な武器やスペシャルアイテムも用意されている。どれも強力で、とても役に立つ。"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION13
+LANG_ENGLISH        "出口の矢印へと進め。汝のコスミック・シルバーバックを倒す冒険に、加護あらんことを。"
+
+REFERENCE           ZOMBIETRON_BUBBLE_RELAX
+LANG_ENGLISH        "リラックスの時間だ！"
+
+REFERENCE           ZOMBIETRON_BUBBLE_FCUK
+LANG_ENGLISH        "XXXX野郎！"
+
+REFERENCE           ZOMBIETRON_BUBBLE_WINNER
+LANG_ENGLISH        "勝者！"
+
+REFERENCE           ZOMBIETRON_BUBBLE_BIGMONEY
+LANG_ENGLISH        "すごい大金！"
+
+REFERENCE           ZOMBIETRON_BUBBLE_DEAD
+LANG_ENGLISH        "俺って死んでる？"
+
+REFERENCE           ZOMBIETRON_BUBBLE_IMBACK
+LANG_ENGLISH        "俺、戻った！"
+
+REFERENCE           ZOMBIETRON_WINNER_SKIP
+LANG_ENGLISH        "^3[{+activate}]^7でスキップできる"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_SNOW
+LANG_ENGLISH        "雪原の死に土産"
+
+REFERENCE           ZOMBIETRON_SCORE
+LANG_ENGLISH        "スコア：&&1"
+
+REFERENCE           ZOMBIETRON_1ST
+LANG_ENGLISH        "1位：&&1"
+
+REFERENCE           ZOMBIETRON_2ND
+LANG_ENGLISH        "2位：&&1"
+
+REFERENCE           ZOMBIETRON_3RD
+LANG_ENGLISH        "3位：&&1"
+
+REFERENCE           ZOMBIETRON_4TH
+LANG_ENGLISH        "4位：&&1"
+
+ENDMARKER

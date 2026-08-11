@@ -1,0 +1,31 @@
+// Dumped from fastfile "ja_zombie_pentagon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_PENTAGON_ELEV_BLOCKED
+LANG_ENGLISH        "エレベーターのドアは塞がっている"
+
+REFERENCE           ZOMBIE_PENTAGON_CALL_ELEVATOR
+LANG_ENGLISH        "^3[{+activate}]^7長押しでエレベーターを呼び出す"
+
+REFERENCE           ZOMBIE_PENTAGON_DEFCON_LEVEL_HUD
+LANG_ENGLISH        "現在のデスコンレベル：&&1"
+
+REFERENCE           ZOMBIE_PENTAGON_USE_ELEVATOR
+LANG_ENGLISH        "^3[{+activate}]^7長押しでエレベーターを使用する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PENTAGON_DEFCON_SWITCH
+LANG_ENGLISH        "^3[{+activate}]^7長押しでデスコンレベルを変更する"
+
+REFERENCE           ZOMBIE_PENTAGON_MISSING_PIECE
+LANG_ENGLISH        "アクセス拒否：操作コンポーネントが必要"
+
+REFERENCE           ZOMBIE_PENTAGON_GRAB_MISSING_PIECE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでトラップの部品を拾う\n"
+
+REFERENCE           ZOMBIE_PENTAGON_PACK_ROOM_DOOR
+LANG_ENGLISH        "アクセス拒否：極秘情報取扱いレベル115必須"
+
+ENDMARKER

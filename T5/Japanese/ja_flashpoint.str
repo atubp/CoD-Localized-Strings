@@ -1,0 +1,1423 @@
+// Dumped from fastfile "ja_flashpoint".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FLASHPOINT_DEAD_BLOODYUNIFORM
+LANG_ENGLISH        "発見されて任務に失敗した。"
+
+REFERENCE           FLASHPOINT_OBJ_EXIT_GASROOMS
+LANG_ENGLISH        "ガス室から脱出せよ"
+
+REFERENCE           FLASHPOINT_HINT_PLANT_CHARGE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで爆薬を設置"
+
+REFERENCE           FLASHPOINT_OBJ_CLEAR_ROOF
+LANG_ENGLISH        "屋上を制圧せよ"
+
+REFERENCE           FLASHPOINT_INTROSCREEN_PLACE
+LANG_ENGLISH        "^C1ソ\ビエト連邦、バイコヌール^C^L：ドラゴヴィッチとアセンショングループを現地に確認^L"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_121A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7クラフチェンコはいずれ必ず仕留める...今は任務に集中しろ"
+
+REFERENCE           FLASHPOINT_OBJ_FOLLOW_WOODS
+LANG_ENGLISH        "ウッズに続け"
+
+REFERENCE           FLASHPOINT_OBJ_INFILTRATE_BASE
+LANG_ENGLISH        "バイコヌール宇宙基地に潜入せよ"
+
+REFERENCE           FLASHPOINT_INTROSCREEN_DATE
+LANG_ENGLISH        "^L0700時^L ^C11963年11月17日^C"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_376A_BOWM_F_M
+LANG_ENGLISH        "^1ボウマン:^7北側から敵が接近。身動きがとれない！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_031A_KRAV_F_M
+LANG_ENGLISH        "^1クラフチェンコ:^7いいだろう"
+
+REFERENCE           FLASHPOINT_OBJ_PLANT_EXPLOSIVE
+LANG_ENGLISH        "C4を設置"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_039A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7よし...行こう"
+
+REFERENCE           FLASHPOINT_TVMISSILE_CONTROLS
+LANG_ENGLISH        "^3[{+speed_throw}]^7の長押しでミサイルをロケットに誘導する"
+
+REFERENCE           FLASHPOINT_OBJ_SNIPER_SCIENTISTS
+LANG_ENGLISH        "敵の科学者たちを止めろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_028A_KRAV_F_M
+LANG_ENGLISH        "^1クラフチェンコ:^7警告は一回きりだ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_023A_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7クソ\、ウィーバーだ... しくじったな"
+
+REFERENCE           FLASHPOINT_OBJ_BREACH_CONTROL
+LANG_ENGLISH        "制御室に突入せよ"
+
+REFERENCE           FLASHPOINT_FIRE_AT_TARGET
+LANG_ENGLISH        "目標をクロスボウで狙撃せよ"
+
+REFERENCE           FLASHPOINT_OBJ_SAVE_WEAVER
+LANG_ENGLISH        "ウィーバーを救え"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_131A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いつでもいいぞ、メイソ\ン"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE_BINOCULARS
+LANG_ENGLISH        "双眼鏡を使え"
+
+REFERENCE           FLASHPOINT_OBJ_HIDE_AT_PIPE
+LANG_ENGLISH        "身を隠せ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_196A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7奴らを狩りに来たんだぜ"
+
+REFERENCE           FLASHPOINT_EVENT6
+LANG_ENGLISH        "ジップライン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_013A_BROO_F
+LANG_ENGLISH        "^1ブルックス:^7クリア。移動する"
+
+REFERENCE           FLASHPOINT_USE_KNIFE_PRESS_X
+LANG_ENGLISH        "^3[{+activate}]^7でカランビットナイフを使用"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_281A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7左！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_363A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7クリア"
+
+REFERENCE           FLASHPOINT_OBJ_WAIT_FOR_WOODS
+LANG_ENGLISH        "ウッズを待て"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_128A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ターゲットまで100ヤード。見つかるな！"
+
+REFERENCE           FLASHPOINT_DEAD_STAY_WITH_WOODS
+LANG_ENGLISH        "分隊についていけなかった。"
+
+REFERENCE           FLASHPOINT_OBJ_MANTLE_PIPE
+LANG_ENGLISH        "パイプを飛び越えろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_254A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7メチャクチャだ。現場検証には何年もかかるだろうな"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_218A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7何も見えん...奴ら不意を突いたつもりだろう..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_139A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7そこを動くな"
+
+REFERENCE           FLASHPOINT_OBJ_LOOK_ALERT
+LANG_ENGLISH        "武器を構\えて、仲間から離れるな"
+
+REFERENCE           FLASHPOINT_OBJ_PICKUP_GUARD
+LANG_ENGLISH        "警備兵をかついで運べ"
+
+REFERENCE           FLASHPOINT_OBJ_GOTO_WOODS
+LANG_ENGLISH        "ウッズに合流せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_041B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7止まるな。頭を下げろ"
+
+REFERENCE           FLASHPOINT_OBJ_HIDE_GUARD
+LANG_ENGLISH        "死体を隠せ"
+
+REFERENCE           FLASHPOINT_EVENT8
+LANG_ENGLISH        "C4でバンカーに突入"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_001A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7お客さんだ！"
+
+REFERENCE           FLASHPOINT_DEAD_ROCKET_TAKEOFF
+LANG_ENGLISH        "ロケットの発射を止められなかった。"
+
+REFERENCE           FLASHPOINT_OBJ_TEST_THE_DISGUISE
+LANG_ENGLISH        "変装を活用しろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_243A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7クソ\！ 逃げる気だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_103A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7仕留めた"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_811A_INTE
+LANG_ENGLISH        "^1尋問官:^7また意識が"
+
+REFERENCE           FLASHPOINT_OBJ_FIRE_AT_TARGET
+LANG_ENGLISH        "ジップラインを展開せよ"
+
+REFERENCE           FLASHPOINT_OBJ_WAIT_FOR_SQUAD
+LANG_ENGLISH        "仲間を待て"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_202A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7右だ"
+
+REFERENCE           FLASHPOINT_OBJ_SQUAD_MEETUP
+LANG_ENGLISH        "仲間に合流しろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_329A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7死体を発見されたらしい"
+
+REFERENCE           FLASHPOINT_OBJ_KILL_THE_DOGS
+LANG_ENGLISH        "犬を始末せよ"
+
+REFERENCE           FLASHPOINT_OBJ_FOLLOW_WOODS_LOW
+LANG_ENGLISH        "目立たずにウッズに続け"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_097B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7各階を制圧後、上に向かえ... 俺は通信網を切る"
+
+REFERENCE           FLASHPOINT_OBJ_STEALTH_KILL
+LANG_ENGLISH        "兵士をステルスキルせよ"
+
+REFERENCE           FLASHPOINT_OBJ_FOLLOW_WOODS_CASUAL
+LANG_ENGLISH        "何くわぬそぶりでウッズに続け"
+
+REFERENCE           FLASHPOINT_OBJ_RAM
+LANG_ENGLISH        "こじ開ける"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_335A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7全員ナチのファシストだ"
+
+REFERENCE           FLASHPOINT_OBJ_KILL_EVERYONE
+LANG_ENGLISH        "科学者たちを始末せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_210A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7新手だ！"
+
+REFERENCE           FLASHPOINT_OBJ_GET_IN_COMMS
+LANG_ENGLISH        "通信棟に入れ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_252A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7終わったか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_802A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ウィーバーはロシア人だが、俺たちの仲間だ"
+
+REFERENCE           FLASHPOINT_OBJ_CLEAR_OUT_COMMS
+LANG_ENGLISH        "通信棟を制圧せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_809A_WOOD_F
+LANG_ENGLISH        "^1ウッズ:^7ボウマン、ブルックス... ウィーバーを探せ"
+
+REFERENCE           FLASHPOINT_EVENT9
+LANG_ENGLISH        "地下通路"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_127A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7こっちだ。壁の向こう"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_812A_INTE
+LANG_ENGLISH        "^1尋問官:^7しっかりしろ、メイソ\ン"
+
+REFERENCE           FLASHPOINT_OBJ_STOP_ROCKET
+LANG_ENGLISH        "ロケットの発射を阻止せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_208A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7その調子だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_079A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ブルックスとボウマンはこの先にいるはずだ"
+
+REFERENCE           FLASHPOINT_OBJ_ESCAPE_BASE
+LANG_ENGLISH        "基地から脱出せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_246A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7逃がすんじゃないぞ！"
+
+REFERENCE           FLASHPOINT_MELEE_ATTACK
+LANG_ENGLISH        "^3[{+melee}]^7で敵を背後から静かに始末できる"
+
+REFERENCE           FLASHPOINT_OBJ_CATCH
+LANG_ENGLISH        "捕獲"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_162A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7トンネルに進め！"
+
+REFERENCE           FLASHPOINT_OBJ_STEALTH
+LANG_ENGLISH        "隠密行動のまま進め"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_358A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ヘリが行ったぞ！"
+
+REFERENCE           FLASHPOINT_OBJ_GET_DISGUISE
+LANG_ENGLISH        "変装用の服を入手せよ"
+
+REFERENCE           FLASHPOINT_DEAD_PIPE_FAIL
+LANG_ENGLISH        "発見されて任務に失敗した。"
+
+REFERENCE           FLASHPOINT_OBJ_MEET_SQUAD
+LANG_ENGLISH        "仲間に合流しろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_200A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ンとウィーバー、ついて来い"
+
+REFERENCE           FLASHPOINT_EVENT4
+LANG_ENGLISH        "レール上を歩く"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_014A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7いやいやいや、何かおかしい。やけに動きまわってやがる"
+
+REFERENCE           FLASHPOINT_OBJ_GET_TO_COMMS
+LANG_ENGLISH        "通信棟に向かえ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_238A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7きりがない...  行くぞ"
+
+REFERENCE           FLASHPOINT_OBJ_CLEAR_ROOMS
+LANG_ENGLISH        "室内を制圧せよ"
+
+REFERENCE           FLASHPOINT_OBJ_RESCUE_WEAVER
+LANG_ENGLISH        "ウィーバーを救出せよ"
+
+REFERENCE           FLASHPOINT_CAPTURE
+LANG_ENGLISH        "CAPTURE"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE_CROSSBOW
+LANG_ENGLISH        "ウッズからクロスボウを受け取れ"
+
+REFERENCE           FLASHPOINT_OBJ_C4_BUILDING
+LANG_ENGLISH        "ロケット制御室を目指せ"
+
+REFERENCE           FLASHPOINT_OBJ_DESTROY_ROCKET
+LANG_ENGLISH        "ソ\ユーズ2号を破壊せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_191A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、そのスナイパーライフルを持っていけ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_111A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7クソ\ッタレが戻って来るぞ！"
+
+REFERENCE           FLASHPOINT_EVENT3
+LANG_ENGLISH        "変装中"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_211A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7クソ\ッタレが！！"
+
+REFERENCE           FLASHPOINT_OBJ_STAY_WITH_SQUAD
+LANG_ENGLISH        "変装して、仲間から離れるな"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7基地の隅々まで探したよ。奴はどこにもいなかった"
+
+REFERENCE           FLASHPOINT_OBJ_GET_TO_ROOF
+LANG_ENGLISH        "ハシゴを使って屋根に上がれ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_265A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7うおおおお！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_005A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7こんな遠くまでパトロールが出ているとは"
+
+REFERENCE           FLASHPOINT_OBJ_CLEAR_WEAVER_ROOM
+LANG_ENGLISH        "ウィーバーのいる部屋を制圧せよ"
+
+REFERENCE           FLASHPOINT_OBJ_FIRE_AT_ROCKET
+LANG_ENGLISH        "ロケットにミサイルを発射せよ"
+
+REFERENCE           FLASHPOINT_EVENT13
+LANG_ENGLISH        "ガレージ"
+
+REFERENCE           FLASHPOINT_OBJ_ENTER_TUNNELS
+LANG_ENGLISH        "地下通路を通って脱出せよ"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE_STRELA
+LANG_ENGLISH        "ロケットランチャーをとれ"
+
+REFERENCE           FLASHPOINT_EVENT2
+LANG_ENGLISH        "パイプまで走れ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_011A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ソ\ユーズ1は打上げ間近だ。移動を始める、オーバー"
+
+REFERENCE           FLASHPOINT_EVENT5
+LANG_ENGLISH        "扉を蹴り破る"
+
+REFERENCE           FLASHPOINT_OBJ_ENTER_DOOR
+LANG_ENGLISH        "扉から中に入れ"
+
+REFERENCE           FLASHPOINT_EVENT7
+LANG_ENGLISH        "壁の向こうに隠れろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_101A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7させるな！"
+
+REFERENCE           FLASHPOINT_OBJ_ENTER_WINDOW
+LANG_ENGLISH        "窓から中に入れ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_025A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7不味い状況だ"
+
+REFERENCE           FLASHPOINT_EVENT14
+LANG_ENGLISH        "装甲車で移動"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_360A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！！"
+
+REFERENCE           FLASHPOINT_INTROSCREEN_INFO
+LANG_ENGLISH        "^C1メイソ\ン^C^L、ウッズとボウマンの任務はあらゆる手段を用いて脅威を排除すること^L"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_226A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7どけどけ！"
+
+REFERENCE           FLASHPOINT_OBJ_ASSASSINATE_SCIENTISTS
+LANG_ENGLISH        "トンネルへ向かえ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_364A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7前進する"
+
+REFERENCE           FLASHPOINT_ASSASSINATE_HEAD_SCIENTIST
+LANG_ENGLISH        "主任科学者を暗殺せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_336A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7奴らに同情の余地はない"
+
+REFERENCE           FLASHPOINT_OBJ_FIND_ESCAPE_VEHICLE
+LANG_ENGLISH        "脱出用の車両を確保せよ"
+
+REFERENCE           FLASHPOINT_DEAD_KARAMBIT_WOODSDEAD
+LANG_ENGLISH        "発見されて任務に失敗した。"
+
+REFERENCE           FLASHPOINT_DEAD_KARAMBIT_BROKESTEALTH
+LANG_ENGLISH        "発見されて任務に失敗した。"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_276A_WOOD
+LANG_ENGLISH        "^1ウッズ:^712時方向！"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE_OUT_CHOPPER
+LANG_ENGLISH        "ヘリコプターを排除せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_026A_KRAV_F_M
+LANG_ENGLISH        "^1クラフチェンコ:^7君たちの同僚はここにいる理由を説明できないようだ"
+
+REFERENCE           FLASHPOINT_INTROSCREEN_TITLE
+LANG_ENGLISH        "^L大統領令# 8-5 指定: ZULU^L"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_340A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ヘリ接近。急げ！"
+
+REFERENCE           FLASHPOINT_EXPLOSIVEBOLT_SWITCH
+LANG_ENGLISH        "^3[{+actionslot 3}]^7で炸裂式ボルトに切り替え"
+
+REFERENCE           FLASHPOINT_SPAS_SWITCH
+LANG_ENGLISH        "^3[{+actionslot 3}]^7でドラゴンブレス弾を使用"
+
+REFERENCE           FLASHPOINT_TVMISSILE_CONTROLS_2
+LANG_ENGLISH        "で空中のミサイルを誘導"
+
+REFERENCE           FLASHPOINT_OBJ_ASSASSINATE_HEAD_SCIENTIST
+LANG_ENGLISH        "主任科学者を始末せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_379A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7任せろ、カバーする"
+
+REFERENCE           FLASHPOINT_OBJ_CATCH_THE_LIMO
+LANG_ENGLISH        "リムジンを捕獲して、乗客を生け捕りにせよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_197A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7残りのアセンショングループは施設から逃げようとするだろう..."
+
+REFERENCE           FLASHPOINT_OBJ_FIND_DRAGOVICH
+LANG_ENGLISH        "ドラゴヴィッチを探して殺せ"
+
+REFERENCE           FLASHPOINT_LIMO_ESCAPED
+LANG_ENGLISH        "ターゲット逃亡！"
+
+REFERENCE           FLASHPOINT_LIMO_DESTROYED
+LANG_ENGLISH        "リムジン破壊！"
+
+REFERENCE           FLASHPOINT_OBJ_PROTECT
+LANG_ENGLISH        "ボウマンとブルックスを守れ"
+
+REFERENCE           FLASHPOINT_BTR_INSTRUCT_RS
+LANG_ENGLISH        "^3[{+melee}]^7でBTRを操縦"
+
+REFERENCE           FLASHPOINT_BTR_INSTRUCT_LS
+LANG_ENGLISH        "^3[{+breath_sprint}]^7で前後に運転"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_229A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7大丈夫か、ウィーバー？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_207A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7手間取らせやがって！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_153B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7時間がないぞ！"
+
+REFERENCE           FLASHPOINT_C4_INSTRUCT
+LANG_ENGLISH        "^3[{+attack}]^7で爆破"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_144A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7身動きがとれん！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_018A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ほら、様子を見てみろ"
+
+REFERENCE           FLASHPOINT_BTR_INSTRUCT_FIRE
+LANG_ENGLISH        "^3[{+attack}]^7で発射"
+
+REFERENCE           FLASHPOINT_DEAD_COMM_SHOOT
+LANG_ENGLISH        "自分の行動が原因でチームが全滅した"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_086B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7冷静に行け。目立つマネはするな"
+
+REFERENCE           FLASHPOINT_OBJ_FOLLOW
+LANG_ENGLISH        "FOLLOW"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE
+LANG_ENGLISH        "受け取れ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_201A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7どっちだ、ウィーバー？"
+
+REFERENCE           FLASHPOINT_DEAD_BROOKS_BOWMAN
+LANG_ENGLISH        "ボウマンとブルックスが殺されてしまった。"
+
+REFERENCE           FLASHPOINT_DEAD_START_BROKESTEALTH
+LANG_ENGLISH        "発見されて任務に失敗した。"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807C_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7そのとき俺の目にドラゴヴィッチの車が飛び込んできた。逃すものか"
+
+REFERENCE           FLASHPOINT_OBJ_PLANT_C4
+LANG_ENGLISH        "C4を設置"
+
+REFERENCE           FLASHPOINT_DEAD_ROCKET_GOT_AWAY
+LANG_ENGLISH        "ロケットの発射を止められなかった。"
+
+REFERENCE           FLASHPOINT_DEAD_MISSED_THE_ROCKET
+LANG_ENGLISH        "ロケットの発射を止められなかった。"
+
+REFERENCE           FLASHPOINT_DEAD_DONT_DAMAGE_ROCKET
+LANG_ENGLISH        "ロケットを傷つけるな。"
+
+REFERENCE           FLASHPOINT_OBJ_ABORT_THE_LAUNCH
+LANG_ENGLISH        "予\備管制バンカーへ向かい、発射を阻止せよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_113A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急げ、メイソ\ン"
+
+REFERENCE           FLASHPOINT_PROTECT
+LANG_ENGLISH        "PROTECT"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_800A_INTE
+LANG_ENGLISH        "^1尋問官:^7ウィーバーの救出はドラゴヴィッチ殺害という目的よりも重要だったのか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_150A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7いくぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_803A_INTE
+LANG_ENGLISH        "^1尋問官:^7君は彼を救った。次はアセンショングループの所在を突き止め、\n始末する予\定だったはずだ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_804A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ちがう...殺すのは...ドラゴヴィッチだった"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_805A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ここまで来たら覆面はいらんな"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_319A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7もう時間がない...行くぞ、メイソ\ン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_272A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7左だ、メイソ\ン！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807B_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7俺たちはBTRを奪って脱出した"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_307A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7奴はこの手で殺す"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_085A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7そうだな...行くぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807B_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7俺たちはBTRを奪って脱出した"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_387A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7スペツナズだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807A_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7俺たちは基地をくまなく探した。だが奴はいなかった。だが、ドラゴヴィッチの車を見つけた。ついに奴を見つけた。"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_808A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7クラフチェンコには一足先に逃げられてしまった"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_002A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7見つかったぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_813A_INTE
+LANG_ENGLISH        "^1尋問官:^7お前は近づいていた。ドラゴヴィッチがそこにいたんだろう？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_814A_INTE
+LANG_ENGLISH        "^1尋問官:^7時間の無駄だ。妄想にとりつかれてる"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_900A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7下にブルックスとボウマンがいる"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_815A_INTE
+LANG_ENGLISH        "^1尋問官:^7ドラゴヴィッチ。お前は、奴の、死を、確かめたか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_001A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ヤンキー13、聞こえるか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_157A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7大当たりだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_354A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7こちらエックスレイ29。聞こえるか、オーバー"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_002A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ウィーバーから応答がない... 行動に移ろう"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_304A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7確かに奴か？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_003A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7気を抜くなよ、メイソ\ン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_341A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ヘリがやりたい放題だ。パイロットをやれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_004A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7何かがおかしい..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_006A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ヤンキー13、聞こえるか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_007A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7クソ\"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_339A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7こちらの位置がバレるぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_008A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7行くぞ。急ごう"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_009A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ウイスキー、答えろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_112B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ジップラインを確保しておく。滑降先に撃て（俺がジップラインを保持する。お前が撃て）"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_010A_BOWM_F_M
+LANG_ENGLISH        "^1ボウマン:^7いいぞ、エックスレイ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_147A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急げ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_012A_BOWM_F_M
+LANG_ENGLISH        "^1ボウマン:^7ラジャー"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_331A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7了解。メイソ\ンが内部に突入する"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_013A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7あまり時間がない、メイソ\ン。行くぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_013B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ネズミどもの企みを、覗いてやろうぜ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_161B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7すげえな！ 大虐殺だ、たまんねえな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_015A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ヤンキー13、状況は？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_016A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ヤンキー、1、3、答えろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_017A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ウィーバーは消えたな..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_019A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7最終カウントダウンに入ってる"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_020A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7あれがソ\ユーズ2、ソ\ユーズ1の10分後に発射予\定だ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_021A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7前方に通信棟がある"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_007A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7手遅れだ、ロケットが打ち上げられる！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_022A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、道路上に動きがある。確認しろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_023A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7クソ\、ウィーバーだ... しくじったな"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_001A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7静かにやれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_024A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あいつは何者だ？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_273A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7左にいるぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_024A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7奴は何者だ？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_110A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7銃声が注意を引く"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_025B_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7奴はクラフチェンコ。ドラゴヴィッチの右腕だ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_027A_KRAV_F_M
+LANG_ENGLISH        "^1クラフチェンコ:^7降伏しろ。正当な扱いを保証する"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_029A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7どうにもならんな、メイソ\ン...ウィーバーは終わりだ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_030A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ああ..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_100A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7逃げられる！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_032A_WEAV_F_M
+LANG_ENGLISH        "^1ウィーバー:^7うわあああ！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_212A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7この、くたばれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_033A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7うぅ... あの野郎！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_033B_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7あいつめ、ウィーバーの目を！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_033B_MASO_S
+LANG_ENGLISH        "^1メイソ\ン:^7あいつ、ウィーバーの目を！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_034A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ウイスキーチーム、配置についたか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_707A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7ウィーバー！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_034B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ボウマン、配置についたか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_257A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7奴だ。奴がいるんだ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_035A_BOWM_F_M
+LANG_ENGLISH        "^1ボウマン:^7ラジャー、エックスレイ。ウイスキーは、道路をカバーしてる"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_267A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7全員乗れ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_036A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ウィーバーが捕まった。基地は厳戒態勢に移行してる"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_037A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7その場に待機しろ。そちらに向かう"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_268A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7出せ！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_038A_BOWM_F_M
+LANG_ENGLISH        "^1ボウマン:^7ラジャー"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_320A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7大丈夫...  あのクソ\ったれは消し炭になっているさ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_126B_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7こっちだ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_381A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急げ、ボウマンとブルックスがもたない！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_039B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7よし...前進だ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_040A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ヘリが来るぞ。頭を下げてろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_040B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ヘリが来るぞ。隠れろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_041A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7俺に続け、止まるなよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_042A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いいぞ。先を急ごう"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_314A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7道路の外に押し出せ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_337A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7物陰に戻れ。見つかるぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_338A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7さっさと隠れるんだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_338A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7隠れろ。見つかるぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_193A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7こっちだ..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_355A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7おい！ どこへ行く！？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_356A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7姿を見られるんじゃないぞ！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_357A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ヘリに見つかったらまずいぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_160A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7撃て！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_359A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7狙われているぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_043A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7待て...  よし"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_049A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7あの制服を奪う"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_134A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7逃げるぞ！ メイソ\ン、やれるか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_050A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7しゃがんでるのは俺の獲物だ。もう1人は任せる"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_050B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7お前は左の奴をやれ、俺はもう一人だ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_051A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7分かった"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_052A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7どうだ？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_053A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7クリア"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_270A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7まだだ..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_054A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7死体を隠そう"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_249A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7どこにも行かせんぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_070A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ヴォルクタ仕込みのロシア語が役立つぞ、メイソ\ン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_700A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7それでいい。ウィーバーを助けるぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_700A_MASO_M_S
+LANG_ENGLISH        "^1メイソ\ン:^7いいぞ。ウィーバーを助けないとな"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_004A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いいぞ、メイソ\ン。基礎訓練じゃ習わなかったろう！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_157A_WOOD_M_S
+LANG_ENGLISH        "^1ウッズ:^7くたばれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_071A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7クソ\！ 奴らを黙らせないと..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_073A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7銃を下げろ。変装を活かせ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_124A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7手間を掛けるのはここまでか...プランBで行くか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_075A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7Eh, Sobaki proklyatye..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_077A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7Da, da...   "
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_078A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7いいぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_195A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ナチどもだ。情けなどいらん連中さ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_321A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7どこへいくつもりだ？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_322A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ 俺から離れるな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_323A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7戻って来い、メイソ\ン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_324A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ 犬を黙らせるんだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_008A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7Uターンしろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_306A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7奴の顔は死んでも忘れるものか"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_325A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7犬どもを黙らせろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_289A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7スペツナズの新手だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_326A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何をやっている、メイソ\ン？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_232A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7護衛を始末するんだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_326A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7何をしている、メイソ\ン？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_327A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何をする！？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_080A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7エックスレイ、こちらウイスキー。敵を視認、片づける"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_081A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急いでくれ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_500A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いいぞ、ボウマン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_082A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7ウィーバーはどうした？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_082B_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7死体を隠せ。ウィーバーはどうした？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_083A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7見つかっちまった"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_083B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7やられたぞ。安否は不明だ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_084A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7プランは続行だ。チャンスはまだある"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_328A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7作戦を続行するぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_004A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7任務続行だ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_149A_WOOD_M_S
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、あの壁に大穴空けてやれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_086A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7目立つマネはするな"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_088A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7手遅れかもしれない。死体を発見された可能\性が"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_115A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ゴー、ゴー！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_089A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7いや、大丈夫だ。奴らのやるとおりやれ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_090A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7前方に通信棟"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_133A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ 撃て！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_099A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7了解"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_091A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7屋上にスナイパー"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_119A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7任務を続行できるか、ウィーバー？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_091A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7屋根の上にスナイパーだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_231A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いた！ 科学者だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_706A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、こっちだ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_092A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7正面に2人"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_093A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よし... ボウマン、ブルックス。排除しろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_225A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7こいつをつけてたら窒息する！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_161A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7くそったれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_330A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よし... ボウマン、ブルックス"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_132A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、撃つんだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_094A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7E'j!  Vy dvoe.  "
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_095A_BOWM
+LANG_ENGLISH        "^1ボウマン:^7U nas problema.  Za mnoj.  "
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_096A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7行くぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_097A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7俺は通信網を切る。おまえは屋上のスナイパーを殺れ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_097C_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ナイフを使え...注意を引くなよ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_098A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ゴー！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_810A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7了解"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_299A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7損傷が！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_366A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7U menya prikaz. "
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_369A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ターゲット4名...待機しろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_370A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7階を制圧"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_371A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7あと3人..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_372A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あと少し。その調子だ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_104A_WOOD_F
+LANG_ENGLISH        "^1ウッズ:^7通信リンクを切った"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_393A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急ぐぞ！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_375A_WOOD_F
+LANG_ENGLISH        "^1ウッズ:^7スナイパーどもを始末しろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_105A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7エックスレイ、応答せよ。オーバー"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_223A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7撃て！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_106A_WOOD_F
+LANG_ENGLISH        "^1ウッズ:^7いいぞ、ボウマン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_107A_BOWM_F
+LANG_ENGLISH        "^1ボウマン:^7ウィーバーを視認...通信棟南のバンカーに連行された模様"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_108A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7了解。行動に移る"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_109A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、こっちに来い"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_239A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7もう1人だ。アセンションのリーダーがいる"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_122A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7誘導システムに細工はできたか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_111A_WOOD_M_S
+LANG_ENGLISH        "^1ウッズ:^7クソ\ッタレが戻って来るぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_316A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7生存者なしだ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_705A_MASO_M
+LANG_ENGLISH        "^1メイソ\ン:^7あれがそうだな"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_383A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、来い！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_377A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7クソ\！ 見つかったぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_242A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いたぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_377A_WOOD_M_S
+LANG_ENGLISH        "^1ウッズ:^7ちくしょう...やっちまった！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_290A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7装甲車だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_378A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_394A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7クロスボウだ。炸裂ボルトを使え。急げ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_380A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7片づけろ！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_112A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ラインを確保しておく。滑降先に撃ちこめ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_114A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7俺が時間を稼ぐ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_116A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ケツは任せておけ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_708A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7待ちかねたぜ、メイソ\ン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_206A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7撃てば死ぬんだろ！？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_117A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7右クリア"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_118A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7左クリア"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_120A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7やってやるぜ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_123A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7その前に捕まった"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_227A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7クリア"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_125A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7まだ打ち上げを阻止できるかもしれない...予\備管制バンカーに向かおう"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_260A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7確かに優先度が高いな... "
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_333A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7まだ打ち上げを止められるかもしれない... 管制バンカーに行く必要があるが"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_126A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7行こう"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_334A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7アセンショングループがいる！ 危険な科学者どもを排除しろ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_217A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7マスクをつけろ！ グズグズすんな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_334A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7アセンショングループの科学者がいる！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_212A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7こいつらめ、くたばれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_382A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ボウマン！ 奴らを追え！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_135A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ああ、問題ない"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_136A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7やったぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_138A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7クソ\！ 増援を呼んでる！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_141A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^71分以内に予\備バンカーへたどり着かないと"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_143A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7もう時間がない！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_145A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン！ パイロットをやれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_318A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7やめろ！ まだだ... 死体を確認していない"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_342A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ヘリのパイロットを撃つんだ、メイソ\ン！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_386A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7いい腕だ、メイソ\ン！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_148A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7ロケットを破壊するぞ。何としてもな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_149A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、あの壁に大穴空けてやれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_155A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7プランBだ、ボウマン！ 準備しろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_151A_WOOD
+LANG_ENGLISH        "^1ウッズ:^71人も逃がすな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_218A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何も見えん...奴ら、これで勝ったつもりか..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_152A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7行くぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_152B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7急げよ、ウィーバー！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_229B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7床を塗り替えるつもりか、ウィーバー？ 大丈夫か？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_153A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7早く...早く！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_154A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7手遅れだ！ もう止められない！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_154B_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7撃ち落とせ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_155B_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7プランBだボウマン！ STRELAを使う！ ロケットを空から叩き落としてやれ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_317A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7満足か、メイソ\ン？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_156A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7そいつを使え！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_213A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7メイソ\ン！ ロッカーの後ろだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_159A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7吹き飛ばせ、メイソ\ン！ やれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_158A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7試作品のテストとしちゃ最悪だ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_161A_WOOD_M_S
+LANG_ENGLISH        "^1ウッズ:^7すげえな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_161B_WOOD_M_S
+LANG_ENGLISH        "^1ウッズ:^7すげえな！ 大虐殺だ、たまんねえな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_192A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7くそ... 身を隠す場所がない"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_194A_BROO
+LANG_ENGLISH        "^1ブルックス:^7気の毒にな..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_292A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7このままひいてしまえ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_198A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7ボウマン、ブルックス。北側のトンネルに回り込め。裏口から誰も逃がすな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_199A_BOWM_M
+LANG_ENGLISH        "^1ボウマン:^7わかった"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_203A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7クソ\！ 隠れろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_203A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7隠れろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_388A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7腹をくくれ、一戦まじえるぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_209A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ロシアの精鋭は、こんなものか？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_214A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7クリア"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_215A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7待て..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_216A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7催涙ガスだ！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_219A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7だがそうはいくか"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_220A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、ショットガンだ..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_222A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7突撃してくるぞ！！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_224A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急げ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_228A_WEAV_M
+LANG_ENGLISH        "^1ウィーバー:^7ぶぁぁぁ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_230A_WOOD_M
+LANG_ENGLISH        "^1ウッズ:^7よかった。行くぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_234A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よし。あと3人いるはずだ...行くぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_235A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7手加減しているのか、メイソ\ン？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_240A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7こっちだ..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_259A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ドラゴヴィッチだ！ 奴はヴォルクタで俺を洗脳しようとしたんだ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_243A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7逃げる気だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_244A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7逃がすな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_248A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急げ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_250A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7どこにも行かせんぞ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_253A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7終わった。上の状況は？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_297A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7奴に突っ込め！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_255A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7よし。ここを離れるとするか"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_256A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7最優先ターゲットか？  メイソ\ン？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_258A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7誰だ？"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_261A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ヘリを片づけろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_262A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急げ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_263A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ン、こっちだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_264A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7援護してくれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_392A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7たまらんな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_266A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7あれに乗るぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_271A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7ドラゴヴィッチを探す"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_274A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7右だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_275A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7右にいるぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_277A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7真正面！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_313A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7もう一度だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_278A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7後ろだ、メイソ\ン"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_279A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7背後だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_284A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7前だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_288A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7スナイパーだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_291A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7RPG！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_293A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7奴に突っ込め！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_294A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7RPGを始末しろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_295A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7メイソ\ン！ スナイパーを片づけろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_296A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7ひいてしまえ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_298A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7くっそう！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_301A_WEAV
+LANG_ENGLISH        "^1ウィーバー:^7もうもたないぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_303A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7奴だ！ ドラゴヴィッチだ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_305A_MASO
+LANG_ENGLISH        "^1メイソ\ン:^7間違えるものか..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_310A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7何があっても見失うな！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_320A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7大丈夫...  あの畜生は消し炭になっているさ"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_002A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7炸裂式ボルトに切り替えろ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_003A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7奴らは動けないぞ。車をやれ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_005A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7全開だ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_006A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7くらいつけ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_007A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7急げ、ふりきられるぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_002A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7クソ\、見つかったぞ！"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_003A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7やったな"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_005A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7クソ\、発見されたか"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_005A_WOOD_S
+LANG_ENGLISH        "^1ウッズ:^7発見された"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_006A_WOOD
+LANG_ENGLISH        "^1ウッズ:^7メイソ\ンは俺と来い。ブルックスとボウマンは科学者たちを始末しろ"
+
+ENDMARKER

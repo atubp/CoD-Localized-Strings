@@ -1,0 +1,1486 @@
+// Dumped from fastfile "ja_patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PATCH_PREGAME_ENABLED_CAPS
+LANG_ENGLISH        "プレマッチ"
+
+REFERENCE           MPUI_ENTER_VALID_EMAIL
+LANG_ENGLISH        "登録には、有効なメールアドレスが必要です"
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "NOM4D"
+
+REFERENCE           PATCH_MINIMUM_PING_CAPS
+LANG_ENGLISH        "最小ピン"
+
+REFERENCE           MPUI_PRESTIGE_LB_PURCHASE_CONF
+LANG_ENGLISH        "プレステージランキングを争うには、プレステージで &&1 を使う必要がある。"
+
+REFERENCE           MENU_DOWNLOADING_GAME_SETTINGS_CAPS
+LANG_ENGLISH        "ゲーム設定のダウンロード"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "このセーブデータはゲームの現在のバージョンでは読み込めません。最後にプレイしたミッションの最初からプレイを再開するか、終了してメニューに戻ってください。"
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "システムリンクでのマルチプレイは、参加者全員が同じゲームバージョンをプレイしている必要があります。Xbox LIVE にサインインして、ゲームのバージョンが最新版にアップデートされていることをご確認ください。"
+
+REFERENCE           MPUI_SHOW_DLC_CONTENT
+LANG_ENGLISH        "ダウンロード コンテンツを確認"
+
+REFERENCE           PATCH_OPTIONS_COLOR_FRIENDS_CAPS
+LANG_ENGLISH        "チーム内のフレンド色づけ"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでDP-28 Bipod付きを購入する[コスト：2500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMosin-Nagantを購入する[コスト：200]"
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "別の配色"
+
+REFERENCE           PLATFORM_BANNED
+LANG_ENGLISH        "このアカウントはブラックオプスサーバーへのアクセスが永久に禁止されました。"
+
+REFERENCE           PLATFORM_CHEATSREQUIREAMOD
+LANG_ENGLISH        "MODはこのチートを使用する必要があります"
+
+REFERENCE           PATCH_RESTORE_CONTROLS
+LANG_ENGLISH        "操作方法をデフォルト設定に戻す"
+
+REFERENCE           MPUI_DESC_MAP_DRIVEIN
+LANG_ENGLISH        "放棄された野外シアターで繰り広げられる、目を見張るような激しい戦い"
+
+REFERENCE           MPUI_HOTEL
+LANG_ENGLISH        "HOTEL"
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_CAPS
+LANG_ENGLISH        "最大プレイヤー"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM1 Garandを購入する[コスト：&&1]"
+
+REFERENCE           PATCH_SERVER_NAME_CAPS
+LANG_ENGLISH        "サーバー名"
+
+REFERENCE           PATCH_BANNED_FROM_SERVER
+LANG_ENGLISH        "このサーバーから禁止されました"
+
+REFERENCE           MPUI_DESC_MAP_AREA51
+LANG_ENGLISH        "ソ\ビエト軍がアメリカの最高機密施設に侵入した"
+
+REFERENCE           PATCH_MAXIMUM_PING_DESC
+LANG_ENGLISH        "最大ピン以上のプレイヤーは参加できません。"
+
+REFERENCE           ZOMBIE_NESTING_DOLLS
+LANG_ENGLISH        "マトリョーシカ"
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "ゲームのバージョンが適合しないため、このモードでのオンラインプレイはできません。"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：500]"
+
+REFERENCE           PATCH_LAPTOP_OR_SMALL_SPEAKERS_CAPS
+LANG_ENGLISH        "ノートPCか小さいスピーカー"
+
+REFERENCE           PATCH_SHADER_WARMING
+LANG_ENGLISH        "シェーダ ウォームアップ..."
+
+REFERENCE           PATCH_MAXIMUM_PING_CAPS
+LANG_ENGLISH        "最大ピン"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSpringfield スコープ＆銃剣付きを購入する[コスト：750]"
+
+REFERENCE           PATCH_PASSWORD1_CAPS
+LANG_ENGLISH        "パスワード"
+
+REFERENCE           PATCH_UNLOADMOD_FILM
+LANG_ENGLISH        "Mod ^3&&1^7を起動しています。\nModをアンロードするとフィルムを見られます。"
+
+REFERENCE           PATCH_AUTOBALANCE_TEAMS_CAPS
+LANG_ENGLISH        "チーム自動配分"
+
+REFERENCE           PATCH_ALLOW_VOTING_CAPS
+LANG_ENGLISH        "投票許可"
+
+REFERENCE           PATCH_SCREENSHOT_ZOOM
+LANG_ENGLISH        "マウスホイールでズーム"
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 はこの機能\の使用を永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           PATCH_PREGAME_MINPLAYERS_CAPS
+LANG_ENGLISH        "プレマッチの最小プレイヤー"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "^3[{+activate}]^7長押しでBARを購入する[コスト：&&1]"
+
+REFERENCE           MPUI_RULES_6_5MINUTES_CAPS
+LANG_ENGLISH        "6.5分"
+
+REFERENCE           MPUI_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "本プレイリストを選択するにはDLCの購入が必要です"
+
+REFERENCE           PATCH_TOGGLE_COMPARE_FRIENDS
+LANG_ENGLISH        "フレンド比較の切替"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを作り直す"
+
+REFERENCE           PATCH_GAME_CAPS
+LANG_ENGLISH        "ゲーム"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMosin-Nagant スコープ＆銃剣付きを購入する[コスト：750]"
+
+REFERENCE           PATCH_COOPERATIVE_CAPS
+LANG_ENGLISH        "協力モード"
+
+REFERENCE           WAW_ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "テレポーターは冷却中"
+
+REFERENCE           MPUI_WARMUSEUM
+LANG_ENGLISH        "WAR MUSEUM"
+
+REFERENCE           PATCH_DEMO_SPEED_UP
+LANG_ENGLISH        "^3UP^7"
+
+REFERENCE           EXE_COD_TEMP_BAN_HOURS
+LANG_ENGLISH        "アクセスが許可されるまであと&&1時間"
+
+REFERENCE           PATCH_SERVER_NAME_DESC
+LANG_ENGLISH        "サーバーの名前"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "^3&&1^7長押しで火炎バリケードを有効化する[コスト：500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを作り直す[報酬：40]"
+
+REFERENCE           MPUI_DESC_MAP_FIREBASE
+LANG_ENGLISH        "発射基地での乱闘だ"
+
+REFERENCE           PATCH_PLAYLISTISOLD
+LANG_ENGLISH        "プレイリストのデータがホスト側のものより も古くなっています。ゲームを再起動する ことで新しいプレイリストのデータを取得 する必要があります。"
+
+REFERENCE           PATCH_MINIMUM_PING_DESC
+LANG_ENGLISH        "最小ピン以下のプレイヤーは参加できません。"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_CAPS
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           PATCH_PASSWORD_DESC
+LANG_ENGLISH        "サーバー参加に必要なパスワード"
+
+REFERENCE           PLATFORM_ZOMBIE_SOUNDTRACK_LOCATION_DESC
+LANG_ENGLISH        "コール オブ デューティ ゾンビ サウンドトラック （3つのボーナストラック付き）が「Soundtrack」サブフォルダの下のゲームインストールフォルダで利用できます。"
+
+REFERENCE           PATCH_DEMO_SKIPBACK
+LANG_ENGLISH        "^3LA^7"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：650]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "^3&&1^7長押しでWalther P38を購入する[コスト：50]"
+
+REFERENCE           WAW_ZOMBIE_ROUND
+LANG_ENGLISH        "Round"
+
+REFERENCE           PATCH_VOICECHAT_DESC
+LANG_ENGLISH        "ゲーム内ボイスチャットで通信する"
+
+REFERENCE           ZOMBIE_QUANTUM_BOMB
+LANG_ENGLISH        "量子もつれ装置"
+
+REFERENCE           MPUI_STADIUM_CAPS
+LANG_ENGLISH        "STADIUM"
+
+REFERENCE           PATCH_SCREENSHOT_PAN
+LANG_ENGLISH        "マウス左ボタンで移動"
+
+REFERENCE           MENU_PURCHASE_CONFIRMAITON
+LANG_ENGLISH        "購入確認"
+
+REFERENCE           PATCH_AUTO_BALANCE_DESC
+LANG_ENGLISH        "プレイヤー数に応じてチームは分けられます"
+
+REFERENCE           PATCH_ALLOW_VOTING_DESC
+LANG_ENGLISH        "ゲームモードやマップの投票、プレイヤーのキックを許可します"
+
+REFERENCE           MPUI_OUTSKIRTS_CAPS
+LANG_ENGLISH        "STOCKPILE"
+
+REFERENCE           PATCH_PRE_MATCH_DESC
+LANG_ENGLISH        "マッチ開始までポイントなし/EXPなしのFREE-FOR-ALLをプレイ"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：1750]"
+
+REFERENCE           PATCH_MINIMUM_PLAYERS_DESC
+LANG_ENGLISH        "プレマッチを終了させてマッチを開始するために必要なプレイヤー数"
+
+REFERENCE           ZOMBIE_WEAPON_SNIPER_EXPLOSIVE_UPGRADED
+LANG_ENGLISH        "ハイエナ インフラ デッド"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "^3&&1^7長押しでColtを購入する[コスト：50]"
+
+REFERENCE           MENU_MATCHMAKING_IMPACTED_DUE_TO_PARTY
+LANG_ENGLISH        "パーティー内の1人以上のプレイヤーがマッチメイキングに影響のあるストリクトかモデレートのNATタイプです"
+
+REFERENCE           PATCH_VALVE_ANTI_CHEAT_DESC
+LANG_ENGLISH        "チート行為の常習犯からサーバーを保護する"
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_DESC
+LANG_ENGLISH        "参加できる最大のプレイヤー数"
+
+REFERENCE           PATCH_CONNECTING_CAPS
+LANG_ENGLISH        "接続中"
+
+REFERENCE           PATCH_NO_INVITES
+LANG_ENGLISH        "最近のゲームへの招待はありません"
+
+REFERENCE           MPUI_ELITE_DISCLAIMER
+LANG_ENGLISH        "登録時のメールアドレス情報は毎週消去しています。CALL OF DUTY: ELITEは現在英語版のみの提供となっています"
+
+REFERENCE           PATCH_DEMO_CHANGE_CAMERA
+LANG_ENGLISH        "^3F2^7"
+
+REFERENCE           PATCH_DEMO_TOGGLE_HUD
+LANG_ENGLISH        "^3F4^7 HUD切替"
+
+REFERENCE           PATCH_DEMO_TOGGLE_CONTROLS_HUD
+LANG_ENGLISH        "^3F1^7 操作表\示切替"
+
+REFERENCE           MPUI_SALVAGE_CAPS
+LANG_ENGLISH        "SALVAGE"
+
+REFERENCE           PATCH_DEMO_SKIPFOWARD
+LANG_ENGLISH        "^3RA^7"
+
+REFERENCE           PATCH_DEMO_SPEED_DOWN
+LANG_ENGLISH        "^3DN^7"
+
+REFERENCE           PLATFORM_MISSINGMAP_YOU_NEED_CONTENTPACK
+LANG_ENGLISH        "このマップを持っていません。Steamストアからコンテンツパックをダウンロードし、マップを入手してください。\n\n必要：^3^3&&1^7^7\n"
+
+REFERENCE           PATCH_BAD_STATS
+LANG_ENGLISH        "ステータスを認証できません"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "ジップラインを先に有効化する必要がある"
+
+REFERENCE           PATCH_PLAYLISTISNEW
+LANG_ENGLISH        "プレイリストのデータがホスト側のものよりも新しくなっています。ホスト側が再起動して新しいプレイリストを取得しないと一緒にプレイできません。"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "^3&&1^7長押しでキャビネットを開く[コスト：1000]"
+
+REFERENCE           PATCH_EXE_KICKRESERVEDSLOT
+LANG_ENGLISH        "予\約されたスロットから自動でキックされました"
+
+REFERENCE           WAW_ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "^3&&1^7長押しで購入する"
+
+REFERENCE           PATCH_MP_CANNOT_JOIN_TEAM
+LANG_ENGLISH        "この時点ではチームを変更できません"
+
+REFERENCE           MENU_PACKAGE_SELECTION_DESCRIPTION
+LANG_ENGLISH        "選択すると購入してダウンロードします。"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_DESC
+LANG_ENGLISH        "チーム変更許可"
+
+REFERENCE           PATCH_MP_TEAM_UP_PERIOD
+LANG_ENGLISH        "&&1 秒間、チームを変更できます"
+
+REFERENCE           PATCH_MENU_OPTION_SHADERWARMING_CAPS
+LANG_ENGLISH        "シェーダ ウォームアップ"
+
+REFERENCE           MENU_DLC3_MAPS
+LANG_ENGLISH        "ESCALATIONパック"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_CAPS
+LANG_ENGLISH        "チーム変更"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_CAPS
+LANG_ENGLISH        "チーム決定期限"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_CAPS
+LANG_ENGLISH        "バランスを守ったチーム"
+
+REFERENCE           MENU_GUN_DESC
+LANG_ENGLISH        "プレイヤーを武器で倒して、次の武器へと進む。最初に全ての武器で倒したプレイヤーが勝利する"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_DESC
+LANG_ENGLISH        "チーム変更が許可されるまでの時間"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_DESC
+LANG_ENGLISH        "バランスを守ったチーム変更のみ許可されます"
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "このデモはMod ^3&&1^7を起動しています。\nModをロードするとデモを見られます。"
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_CHECKSUM
+LANG_ENGLISH        "間違ったチェックサムでローカルファイルが存在します。"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_ENGLISH        "レーダー常時オン"
+
+REFERENCE           MPUI_CONNECT_CAPS
+LANG_ENGLISH        "CONNECT"
+
+REFERENCE           MPUI_PLAYLIST_MAPS_NOT_ENABLED
+LANG_ENGLISH        "適切な追加コンテンツをパーティの全員が所持していないとプレイできません"
+
+REFERENCE           MENU_STORE_FETCHING
+LANG_ENGLISH        "取得中..."
+
+REFERENCE           PATCH_LOADMOD_FILM
+LANG_ENGLISH        "このフィルムはMod ^3&&1^7を起動しています。\nModをロードするとフィルムを見られます。"
+
+REFERENCE           PATCH_UNLOADMOD_DEMO
+LANG_ENGLISH        "Mod ^3&&1^7を起動しています。\nModをアンロードするとデモを見られます。"
+
+REFERENCE           WAW_ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "バウンシングベティは購入済みです"
+
+REFERENCE           MPUI_TRAINWRECK
+LANG_ENGLISH        "TRAINWRECK"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_ENGLISH        "敵が常にレーダー上に表\示される"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_ENGLISH        "プレマッチタイマー"
+
+REFERENCE           WAW_ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "^3&&1^7長押しでファウンテン・ターレットを有効化する[コスト：750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでBrowning M1919 Bipod付きを購入する[コスト：3500]"
+
+REFERENCE           MPUI_DESC_MAP_ZOO
+LANG_ENGLISH        "ソ\ビエトの放棄された動物園で長距離射撃に備えろ"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_ENGLISH        "ゲーム開始までの時間を変更する"
+
+REFERENCE           WAW_MENU_ZOMBIE_FACTORY_CAPS
+LANG_ENGLISH        "DER RIESE"
+
+REFERENCE           MENU_TESTINGBANDWIDTH
+LANG_ENGLISH        "マッチテスト中: &&1.&&2% - &&3/&&4 ゲーム良質"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを買い戻す[コスト：100]"
+
+REFERENCE           MENU_CONNECTING_TO_DW
+LANG_ENGLISH        "接続中…"
+
+REFERENCE           EXE_SV_INFO_PING
+LANG_ENGLISH        "ピン"
+
+REFERENCE           MENU_NO_RECENT_PLAYERS
+LANG_ENGLISH        "最近会ったプレイヤーはいません"
+
+REFERENCE           MENU_NO_FRIENDS
+LANG_ENGLISH        "フレンドがいません。"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを買い戻す[コスト：10]"
+
+REFERENCE           MPUI_CARGO_CAPS
+LANG_ENGLISH        "CARGO"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MAX_POINTS
+LANG_ENGLISH        "使用できるマーカー数の上限に達しました。"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SAME_TIME
+LANG_ENGLISH        "同じ位置に複数のマーカーは設置できません"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：1750]"
+
+REFERENCE           MENU_DEMO_FREE_ROAM_MODE
+LANG_ENGLISH        "フリーロームモード"
+
+REFERENCE           MENU_ZOMBIES_SOUNDTRACK
+LANG_ENGLISH        "サウンドトラック"
+
+REFERENCE           MENU_DEMO_EDIT_CAMERA_MODE
+LANG_ENGLISH        "カメラモードの編集"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "^3&&1^7長押しで電撃バリケードを有効化する[コスト：1000]"
+
+REFERENCE           MENU_DEMO_DOLLY_CAMERA_MODE
+LANG_ENGLISH        "ドリーカメラ"
+
+REFERENCE           MENU_PACKAGE_BOUGHT_AND_DOWNLOADED_DESCRIPTION
+LANG_ENGLISH        "パッケージを購入/ダウンロードする。"
+
+REFERENCE           MENU_PACKAGE_DOWNLOAD_DESCRIPTION
+LANG_ENGLISH        "購入しました。選択するとダウンロードします。"
+
+REFERENCE           WAW_ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "^3&&1^7長押しで電源をオンにする"
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_CAPS
+LANG_ENGLISH        "ASCENSION"
+
+REFERENCE           WAW_ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "^3&&1^7長押しで武器をトレードする"
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_DESC
+LANG_ENGLISH        "ソ\ビエトの宇宙基地が蘇ったゾンビたちに乗っ取られ、混乱が生じている。今ゾンビ戦争へのカウントダウンが始まった。"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_EDIT
+LANG_ENGLISH        "ドリーカメラマーカー# &&1を編集"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_SPEED
+LANG_ENGLISH        "スピード設定"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE
+LANG_ENGLISH        "マーカー解除"
+
+REFERENCE           MENU_VISIT
+LANG_ENGLISH        "移動"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL
+LANG_ENGLISH        "全マーカー解除"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：200]"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL_CONFIRMATION
+LANG_ENGLISH        "すべてのカメラマーカーを解除してもよろしいですか？"
+
+REFERENCE           PLATFORM_DEMO_EDIT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 カメラマーカー編集"
+
+REFERENCE           MENU_ZOMBIE_COAST_CAPS
+LANG_ENGLISH        "CALL OF THE DEAD"
+
+REFERENCE           MENU_ZOMBIE_COAST_DESC
+LANG_ENGLISH        "勇ましく探検に出たものの難破したクルー達は 放棄されたシベリアの前哨基地に、絶望的な 状況で取り残されてしまった。なぞに満ちた エレメント115の真相に迫るという彼らの 夢は地獄のような悪夢に変わる。"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_NO_MARKERS
+LANG_ENGLISH        "ドリーカメラに切り替えましたが、マーカーを設置していません。カメラモードの編集でマーカーを設置しているか確認してください。"
+
+REFERENCE           MENU_USE_GUEST
+LANG_ENGLISH        "ゲストでプレイ"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSpringfieldを購入する[コスト：&&1]"
+
+REFERENCE           MENU_STORE_PS3_CAPS
+LANG_ENGLISH        "PlayStationｮStore"
+
+REFERENCE           PLATFORM_UNKNOWN
+LANG_ENGLISH        "未知"
+
+REFERENCE           MENU_INGAMESTORE
+LANG_ENGLISH        "ストア"
+
+REFERENCE           MENU_TAB_STORE_MAP_PACKS
+LANG_ENGLISH        "マップパック"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでBAR Bipod付きを購入する[コスト：&&1]"
+
+REFERENCE           MENU_TAB_STORE_AVATARS
+LANG_ENGLISH        "アバター"
+
+REFERENCE           WAW_ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "^3[{+activate}]^7長押しでジャガーノグを購入する[コスト：2500]"
+
+REFERENCE           MENU_TAB_STORE_THEMES
+LANG_ENGLISH        "テーマ"
+
+REFERENCE           ZOMBIE_EQUIP_HACKER
+LANG_ENGLISH        "ハッカー"
+
+REFERENCE           MENU_DLC5_MAPS
+LANG_ENGLISH        "REZURRECTION PACK"
+
+REFERENCE           MENU_STORE_FREE_PRODUCT
+LANG_ENGLISH        "自由"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REPOSITION
+LANG_ENGLISH        "カメラを再配置"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_NUMBER
+LANG_ENGLISH        "カメラマーカー # &&1"
+
+REFERENCE           MPUI_OUTSKIRTS
+LANG_ENGLISH        "STOCKPILE"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MODE
+LANG_ENGLISH        "スピードモード"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MANUAL
+LANG_ENGLISH        "マニュアル"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_FIXED
+LANG_ENGLISH        "固定"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_LINEAR
+LANG_ENGLISH        "リニア"
+
+REFERENCE           MPUI_IMPROVE_CAPS
+LANG_ENGLISH        "CHECK"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_VALUE
+LANG_ENGLISH        "スピード - &&1x"
+
+REFERENCE           MPUI_I_HAVE
+LANG_ENGLISH        "所持"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_PREVIEW_CAM_NUMBER_CAPS
+LANG_ENGLISH        "プレビューカメラ &&1"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMosin-Nagant スコープ付きを購入する[コスト：750]"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_CAM_NUMBER_CAPS
+LANG_ENGLISH        "カメラ &&1"
+
+REFERENCE           WAW_ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "^3[{+actionslot 4}]^7を押して ^3[{+attack}]^7 でバウンシングベティを設置する"
+
+REFERENCE           MENU_DEMO_PREVFREECAMMODE
+LANG_ENGLISH        "^3マウス右ボタン^7 前のフリーカメラモード"
+
+REFERENCE           WAW_ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "^3&&1^7長押しで橋を築く[コスト：1000]"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "ゾンビニューク！"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでBrowning M1919を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：250]"
+
+REFERENCE           MENU_DEMO_NEXTFREECAMMODE
+LANG_ENGLISH        "^3マウス左ボタン^7 次のフリーカメラモード"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "^3[{+activate}]^7長押しで火炎放射器を購入する[コスト：3000]"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           MPUI_SNOWMINE_CAPS
+LANG_ENGLISH        "SNOW MINE"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_DESC
+LANG_ENGLISH        "異国のジャングルのなかにある、失われた伝説の社。そこは入りくんだ洞窟の迷宮となっており、いまや死のワナや秘密が隠されているアンデッドの住みかだ。"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_TEMPLE
+LANG_ENGLISH        "異国のジャングルのなかにある、失われた伝説の社。そこは入りくんだ洞窟の迷宮となっており、いまや死のワナや秘密が隠されているアンデッドの住みかだ。"
+
+REFERENCE           MENU_LEVEL_ZOMBIE_TEMPLE
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           ZOMBIE_WEAPON_SICKLE_BUY
+LANG_ENGLISH        "^3[{+activate}]^7長押しで鎌を買う[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM1 Garand ライフルグレネード付きを購入する[コスト：1500]"
+
+REFERENCE           MENU_WAW_ZOMBIE_MAPS
+LANG_ENGLISH        "クラシックゾンビ・パック"
+
+REFERENCE           ZOMBIE_WEAPON_HUMANGUN
+LANG_ENGLISH        "V-R11"
+
+REFERENCE           PLATFORM_OPTIONS_RESTRICT_EMBLEMS_CAPS
+LANG_ENGLISH        "エンブレム解除"
+
+REFERENCE           MENU_DLC2_MAPS
+LANG_ENGLISH        "ファーストストライク"
+
+REFERENCE           MENU_DLC4_MAPS
+LANG_ENGLISH        "ANNIHILATION"
+
+REFERENCE           MENU_DLC1_MAPS
+LANG_ENGLISH        "REZURRECTION PACK"
+
+REFERENCE           MENU_HC_KILL_PLAYERS_ON_THE_OPPOSING
+LANG_ENGLISH        "HUD制限でTEAM DEATHMATCH。 弾丸ダメージ増加。同士討ちが有効"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "ダブルポイント: "
+
+REFERENCE           MENU_HC_KILL_EVERYONE_FIRST_PLAYER
+LANG_ENGLISH        "全員が自分のために戦う。弾丸ダメージ増加。HUD制限、体力回復なし。戦術マーカーなし"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでKar98k 銃剣付きを購入する[コスト：200]"
+
+REFERENCE           WAW_MENU_ZOMBIE_SUMPF_CAPS
+LANG_ENGLISH        "SHI NO NUMA"
+
+REFERENCE           MENU_HLND_DESC
+LANG_ENGLISH        "クロスボウ、バリスティックナイフ、トマホークを装備。キルでポイント獲得。トマホークキルで敵のスコアは0に戻る"
+
+REFERENCE           MENU_OIC_DESC
+LANG_ENGLISH        "弾倉に一発の弾を入れ、ナイフとライフ3および即キルで行われる。キルごとにプレイヤーは弾丸を受け取る"
+
+REFERENCE           MENU_SHRP_DESC
+LANG_ENGLISH        "武器は45秒に1度切り替わる。プレイヤーを倒すとポイントを獲得する。キルストリークを達成するとPERKが手に入る"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_TIME
+LANG_ENGLISH        "時間：不明"
+
+REFERENCE           MENU_SYSINFO_Q
+LANG_ENGLISH        "Q: &&1"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_PLACE
+LANG_ENGLISH        "ドイツ、ヴロツワフ近郊"
+
+REFERENCE           MPUI_GRIDLOCK_CAPS
+LANG_ENGLISH        "CONVOY"
+
+REFERENCE           MENU_UNLOAD_MODS_CAPS
+LANG_ENGLISH        "MODなしBLACK OPS"
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1は本フィーチャーの利用により一時的にアクセスが禁止されています"
+
+REFERENCE           WAW_ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "^3[{+activate}]^7長押しでスピードコーラを購入する[コスト：3000]"
+
+REFERENCE           MENU_UNLOAD_MODS_DESC
+LANG_ENGLISH        "現在ロードしているModをロードしない"
+
+REFERENCE           MENU_MOD_CONFIRM
+LANG_ENGLISH        "スイッチ:"
+
+REFERENCE           MENU_MODS_LOADED_CAPS
+LANG_ENGLISH        "Modのロード元:"
+
+REFERENCE           MENU_ZOMBIE_MOON
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MENU_ZOMBIE_MOON_CAPS
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MPUI_COD_ELITE_CAPS
+LANG_ENGLISH        "CALL OF DUTY: ELITE"
+
+REFERENCE           MENU_ZOMBIE_MOON_DESC
+LANG_ENGLISH        "我が国は、人を月面に着陸させ、無事に地球に帰還させるという目標を、今後10年以内に達成することを約束すべきであると、私は信じています (JFK, 1961)"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_MOON
+LANG_ENGLISH        "我が国は、人を月面に着陸させ、無事に地球に帰還させるという目標を、今後10年以内に達成することを約束すべきであると、私は信じています (JFK, 1961)"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "^3&&1^7長押しでキャビネットを開く[コスト：2000]"
+
+REFERENCE           PLATFORM_ZOMBIE_NOMANS_SOLO_CAPS
+LANG_ENGLISH        "無人島 (ソ\ロ)"
+
+REFERENCE           MENU_LEVEL_ZOMBIE_MOON
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SURVIVAL_TIME
+LANG_ENGLISH        "無人島"
+
+REFERENCE           MPUI_OWNED
+LANG_ENGLISH        "所持"
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SOLO_SURVIVAL_TIME
+LANG_ENGLISH        "生存時間"
+
+REFERENCE           MENU_FREE_OFFER
+LANG_ENGLISH        "無料提供"
+
+REFERENCE           MENU_VISIT_DESC
+LANG_ENGLISH        "コール オブ デューティ ゾンビ サウンドトラックと3つのボーナストラックをダウンロードできます。"
+
+REFERENCE           MENU_OFFER_CODE
+LANG_ENGLISH        "オファーコード: "
+
+REFERENCE           MENU_VISIT_COMPLETE_DESC
+LANG_ENGLISH        "callofduty.com/blackops/dlc/zombiesからコール オブ デューティ ゾンビ サウンドトラックと3つのボーナストラックをダウンロードできます。"
+
+REFERENCE           MPUI_DISCOVERY
+LANG_ENGLISH        "Discovery"
+
+REFERENCE           MPUI_AIRBASE
+LANG_ENGLISH        "AIRBASE"
+
+REFERENCE           ZOMBIE_WEAPON_MICROWAVEGUNDW_UPGRADED
+LANG_ENGLISH        "ポーターズ X2 ザップガン・デュアル"
+
+REFERENCE           PLATFORM_CANT_DOWNLOAD
+LANG_ENGLISH        "このファイルはサーバーと異なります：\n\n ^3&&1^7"
+
+REFERENCE           MPUI_CUBATOWN
+LANG_ENGLISH        "CUBATOWN"
+
+REFERENCE           MPUI_CARGO
+LANG_ENGLISH        "CARGO"
+
+REFERENCE           MPUI_BERLINWALL2
+LANG_ENGLISH        "BERLIN WALL"
+
+REFERENCE           MPUI_KOWLOON
+LANG_ENGLISH        "Kowloon"
+
+REFERENCE           MPUI_STADIUM
+LANG_ENGLISH        "Stadium"
+
+REFERENCE           MPUI_AIRBASE_CAPS
+LANG_ENGLISH        "AIRBASE"
+
+REFERENCE           WAW_ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "リンクが確立した"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSawed-Off Shotgunを購入する[コスト：&&1]"
+
+REFERENCE           MPUI_TRAINWRECK_CAPS
+LANG_ENGLISH        "TRAINWRECK"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSpringfield 銃剣付きを購入する[コスト：200]"
+
+REFERENCE           MPUI_CUBATOWN_CAPS
+LANG_ENGLISH        "CUBATOWN"
+
+REFERENCE           MPUI_BERLINWALL2_CAPS
+LANG_ENGLISH        "BERLIN WALL"
+
+REFERENCE           MPUI_KOWLOON_CAPS
+LANG_ENGLISH        "KOWLOON"
+
+REFERENCE           MPUI_DLC_MAPS_CAPS
+LANG_ENGLISH        "DLCマップ"
+
+REFERENCE           MPUI_DESC_MAP_DISCOVERY
+LANG_ENGLISH        "南極の廃棄されたドイツ軍の研究施設のなぞを解け"
+
+REFERENCE           MPUI_DESC_MAP_BERLINWALL2
+LANG_ENGLISH        "無人のこの場所では気をつけながらベルリンの壁を制圧しろ"
+
+REFERENCE           MPUI_DESC_MAP_KOWLOON
+LANG_ENGLISH        "嵐吹きすさぶ九龍城での戦闘。密集した建物屋上でスナイピングやスニークが威力を発揮する"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "^3&&1^7長押しでキャビネットを開く[コスト：500]"
+
+REFERENCE           MPUI_DESC_MAP_STADIUM
+LANG_ENGLISH        "チャンス・スタジアムのホッケーリンクで激しく戦え"
+
+REFERENCE           MPUI_GAMEMODE_CAPS
+LANG_ENGLISH        "ゲームモード"
+
+REFERENCE           MPUI_OFFLINE_EDIT_GAME_OPTIONS_DESC
+LANG_ENGLISH        "ゲームモードのルールをカスタマイズしよう。"
+
+REFERENCE           MPUI_PREV_DISABLED_CAPS
+LANG_ENGLISH        "投票は許可されません"
+
+REFERENCE           MPUI_CONNECT_DESC
+LANG_ENGLISH        "他のプレイヤーと交流し、フレンドとグループやチームを作れる！"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでアリサカを購入する[コスト：&&1]"
+
+REFERENCE           MPUI_COMPETE_CAPS
+LANG_ENGLISH        "CONTEST"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "ヴィッテナウサナトリウム"
+
+REFERENCE           MPUI_COMPETE_DESC
+LANG_ENGLISH        "初心者から上級者まで公式リーグ、イベントに挑戦できる！"
+
+REFERENCE           MPUI_IMPROVE_DESC
+LANG_ENGLISH        "ステータス/ヒートマップ/上級TIPSなど、ゲームに役立つ情報満載！"
+
+REFERENCE           ZOMBIE_HACKING
+LANG_ENGLISH        "ハッキング"
+
+REFERENCE           WAW_ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "^3&&1^7長押しでアップグレードされた武器をとる"
+
+REFERENCE           MPUI_DESC_MAP_GRIDLOCK
+LANG_ENGLISH        "ソ\ビエトによるアメリカ本土への奇襲攻撃に より、激しい戦闘が繰り広げられる"
+
+REFERENCE           MPUI_JOIN_UP_CAPS
+LANG_ENGLISH        "参加"
+
+REFERENCE           MPUI_FREE_MEMBERSHIP_CAPS
+LANG_ENGLISH        "CALL OF DUTY: ELITE メンバーシップへの登録"
+
+REFERENCE           MPUI_SUBMIT_EMAIL_CAPS
+LANG_ENGLISH        "メール送信"
+
+REFERENCE           EXE_INVALID_GAMERTAG
+LANG_ENGLISH        "無効なゲーマータグ"
+
+REFERENCE           MPUI_EDIT_EMAIL
+LANG_ENGLISH        "メールアドレスを編集"
+
+REFERENCE           MPUI_MAPS_CAPS
+LANG_ENGLISH        "マップ"
+
+REFERENCE           MPUI_EMAIL_ACCEPTED
+LANG_ENGLISH        "CALL OF DUTY: ELITEへのご参加ありがとうございます。ご提供いただいたメールアドレスにメンバーシップ登録の完了手順をお送りします。詳しくはCallofDuty.com/Eliteをご覧ください。"
+
+REFERENCE           MPUI_EMAIL_REJECTED_TITLE
+LANG_ENGLISH        "無効なメールアドレス"
+
+REFERENCE           MPUI_DESC_MAP_OUTSKIRTS
+LANG_ENGLISH        "ソ\ビエトの田舎町にある、長い街道と倉庫の密集地帯で戦え"
+
+REFERENCE           MPUI_HOTEL_CAPS
+LANG_ENGLISH        "HOTEL"
+
+REFERENCE           MPUI_DESC_MAP_HOTEL
+LANG_ENGLISH        "しゃれたキューバのホテルの屋上を制圧しろ"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：1000]"
+
+REFERENCE           MPUI_SILO
+LANG_ENGLISH        "SILO"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "弾薬最大！"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "ジップラインは使用前に有効化する必要がある"
+
+REFERENCE           WAW_MENU_ZOMBIE_FACTORY_DESC
+LANG_ENGLISH        "巨人が目覚めようとしている。ついに敵の本拠地でナチゾンビとの決戦が始まる。すべての始まりの場所で君は最後の決着をつけることができるか？"
+
+REFERENCE           MPUI_SILO_CAPS
+LANG_ENGLISH        "SILO"
+
+REFERENCE           WAW_ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "^3^3[{+activate}]^7^7長押しで武器[&&1]、弾薬[&&2]"
+
+REFERENCE           PLATFORM_DEMO_PLACE_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 カメラマーカー設置"
+
+REFERENCE           MPUI_DESC_MAP_SILO
+LANG_ENGLISH        "ミサイル発射施設での戦闘。多数の脇道を駆使した接近戦に向いている"
+
+REFERENCE           MPUI_THEATER_PARTY_MISSING_MAP
+LANG_ENGLISH        "1人以上のパーティーメンバーがこのマップを持っていません"
+
+REFERENCE           MPUI_ZOO
+LANG_ENGLISH        "ZOO"
+
+REFERENCE           MPUI_ZOO_CAPS
+LANG_ENGLISH        "ZOO"
+
+REFERENCE           MPUI_GRIDLOCK
+LANG_ENGLISH        "CONVOY"
+
+REFERENCE           MPUI_AREA51
+LANG_ENGLISH        "HANGAR 18"
+
+REFERENCE           MPUI_PURCHASED
+LANG_ENGLISH        "購入済み"
+
+REFERENCE           MPUI_AREA51_CAPS
+LANG_ENGLISH        "HANGAR 18"
+
+REFERENCE           MPUI_DRIVEIN
+LANG_ENGLISH        "DRIVE-IN"
+
+REFERENCE           MPUI_DRIVEIN_CAPS
+LANG_ENGLISH        "DRIVE-IN"
+
+REFERENCE           MPUI_FIREBASE
+LANG_ENGLISH        "FIREBASE"
+
+REFERENCE           MPUI_FIREBASE_CAPS
+LANG_ENGLISH        "FIREBASE"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでKar98k スコープ付きを購入する[コスト：750]"
+
+REFERENCE           MPUI_GOLFCOURSE
+LANG_ENGLISH        "HAZARD"
+
+REFERENCE           MPUI_GOLFCOURSE_CAPS
+LANG_ENGLISH        "HAZARD"
+
+REFERENCE           MPUI_DESC_MAP_GOLFCOURSE
+LANG_ENGLISH        "この崖に立つゴルフコースのフェアウェイ上を移動する際はスナイパーに気をつけろ"
+
+REFERENCE           MPUI_SALVAGE
+LANG_ENGLISH        "SALVAGE"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでFG42を購入する[コスト：&&1]"
+
+REFERENCE           MPUI_DESC_MAP_SALVAGE
+LANG_ENGLISH        "スクラップ回収所での2つのグループに分かれて争う"
+
+REFERENCE           MPUI_SNOWMINE
+LANG_ENGLISH        "SNOW MINE"
+
+REFERENCE           MPUI_DESC_MAP_SNOWMINE
+LANG_ENGLISH        "かれ果てた採掘場での冬の戦闘。目的ベースのゲームモードに最適"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：750]"
+
+REFERENCE           MPUI_WARMUSEUM_CAPS
+LANG_ENGLISH        "WAR MUSEUM"
+
+REFERENCE           MPUI_DESC_MAP_WARMUSEUM
+LANG_ENGLISH        "博物館を制圧しろ。室内での緊迫した銃撃戦が味わえる"
+
+REFERENCE           MPUI_DISCOVERY_CAPS
+LANG_ENGLISH        "DISCOVERY"
+
+REFERENCE           ZOMBIE_SURVIVED_NOMANS
+LANG_ENGLISH        "&&1生き残った"
+
+REFERENCE           MPUI_HIDE_DLC
+LANG_ENGLISH        "隠す"
+
+REFERENCE           MPUI_BASIC_TRAINING_HC_TDM
+LANG_ENGLISH        "HARDCORE TDM"
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "この本体はこの機能\の使用を永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           WAW_ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く"
+
+REFERENCE           MPUI_DLC_CONTENT
+LANG_ENGLISH        "ダウンロード コンテンツ"
+
+REFERENCE           PLATFORM_DEMO_INSERT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 カメラマーカー挿入"
+
+REFERENCE           PLATFORM_STEAM_AUTH_DENIED
+LANG_ENGLISH        "Steam認証に失敗しました。"
+
+REFERENCE           PLATFORM_MISSINGMAP
+LANG_ENGLISH        "このマップを持っていません。Steamストアからコンテンツパックをダウンロードし、マップを入手してください。"
+
+REFERENCE           PLATFORM_ENABLE_DOWNLOADS
+LANG_ENGLISH        "サーバー側が参照するファイルがありません:\n^3&&1^7\nマルチプレイヤーのオプションメニューでダウンロードを許可してください。"
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_FILESIZE
+LANG_ENGLISH        "間違ったファイルサイズでローカルファイルが存在します。"
+
+REFERENCE           PLATFORM_OPEN_SOUNDTRACK_FOLDER
+LANG_ENGLISH        "サウンドトラックフォルダを開く"
+
+REFERENCE           WAW_MENU_ZOMBIE_PROTOTYPE_DESC
+LANG_ENGLISH        "第三帝国の軍勢をついに敵首都にまで追い詰めたそのとき。死んだはずの敵兵士がうごめき出した！"
+
+REFERENCE           ZOMBIE_WEAPON_MICROWAVEGUN_UPGRADED
+LANG_ENGLISH        "マックス・ウェーブガン"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "^3&&1^7長押しでTokarev TT-30を購入する[コスト：50]"
+
+REFERENCE           WAW_MENU_ZOMBIE_ASYLUM_DESC
+LANG_ENGLISH        "かつて恐ろしい人体実験の数々が行われてきた不気味なサナトリウム。分断された仲間と合流する方法を見つけ出せ！"
+
+REFERENCE           WAW_MENU_ZOMBIE_SUMPF_DESC
+LANG_ENGLISH        "広大な沼地の中の野戦拠点が帝国陸軍のゾンビに囲まれた。あらゆる仕掛けを駆使して生き残れ！"
+
+REFERENCE           WAW_MENU_ZOMBIE_PROTOTYPE_CAPS
+LANG_ENGLISH        "NACHT DER UNTOTEN"
+
+REFERENCE           WAW_MENU_ZOMBIE_ASYLUM_CAPS
+LANG_ENGLISH        "VERRUCKT"
+
+REFERENCE           WAW_ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "ゲートを先に開ける必要がある"
+
+REFERENCE           WAW_ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "先に電源を入れる必要がある"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：950]"
+
+REFERENCE           ZOMBIE_WEAPON_TOGGLE_DEACTIVATE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで解除する"
+
+REFERENCE           WAW_ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "さあ、猛攻撃を始めるぞ"
+
+REFERENCE           WAW_ZOMBIE_ROUND_END
+LANG_ENGLISH        "猛攻撃を切り抜けた"
+
+REFERENCE           WAW_ZOMBIE_START_TPAD
+LANG_ENGLISH        "コアに引き返せ"
+
+REFERENCE           WAW_ZOMBIE_UNDEFINED
+LANG_ENGLISH        "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを買い戻す[コスト：20]"
+
+REFERENCE           WAW_ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "^3[{+activate}]^7長押しでターレットを使用する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "^3&&1^7長押しでメインフレームにテレポートする[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを買い戻す[コスト：50]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：200]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：1000]"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを使用する[コスト：1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：1250]"
+
+REFERENCE           WAW_ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "^3&&1^7長押しでテレポーターを使用する[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "^3&&1^7長押しで.357 Magnumを購入する[コスト：100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "^3&&1^7長押しで残がいを片付ける[コスト：2000]"
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "この本体はブラックオプスサーバーへのアクセスが永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：100]"
+
+REFERENCE           WAW_ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "^3[{+activate}]^7長押しでダブルタップ・ルートビールを購入する[コスト：2000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：1000]"
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1は、権限のないコンテンツを検出したため、ブラックオプスサーバーへのアクセスが永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：1250]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでType 99 LMGを購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：2500]"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを有効化する"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでType 100を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "^3&&1^7長押しでドアを開く[コスト：2000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：200]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：500]"
+
+REFERENCE           ZOMBIE_HACK
+LANG_ENGLISH        "^3[{+activate}]^7長押しでハッキングする[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：1250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：1750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：2000]"
+
+REFERENCE           WAW_ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "^3&&1^7長押しでテレポートパッドをメインフレームにリンクさせる"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでキャビネットを開く[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "^3&&1^7長押しでColt Heavy Dutyを購入する[コスト：100]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "^3&&1^7長押しでナンブを購入する[コスト：50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "^3&&1^7長押しでZombie Coltを購入する[コスト：25]"
+
+REFERENCE           ZOMBIE_WEAPON_SNIPER_EXPLOSIVE
+LANG_ENGLISH        "スカベンジャー"
+
+REFERENCE           ZOMBIE_CYMBAL_MONKEY
+LANG_ENGLISH        "シンバルモンキー"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでKar98kを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_BLACK_HOLE_BOMB
+LANG_ENGLISH        "ガーシュデバイス"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMosin-Nagantを購入する[コスト：200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでType 97 銃剣付きを購入する[コスト：200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "^3[{+activate}]^7長押しでGewehr 43を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM1 Carbineを購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM1 Carbine 銃剣付きを購入する[コスト：600]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM1 Garand 銃剣付きを購入する[コスト：600]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSVT-40を購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_EQUIP_GASMASK_PICKUP_HINT_STRING
+LANG_ENGLISH        "^3[{+activate}]^7長押しで装備品をP.E.S.と交換"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM2フラググレネードを購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "^3[{+activate}]^7長押しで火炎ビンを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_HUMANGUN_UPGRADED
+LANG_ENGLISH        "V-R11 LAZARUS"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "^3[{+activate}]^7長押しでRGD-33スティックグレネードを購入する[コスト：&&1]"
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 はブラックオプスサーバーへのアクセスが永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "^3[{+activate}]^7長押しで柄付グレネードを購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "^3[{+activate}]^7長押しで Type 97フラグを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PERK_DEADSHOT
+LANG_ENGLISH        "^3[{+activate}]^7長押しでデッドショット・ダイキリを買う[コスト: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでKar98k スコープ＆銃剣付きを購入する[コスト：750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでPTRS-41を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSpringfield スコープ付きを購入する[コスト：750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでアリサカ スコープ付きを購入する[コスト：750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "^3[{+activate}]^7長押しでType 99 スコープ＆銃剣付きを購入する[コスト：750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMP40を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "^3[{+activate}]^7長押しでType 99 LMG Bipod付きを購入する[コスト：2250]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでPPSh-41を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでSTG-44を購入する[コスト：&&1]"
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1は一時的にブラックオプスサーバーへのアクセスが禁止されています"
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "この本体はブラックオプスサーバーへのアクセスが一時的に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_THOMPSON_1200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでThompsonを購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "^3[{+activate}]^7長押しでDouble-Barreled Shotgunを購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM1897 Trench Gunを購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "^3[{+activate}]^7長押しでDP-28を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでFG42 スコープ付きを購入する[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMG42を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMosin-Nagant ライフルグレネード付きを購入する[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでFG42 Bipod付きを購入する[コスト：2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでM9A1 Bazookaを購入する[コスト：2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "^3[{+activate}]^7長押しでMG42 Bipod付きを購入する[コスト：3500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでPanzerschrekを購入する[コスト：2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "^3[{+activate}]^7長押しで迫撃砲弾を購入する[コスト：2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "^3[{+activate}]^7長押しで工兵用爆薬を購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "^3[{+activate}]^7長押しでRay Gunを購入する[コスト：10000]"
+
+REFERENCE           WAW_ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "^3&&1^7長押しでテレポーターを有効化する"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "^3[{+activate}]^7長押しでボウィーナイフを購入する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "ゾンビがやられた！"
+
+REFERENCE           WAW_ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでリバイブを購入する[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "^3[{+activate}]^7長押しでパック・ア・パンチアップグレードを購入する[コスト：5000]"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "インスタキル: "
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを作り直す[報酬：10]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを作り直す[報酬：20]"
+
+REFERENCE           WAW_ZOMBIE_AMMO_BOX
+LANG_ENGLISH        "^3&&1^7長押しで弾薬最大を購入する[コスト：所持金すべて－最低10000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを作り直す[報酬：30]"
+
+REFERENCE           WAW_ZOMBIE_GAME_OVER
+LANG_ENGLISH        "GAME OVER"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "^3&&1^7長押しでバリケードを作り直す[報酬：50]"
+
+REFERENCE           WAW_ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "&&1ラウンド生き残った"
+
+REFERENCE           WAW_ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "1ラウンド生き残った"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "^3&&1^7 でランダム武器 [コスト：850]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "^3&&1^7長押しでエリアを開く[コスト：2500]"
+
+REFERENCE           WAW_ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでバウンシングベティを購入する[コスト：1000 - 1回限り]"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "ドイツ、ベルリン"
+
+REFERENCE           ZOMBIE_WEAPON_TOGGLE_ACTIVATE
+LANG_ENGLISH        "^3[{+activate}]^7長押しで起動する"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "1945年、9月"
+
+REFERENCE           ZOMBIE_EQUIP_GASMASK
+LANG_ENGLISH        "P.E.S."
+
+REFERENCE           WAW_ZOMBIE_BUY_TESLA
+LANG_ENGLISH        "^3&&1^7長押しでテスラガンを購入する[コスト10]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "^3&&1^7長押しで粘着グレネードを購入する[コスト：10]"
+
+REFERENCE           WAW_ZOMBIE_ACTIVATE_TRAP
+LANG_ENGLISH        "^3&&1^7長押しでトラップを有効化する[コスト：750]"
+
+REFERENCE           EXE_SV_INFO_SCORE
+LANG_ENGLISH        "スコア"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを有効化する[コスト：1500]"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "^3&&1^7長押しでジップラインを作動させる"
+
+REFERENCE           WAW_ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "^3&&1^7長押しでメインフレームへのリンクを開始する"
+
+REFERENCE           WAW_ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "テレポートパッドを始動する必要がある"
+
+REFERENCE           WAW_ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "^3&&1^7長押しでトラップドアを有効化する[コスト：1000]"
+
+REFERENCE           WAW_ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "^3&&1^7長押しでエレベーターを有効化する[コスト：500]"
+
+REFERENCE           WAW_ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "^3[{+activate}]^7長押しで自動ターレットを有効化する[コスト：&&1]"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_DATE
+LANG_ENGLISH        "日付：不明"
+
+REFERENCE           WAW_ZOMBIE_WEAPONCOSTAMMO_UPGRADE
+LANG_ENGLISH        "^3^3[{+activate}]^7^7長押しで武器[&&1]、弾薬[&&2]、\nアップグレードされた弾薬[4500]"
+
+REFERENCE           EXE_COD_TEMP_BAN_DAYS
+LANG_ENGLISH        "アクセスが許可されるまであと&&1日"
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "この本体はこの機能\の使用を一時的に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1は、権限のないコンテンツを検出したため、ブラックオプスサーバーへのアクセスが一時的に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
+LANG_ENGLISH        "あなたはこのランキングへの表\示を禁止されました。"
+
+REFERENCE           EXE_COD_BOOSTER_RESET
+LANG_ENGLISH        "コール オブ デューティ ブラックオプス のオンラインセキュリティポリシーに違反したため、ステータスがリセットされました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_SV_INFO_NAME
+LANG_ENGLISH        "名称"
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "この本体は、権限のないコンテンツを検出したため、ブラックオプスサーバーへのアクセスが一時的に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_CONSOLE
+LANG_ENGLISH        "この本体は、権限のないコンテンツを検出したため、ブラックオプスサーバーへのアクセスが永久に禁止されました。詳しくはwww.callofduty.com/blackops/helpをご覧ください。"
+
+REFERENCE           EXE_DOWNLOADSFULL
+LANG_ENGLISH        "ゲームファイルを自動ダウンロードできません:\n^3&&1^7\nサーバー上のダウンロードセッションが多すぎます。後ほどお試しください。"
+
+REFERENCE           WEAPON_ZIPLINE
+LANG_ENGLISH        "ジップライン"
+
+REFERENCE           ZOMBIE_PERK_MARATHON
+LANG_ENGLISH        "^3[{+activate}]^7長押しでスタミナアップを買う[コスト：&&1]"
+
+REFERENCE           ZOMBIE_PERK_DIVETONUKE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでPHDフロッパーを買う [コスト: &&1]"
+
+REFERENCE           ZOMBIE_POWERUP_FREE_PERK
+LANG_ENGLISH        "FREE PERK！\n"
+
+REFERENCE           ZOMBIE_WEAPON_TOGGLE_DISABLED
+LANG_ENGLISH        "無効です"
+
+REFERENCE           ZOMBIE_WEAPON_TOGGLE_ACQUIRED
+LANG_ENGLISH        "解除するには解放する必要がある"
+
+REFERENCE           ZOMBIE_WEAPON_STICKY_GRENADE
+LANG_ENGLISH        "^3[{+activate}]^7長押しでセムテックスを買う[コスト：&&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SHRINK_RAY
+LANG_ENGLISH        "31-79 JGb215"
+
+REFERENCE           ZOMBIE_WEAPON_SHRINK_RAY_UPGRADED
+LANG_ENGLISH        "フラクタライザー"
+
+REFERENCE           ZOMBIE_WEAPON_MICROWAVEGUN
+LANG_ENGLISH        "ウェーブガン"
+
+REFERENCE           ZOMBIE_WEAPON_MICROWAVEGUNDW
+LANG_ENGLISH        "ザップガン・デュアル"
+
+REFERENCE           ZOMBIE_PERK_ADDITIONALPRIMARYWEAPON
+LANG_ENGLISH        "^3[{+activate}]^7長押しでミュールキックを購入する[コスト：&&1]"
+
+REFERENCE           ZOMBIE_HACK_NO_COST
+LANG_ENGLISH        "^3[{+activate}]^7長押しでハッキングする"
+
+REFERENCE           ZOMBIE_POWERUP_BONUS_POINTS
+LANG_ENGLISH        "ボーナスポイント"
+
+REFERENCE           ZOMBIE_POWERUP_LOSE_POINTS
+LANG_ENGLISH        "ポイント没収"
+
+REFERENCE           ZOMBIE_EQUIP_GASMASK_HOWTO
+LANG_ENGLISH        "^3[{+actionslot 1}]^7でP.E.S.を使用"
+
+REFERENCE           ZOMBIE_EQUIP_HACKER_PICKUP_HINT_STRING
+LANG_ENGLISH        "^3[{+activate}]^7長押しで装備品をハッカーと交換"
+
+REFERENCE           ZOMBIE_EQUIP_HACKER_HOWTO
+LANG_ENGLISH        "^3[{+actionslot 1}]^7でハッカーを使用"
+
+ENDMARKER
