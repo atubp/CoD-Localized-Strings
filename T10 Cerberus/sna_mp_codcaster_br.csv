@@ -1,0 +1,1789 @@
+key,text
+localize_6978592252973b54,&&1 XP extra
+localize_127d78f2baeaa8a8,&&1 XP perdida
+aar/attachment,Accesorio
+localize_462dcdc4a86a96d2,&&1 //
+localize_510dfd3f904a8d47,^3&&1^7/&&2
+aar/camo,Camuflaje
+localize_44222235c978d398,Desafío de camuflaje
+localize_46b1a9e00d9b4d77,RECOMPENSAS DE DESAFÍO
+aar/charm,Amuleto de arma
+localize_249d918a75250184,Contraer estadísticas
+localize_14ac83036b9b75cb,Combate
+aar/combat_xp,XP de combate
+aar/comlete,Completado
+localize_47cd6b95ea4020f1,Completa los &&1 desafíos del evento.
+localize_7475b5956d4307b1,Efectivo de contratos
+localize_7f11ac00b7f78f80,Efectivo perdido al morir
+localize_51ee4df319cf6f7f,Mantén [{ui_dpad_right}] para desactivar los gestos.
+localize_2d870e3299899d3,Efectivo soltado
+localize_52738e59a1e5e074,Recompensas del evento obtenidas
+aar/emblem,Emblema
+localize_684dd582b5cfab24,Mantén [{ui_dpad_left}] para activar los gestos.
+localize_45fb0c3dd9855e14,Pelotón en 1.º puesto
+localize_278779accd02a09,Evento completado
+aar/execution,Remates
+localize_62202b9d1adb4b1f,Ampliar estadísticas
+aar/field_upgrade,Mejora de campo
+localize_5d73317a7a178ee1,^1-$&&1
+localize_21bed02a8194ca95,^.$&&1
+aar/ingame_aar_xp,^?#x07dbb8c7ca3aeb214.#x0ca17dafe42e7b78f^&&1 ^Fmain_bold.ttf^XP^R
+aar/keys_awarded,Códigos concedidos
+aar/killstreak,Rachas de bajas
+aar/leave_party_warning,"[{streak_warning}] Para abandonar la partida con tu grupo, su host debe abandonarla por ti."
+localize_732cd9930b2de50a,Nivel
+aar/level_value,Nivel &&1
+localize_441a960e854c39f6,Logística
+localize_78a1afa357136e9b,XP de logística
+localize_2a7ce0110b3de4b6,Efectivo saqueado
+aar/match_bonus,Bonus de la partida
+localize_71e096ca0e0e84a6,Recompensa de partida
+aar/match_total,Total de la partida
+localize_448326b882f8a3fa,NIVEL MÁXIMO
+localize_1fc6d14b7543d06,Meta alcanzada
+localize_10d8a93dfe62b8dd,-$ &&1
+aar/misc_xp,XP diversa
+aar/mission_xp,XP por misión
+localize_5edf6d76dc42b974,Casi completadas
+aar/new_best,Nuevo récord
+localize_6884c770b0b3605f,Abrir el informe pospartida
+aar/operator,Operador
+aar/operator_skin,Aspecto de operador
+aar/operators,Operadores
+aar/party_host,Host del grupo:
+aar/placement,Bonus por posición
+aar/placement_title,¡Te posicionaste &&1!
+aar/player_position_with_suffix,&&1&&2
+aar/playercard,Tarjeta de jugador
+localize_5f757b3cb85165ff,+&&1
+localize_523818c4f7a1a4cb,^.+$ &&1
+aar/plus_xp,+&&1 XP
+aar/prestige_value,Prestigio: &&1
+localize_419e39872eedc159,Recompensas
+localize_1ca102bd7fd1581d,Compras en estación de suministros
+localize_475450862eb592ec,RANGO
+aar/rank_up_splash,Subida de rango: &&1
+localize_2450033424c61a98,PARTIDA CLASIFICATORIA COMPLETADA
+localize_689426b948dd66d5,BONUS DE PARTIDA CLASIFICATORIA
+localize_3784a8cc64117ba6,Reconocimiento
+localize_3dfc8086f32ddc0b,XP de reconocimiento
+aar/reticle,Retícula
+localize_6f6471119e2063b,(continuado)
+localize_3a3ab5a08ae3438b,Efectivo del pelotón ^($&&1
+localize_dc51c4e786609ea,Bonificación de partida en pelotón
+localize_579001d5a23ee8ee,Estrategia
+localize_1818d5fcf1d99f66,Apoyo
+localize_3b502cc7082479cb,XP de apoyo
+aar/taunts,Provocaciones
+localize_6f0d753efcab1b14,Total: ^?#x07dbb8c7ca3aeb214.#x0ca17dafe42e7b78f^&&1^7 XP
+localize_351b2ad3c7376c32,Operador destacado
+localize_53efd14a358d0d19,Objetos valiosos vendidos
+aar/weapon,Arma
+aar/xp,XP
+localize_1ba399feae355e8b,&&1 XP
+localize_75634ae8e880adb2,Tu efectivo
+localize_45cd6c14d750aa83,Vista de tu pelotón
+localize_41b13c35555e842c,TUS ESTADÍSTICAS
+attachments/empty,Vacío
+localize_205382dbcb5499f0,CONSERVAR TODO
+localize_661f8ff580f2c286,Accesorios bloqueados
+localize_7abaab72f9395b10,Reflejo de francotirador amplio
+localize_731d7572f5351bfd,Reflejo de francotirador mediano
+localize_2f070f735ee4bf4f,Reflejo de francotirador pequeño
+localize_48eab1c21acf306e,Reflejo de francotirador muy amplio
+localize_503cb5c21e932f11,Reflejo de precisión muy pequeño
+localize_5c722f53fff78771,Alternador de mira doble
+localize_1a5b9e40a9c0e45c,Aumento x11.5
+localize_737bd859f1007e13,Aumento x12.5
+localize_43d6242da769caf,Aumento x12.0
+localize_43a5c42da745ca6,Aumento x13.0
+localize_23b5538a5ecbcf64,Aumento x3.4
+localize_23c0558a5ed5da4f,Aumento x3.7
+localize_530dcbd5315440cd,Aumento x3.0
+localize_75ab8b6ea3678d78,Aumento x4.3
+localize_75d18d6ea388601b,Aumento x4.8
+localize_5302c9d5314a35e2,Aumento x4.0
+localize_4b489579ece715df,Aumento x5.5
+localize_5306bfd5314e0dbb,Aumento x5.0
+localize_72064f60a58a815e,Aumento x6.3
+localize_71fc4d60a5822973,Aumento x6.6
+localize_52fcbdd53145b5d0,Aumento x6.0
+localize_485e916840e8d059,Aumento x7.5
+localize_52ffc3d53147f5d9,Aumento x7.0
+localize_19858d5033951803,Aumento x8.4
+localize_197a8b50338b0d18,Aumento x8.7
+localize_52f5c1d5313f9dee,Aumento x8.0
+localize_1b304d555b00ce4b,Aumento x9.5
+localize_52f8c7d53141ddf7,Aumento x9.0
+attachments/mod_magnification_level,Alternador de aumento
+localize_5eaf8a4eb138913,Alternador de aumento x11.5
+localize_67028b9579d5afaf,Alternador de aumento x11.0
+localize_2ccabe8ba3d3ef5c,Alternador de aumento x12.5
+localize_66fc8f9579d14acd,Alternador de aumento x13.0
+localize_1d125dc56edbd9ae,Alternador de aumento x8.4
+localize_1d0f67c56ed9b4d5,Alternador de aumento x8.7
+localize_3a5b48a35c02d883,Alternador de aumento x8.0
+localize_caa8940e0491146,Visión nocturna infrarroja
+attachments/mod_recoil_control,Control del retroceso
+localize_2a1d68daf62d090c,Indicador de caída de bala
+localize_2a4d0422999ec0ea,Indicador de distancia del objetivo
+attachments/mod_sight_picture,Imagen de precisión de la mira
+attachments/mod_thermal_identification,Identificación térmica de objetivos
+localize_3c0799dc0f8191e9,QUITAR TODO
+localize_78b4ea2930622cd1,¿Confirmas que quieres quitar todos los accesorios?
+localize_40d26ab35d41b52d,QUITAR TODOS LOS ACCESORIOS
+localize_2159810afd1f67e0,Hellstorm
+localize_7b2101b4b3fa8580,UAV
+battlepass/1_tier_skip,Omisión de nivel
+localize_45debd90852ea8f2,Ficha de batalla
+localize_712cd2fd7f70fa95,Fichas de batalla
+localize_744b20eeabf89032,Recompensas del Pase de batalla
+localize_1a155de722c18b7e,BlackCell
+localize_74cf5eeed5dfe218,Reclama BlackCell para desbloquear
+battlepass/failed_activate,No se pudo iniciar la activación de &&1
+battlepass/failed_purchase,No se pudo comprar &&1
+localize_44c556f6b7ba16dd,Compra fallida
+localize_75675ba321568f6d,No se pudo completar la activación de &&1
+localize_4a0fc7c8cb0ceec7,Aspectos de operador
+battlepass/purchase_battlepass,Adquirir Pase de batalla
+localize_568760cc8eb27328,Nivel reclamado
+localize_5405254394fdcbeb,Ficha obtenida
+localize_22f622a1368d998a,Fichas obtenidas
+localize_6653b4cc146c3e0a,Requiere el Pase de batalla de la T&&1 de BO6
+localize_7b22c5ff37c0ee8e,Requiere el Pase de batalla de la T&&1 BlackCell de BO6
+battlepass/view_battlepass,Ver Pase de batalla
+localize_4dd8671251d7cec5,Misión de élite completa
+localize_54adf94299b53c10,Sobrevivientes
+localize_ed9474ba5510645,Salvadores de Warzone
+localize_420f4ed19ad1db5,Tus recompensas
+localize_38bacb734a11fb02,Asistente
+localize_55af98bd2702c502,Modificador activo
+localize_767ccfd2186f8120,Modificadores de Caos
+localize_12c104bca57f8aa1,Modificadores de juego cambiantes a lo largo de la partida.
+localize_23036d3b0f2de832,Sin modificador activo
+localize_7301e1abaa0ef97d,Alcanza círculos futuros para obtener modificadores adicionales.
+localize_cec1ddc1afd0644,Puntuación del pelotón
+camos/camo_n_14,Veneno puro
+camos/camo_n_15,Viscoso
+camos/category_completion,Completista
+cas/attachment_cat_bolt,Cerrojo
+cas/attachment_cat_boltaction,Mecanismo de cerrojo
+cas/attachment_cat_guard,Guarda
+cas/attachment_cat_receiver,Receptor
+cas/attachment_cat_trigger,Sistema del gatillo
+localize_7e83e554bf7739cb,Ventaja básica
+cas/blocked_category_warning,"[{streak_warning}] Este accesorio bloquea la categoría: &&1. Si lo equipas, quitarás: &&2."
+localize_7f4f6e7738091702,"Al desequipar &&2, se quitarán las modificaciones no compatibles."
+localize_7f22b2f336c8a05c,Equipar modificación de arma
+localize_29519fa8e9ee8284,Ventaja adicional
+localize_40f83a5d39e4fdd0,Se restableció el camuflaje.
+localize_169616e058817d85,Sube el &&1 hasta el nivel &&2.
+cas/challenge_progress,"^?#x0613a96c59ee29df2.#x0be0da9cca80c17f2^&&1 ^?#x0d0fc60310d4a2ef9.#x0f6b21f414098e823^/ &&2
+"
+cas/continue,Continuar
+cas/default_variant,Predeterminado
+cas/default_weapon_category,Disparo rápido
+localize_5f3a654df487e617,^?#x07dbb8c7ca3aeb214.#x0410046b9d845b497^&&1^7 / &&2
+localize_32ffe8782d09e354,Camuflaje no válido
+cas/lock_msg,[{ui_lock}] &&1
+localize_102e1dff111c5d6,NVL
+localize_54a671d1e2689a57,NIVEL &&1/&&2
+localize_15cb6bc731b8208c,Sin equipamiento
+cas/not_available,Bloqueado por &&1.
+cas/percent,&&1 %
+cas/preview_weapon,Vista previa
+cas/save_blueprint_kbm,Guardar una modificación personalizada
+localize_2c2f34dedb518c9e,Guarda las personalizaciones de un arma en la armería.
+cas/stickers,Calcomanías
+cas/swap,CAMBIAR
+localize_56d0a13d6ba75ad4,Ventaja definitiva
+cas/warning_title,¡Aviso!
+localize_6839c929d699ad2a,Camuflajes para: &&1
+localize_3e153c536ed32089,^H16^NVL^R &&1
+localize_1c932c5990538292,Maestría de arma
+localize_53732b7c0f6ca4e2,&&1 Retícula desbloqueada
+localize_3e4f7b4262f76906,Iconos de Prestigio clásicos
+localize_40a7386c0962a10d,Aspecto ultra
+localize_1cbb69b84f702ed2,Conseguiste &&1
+localize_593e4d60ffe98d0f,Desbloqueo de arsenal
+localize_17dad38031a04387,Mantén [{gpad:ui_select}] en la partida para acceder a los canales de chat
+localize_48b3bbc8282b08a4,Oprime [{quick_channels}] en la partida para acceder a los canales de chat
+localize_1acf91d6357ec174,Miembro del grupo
+localize_3bb052fc3de57a8b,Jugador en la sala
+localize_41b22f5bb5009c3a,&&1 capturó la bandera de la prórroga
+codcaster/arena_time_health_ended_game,&&1 TIENE MÁS SALUD
+codcaster/arena_time_lives_ended_game,&&1 TIENE MÁS JUGADORES CON VIDA
+localize_36c5bd8f58d9d493,&&1 tiene mejores estadísticas de la partida
+localize_29acc6266e6ec37f,ATACANDO
+localize_7f1031c88bcde72d,Mejor de &&1
+localize_66af768227671a56,Mejor jugada
+localize_5c6694c89b09e90b,En pie
+localize_74cd7b91b43d05de,El círculo se cierra
+localize_7d70b68bb6ba9b4e,El círculo se fusiona
+localize_5887ae0b94db55cd,El círculo se divide
+localize_71d74fc4dececaf8,El círculo se acerca
+localize_667d7adfec045a3b,Círculo final
+localize_2220fa18f4ae6200,Derrota
+localize_6baa4ec16ee96c16,Jugadores eliminados
+localize_668b7d2e2a638790,Tiempo extra
+localize_379af4617925f520,Partida en curso
+localize_7b8c97b4f37e8f3,La partida va a empezar
+localize_65f8560f61685516,Se acabó el tiempo
+localize_50207ed76f3802e,Esperando al enemigo
+localize_4d2489806f2e4654,Victoria
+localize_78458cc937f732bf,Bajas
+localize_2a8f2a1cf913d097,$ &&1
+localize_1aa4402bfe66a2e6,# &&1
+localize_2cdb13b4fea0939a,# &&1 &&2
+localize_7f918c106bee7ca7,TOMANDO &&1
+codcaster/circle_closing,EL CÍRCULO SE CIERRA
+codcaster/column_kills_deaths,B/M
+localize_503719c7d0735a92,&&1 capturó todas las zonas
+localize_54227d6f6ff07eb8,Precisión
+localize_1d7cb915a565e6b3,Asistencias
+localize_d2cc199de71a77d,"Racha
+actual"
+localize_1b3e2aae10aad5bc,Daño
+localize_5c7d9800a345975d,"Baja múltiple
+más alta"
+localize_7590e832297b327e,"Mejor
+racha"
+localize_105c9e49439f16c8,"Bajas/
+Muertes"
+localize_60275371ca491a9d,Ratio B/M
+localize_78b91c605450ac43,"Bajas/
+minuto"
+localize_3d6e611206781901,"Bajas sin
+intercambio"
+localize_fbec2805a381d9,Puntos
+localize_409ec2ba542139ff,"Bajas con
+intercambio"
+localize_4f186b2e1e16303b,DEFENDIENDO
+localize_41d2d40805be1c7d,DESACTIVANDO &&1
+codcaster/end_result_win,&&1: victoria
+codcaster/faction_eliminated,&&1 ELIMINADO
+codcaster/faction_forfeited,&&1 SE RINDIÓ
+localize_4d3fa1b2aa39d590,Compatibilidad completa
+codcaster/gulag_closed,GULAG CERRADO
+localize_2febd721cc5546d9,#&&1 &&2
+localize_40e4e36f7fd4eee3,SE ACABÓ EL TIEMPO
+localize_7de1811fbcd8cc81,Compatibilidad limitada
+localize_68b28307e1d51f3,Vidas restantes
+localize_451cf38421926fdf,—
+localize_40176ad4729b464d,No hay mejora de campo
+localize_472dcb26ab1973d,Sin racha de puntos
+localize_7f5a43f4ee0160ca,--:--
+codcaster/not_supported,Sin compatibilidad
+localize_7abe4d6b3abcf8f2,Activated
+localize_10d0e78904163ed3,Listo
+localize_f0812e12a4ceac3,COLOCANDO &&1
+codcaster/respawn_closed,REAPARICIÓN CERRADA
+localize_e1b40d28b5ca9ca,Patrocinado por
+localize_33d776a06c70e132,Nombre del pelotón
+localize_2fd67a14b009c96b,Eliminaron a #&&1 &&2
+localize_166f455f350caa47,Iniciando en:
+localize_3c09f61bb09bfc63,Precisión
+localize_7b80ad00be4a46ab,Daño
+localize_3ac4317141fd648f,Caídas
+localize_645f0ebeac173ae3,Bajas
+localize_412b1c490c7b51bb,Reanimación
+codcaster/stats_damage,DAÑO
+localize_1d151bf9fde81dcf,SALUD
+localize_59f8c3068bc354c0,B/M
+localize_14a6be149bd57838,OBJ
+localize_6d15781dbdece353,RACHA
+localize_641b6ca89b8b1730,Cegado
+localize_b44817ad96d5711,En llamas
+localize_5694fcd8d1f7a87f,Envenenado
+localize_1ffbb45dbe3bc72d,Conmocionado
+localize_373b0672776af11,Aturdido
+codcaster/time_to_beat_ctf_ended_game,&&1 CAPTURÓ LA BANDERA MÁS RÁPIDO
+codcaster/time_to_beat_uplink_ended_game,&&1 REALIZÓ EL ENLACE MÁS RÁPIDO
+localize_42e4fba0a1223895,La partida se reanudará pronto.
+localize_5cd40bc8e2efe4f8,Habrá un tiempo muerto en la próxima ronda.
+localize_501d3651338d9f1,TIEMPO MUERTO SOLICITADO
+localize_76e834145ce548ec,TIEMPO TOTAL DE JUEGO &&1
+localize_79d3bf174c41d19a,Primero en conseguir &&1 puntos
+localize_31e506364fde6180,Primero en ganar &&1 rondas
+localize_54e4cef5356a5e3a,Modo de juego disponible en el lanzamiento.
+localize_c1a597842323226,PRECISIÓN
+localize_65c6f394ea9686fc,BAJAS CON RACHA ADQUIRIDA
+localize_3ab21a3e31ebdf83,MODIFICADORES DE MUNICIÓN
+localize_81a482e9775c08d,ASISTENCIAS
+localize_738493ffb5148955,Mejor puesto
+localize_2ad5b9e25d912053,CEGADOS Y ASESINADOS
+localize_30fcde7e97811171,Cegados y asesinados por
+localize_87c285e96eaa0f9,ELIMINACIONES DE JEFES
+localize_10e281e461b0ce88,BAJAS DE JEFE
+localize_3049feed0fa28573,Bajas en modo controlado
+localize_5051f91b37124ccb,% DE BAJAS CRÍTICAS
+localize_2a7d4972d1dc7910,BAJAS CRÍTICAS
+localize_2ac3a01ce5bfdadd,APLASTAMIENTO POR
+localize_6eed0314aeab8a9e,DAÑO
+localize_41238a2d4ae65780,MUERTES
+localize_40c012f65427ee6c,ENGAÑADOS Y ASESINADOS
+localize_504445ca91692f18,Engañados y asesinados por
+localize_3723a345c837a7ce,ASISTENCIAS CON SEÑUELO
+localize_46ed46e926c41e19,^?#x07dbb8c7ca3aeb214.#x0ca17dafe42e7b78f^+&&1^7 [{leagueplay_skill_rating}]
+localize_11bdf6aec10fe2d5,^?#x07dbb8c7ca3aeb214.#x07f73317d5a1ca541^&&1^7 [{leagueplay_skill_rating}]
+localize_13eb54a11d79d775,Equipamiento destruido y desactivado
+localize_3c858a019abeceb2,DESTRUCCIONES
+localize_41ee49e197005d35,DETECTADOS Y ASESINADOS
+localize_517feb4c2da32557,Detectados y asesinados por
+localize_59e677f90315cb91,ASISTENCIAS DE DETECCIÓN
+localize_4d69163ab38f8194,Bajas con C4 enemigo detonado
+localize_69ce1bb52f48b51d,Bajas con trampa explosiva hostil detonada
+localize_2ba75c4e2c9ca5dd,Impactos directos
+localize_26c43e0986ba4fda,BAJAS INFILTRADO
+localize_609717bd4c75993d,DESORIENTADOS Y ASESINADOS
+localize_231fb4d1b13985af,Desorientados y asesinados por
+localize_69174b2944c6b595,INHIBIDOS Y ASESINADOS
+localize_24b78517bbcd871a,ASISTENCIAS DE INHIBICIÓN
+localize_2499c312ff7f9676,ASISTENCIAS POR DISTRACCIÓN
+localize_7a00d454ab9dffb6,DISTRAÍDOS Y ASESINADOS
+localize_30a66fee2d39a81e,ASISTENCIAS CON DISTRACCIÓN
+localize_3eb50929d7b2ec74,BAJAS DE DERRIBO
+localize_2bf3601e19b3af19,ASISTENCIAS POR ELECTROCUCIÓN
+localize_6866fec5b0053db4,ELECTROCUTADOS Y ASESINADOS
+localize_74987fbc8586367b,ELIMINADO
+localize_290c5ed1240470b1,RATIO ELIM./M
+localize_bbe06437b58c535,ELIM.
+localize_1fcf6257ce49a974,ELIMINACIONES DE ZOMBIS ÉLITE
+localize_4d2043a10e88193,BAJAS DE ZOMBI ÉLITE
+localize_36710334edcbf570,ENEMIGOS APLASTADOS
+localize_1fc1ed092c1cfff8,ENEMIGOS CONGELADOS
+localize_3e9eab526191d0ae,Enemigos atrapados
+localize_69f4d232c75d759,EXTRACCIÓN
+localize_1a4e772d3910fea1,BOMBA NUCLEAR MÁS RÁPIDA
+localize_2fa4c8e22912d1dc,ASISTENCIAS CON CEGADORA
+localize_7e2e2b5874909256,^?#x07dbb8c7ca3aeb214.#x0ab02271e25ffbbcf^Duración:^7 &&1
+localize_76d87e67272679a0,DESMEMBRADOS
+localize_2b99d6f2d27a7da7,% TIROS A LA CABEZA
+localize_e9ea87b5f879340,CURACIONES Y ASESINADOS
+localize_1f4b73bf6bbc5809,CURACIONES/USO
+localize_3b637965b80a399e,Curaciones y asesinados por
+localize_5cd3cd0d4770ddcd,MAYOR DAÑO CRÍTICO
+localize_400dc9ec20ff0e29,MÁS ELECTROCUCIONES/USO
+localize_2cbd2ce2c8e3ca81,MEJOR RACHA
+localize_709cf10be3151f97,MÁS BAJAS/USO
+localize_559e765ae3c3a31b,MAYOR CANTIDAD DE BAJAS DE ZOMBIS CON DESCOMPOSICIÓN CEREBRAL
+localize_2d5c7ddd7921c878,Mayor baja múltiple
+localize_5ef8b48e35d2329a,EN CURSO
+localize_47ba07ab0314b9ee,INTERCEPTACIONES RECIBIDAS
+localize_66888e36e1601a84,INTERCEPTACIONES
+localize_27e1a0686c3f58b5,INHIBIDOS Y ASESINADOS
+localize_4b2a40024a14067a,ASISTENCIAS DE INHIBICIÓN
+localize_93c9f64ece01fb2,RATIO BAJA/M
+localize_7bd2915dbc30e20e,ASESINADO POR
+localize_5eb799caecf0d9e4,BAJAS
+localize_7639b40a43b6c9e9,BAJAS TRAS USO
+localize_160e7735719f798c,BAJAS/USO
+localize_451672cb2ffdec41,BAJAS ESTANDO ACTIVO
+localize_402c54f5a8584922,BAJAS EN EL HUMO
+localize_466a285a9f9ac809,ELIM. CON ARMA DE LEYENDA
+localize_ef1ec4f02c36564,TOTALES
+localize_412764d567950197,FILTRAR: ^?#x07dbb8c7ca3aeb214.#x0ca17dafe42e7b78f^ &&1
+localize_19d43356f2e31ee4,Derrota evitada
+localize_1dab72049873b8ab,Misión principal completada
+localize_35801b8667a5ab67,BAJAS CAC
+localize_35c9cf00066863ae,Bajas múltiples
+localize_66d22804d94d90a1,Hace &&1 días
+localize_6b2ecbbdf542a084,ASISTENCIAS CON GAS NEUROLÓGICO
+localize_3fa7c9252336dcee,BOMBAS NUCLEARES DESPLEGADAS
+localize_1de7144865a13f23,PUNTAJE DE OBJETIVO
+localize_c9ddd82d9219bf7,^?#x07dbb8c7ca3aeb214.#x0ab02271e25ffbbcf^MÁQUINA POTENCIADORA:^7 NIVEL &&1
+localize_6bda6d4b6c7a5e59,PAQUETE ROBADO
+localize_6bfc8cd03eac3c02,ELIM. CON ARMA POTENCIADA
+localize_1355e9fe9bcda3e1,PRESTIGIO &&1
+localize_788326397944beef,ASISTENCIAS DE EXTRACCIÓN
+localize_9a7df20bd46b7ea,RATIO
+localize_1f5f25cf4d6f7ef8,REAPARICIONES Y ASESINADOS
+localize_45691d65cd073446,Reapariciones y asesinados por
+localize_688c9d1d4d591d89,REABASTECIMIENTOS
+localize_78b3e7542e893ffd,REABASTECIMIENTOS/USO
+localize_38d8988d15849c9f,REANIMACIONES
+localize_7f94d7e041a7996,REANIMACIONES CON MANTO
+localize_6c9ebb690c92be2a,RONDA &&1
+localize_67a700eb96ace6c3,PUNTOS
+localize_71a4a08d296239ee,Inhibidos y asesinados por
+localize_5b5bb1c75006bf7,Sensores conectados
+localize_10598aa19675bff4,ASISTENCIAS CON ELECTROCUCIÓN
+localize_176bdcc4c1198974,ELECTROCUTADOS Y ASESINADOS
+localize_1e3daf33c50ea830,Electrocutados y asesinados por
+localize_6e405b656503be9f,ASISTENCIA CON HUMO
+localize_51e0f7775993220e,Captura con humo
+localize_3c4978c5758b7e56,QUEMADOS Y ASESINADOS
+localize_2081e30081682f28,ELIMINACIONES DE ZOMBIS ESPECIALES
+localize_3bfa0ff696b806a7,BAJAS DE ZOMBI ESPECIAL
+localize_7d5db5ba70dbc31d,ZOMBIS ESPECIALES CONGELADOS
+localize_6b37f65a8a421bb2,MARCADOS Y ASESINADOS
+localize_75f0a7bed90ed4e2,Marcados y asesinados por
+localize_396a55951d848fdf,ASISTENCIAS POR DETECCIÓN
+localize_2230084103736250,ASISTENCIAS CON ATURDIMIENTO
+localize_4b7ddb15378a5a44,ATURDIDOS Y ASESINADOS
+localize_1d527787181f09a0,Aturdidos y asesinados por
+localize_b3f0d6f70b6527a,PROVOCACIÓN/USO
+localize_41e21919d86b0b34,ALIADOS REANIMADOS
+localize_5c0174d7eea9b853,Bajas con granada devuelta
+localize_40bff225b95d18dd,TIEMPO ACTIVO
+localize_3f9639c1f5ee085f,Victorias
+localize_4a9fd8fc68d4aa8f,USOS
+localize_1e7be72ee736032b,ASISTENCIAS DE GRITO DE GUERRA
+localize_7c335a5e5eff1b46,[{ui_icon_zm_essence}]&&1
+localize_591e80a99a1b8144,ELIMINACIONES DE ZOMBIS
+localize_254886f19fbe9840,ZOMBIS BAJO DESCOMPOSICIÓN CEREBRAL
+localize_2f3ef3bddb5573fe,ZOMBIS ELECTROCUTADOS
+localize_28be78eec7de4bb9,ZOMBIS CONGELADOS
+localize_264ccd135b006eb7,ZOMBIS QUEMADOS
+localize_5f956a706bd11acf,escanear.exe
+localize_7729f2ceb2731e,Elige ahora para reiniciar la misión actual.
+localize_4474a77efdb3abbb,Misión fallida. ¿Volver a intentarlo?
+cp_zmb/essence_count,[{ui_icons_zombie_squad_info_essence}]&&1
+localize_7c9063ec6bd8ad8d,Alternar información
+localize_43149f4a6f57c3cc,Contrabando
+localize_26edd7895304fee,Tiempo restante para la extracción: &&1
+localize_2e81acb45ad6568d,Contrato completado
+localize_5493508b3aa9a226,Amenaza: baja
+localize_1a9a81a30c5f418d,Amenaza: alta
+localize_43ac8b26eb589bcf,Amenaza: media
+localize_490d4cd7225d8fa,Zona de combate activa
+localize_5d1fad48b3a7aa16,Reclutar operador a espacio &&1
+localize_4e990649f6a98848,Desbloquea este objeto en el Menú de mejoras
+equipment/deployed_decoy_desc_gamepad,"Mina señuelo activada por proximidad. Al activarse, el objetivo de fibra reforzada se despliega violentamente para confundir y distraer. Vuelve a oprimir [{+smoke}] + [{+frag}] para activarla manualmente."
+localize_6c10013c5903d07,"Mina señuelo activada por proximidad. Al activarse, el objetivo de fibra reforzada se despliega violentamente para confundir y distraer."
+equipment/none,Ninguno
+equipment/tac_camera_desc_gamepad,"Cámara a control remoto que marca a los enemigos. Oprime [{+smoke}] y [{+frag}] para lanzarla y vuelve a oprimir para conectarla. Si se deja sola, la cámara hará un monitoreo del área y alertará a los jugadores mediante sonidos sobre la presencia de enemigos cercanos."
+localize_7bdc40ab60c2a274,"Cámara a control remoto que marca a los enemigos. 
+
+Lánzala y luego conéctala. Si se deja sola, la cámara hará un monitoreo del área y alertará a los jugadores mediante sonidos sobre la presencia de enemigos cercanos."
+localize_36a4b6d2e965522,Equipamiento letal
+equipment/utility_drop,Caja de servicios
+executions/execution,Remate
+localize_1ea467a8f49adf34,Instalar contenido descargable
+game/objectivecompleted,Objetivo cumplido.
+game/objectivefailed,Objetivo no completado
+game/warning,AVISO
+localize_7b7951ab7e2b8639,[{gameplay_stats_with_inventory_action}] Estadísticas
+hud/bradley_ammo_empty,Recargando
+hud/bradley_driver_label,Tanque Bradley - Conductor
+hud/bradley_gunner_label,Tanque Bradley - Artillero
+hud/bradley_health,&&1 %
+localize_66d5f4d58a081d93,Operación/
+localize_521fd38062c8ab0c,[{ui_secondary}] Cerrar
+hud/connected,Conectado
+localize_535057d6edd03eb4,¡DDOS DETECTADO!
+hud/degrees,"&&1°
+"
+hud/fraction,&&1/&&2
+localize_44b96c461167a26b,En uso &&1
+hud/ready,Listo
+localize_57af83d3e8768fa8,En uso: &&1
+localize_390372b27d5f3ead,^5 &&1 ^7 Puntos requeridos
+localize_488228e23081bcff,[{ui_icon_dpad_right_or_down}]
+localize_85c2242d29c7cbb,[{ui_icon_dpad_right_or_down_or_up}]
+localize_105b538031580b6d,[{ui_alt1}]
+localize_68b26c64801e0d5a,[{ui_l3}]
+localize_684c54647fc73160,[{ui_r3}]
+localize_3cf6361f23bf28c8,[{ui_right_stick}]
+localize_59cbd2909762cdfb,MUNICIÓN
+localize_77539d792725c01d,Nivel de contención
+localize_7367be6c559c3e62,[{ui_icon_zm_essence}]&&1
+localize_386a701ca4333f27,&&1 | &&2 %
+localize_3977a149287e1a16,Recompensas | &&1
+localize_23abcdfbc7dbce39,Grieta completada
+localize_3d328909628df151,Mochila
+localize_652bd132314b1a19,[{+actionslot 2;inventory_show}] Mochila
+localize_6f9374ab3ce4b8dc,Vende los objetos de valor que hayas encontrado y recibe esencia.
+localize_3e5ff0088fcd7070,"Total de los objetos de valor: ^3[{ui_icon_zm_essence}]&&1^0
+"
+jup_ob_item_generics/acquisition,Adquisición
+localize_6ccaeb12a7cb19ed,VOTOS A FAVOR NECESARIOS: &&1
+localize_41d4783bbf1e64e0,GRIETA DE ÉTER OSCURO
+localize_205352cdfd7c2878,GRIETA DE ÉTER OSCURO CANCELADA
+localize_6c549a36182b1629,Votar NO
+localize_34f36dba8922f480,VOTO EXITOSO
+localize_2ae6a2eabd392705,Votar SÍ
+localize_31c0070ec72156df,VOTASTE NO
+localize_92c651c92fc1d4b,VOTASTE SÍ
+localize_4e89c90f410c5776,UNSTABLE RIFT
+killstreaks/ac130_25mm,25 mm
+killstreaks/ac130_40mm,40 mm
+localize_72356774cf23ced8,Espacio aéreo lleno
+killstreaks/airspace_full_abv,ESPACIO AÉREO LLENO
+localize_5a85fc9497a5d7b6,Ya se utilizó
+killstreaks/arm,Armado
+killstreaks/cannot_be_used,No se puede usar
+killstreaks/capturing_crate,Abriendo...
+localize_6dea9c4a18add0aa,Daisy Cutter
+localize_7077fb2f46b40939,Armando: &&1
+localize_348eb91b67573e,Sin conexión
+localize_5a49b3ca238ce161,Destruido
+killstreaks/destroyed_abv,DESTRUIR
+localize_7eb8cb08573fd822,&&1 Bengala(s)
+killstreaks/flares,Bengala(s)
+localize_2b3cfcb334328353,Recargando: &&1 s
+localize_2448517769a2434e,Cañón doble
+localize_50b4b7e59f921ef8,Cañón Gatling
+localize_16cde3869265e4b3,Cápsulas cohete
+killstreaks/incoming_missile,MISIL EN CAMINO
+localize_49a39a83a300fe9c,"Lanzamiento iniciado
+"
+localize_51915ac855865ed7,"Lanzamiento
+iniciado"
+localize_43f6f5b3d34f41bc,"&&1° &&2' &&3"" &&4"
+killstreaks/mgb,B.D.M.
+localize_5664342d5767c03c,Sin objetivos
+killstreaks/no_targets_abv,SIN OBJ.
+killstreaks/none,Vacío
+localize_30c6688f9c9e869a,[Advertencia: pronto estarás fuera de los límites]
+killstreaks/ready,Listo
+killstreaks/reloading,Recargando
+localize_ca92591fe8e7d9,Inicio de la ronda &&1
+killstreaks/warning_caps,AVISO
+localize_4f923ca0ac5289a,Aviso: daño crítico
+localize_20367a5d86c0576e,BATERÍA
+localize_5e7d9bb4e840dfd0,BOMBA C4 ARMADA
+localize_10cd75dcbecc1250,> CÁMARA_DRON_BOMBA_001
+localize_2aa1ccd5c8b14236,[{+melee_zoom}]
+localize_768a0ae158763266,[{gr_veh_firemissile}]
+killstreaks_hints/bradley_smoke,[{+smoke}]
+killstreaks_hints/getting_supplies,Reponiendo suministros...
+localize_4cd52ae2540ae13f,25MM ^1ARMADO
+localize_1c5d8c32c18ca607,25MM ^1RECARGANDO
+localize_3d9a988eac0ee7c6,40MM ^1ARMADO
+localize_33ee6e193c327c42,40MM ^1RECARGANDO
+localize_1994eb556745e1df,MISIL ^1ARMADO
+localize_7a043817cd3623fb,MISIL ^1LISTO
+localize_3874c79810679ca7,MISIL ^1RECARGANDO
+localize_359fc8cc45dd0e63,RECARGANDO ^1MISIL
+localize_2092e06e07b92fb,ALT.
+localize_64481ffd4fdda949,[{+attack}]
+localize_4fd2937e153aa163,[{+actionslot 2;+smoke}]
+localize_4db3985c27fdaedd,[{+attack;ui_mousewheelupdown}]
+localize_5daf53c901f84df4,E
+localize_6e325992eb6c87c,N
+localize_4449bcb676bdbb82,S
+localize_52b5af52fee535c6,O
+localize_6589a175da679bc2,Controles
+localize_476237bde4745277,AVISO: DAÑO CRÍTICO
+localize_10d7e8a3ecbbba86,[{+activate}]
+localize_4949d8033777c113,Mantener para salir
+localize_79667c784dac1cc9,PIES
+localize_6620b64711d6b1a9,Disparar
+localize_13ed05094f312c78,[{+actionslot 2;+smoke}] Bengala(s)
+localize_7f05e7cc7495cfe4,Bengala(s)
+localize_61cf635aadc8cc43,SISTEMA FLIR
+localize_4ecbf69469893dc4,HDG 258 T
+localize_4ecbf294698936f8,GEOPUNTO
+localize_4ecbf394698938ab,INS NAV 0.42
+localize_4ecbf09469893392,TDK COR
+localize_d7447e14990148,SHADOW-1
+localize_19b7afe9740e34e4,COMBUSTIBLE
+localize_66505113cbfa0321,KTS
+localize_3a17bcb1022319ab,Poco combustible
+localize_7a6212e81b1124e7,No conectado
+localize_36a6d88e7c3ef4b3,EN LÍNEA
+localize_78fd902affbc4cd4,Recargar
+localize_b51d8a78f3d37c3,"[{+breath_sprint, +sprint, +sprint_zoom}]"
+localize_768e0497ae345ed8,VEL
+localize_65daaf573a70c44b,"[{+weapnext,selectweapon2}] Cambiar de arma"
+localize_685d97ce92a69e54,Cambiar de arma
+localize_4c8c0d7aaeb7933f,Alternar visión térmica
+localize_63d629563237520c,[{+gostand;nightvision}]
+localize_f5696eccd92e8fc,[{+speed_throw}]
+killstreaks_hints/gunship_weapon_agm114,MISIL
+localize_123a0177967d8110,MISIL
+localize_7bf50e0050665a1,ARMAS SIN CONEXIÓN
+localize_685207a77ac9055b,0 m
+localize_5e295e555208520e,250 m
+localize_12f4e32b8a74243a,500 m
+localize_15b9f7703a2c67da,Restablecer zoom
+localize_9c9756792781445,Misiles: &&1
+killstreaks_hints/instruction_accelerate,Acelerar
+killstreaks_hints/instruction_aim,Apuntar
+killstreaks_hints/instruction_boost,Potenciador
+killstreaks_hints/instruction_detonate,Detonar
+killstreaks_hints/instruction_exit,Salir
+killstreaks_hints/instruction_fire,Disparar
+killstreaks_hints/instruction_flare,Bengala
+killstreaks_hints/instruction_handbrake,Freno de mano
+killstreaks_hints/instruction_horn,Claxon
+localize_3bbfc3ff44747428,Lanzar humo
+killstreaks_hints/instruction_reverse,Reversa
+localize_5d9d39147822efa7,Modo centinela automático
+killstreaks_hints/instruction_steer,Maniobrar
+killstreaks_hints/instruction_switch_seats,Cambiar asiento
+killstreaks_hints/instruction_thermal,Térmica
+killstreaks_hints/instruction_toggle_music,Música
+killstreaks_hints/instruction_zoom,Zoom
+localize_2e027685de5625d9,KM/H
+localize_63f9a01d8fff180f,"> CÁMARA_DRON_DE_RECONOCIMIENTO_001
+> SISTEMA: EN LÍNEA"
+killstreaks_hints/recon_no_mark,Objetivo resistente marcado
+killstreaks_hints/recon_out_of_range,Objetivo fuera de alcance
+killstreaks_hints/recon_search,Buscar objetivos
+localize_1206c27e9825eafa,Torreta a control remoto
+localize_7d39741397c2ea86,DDoS
+killstreaks_hints/tank_reload,Recargando
+localize_65e1f4fcd00fceb9,Sumergido
+localize_69125803ce1a173f,&&1 - &&2
+localize_35d69220dd1cf5d0,CUENTA REGRESIVA
+levels_jup/sp_jup_surge_chunnel_chyrondate,"21 DE NOVIEMBRE DE 2023, 1700"
+levels_jup/sp_jup_surge_chunnel_chyronlocation,"LONDRES, INGLATERRA"
+levels_jup/sp_jup_surge_chunnel_chyronsquad,"FO 141, CIA, SFO"
+levels_jup/sp_jup_surge_chunnel_chyronwho,JOHN PRICE
+localize_2f0a67a938eb5347,Todo
+localize_7fa21264c928e0b7,¿Desbloquear este objeto con fichas de victoria?
+localize_2c418189cf461b9e,La partida va a empezar…
+localize_3bf3b3f31d2125ce,Inicializando
+localize_30e96e3e9ba60e64,Cargando mapa
+localize_496f6a7f255504dd,Sala
+localize_6236a6c77cf4514a,Buscando una partida...
+localize_1cea678029df9ae1,Modos de fiesta
+localize_552f75e8c6f921d7,Jugadores
+localize_3ef225de95a58109,Mapa aleatorio
+localize_124507388b3eaaaa,Modo aleatorio
+localize_46634408699102d0,Buscando jugadores ^W1^
+localize_66f8fae62277bf64,Preparando sala ^W1^
+localize_2c6a69881cf5c47d,Mochila
+loot_mp/cod_points,Puntos COD
+loot_mp/cp,CP
+localize_14a70c4f34db2962,Adhesivo
+localize_6d9749556c481191,Recarga rápida
+localize_21359269c6f961e4,Mejora de campo
+localize_58017ced56890bfe,Pantalla de arma
+loot_mp/item_type_ammo,Munición
+loot_mp/item_type_armor,Blindaje
+loot_mp/item_type_attachment,Accesorio
+loot_mp/item_type_lethal,Letal
+loot_mp/item_type_plunder,Efectivo
+localize_7254157ae33164e4,Recurso
+loot_mp/item_type_tactical,Táctico
+localize_34ac5cd4d0986212,Pantalla de carga
+localize_54245aec17ed653e,Recarga media
+loot_mp/operator_name_execution,Remate de &&1
+loot_mp/operator_name_skin,Aspecto de operador - &&1
+loot_mp/player_xp,XP del jugador
+loot_mp/quality_5,Ultra
+loot_mp/quality_player,Jugador
+loot_mp/quality_uncommon,Inusual
+loot_mp/role,Rol Cooperativo
+localize_32d29a996e53ca30,Recarga lenta
+loot_mp/streak,Racha de bajas
+localize_11f2f71f2d31ec23,Adhesivo grande
+localize_3292f5ddeace579c,Extravagante
+loot_mp/xp,XP
+localize_2d628783a0eaa21f,Termina entre los 15 mejores en &&1 partidas de partida clasificatoria de WZ
+localize_1e73713e4c574318,Gana &&1 partidas clasificatorias.
+localize_4c56c7514c9ab7c,15 mejores &&1 veces
+localize_405cb7fc79b726d9,&&1 Victoria(s)
+localize_331ca94885a020bf,Consigue el rango &&1 en cualquier momento en tu carrera de partidas clasificatorias
+localize_2f290f3815b107b8,Consigue el rango &&2 en la Temporada &&1.
+localize_7c5c6f6f6de448c1,Cancelando partida porque los equipos no estaban parejos.
+localize_520ef4e807862ba2,ALCANZA EL NIVEL &&1 PARA DESBLOQUEAR PARTIDAS CLASIFICATORIAS
+localize_2628182b7bc4f4f8,Todas las ventajas básicas están restringidas en los modos de juego de la CDL.
+localize_5bbaa8b3042cb18f,Todas las ventajas adicionales están restringidas en los modos de juego de la CDL.
+localize_3a6b92b62e494bde,Todas las ventajas definitivas están restringidas en los modos de juegos de la CDL.
+localize_7fe9b459ca51e8e1,Gana &&1 partidas clasificatorias en la Temporada &&2.
+localize_6f4a64926cfef5b7,Desconexión de compañero emparejado. No habrá pérdida de SR.
+lua_menu/5,5
+lua_menu/abbreviated_cash_billion,$ &&1 K M
+lua_menu/abbreviated_cash_million,$ &&1 M
+lua_menu/abbreviated_cash_thousand,$ &&1 K
+lua_menu/acquiring_intel,Adquiriendo órdenes de campo
+lua_menu/active,Activo
+lua_menu/assault,Asalto
+lua_menu/assists,Asistencias
+localize_629285e07dfa8d1b,Aumentos
+lua_menu/autoassign_caps,AUTOMÁTICO
+lua_menu/back,Volver
+lua_menu/back_menu,Regresar al menú principal
+localize_64e3d1548e2c1742,MEJOR ENEMIGO
+lua_menu/blood_money,Saqueo
+localize_3c9f664c1c6dfaf4,Desafío adicional
+localize_4e1a7a6ef3ec5a7c,Misiones del Campo de entrenamiento
+lua_menu/br,Battle Royale
+lua_menu/br_duo_desc,Juega con un amigo
+lua_menu/br_earned_cash,Efectivo obtenido
+lua_menu/br_quad_desc,Juega con hasta 3 amigos
+lua_menu/br_solo_desc,Juega solo
+lua_menu/br_trio_desc,Juega con hasta 2 amigos
+localize_3d23c22281bb9509,&&1 [{ui_menu_common_breadcrumb_arrow}] &&2
+localize_55626a81c8a852dc,Opciones del modelo
+lua_menu/button_weapon_next,"[{+weapnext,selectweapon2}]"
+lua_menu/camo_select_title,SELECCIONAR CAMUFLAJE
+lua_menu/cancel,Cancelar
+lua_menu/cash_spent_caps,EFECTIVO GASTADO
+localize_63c279a096052de2,$ &&1
+localize_8a6f3efeeedd3f7,Efectivo almacenado
+lua_menu/classified,Confidencial
+lua_menu/close,Cerrar
+lua_menu/cod_points,&&1 Puntos COD
+localize_4762f46d5867f79a,Completado
+localize_358e82cda689e98e,Completa este episodio al menos una vez para desbloquear el modo Raid en veterano.
+localize_37ceef6ad297c83e,Modo Raid en veterano bloqueado
+lua_menu/corrupted_mode,Datos del juego corrompidos.
+lua_menu/custom_mode_description,&&1 | Modo de juego: &&2 | Creado el: &&3.
+lua_menu/cutthroat_team_three,OpFor
+lua_menu/damage_five_games,Total de daño infligido
+lua_menu/deaths,Muertes
+lua_menu/deaths_caps,MUERTES
+lua_menu/default_loadout,Armamento predeterminado
+lua_menu/dmz,DMZ
+lua_menu/dont_fill,No completar
+localize_6a46df5b884741c9,¿?
+localize_197d57cf7948b782,Ratio Elim./M
+lua_menu/eliminations,Eliminaciones
+localize_3a14bf0e1bb105de,Gestos
+localize_fabcf9c0148ea59,Espacio vacío
+lua_menu/empty_string,
+localize_27a7dae84e10372,--
+lua_menu/end_game,Abandonar partida
+lua_menu/end_game_desc,"AVISO: si eres el host, la partida terminará."
+lua_menu/end_game_wz_desc,Te aconsejamos terminar el entrenamiento antes de jugar Warzone.
+lua_menu/equip,EQUIPAR
+localize_15a3998eae7ceda5,"Se equipa a &&1, &&2 o &&3."
+localize_a49c799acf21fc3,Se equipa a &&1 o &&2.
+localize_4a2721749007b7d5,Equipar arma y abrir armería
+lua_menu/error_getting_data,Error al obtener datos para este modo de juego.
+localize_a0bd11026cabf76,Las Almas
+localize_48312867dfdbb582,Al Easima FC
+localize_220953386cbe0666,Mejora de campo
+localize_5ac66cd05e9ee977,Mejora de campo extra
+localize_378473ad0e7ae5dc,Equipa una segunda mejora de campo para utilizar una mejora de campo (Pro).
+lua_menu/field_upgrades,Mejoras de campo
+lua_menu/fill,Completar
+localize_3142aaf5cd0da682,Galería de tiro
+localize_1c8f30b244d34bff,El tamaño actual de tu grupo supera el límite del grupo de la lista de partidas. Reduce el tamaño del grupo para jugar.
+localize_6598c52588876779,Partida clasificatoria no está disponible para jugar cuando haya un jugador conectado con pantalla dividida.
+localize_18d719e8e50b6125,&&1 no está disponible para jugar cuando haya un jugador conectado con pantalla dividida.
+localize_4e90812510e5459a,Modos de juego (&&1/&&2)
+localize_509a477ff5d7c7f4,Modos
+lua_menu/gamemode_plunder,Saqueo
+lua_menu/gamertag,[WWWWW] WWWWWWWWWWWWWWWW
+localize_751583f9e2505af4,Equipamiento
+lua_menu/gesture_hint,Mantén [{ONFOOT:+actionslot 1}] durante la partida.
+localize_f6d1bc827250207,Disponible
+localize_4ea002c0c473c7e5,Reciente
+localize_156a1f5d77a1f022,Oprime[{+special}] para usar mejoras de campo.
+localize_5427be4a3b25fa2,Oprime [{+smoke}] + [{+frag}] para usar mejoras de campo.
+localize_33101f241bef558a,Inactivo
+lua_menu/inspect,Inspeccionar 
+lua_menu/kd_ratio,Ratio B/M
+lua_menu/kills,Bajas
+lua_menu/kills_caps,BAJAS
+lua_menu/killstreak_wheel_binding,"[{killstreak_wheel, last_killstreak}]"
+lua_menu/latency,Latencia
+lua_menu/leave_game_and_party,Abandonar partida y grupo
+lua_menu/leave_game_desc,"Aviso: si abandonas, renuncias al bonus de la partida y se contará como una derrota."
+localize_29c15be4e033b60e,"AVISO: Si regresas al menú principal perderás tu bonificación de partida y se contará como una derrota.
+"
+localize_7c0c87c17a825aaf,"ADVERTENCIA: Si abandonas el juego, perderás todos los objetos extraíbles y se considerará como una extracción fallida."
+lua_menu/leave_game_title,¿ABANDONAR PARTIDA?
+localize_6bad7f3e0dde44d3,Regresar al menú principal
+localize_7f538896f40454a9,¿Quieres abandonar el entrenamiento?
+localize_6630c36cc0f5a5e3,Abandonar sala
+lua_menu/leave_match,ABANDONAR PARTIDA
+localize_7b58b061eff6f4b2,Abandonar partida con grupo
+localize_741a9ac3df98591c,Abandonar partida sin grupo
+lua_menu/leave_trial_desc,^1AVISO:^7 si te sales de la prueba renunciarás a los intentos restantes.
+localize_2f9de5f580b7af30,¿Salir de DMZ y regresar a la base?
+localize_2e508eb122b41c0a,Abandonando sala
+localize_26305c3694b857ed,AMETRALLADORA LIGERA
+localize_51834e84012793f7,Fondo de la pantalla de carga
+lua_menu/loadout,Armamento
+lua_menu/loadouts,Armamentos
+lua_menu/locked_caps,BLOQUEADO
+localize_5e5a871fa5ed9769,[{ui_r3}] Gestionar grupo
+localize_59624e73a176491,G
+localize_7e0ed66c3fe59a5d,M
+localize_14bc14792d4dd61,M - G
+localize_411c53c7bc730bb5,P
+localize_20e1056a42c72015,P - M
+lua_menu/mapname_bio_lab,Edificio 21
+lua_menu/mapname_biobunker,Koschei Complex
+lua_menu/mapname_delta,Vondel
+lua_menu/mapname_saba,Al Mazrah
+lua_menu/mapname_sealion,Isla Ashika
+lua_menu/maps_caps,MAPAS
+localize_af9cc51e5864c00,// BOMBAS GUIADAS DE DESTRUCCIÓN MASIVA
+lua_menu/match_summary,Resumen de la partida
+localize_4795012af6bae173,Duración: &&1
+localize_3859cbeb7ca6b9ab,&&1 ^?#x08a5a017044dd6119.#x0dcb1295155e9a463^(emparejamiento limitado)
+lua_menu/max_rank,Rango máximo
+lua_menu/mode_and_map_format,&&1 - &&2
+lua_menu/multiplayer_caps,MULTIJUGADOR
+lua_menu/mute,Silenciar
+lua_menu/mute_unmute,Silenciar/Habilitar
+lua_menu/n_a,N/D
+lua_menu/n_kills,&&1 bajas
+lua_menu/new_reward,Nueva recompensa
+lua_menu/new_rewards,Recompensas
+lua_menu/no,No
+lua_menu/none_caps,NINGUNO
+localize_2cb6e0422fffbd67,No disponible para armamento multijugador
+lua_menu/nvidia_highlights,NVIDIA Highlights
+lua_menu/nvidia_summary,Destacados
+lua_menu/ok,Aceptar
+lua_menu/online_caps,EN LÍNEA
+localize_7979ab350b243f53,DESBLOQUEASTE &&1/&&2
+lua_menu/pad_dpad_right_button,[{ui_dpad_right}]
+lua_menu/pad_left_shoulder_button,[{ui_shoulder_left}]
+lua_menu/pad_right_shoulder_button,[{ui_shoulder_right}]
+localize_2aaea61eafc3b6e,No disponible: se excede el máximo del pelotón
+lua_menu/play,Jugar
+localize_2420de2fa0026e38,Jugar en un pelotón
+localize_2f7fa238ac46f160,Únete a otros 3 jugadores para formar un pelotón y luchar contra más hordas de zombis.
+localize_59dc60bd6cdd2ed5,Jugar en individual
+localize_6b0c91b24d6d307f,Sobrevive por tu cuenta y sin tu pelotón tantas rondas como sea posible.
+lua_menu/playagain_timer,Volver a jugar: &&1
+lua_menu/player_list,Lista de jugadores
+lua_menu/primary,Principal
+localize_56f4cf5f07092b0,Cohete
+localize_32bb55daa4c3d2d5,&&1&&2
+lua_menu/prompt_with_text,&&1 &&2
+lua_menu/pull_party_desc,¿Sacar a todos los miembros del grupo de la partida?
+localize_1a18d2f033029075,El amuleto se equipará en el arma principal si se puede.
+localize_7db3204d8c518092,"^1Los amuletos no se pueden equipar en escudos antidisturbios, lanzadores o armas cuerpo a cuerpo^7. Edita tu arma principal para equipar."
+localize_2b62ad890d3bc495,La pantalla de arma se equipará en el arma principal si se puede.
+localize_36a1ea32a5b06cf2,"^1Las pantallas de arma no se pueden equipar en escudos antidisturbios, lanzadores, armas cuerpo a cuerpo ni armas con un amuleto equipado.^7 Edita tu arma principal para equipar."
+localize_313ab3566b32ac37,Opciones para equipar
+localize_4fd8c9c9e6a5e110,El equipamiento letal se equipará en el armamento favorito.
+localize_7a1998da6ef4d4cf,"Se equipará en MP, DMZ y BR"
+localize_5274fa535ee03d68,El arma se equipará en el espacio del arma principal.
+localize_349188ce61c22b38,El arma se equipará en el espacio del arma secundaria si se puede.
+localize_6ed02100d28b8eb9,La calcomanía se equipará en el primer espacio disponible del arma principal.
+localize_65f79a8cad36effe,^1Las calcomanías no se pueden equipar en armas con un adhesivo y una calcomanía.^7 Edita tu arma principal para equipar.
+localize_2d7188b7d20fd80b,El equipamiento táctico se equipará en el armamento favorito.
+localize_33e953fb365526a7,Equipar para TODO
+localize_47685e52f7e51658,Equipar para Warzone
+localize_476b6652f7e759c7,Equipar para COOPERATIVO
+localize_8827cfb1db9901f,Equipar para DMZ
+localize_474a75f2e7f4ba30,Equipar en el armamento favorito
+localize_5f96905d162ed664,Equipar en el armamento
+localize_37f949d42e18bbf4,Equipar para Multijugador
+localize_130d71bf98698f0b,Se equipará a todos los vehículos
+localize_57c5e5198e332b7a,El adhesivo grande se equipará en el arma principal si se puede.
+localize_1c8ff06094a280f9,^1Los adhesivos no se pueden equipar en armas con 2 o más calcomanías equipadas.^7 Edita tu arma principal para equipar.
+localize_352a9f4a0bd49f8c,^1El espacio del arma secundaria está bloqueado por la ventaja Exceso de medios.^7 Quita la ventaja Exceso de medios para equipar.
+localize_472132efac918b5d,"¿Quieres salir?
+^3^BAdvertencia^#^R: todavía hay varios compañeros jugando."
+lua_menu/radial_release,Soltar
+localize_6d7ea977d8ba61a8,Clasificatoria: BR
+localize_1f20ea6b9daf8d63,Alcanza el nivel mínimo
+localize_6e997a9ba5ecf5dd,Clasificatoria: Resurgimiento
+lua_menu/ratio_caps,RATIO
+lua_menu/recharge_fast,Rápida
+lua_menu/recharge_medium,Media
+lua_menu/recharge_slow,Lenta
+lua_menu/reload,[{+reload}]
+lua_menu/remove,Eliminar
+lua_menu/report_defeat,DERROTA
+lua_menu/report_draw,EMPATE
+localize_1ee593554867b36a,PÉRDIDA PERDONADA
+lua_menu/report_victory,VICTORIA
+localize_413878f9e3a80649,Reaparecerás en la siguiente ronda
+lua_menu/restart_practice,Reiniciar
+lua_menu/restart_timer,Reiniciar: &&1
+lua_menu/resurgence,Resurgimiento
+lua_menu/reticle_select,Selección de retícula
+localize_26b3441fe10eec68,Volver a la sala
+lua_menu/return_to_mission,Regresa a la zona de la misión
+lua_menu/reward_plural,Recompensas
+localize_4027e7cbae51151,POR RONDAS
+localize_2d814e1055da56c3,"Al guardar se sobrescribirá el archivo.
+¿Quieres continuar?"
+localize_f1e81b28a8d8bc4,¡Advertencia!
+lua_menu/score_five_games,Puntuación total
+localize_621b76800a9bb176,[{ui_dpad_right;togglescores_with_inventory}] MARCADOR
+lua_menu/scorestreaks,Rachas de puntos
+lua_menu/scroll,Desplazamiento
+lua_menu/season_num,Temporada &&1
+lua_menu/secondary,Secundaria
+lua_menu/select,Elegir
+lua_menu/select_deselect_all,Seleccionar/Deseleccionar todo
+lua_menu/skins,Aspectos
+localize_1becb2c413c89c30,Subcompacta
+localize_2df18eaec23cfc8,Francotirador
+lua_menu/solo,Individual
+lua_menu/spectating_caps,ESPECTADOR
+localize_20a23b6c3c71ca14,TE ELIMINARON
+localize_683c6a8d3e8e113a,No compatible con pantalla dividida
+lua_menu/sprays,Grafitis
+localize_547579bb01ec580b,Misiones del pelotón
+localize_5488ee90ad4056c8,[{ui_dpad_right;squad_mission_overlay}] Misiones del pelotón
+localize_d1c0fb0f63833c,MISIONES DEL PELOTÓN
+localize_46d63656bb9e8943,[{ui_dpad_right;squad_mission_overlay}] MISIONES DEL PELOTÓN
+localize_7f349e6c4ab0d7fc,Fase &&1
+localize_fbb03f2c6f6a42e,Estadísticas
+lua_menu/stats_kd,B/M
+lua_menu/status_need_to_ready_up,Debes prepararte
+lua_menu/status_waiting_for_other_players,Esperando a que se preparen otros jugadores
+localize_a4eaa7d17aed157,Calcomanía &&1
+localize_3626b47fffb62e0b,Young Hee
+localize_475ba9f10d364989,MAPA TÁCTICO
+localize_206b22f847ad83b2,[{ui_dpad_left;togglemap}] MAPA TÁCTICO
+localize_5fdb288048c09eb0,Agente de mapa grande
+localize_77948b9514e30c1f,Cinco
+localize_9cafc951f741fbb,Cuatro
+localize_414f9dc8db7c5acd,Kortac
+localize_1ce4e6c8c65aff7d,Seis
+localize_15aac6c8c2ab6327,SpecGru
+localize_3ee5fda9f2ff1b71,Cuerpo a cuerpo
+lua_menu/the_east,KORTAC
+lua_menu/thermal,Térmica
+lua_menu/thermal_norm,Normal
+localize_576aff450549a56e,Nivel: &&1/&&2
+lua_menu/time_remaining,TIEMPO RESTANTE:
+lua_menu/title_perk,Ventaja
+lua_menu/title_perks,Ventajas
+localize_5263d9cebb2462e8,En seguimiento y casi completo
+lua_menu/tutorial_leave,"Si abandonas la partida, terminará."
+localize_78ce530f65ef8577,Desbloquear en Call of Duty® : Modern Warfare II
+localize_78ce520f65ef83c4,Desbloquear en Call of Duty® : Modern Warfare III
+lua_menu/unmute,ESCUCHAR
+localize_1e272c3c014d638e,Usar filtros para ver la lista.
+lua_menu/versus,VS
+lua_menu/view_profile,Ver perfil
+lua_menu/warzone_caps,WARZONE
+lua_menu/weapon_conflict,Exceso de medios ya equipado en el arma &&1
+lua_menu/weapons,Armas
+lua_menu/weapstats_accuracy,Precisión
+lua_menu/weapstats_damage,Daño
+lua_menu/weapstats_mobility,Movilidad
+lua_menu/weapstats_range,Alcance
+lua_menu/weapstats_rof,Cadencia
+lua_menu/weaptype_br,Fusiles de combate
+lua_menu/weaptype_dmr,Fusiles tácticos
+lua_menu/weaptype_handguns,Pistolas
+lua_menu/weaptype_launchers,Lanzadores
+lua_menu/weaptype_lmg,Ametralladoras ligeras
+lua_menu/weaptype_melees,Cuerpo a cuerpo
+lua_menu/weaptype_shotgun,Escopetas
+lua_menu/weaptype_single_launcher,Lanzador
+lua_menu/weaptype_single_melee,Cuerpo a cuerpo
+lua_menu/weaptype_smg,Subfusiles
+lua_menu/weaptype_sniper,Fusiles de precisión
+lua_menu/wz_tutorial_reward_popup_hint2,"Los proyectos de arma se pueden equipar en el arsenal, en la pestaña de armas.
+
+Puedes obtener nuevos proyectos en el Pase de batalla o comprarlos en la tienda cuando estén disponibles."
+lua_menu/x_of_y,&&1/&&2
+localize_496f18cfde572d9d,[{ui_unlocked}] &&1/&&2
+localize_31b4d7bfba4a9cf4,&&1 / &&2 JUGADORES LISTOS
+lua_menu/yes,Sí
+localize_4eb25bd4db04436e,No lideras el grupo
+lua_menu/you_are_party_leader,Eres el líder del grupo
+localize_2072814040bbf438,"Lideras el grupo
+^3^BAdvertencia^#^R: todavía hay varios compañeros jugando."
+lua_menu/you_are_party_member,Eres miembro del grupo.
+localize_36a120476e085181,"Eres miembro del grupo
+^3^BAdvertencia^#^R: todavía hay varios compañeros jugando."
+lua_menu/you_p1,J1
+lua_menu/you_p2,J2
+localize_1c3e5f4ad82ed6c6,Cargando mapa
+lua_menu_cp/relic_header,Modificadores:
+localize_1907417433a3fb47,Todos los camuflajes
+localize_49967b59c996833e,Puntuación del equipo
+localize_5486bc82cca010b6,Estás a punto de cancelar la búsqueda de partida. ¿Quieres continuar?
+localize_11c2634c0eeb111b,Cancelar búsqueda de partida
+localize_31100560186d69a,Continuar el juego
+localize_f8dfbe5e0415579,Salir del juego
+localize_433b57ca4df397c4,¿Deseas continuar al menú principal?
+localize_2d552888fd840640,Cargando partida
+localize_3ad06da773db2fb1,Oprimir dos veces para enviar
+localize_4e1e4d62bf24f921,¡La partida está iniciando!
+localize_1e3160b446f7ef00,Estado de la partida
+localize_11ea42d4543c75d6,Alterar un proyecto eliminará todos los ajustes tuyos y del fabricante. ¿Quieres continuar?
+localize_51365fbe0e3303fd,MANUAL
+localize_598ea58d70e2ee9b,&&1 - &&2
+localize_fa45b3f81bee136,"Eres parte de un grupo, abandonar el juego te eliminará de tu grupo actual.
+
+¿Confirmas que quieres abandonar el juego y el grupo?"
+localize_205f8befa43f3c1f,Misiones activas completadas
+lua_menu_mp/apache_time_remaining,Tiempo restante
+lua_menu_mp/arena,Tiroteo
+lua_menu_mp/br_credits_memoriam,EN MEMORIA DE
+lua_menu_mp/cannon_rounds,Munición
+lua_menu_mp/conf,Baja confirmada
+lua_menu_mp/contracts,Contratos
+lua_menu_mp/crates_count,x&&1
+lua_menu_mp/cruise_rdy,PREP
+lua_menu_mp/death_details_attacker_unknown,(No identificado)
+lua_menu_mp/deathmatch,Contra todos
+localize_3016b1fbe81fe194,&&1 / &&2 Misiones seleccionadas
+lua_menu_mp/enable_cursor_prompt,[{enable_cursor}] Activar cursor
+lua_menu_mp/engine_failure,Fallo del motor
+localize_7fec8b1ab81d1755,&&1 Usar &&2
+localize_4691a7106138c3ae,Manejo
+lua_menu_mp/hardcore_game_type,&&1 Extremo
+lua_menu_mp/health,SALUD
+lua_menu_mp/hydra_rockets,Cohetes Hydra
+lua_menu_mp/infected_team,Infectados
+lua_menu_mp/killstreak_exe,rachadebajas.exe
+lua_menu_mp/loss_stat_prevented,Derrota no registrada. Unido a partida en curso.
+localize_29908b333647d894,Borra un arma guardada de tu armería &&1
+lua_menu_mp/missile_locking,Fijación de misil
+lua_menu_mp/most_kills,Bajas máximas
+lua_menu_mp/most_successful,Con más éxito
+lua_menu_mp/most_used,Más usado
+localize_b1468f02032487f,Movimiento desactivado
+localize_668f5740a4285d38,&&1 / &&2 Misiones seleccionadas
+localize_48e9cb5f0c003e67,Ventaja 1
+lua_menu_mp/perk_slot_one_short_caps,VENTAJA 1
+localize_66fdfa594fab938b,Ventaja 3
+lua_menu_mp/perk_slot_three_short_caps,VENTAJA 3
+localize_fe9545f7ca5c731,Ventaja 2
+lua_menu_mp/perk_slot_two_short_caps,VENTAJA 2
+localize_1b2afe526d5fb271,Volviendo al menú principal
+lua_menu_mp/play_again_squad_confirm_message,decidió permanecer con el equipo.
+lua_menu_mp/play_again_squad_count_down,Volver a jugar en ^5&&1^7 s
+lua_menu_mp/play_again_squad_host_vote,^5LÍDERAS^7 el grupo. Votas por todos.
+lua_menu_mp/play_again_squad_locked,La opción no está disponible
+lua_menu_mp/play_again_squad_match_start,Lanzando una nueva partida en ^5&&1^7 s
+lua_menu_mp/play_again_squad_match_start_now,Comenzando nueva partida
+lua_menu_mp/play_again_squad_waiting_host,Esperando al host: &&1
+localize_72ebfb47a8145409,Jugar otra vez con el pelotón
+localize_15eef9291e250b4,Votos
+localize_4626ba51b6bb9a89,Volver a jugar con el equipo
+localize_18412e95d403e189,¿Volver a jugar con el equipo?
+localize_4a7df0e51076e7d4,^?#x0eeaf2060abe5269b.#x0925ecdac112ddec6^&&1^7 / &&2
+lua_menu_mp/progress_total,&&1 / &&2
+lua_menu_mp/purchase,Comprando...
+lua_menu_mp/realism_game_type,Realista &&1
+lua_menu_mp/rules_jugg_spawn_attackers,Atacantes
+lua_menu_mp/rules_jugg_spawn_defenders,Defensores
+lua_menu_mp/rules_multiplier,x &&1
+lua_menu_mp/rules_team_size_1,Individual
+lua_menu_mp/rules_team_size_2,Dúos
+lua_menu_mp/rules_team_size_3,Tríos
+lua_menu_mp/rules_team_size_4,Pelotón
+localize_2688d1d57b7905c5,Guardar arma
+localize_61f3ff546eedc481,Guardar en armería &&1
+localize_5dbeb0c43ecc2224,Espacios en uso para armas guardadas: &&1/&&2
+lua_menu_mp/scorestreak_map_dispatch,Enviar [{+attack}]
+lua_menu_mp/scorestreak_map_rotate,Rotar [{right_stick_centered}]
+lua_menu_mp/scorestreak_pc_map_rotate,Rotar &&1
+localize_6dc2e31c6a7ae002,Guerra de nieve
+localize_4da151ab610e7ead,P&&1 &&2
+lua_menu_mp/squad_fill,Llenar pelotón
+localize_6e0e16442e55f73,Totales del pelotón
+localize_5789116f2947f0ee,MANTENER 
+localize_321a5ce101b95e07,"&&1 Hackear las cámaras corporales del enemigo
+"
+localize_19385216c635d5be,Desplegando señuelo.
+localize_36297379d7b43789,"&&1 
+Colocar &&2"
+lua_menu_mp/survivors_team,Sobrevivientes
+localize_43befd9d173eb60d,Antiblindaje
+localize_7e323df0fb25995,Equilibrado
+localize_395b322693856d8f,Comando
+localize_6db18ea9d00f8819,Apoyo de fuego
+localize_27bdef13047555ca,Fantasma
+localize_587ab44fc1e4c7c6,Desenfundado rápido
+localize_5f00594cb871366e,Francotirador
+localize_7fdd17c1e794044,Sigilo
+localize_35b293816ccf21a1,Tanque
+localize_3f1a338d0f3d618b,Tiroteo por equipos
+localize_4fd0f6456138e79d,Partidas de combate estrecho por múltiples rondas. El primer equipo en alcanzar el límite de victorias por ronda gana.
+lua_menu_mp/time_to_beat_empty,-:--
+lua_menu_mp/time_to_beat_format,&&1:&&2
+lua_menu_mp/unlock_level,Se desbloquea en el nivel &&1
+localize_7c3615273e7d24d2,Vehículo deshabilitado
+lua_menu_mp/wheelson_online,Tan-Tor en línea
+lua_menu_mp/your_squad,Tu pelotón
+localize_546471062094071a,Decidiste quedarte
+lua_menu_pc/desc_igr_xp_bonus_tip,&&1 % de experiencia en el modo cibercafé.
+lua_menu_t10/zm,Zombis
+localize_7df3dbdff8c67980,"&&1, &&2"
+localize_2cb21b46903fab02,Armas asombrosas
+menu_sp/survival_highest_round,Ronda más alta
+localize_2c3e296a567bdc38,Ubicación de objetivo: &&1
+localize_1b6bbc60dc08ea21,Pasar a la siguiente ronda
+localize_34f4448b7120f326,Todos los prisioneros se rescataron
+mp/arena_overtime_loss,El equipo enemigo capturó la bandera de tiempo extra
+mp/arena_overtime_win,Tu equipo capturó la bandera de tiempo extra
+mp/arena_time_health_loss,El equipo enemigo tiene más salud
+mp/arena_time_health_win,Tu equipo tiene más salud
+mp/arena_time_lives_loss,El equipo enemigo tiene más jugadores con vida
+mp/arena_time_lives_win,Tu equipo tiene más jugadores con vida
+mp/arena_tournament_tie_loss,El equipo enemigo tiene mejores estadísticas de partida.
+mp/arena_tournament_tie_win,Tu equipo tiene mejores estadísticas de partida.
+mp/bomb_defused,Bomba desactivada
+localize_6e9e52cc901075ba,0&&1:&&2
+mp/br_ammo_ar_lmg,Asalto/Ametralladora
+mp/br_ammo_launcher,Lanzacohetes
+mp/br_ammo_pistol_smg,Pistola/Subfusil
+mp/br_ammo_shotgun,Escopeta
+mp/br_ammo_sniper,Fusil de precisión
+localize_10f591b46706ca44,Placa: &&1
+mp/br_eliminated,Te eliminaron
+localize_46a7ce872ea4c1f5,Campeones de Warzone
+localize_102e5453930c309f,Salvador de Warzone
+mp/br_plunder_cash_hud,$ &&1
+mp/br_plunder_cash_hud_in_thousand,$&&1K
+mp/br_type_lm_minigun,Cañón automático
+localize_5035a7ae11053304,Soldado desconocido
+mp/breaching,Entrando...
+mp/capturing,Adquiriendo...
+localize_4afa10e2bc30ca1d,El equipo enemigo capturó todas las zonas
+localize_78ea7604c04fa0c,Tu equipo capturó todas las zonas
+mp/cranked,Frenético
+mp/cranked_with_timer,&&1:&&2
+mp/cyber_tie,LÍMITE DE TIEMPO ALCANZADO: AMBOS EQUIPOS PUNTÚAN
+mp/defeat,Derrota
+localize_15f7ad6808ce509e,Desactivada
+mp/defusing_explosive,Desactivando...
+mp/dmz_plunder_loss,El equipo enemigo llegó al límite de efectivo antes
+mp/dmz_plunder_win,¡Tu equipo llegó al límite de efectivo antes!
+mp/dom_force_end,Banderas no tomadas en el tiempo disponible
+mp/draw,Empate
+mp/ended_game,Partida finalizada
+mp/enemies_eliminated,Los enemigos han sido eliminados
+mp/enemy_disconnected,El equipo enemigo se desconectó
+mp/enemy_forfeit,El equipo enemigo se rindió
+localize_1677eba285b2c45,&&1 ELIMINADO
+mp/faction_enemies_forfeited,Los enemigos se han rendido
+localize_25ee39e5a3fb7ad9,&&1 RENUNCIÓ
+localize_6b2103c113c0bc58,Eliminaron a tu equipo.
+mp/hacking_explosive,Hackeando...
+mp/host_ended_game,El host terminó la partida
+localize_266923f76a2748db,Cómo ganar
+mp/intermission,Intermedio
+localize_25f16e64ddae1c4e,El equipo enemigo tenía más jugadores en pie
+localize_240ec6a73b1ac6f5,Tu equipo tenía más jugadores en pie
+localize_2dcfcb10fc6909aa,Un punto para ambos equipos.
+localize_80f2832bd9bc813,El equipo enemigo retuvo el efectivo durante el tiempo requerido
+localize_6862ea93bdff4aa,Tu equipo retuvo el efectivo durante el tiempo requerido
+localize_480a4c5431ccd0fd,El equipo enemigo retuvo el efectivo en el límite de tiempo
+localize_40ce4319593e5b6c,Tu equipo retuvo el efectivo en el límite de tiempo
+mp/mark_resistant,Objetivo resistente al marcado
+mp/marking_equipment,Marcando para el equipo...
+localize_2b1058e6d18239e5,La partida se cancelará en: &&1
+mp/match_in_progress,Partida en curso
+mp/match_point,Punto decisivo
+mp/match_tie,Es un empate
+mp/mercy_loss,DEFCON: El enemigo mantuvo todos los objetivos
+mp/mercy_win,DEFCON: Mantuvimos todos los objetivos
+mp/normal,Normal
+mp/nuke_end,BOMBA NUCLEAR DETONADA
+localize_f8619175271164d,o
+mp/outpost_defended,Defendiste el puesto
+mp/percent,&&1 %
+localize_3556e9143eac1d5c,Colocada
+mp/planting_explosive,Colocando...
+mp/players_forfeited,Los jugadores se rindieron
+mp/plus,+
+mp/practice_round_over,Ronda de práctica finalizada
+mp/round_killcam,BAJA FINAL
+mp/round_limit_reached,Límite de rondas alcanzado
+mp/round_loss,Ronda perdida
+mp/round_win,Ronda ganada
+localize_6c7b1c73a1c54a9f,Saboteando...
+localize_370dd5c3324d5344,Guardar y terminar partida
+mp/score_limit_reached,Límite de puntos alcanzado
+localize_58115e3f8ed703db,El servidor abandonó
+mp/siege_all_flags_loss,El equipo enemigo capturó todas las banderas.
+mp/siege_all_flags_win,Tu equipo capturó todas las banderas.
+mp/siege_force_end,Ninguna bandera tomada; la partida finalizó
+mp/siege_time_flag_loss,El equipo enemigo tiene más banderas.
+mp/siege_time_flag_win,Tu equipo tiene más banderas.
+mp/survivors_elmiminated,Sobrevivientes eliminados
+mp/switching_sides,CAMBIO DE BANDO
+mp/target_destroyed,Objetivo destruido
+localize_51c9a138d407a80e,&&1 ^FHitmarkerNormalRegular.ttf^^?#x0c3e789db0a12e313.#x0597b2abe3fabacf1^x &&2
+localize_25f5a4a5b161ccd9,^FHitmarkerNormalRegular.ttf^^?#x0c3e789db0a12e313.#x0597b2abe3fabacf1^&&1 x ^R^?#x0eeaf2060abe5269b.#x0925ecbac112ddb60^&&2
+localize_788a1af2e8102282,&&1 ESTÁ DEFENDIENDO
+localize_39ab897718aa36ca,&&1 ESTÁ DEFENDIENDO - MAYORÍA DE BAJAS CONSEGUIDAS
+localize_73ccde1158d893,&&1 ESTÁ DEFENDIENDO - MAYORÍA DE ZONAS CAPTURADAS
+mp/thermal,Térmica
+mp/time_limit_reached,Límite de tiempo alcanzado
+mp/time_to_beat,TIEMPO A BATIR
+mp/time_to_beat_ctf_loss,No conseguiste capturar dentro del límite de tiempo.
+mp/time_to_beat_ctf_win,Menor tiempo de toma
+mp/time_to_beat_uplink_loss,No conseguiste cargar el satélite en el tiempo disponible.
+mp/time_to_beat_uplink_win,Menor tiempo de carga
+mp/victory,Victoria
+mp/waiting_for_players,Esperando jugadores...
+mp/win_by_two_tie,Ningún equipo con dos rondas de ventaja
+mp/zoom_x1,Zoom x1
+mp/zoom_x8,Zoom x8
+mp_accolades/trophysystemhits,"No, gracias"
+mp_arm/mercynuke_defcon,DEFCON
+mp_arm/mercynuke_losing,LAS BANDERAS SON ENEMIGAS
+mp_arm/mercynuke_winning,LAS BANDERAS SON NUESTRAS
+localize_608dceb5315aae98,Bomba DEFCON en camino
+localize_6a4b571d59ce8276,Muchos equipos tienen &&1 o más banderas
+localize_430e7eaa353eb79b,El equipo enemigo tiene &&1 banderas.
+localize_783239f5be6c1f93,Tenemos &&1 banderas
+localize_142e4d2f51867cb8,REPARANDO...
+localize_5db79a42b02095a6,Evitado
+localize_23e4dc4f59e8bca7,^?#x0eeaf2060abe5269b.#x04fc5e4e1e4153b89^MOCHILA GRANDE   ^?#x0eeaf2060abe5269b.#x0925ecbac112ddb60^&&1
+localize_552df0bc6f79424f,^?#x0eeaf2060abe5269b.#x04fc5e4e1e4153b89^MOCHILA MEDIANA   ^?#x0eeaf2060abe5269b.#x0925ecbac112ddb60^&&1
+localize_7a60cdaca6374509,^?#x0eeaf2060abe5269b.#x04fc5e4e1e4153b89^MOCHILA DE CARROÑERO   ^?#x0eeaf2060abe5269b.#x0925ecbac112ddb60^&&1
+localize_6b87d208c7387401,^?#x0eeaf2060abe5269b.#x04fc5e4e1e4153b89^MOCHILA ASEGURADA   ^?#x0eeaf2060abe5269b.#x0925ecbac112ddb60^&&1
+localize_6f6aa8d4a6cd079f,^?#x0eeaf2060abe5269b.#x04fc5e4e1e4153b89^MOCHILA PEQUEÑA   ^?#x0eeaf2060abe5269b.#x0925ecbac112ddb60^&&1
+localize_20a306c1f2db0f6d,TRUEQUE
+localize_5246c888d3d58ad7,Usa los objetos que tengas para intercambiarlos por otros especiales y de más valor.
+localize_21a3ea1872f0bd4c,Disponible para cambiar: &&1
+localize_67f6d5bbd43477e5,Reanimando con torniquete
+localize_4fcdb601ea44bb5e,Llaves disponibles: &&1
+localize_72fff005217f0d8c,CONFIDENCIAL
+localize_5df532b00be084f4,Obtén una tarjeta de los escáneres biométricos para acceder.
+localize_e313f9291a6d75a,Misión
+localize_7ecbb9c9fccae347,cumplida
+localize_1f508210244d4484,Puesto
+localize_30e7884b15ebe0e4,completada
+localize_378ed2e0385b2c6e,$ &&1 MM
+localize_67ec7be575f83b10,¡Ganaste
+localize_247b6286b49fbfe5,Warzone!
+localize_16ce25dc215d600a,Gasta efectivo para comprar las armas de contrabando que hayas desbloqueado con tu progreso de jugador.
+localize_62791c8f984595cf,EQUIPO
+localize_39dbe2e1d8422c41,Gasta efectivo para comprar objetos con un inventario limitado. Cada estación de suministros que visites en el mapa incluirá diferentes objetos.
+localize_63cf4cdfdb91d4fa,Gasta esencia para comprar objetos y mejoras. Las estaciones de suministros de las zonas más peligrosas contienen objetos más poderosos.
+localize_206c6052b74b1c62,Objetos del inventario: &&1
+localize_323d701fc44761a5,ARMAMENTOS
+localize_1bb75443f8e01daf,^?#x0eeaf2060abe5269b.#x0925eceac112de079^Gasta ^?#x0eeaf2060abe5269b.#x0925ecbac112ddb60^$ &&1^?#x0eeaf2060abe5269b.#x0925eceac112de079^ y compra tus armamentos personalizados y predeterminados.
+localize_291556e3e3b315a4,Armamentos disponibles: &&1
+localize_2df983f5e4beb89d,INSUFICIENTE PARA EL REDESPLIEGUE
+localize_13c08510dee6c815,^W1^ Tienes: &&1
+localize_311aaf4576d3d27b,[{ui_alt1}] Redesplegar
+localize_40916c2f17574ff7,[{ui_alt1}] Redesplegar a todos
+localize_4ef8aa73791863d9,ARMAS
+localize_283ac513e7a1fb73,Gasta efectivo para comprar las armas que hayas desbloqueado con tu progreso de jugador.
+localize_1ebb9e620c2c60a8,Armas disponibles: &&1
+localize_2ea9bd92222ab1ae,Cancelar contrato
+localize_3c4968a522c42d12,Mantén para cancelar el contrato
+localize_19453308182b2b72,¿Canjear kit de redespliegue por ^-&&1^7?
+localize_4c8453d837bce013,Cierre de círculo
+localize_654e936fbb500102,Completado
+localize_4413e8c1a40cf3a8,Contenedor
+localize_7891c156f80cbde3,CONTRABANDO
+localize_496c9b33fef95d13,Contrato
+localize_19c0a6d3928b9e86,&&1/&&2 operador(es) solicita(n) cancelar el contrato.
+localize_3f13870c686dd9b,SIGUIENTE BONIFICACIÓN: &&1 %
+localize_71921938df7b21ca,BONIFICACIÓN MÁX.: &&1 %
+mp_br_ingame/contract_type_combat,Combate
+mp_br_ingame/contract_type_location,Lugar
+mp_br_ingame/contract_type_looting,Saqueo
+localize_113eae82bdec6c6c,X&&1
+localize_738a316cdfbab8cc,Pelotón aniquilado. Pasas a observar.
+localize_1b06b4aecb25274d,Pelotón eliminado
+localize_418a6282b84272f8,Despliegue en:
+localize_21136cab8dd1d100,Munición de ametralladora ligera / fusil de asalto
+localize_400823fd98471258,Munición de lanzador
+localize_3cbf4d15146d58e1,Munición de pistola / subfusil
+localize_715834080d1b96d2,Munición de escopeta
+localize_54455792add31483,Munición de fusil / fusil táctico
+localize_6c18089bb23ce0f8,Extracción exitosa
+localize_a7ee6cbd7c76244,¿Quieres intercambiar la ^-tarjeta del escáner biométrico^7?
+localize_2f8574d381651395,¿Quieres adquirir ^-&&1^7 por ^.$ &&2^7?
+localize_6a3a44a6809ce3b,¿Quieres redesplegar a ^-&&1^7 por ^.$ &&2^7?
+mp_br_ingame/dollar_val,$ &&1
+mp_br_ingame/drill_safe,Perforar caja fuerte
+localize_182f550d14aab62d,Eliminado
+localize_520184fff01639a8,Espectador
+localize_2ab424aec407be90,// Warzone &&1&&2 Puesto
+mp_br_ingame/enemy_squad,Pelotón enemigo
+localize_3239e309c153b4d9,Enemigo eliminado
+localize_d90245c5bbf295a,Extracción exitosa
+localize_7c7bdb26aa392ff7,Abandonar partida
+localize_48328c94d25d138d,^W1^ CAPACIDAD MÁXIMA
+localize_eb6f334f97892f7,Gulag
+localize_42a21c03fb8f70f8,CERRADO
+localize_5e0170ee9451cb6f,GULAG CERRADO
+localize_330cae34c310cb20,No tomes prisioneros.
+localize_487ab7f6598e94f9,Te están transportado al Gulag.
+localize_357b4fe4d914190e,Capturado
+localize_6b6b7b3aa2f79955,Prisionero de Verdansk
+localize_6b6b783aa2f7943c,Prisionero de Vondel
+localize_55703796542bae5c,Regresa a la pelea
+localize_7c488f7afe8835dd,LIBERACIÓN
+localize_6447c2b26ec84e9c,≈ $ &&1
+localize_61da2c85ffe8f8f3,Mantén para saquear
+localize_3ad72cf8b37f7c65,Cazado
+localize_217872784a6d7d17,Resurgimiento infinito
+localize_595e96309ae7bc09,Resurgimiento infinito te trae a ti o a tus aliados de vuelta a la vida si se cumplen las condiciones del modo de juego.
+localize_7c59ade3a96590c9,∞
+localize_67bc4651046dea88,Redespliegue
+localize_7b2d2b9cd097fa17,Autorredespliegue
+localize_7c82f703a8181309,"Para redesplegarte automáticamente al morir, ten al menos &&1 en tu inventario."
+localize_10d266812757675d,[{ui_primary}] Soltar
+localize_5c56f1a2fab4d108,[{drop}] Soltar todo
+localize_7a2c7c3e80352a20,[{ui_primary}] Soltar todo
+localize_6e9f7dccc3f86346,[{drop}]Soltar
+localize_dad26be532580a4,[{ui_alt1}] Equipar
+localize_11923ecead247e3b,[{move_item}] Equipar
+localize_79a409a3de22a1c9,Inventario
+localize_6e4b446173a37968,[{+actionslot 2;inventory_show}]
+localize_3252cff675848394,[{ui_secondary}]
+localize_4d93231c8329f43e,Cerrar
+localize_1a96114b0a7477c8,[{+actionslot 2;inventory_show}] Cerrar
+localize_13468e7b543ae6fb,Mochila [llena]
+localize_1acb3b8f1450300b,[{+actionslot 2;inventory_show}] Inventario
+localize_5c04fecdb20b88dd,[{ui_alt1}] Mover
+localize_7fb43d8f8c195cc6, Mover
+localize_524eaaf75bc641eb,[{ui_alt2;request_item}]
+localize_39f6105901738715,[{ui_alt1}] Guardar
+localize_55fe1228f7d98cce,[{move_item}] Guardar
+localize_144bd189bce91395,[{ui_alt1}] Mochila
+localize_6392f8f68f1c214e, Mochila
+localize_5b3d2db60970edea,Mejora de mochila
+localize_2b1b2da6380f3355,Botas
+mp_br_ingame/item_type_cache,Contenedor de botín
+localize_ad879e6dd758b5b,Reanimar
+localize_5c3f2055655be19,Objeto
+localize_60907e116bb99bb1,Operación: Flecha rota
+localize_2a04739385bb1a64,Equipamiento
+mp_br_ingame/item_type_gear,Protección contra el gas
+localize_78f96348272e2862,Guantes
+mp_br_ingame/item_type_health,Protección de combate
+localize_7543dd5501fb5cd1,Casco
+mp_br_ingame/item_type_key,Llave
+mp_br_ingame/item_type_killstreak,Racha de bajas
+mp_br_ingame/item_type_last_stand,Última batalla
+localize_6af28f3a8fba8159,Objeto de misión
+localize_3b95cf8532bb89e0,Ventaja
+localize_7d5cccc4613524f,Chaleco
+localize_3e1567c16186cd2d,Otorga todas las ventajas
+mp_br_ingame/item_type_super,Mejora de campo
+localize_65ac1e6ca0f1eac1,Especial
+localize_6e8058431ad5654a,GRATIS
+mp_br_ingame/kiosk_item_redeploy_desc,Elige un lugar en el mapa para redesplegarte.
+localize_4d5423c0b4e8dce0,Redesplegar
+localize_465ebadd9a81b3de,Asesino
+localize_7fa5df4199b78f94,Leyenda
+localize_6f2c44c408d8cac5,Caja de élite
+localize_1d3c8eb0963f14c9,// Puesto de Warzone &&1&&2
+localize_4755bcc64dc198d8,Puesto &&1&&2
+localize_5a2ce006067b8f52,[{ui_alt2;+cancel_contract_or_toggle_legend}] Cancelar contrato
+localize_4c06f1a53a2c30e4,Elige una ubicación para redesplegarte.
+localize_5f8d1102c45d3778,Zoom: &&1 %
+localize_69cd9dc31214f9f7,[{ui_shoulder_left}] [{ui_shoulder_right}]
+localize_3e85cb7e26ce2e74,[{ui_secondary}] [{ui_alt2}]
+localize_7b93be87021f6f0,Gana una partida en el Gulag. Vuelve a la zona de guerra.
+localize_380796ca130d65cf,Se canjea al finalizar el 4to círculo.
+mp_br_ingame/mission_reward_cash,$ &&1
+localize_4cf914e45aeb7683,Temporizador de misión
+localize_2d9791c56bdfde8,¡Contrato cumplido!
+localize_41797fcf985ab130,Contrato iniciado
+localize_644c8f6c60949b93,Objetivo completado
+localize_5ab2f80d5b3f1e0a,solicitado
+localize_408bafc12430c131,OBJETOS GRATIS RESTANTES ^.&&1^0
+localize_654ac258b96d8f83,¡Redesplegar!
+localize_5247f62e40525819,Abrir
+localize_58cbbb30a7713938,Mostrar marcador
+localize_29a6fa0f8cd86680,^W1^ AGOTADO
+localize_5249ccf1a58b655f,Paquetes de ventaja
+localize_2b5b3b93aec99af1,Gasta efectivo para comprar paquetes de ventaja.
+localize_5215fa112c9f6fd2,Paquetes de ventaja disponibles: &&1
+localize_4f9572236b8175ba,"[{+ping,+actionslot 1}]"
+localize_7a826a56c4d304c3,&&1&&2 Puesto
+mp_br_ingame/plea_for_help,Llamada de socorro
+localize_78185b9f7a1b1147,El compañero elegido ya regresó a la acción.
+localize_1510cbfcb76ee88a,El compañero elegido ya se está redesplegando.
+localize_43929e1238e675e9,Nada necesita reabastecimiento.
+localize_6ebcf03e01a712f8,El compañero de pelotón seleccionado no se puede elegir para el redespliegue.
+localize_1bbfbfad8b38497d,Mejora de campo en uso
+localize_1b9ab9ad8b19230e,Racha de bajas en uso
+localize_29055798238a226d,Ya tienes este objeto.
+localize_1b89bfad8b0aba0d,Mejora de vehículo ya equipada.
+localize_31606e394dab9c95,No se puede adquirir: inventario lleno
+localize_135112f580583654,Aún hay una mejora de campo activa.
+localize_103b73aabd529663,Ubicación no válida
+localize_3c198fc4f931f7d9,El sistema Trophy del vehículo ya tiene la munición al máximo.
+localize_3bee693fb26f5ca7,Fondos insuficientes
+localize_ba96fa8dacca90f,El redespliegue ya no está permitido.
+localize_6a6d85e21d1a05be,No se puede localizar el compañero de pelotón seleccionado para el redespliegue.
+localize_5879da7164b0c38d,Stock insuficiente.
+localize_cdc7dc565b9caba,No tienes un kit de redespliegue.
+localize_549cef7e1b4c5344,Ya la tiene tu pelotón.
+localize_694d43dde1add209,Ya lo has comprado. Solo se permite una compra.
+localize_4f475090873031d3,La salud del vehículo ya está al máximo.
+localize_9386d81cbe28400,Tu camión blindado sigue operativo.
+localize_25388ff62f0c09f,El equipo enemigo llegó al objetivo de efectivo.
+localize_152f3e42736cc328,Redespliegue de saqueo
+localize_465a69f61e36cd1c,¡Tu equipo llegó al objetivo de efectivo!
+localize_982709a6d298b9d,¡Victoria por efectivo!
+localize_62158b2517c02779,Escalfado
+localize_356ca0812b09edbb,Puntos de interés
+localize_522178c285d6553c,Protege a:
+localize_3e97385ea3c10780,Caja fuerte
+localize_1824c515a87d8267,Gulag
+localize_1d8e36f287c517c8,Te liberaste. Regresa a la pelea.
+localize_7a4acc2192d4d825,"Resurgimiento te redespliega a ti o a tus aliados, si al menos un miembro del pelotón sobrevive la cuenta regresiva."
+localize_5205b4a131865229,Resurgimiento te traerá de vuelta si sobrevives la cuenta regresiva al redesplegarte.
+localize_170672f203d29cbc,^W1^ Reemplazará &&1
+localize_7cee234d8d4d8382,Solicitar
+localize_621fdb31d83bfb64,[{ui_alt2;+ping}] Solicitar
+localize_1bc1441de2613abc,Rescate
+localize_171eff6efb4e1d58,Redespliegue adquirido por equipo.
+localize_3dd1242b4e050891,Usaste tu kit de redespliegue.
+mp_br_ingame/respawn_splash_title,Redesplegando
+mp_br_ingame/respawn_token,Kit de redespliegue
+localize_1d14130766efc1e9,Un compañero usó su kit de redespliegue en ti.
+localize_578697827809d351,DESACTIVADO
+localize_5af676942b91dfc6,Resurgimiento
+localize_db0091b4468272a,¡Los aliados pueden reducir tu cuenta regresiva!
+localize_79e4056cfcac2c6a,DESCODIFICANDO...
+localize_728d9c874d6c74f5,Vender
+localize_b629b9cf094eb3b,Vende los objetos de valor que tengas en tu mochila y recibe efectivo.
+localize_18bc14ef62495e50,"Total de los objetos de valor: ^3$ &&1^0
+"
+localize_3611923c185d815,"[{+usereload,+activate}] Ir al Gulag"
+localize_972169bdd5af725,"Mantén [{+usereload,+activate}] para redesplegar"
+localize_4c25e0d90e71318e,Objeto especial
+mp_br_ingame/stronghold_kiosk_available,Entrar a tu armamento
+localize_16ad31fd80fd5c51,Ya entraste a este armamento
+localize_502ab2f102fc0ca6,Elimina a enemigos para tener acceso a tu armamento
+localize_2a8d4a45c4337579,Pelotón reposicionándose
+localize_6f5b7f34f473f557,Enviado al Gulag
+localize_d1a9f1b54cf32aa,Pelotón aniquilado
+localize_4614ca274d0cee4b,Total completado: &&1
+localize_2d2bfab9b474710f,&&1
+localize_6df2b633685b86df,INTERCAMBIANDO ARMA...
+localize_4e6886b2dac6db7d,MEJORAR ARMAS
+localize_125c3e855e9958c7,Gasta efectivo para comprar accesorios que mejoran tus armas. Cualquier accesorio obtenido en el mundo se puede equipar gratis.
+localize_4b5f61268481613c,Armas disponibles para mejorar: &&1
+localize_430df8d81114fd5d,"[{+usereload,+activate}]"
+localize_ac620eca76c4324,Vehículos
+localize_1f4b5d26e553f484,VENDEDORES CERRADOS
+localize_3f200fd8b26fb047,Tu pelotón dominó Warzone
+localize_1607b3e948423671,// Victoria en Warzone
+localize_3f7497307fb4bf10,Victoria
+localize_d86e3e1d4709826,Esperando despliegue
+localize_45164620ca29adb5,Esperando a más jugadores...
+mp_br_ingame/work_bench,Mesa de trabajo
+localize_4e959f8fc0db8bae,[{ui_select;togglemap}] Abrir mapa táctico
+mp_chyron/br_arm4,ARM-4
+mp_chyron/br_gulag_chyron_1,Elimina al enemigo para reaparecer.
+mp_chyron/br_gulag_chyron_title,PELEA EN EL GULAG
+mp_chyron/br_infil_title,Armisticio
+localize_3c00a201f9f757ec,"""Operación: desgarramiento rápido"""
+mp_chyron/mp_vacant_allies_3,"Verdansk, Kastovia"
+mp_chyron/rng_datetime,"Día &&1, &&2:&&3:&&4"
+localize_5b52a197721a21ad,Sobrevive por el tiempo restante.
+mp_dmz_missions/opening_safe,Perforando caja fuerte
+mp_frontend_only/waiting_for_dedicated_server,Esperando al servidor dedicado
+mp_gamemodes/rescue_attacker_goal1,"Extrae o recupera a un prisionero
+^'+100 por prisionero^7"
+mp_ingame_only/death_details_overflow,&&1+
+mp_ingame_only/hackexe,hackear.exe
+mp_ingame_only/obj_capturing_caps,CAPTURANDO
+mp_ingame_only/obj_defend_caps,DEFENDER
+mp_ingame_only/obj_defending_caps,DEFENDIENDO
+mp_ingame_only/obj_defending_caps_n,DEFENDIENDO &&1
+mp_ingame_only/obj_defusing_caps,DESACTIVANDO
+mp_ingame_only/obj_planting_caps,PLANTANDO
+mp_ingame_only/obj_retreat_caps,RETIRARSE
+mp_ingame_only/obj_securing_caps,ASEGURANDO...
+mp_ingame_only/obj_securing_caps_n,ASEGURANDO &&1
+localize_49c6f4b38ae54165,No se puede adquirir: inventario lleno
+localize_523f47f5387cc288,Solicitar tregua
+localize_587545c098003515,DEFCON EN DISPUTA
+localize_100c186dd5c0d4b0,CAPTURA LOS OBJETIVOS ENEMIGOS MARCADOS
+localize_69c8e69c76a0053a,CAPTURA LOS OBJETIVOS MARCADOS
+localize_6317af758dd61d38,DEFIENDE NUESTROS OBJETIVOS
+mp_ingame_only/searching_body,Registrando cuerpo...
+mp_ingame_only/target_hacked,Objetivo hackeado
+localize_7a74f8e1c091b496,Descanso &&1
+mp_patch/using,Jugando...
+localize_6f5a507142e02d98,Permitir que ^9&&1^7 se una a tu pelotón
+localize_28c3244d0f0a87a3,Unirse al pelotón de ^9&&1^7
+mp_ping_ingame/assim_enemy_join,Solicitar unirse a un pelotón enemigo cercano
+mp_ping_ingame/assim_friendly_join,Invitar a los jugadores cercanos a unirse a tu pelotón
+mp_ping_ingame/assim_join_squad,Solicita unirte a un pelotón cercano
+mp_ping_ingame/assim_leave_squad,Abandonar pelotón
+localize_32bc46c9861bb36,No permitir que ^9&&1^7 se una a tu pelotón
+localize_2b9c0db394c39a35,No unirse al pelotón de ^9&&1^7
+mp_ping_ingame/msg_squad_pinged_ammo,Munición - &&1
+mp_ping_ingame/msg_squad_pinged_caution,precaución
+mp_ping_ingame/msg_squad_pinged_vehicle,un vehículo
+mp_saba/callout_airport_tac,Al Malik Airport
+mp_saba/callout_caves_tac,Sattiq Cave Complex
+mp_saba/callout_cemetery_tac,Al Samman Cemetery
+mp_saba/callout_exhume_tac,Al-Safwa Quarry
+mp_saba/callout_fishtwn_tac,Sarrif Bay
+mp_saba/callout_fort_tac,Al Bagra Fortress
+mp_saba/callout_hydro_tac,Zarqwa Hydroelectric
+mp_saba/callout_lone_tac,Hafid Port
+mp_saba/callout_marshland_tac,Mawizeh Marshlands
+mp_saba/callout_moderncity_tac,Al Mazrah City
+mp_saba/callout_mtntwn_tac,Al Sharim Pass
+mp_saba/callout_oasis_tac,Oasis
+mp_saba/callout_observatory_tac,Zaya Observatory
+mp_saba/callout_oilfield_tac,Rohan Oil
+mp_saba/callout_oldtwn_tac,Ahkdar Village
+mp_saba/callout_sira_tac,Sa'id City
+mp_saba/callout_sunken_tac,Sawah Village
+mp_saba/callout_wartorn_tac,Taraq Village
+localize_3455aa2a3aadcb0b,Apartments
+mp_sealion/callout_beach_tac,Beach Club
+mp_sealion/callout_castle_tac,Tsuki Castle
+mp_sealion/callout_coastalruins_tac,Coastal Ruins
+mp_sealion/callout_port_tac,Port Ashika 
+mp_sealion/callout_portruins_tac,Port Ruins
+mp_sealion/callout_powerplant_tac,Power Plant
+localize_213ae853489e59ac,Residential
+mp_sealion/callout_shipwreck_tac,Shipwreck
+localize_48d822b57868e12d,Town Center
+mp_sealion/callout_treatment_tac,Water Treatment
+mp_sealion/callout_waterways_tac,Waterways
+mp_sealion/supply_sweep,UAV de suministros
+localize_44971351f1e3090c,El enemigo está marcando a tu pelotón
+mpui/being_revived,&&1 te está reanimando…
+mpui/being_self_revived,Usando autorreanimación
+localize_65996aad021eef3,[{ui_r3}] Quitar todas las marcas
+localize_7db99bf3be7eb10d,[{+delete_ping_map}] Quitar todas las marcas
+localize_edc4a97e47bdd90,[{ui_select}] Cerrar
+mpui/cutting,Corte
+localize_958a09ca8888b56,Señuelo colocado
+localize_10b91245582bcb03,Listo para desplegar
+localize_2f8b31c798cbdacf,Equipos en rango
+mpui/entering_restricted,Entrando en zona restringida
+localize_46220bc441effb0,¡Retrocede al siguiente objetivo!
+mpui/fieldupgrade_available,Disponible: &&1
+mpui/finalround,RONDA FINAL
+localize_6923078f06ed4285,Rindiéndose...
+localize_7e86bb5ff34d2848,Red despejada
+localize_6b6d671ecae0998e,Dron 01: &&1 m
+localize_9598322b2094519,Dron 01: ^1&&1 m
+localize_6b6d661ecae097db,Dron 02: &&1 m
+localize_77c0dcf2c4889430,Dron 02: ^1&&1 m
+localize_4b5e5d4f6eff6015,"Dron más cercano: ^1&&1 m
+"
+localize_61b52b390615e2f4,Red no disponible
+localize_5fc15d9b024f7291,Dispositivo detectado
+localize_27e73635a044311b,INTERROGANDO
+localize_15bd5616ff72dc60,Marcando al pelotón enemigo
+localize_2fba804722b013c1,Ocultar objetivos
+localize_4d7a5e1744836270,Mostrar objetivos
+localize_8950c20c788a931,[{ui_r3}] Mostrar objetivos
+localize_442fb40442560c10,Consejo
+localize_3961e1d0e0c3219f,Ubicación
+mpui/losing_caps,PERDIENDO
+localize_1e47aa096877796a,"Estadísticas de mapa y modo
+"
+localize_78dc15be348a6433,Conectando
+mpui/mming_erroring,Reiniciando para probar otra vez
+mpui/mming_initializing,Conectando al servicio de matchmaking
+mpui/mming_qosing,Probando la conexión con otros &&1 jugadores
+mpui/mming_searching,Buscando una partida
+mpui/mming_searching_ping,Buscando partida con ping <&&1 ms
+mpui/overtime,TIEMPO EXTRA
+localize_79470bf19ad3266d,^:Esperando grupo:^7 tiempo en juego &&1
+localize_3317562e028b8e14,Al alcance
+localize_5b908a2d651c3c6f,Buscando objetivos
+localize_35c58578120a8f4c,REDESPLIEGA A UN COMPAÑERO
+mpui/repairing,Reparando vehículo
+mpui/report_player,Reportar al jugador
+mpui/return_to_combat_area,Regresa al combate
+mpui/return_to_vehicle,Regresa al vehículo
+mpui/reviving,Reanimando...
+mpui/round,RONDA &&1/&&2
+mpui/round_only,Ronda &&1
+mpui/super_ability_hint,[{+smoke}] + [{+frag}]
+mpui/super_ability_hint_br_layout,"[{+actionslot1}] + [{+equip_toggle_throw,+frag}]"
+mpui/super_ability_hint_pc,[{+special}]
+localize_5e9f8a24c39e6539,[{+special}] &&1
+localize_1b1552c1473c65e5,"[{+smoke}] + [{+frag}]
+&&1"
+localize_3c7767e965aa8f39,Cám. 1: 1&&1 m
+localize_4f3c7e87645f36de,Cám. 1: ^1&&1 m
+localize_3c7764e965aa8a20,Cám. 2: &&1 m
+localize_28c284a8564d81bb,Cám. 2: ^1&&1 m
+localize_37b3841d1e8730f9,Cámara &&1 fuera de rango
+localize_595e866e1a4ac264,Todo despejado
+localize_27f4965780c7a9a2,Destruida
+localize_41cd78ac8900577d,ADVERTENCIA
+mpui/tied_caps,EMPATANDO
+localize_1048b4190014f41d,[{killstreak4}]
+localize_40835ed8ef3a5624,[{killstreak4}] &&1
+localize_6c89990a540a2e65,Votación en curso: &&1
+mpui/winning_caps,GANANDO
+localize_166a5f145376daff,Instinto ninja listo
+localize_596c16afb308df20,Desaparición ninja lista
+localize_39538187afa23ca8,Aturdido listo
+localize_66fd502ad2d4cec6,Furia de shuriken lista
+localize_6d6e2c4d8dc7cc62,Poder tortuga listo
+localize_3d5b7ff02f3a67fc,Nueva misión asignada
+localize_694879023f4824e0,Partida rápida
+localize_481311b23dc10009,Añadir a [{ui_operators_icon_favorite}] (&&1/&&2) 
+localize_4991afc5ddb54717,Disponible con la compra de BlackCell.
+localize_464c3dfc1540a924,Disponible con la compra del Pase de batalla.
+localize_af1f2e9ec3c71e1,Llegaste a la cantidad máxima de favoritos. Elimina uno para tener espacio para otro.
+localize_528b8761e632452c,Máximo de favoritos alcanzado
+localize_603f97b3acaa37ea,Misiones de operador
+localize_21ea9a2daf536c9e,Exclusivo con la Reserva
+localize_5457444cb8adc9dc,Eliminar de [{ui_operators_icon_favorite}] (&&1/&&2)
+localize_320c6b7df230a98d,Disponible en la tienda.
+localize_39d15914ce627432,DISPONIBLE AL COMPRAR LA EDICIÓN BÓVEDA
+localize_624540720a068fcc,Restablecer a predeterminado
+localize_55b73557e4a6db0e,Color personalizado
+patch_menu/closed,Cerrada
+patch_menu/friends_only,Solo amigos
+patch_menu/open,Abierta
+patch_menu/wait_to_vote,Debes esperar &&1 segundos entre cada votación.
+localize_40d312d35a29d233,Paquete de ventaja 1
+localize_40d313d35a29d3e6,Paquete de ventaja 2
+localize_40d314d35a29d599,Paquete de ventaja 3
+localize_40d315d35a29d74c,Paquete de ventaja 4
+localize_40d316d35a29d8ff,Paquete de ventaja 5
+localize_40d317d35a29dab2,Paquete de ventaja 6
+localize_7f8d5649cf7a6a00,Paquete de ventaja 1
+localize_7f8d5949cf7a6f19,Paquete de ventaja 2
+localize_7f8d5849cf7a6d66,Paquete de ventaja 3
+localize_7f8d5b49cf7a727f,Paquete de ventaja 4
+localize_7f8d5a49cf7a70cc,Paquete de ventaja 5
+localize_7f8d5d49cf7a75e5,Paquete de ventaja 6
+perks/power_battery,Batería
+platform/right_stick,[{ui_right_stick}]
+platform/score,Puntos
+platform_ui/eog_summary_play_again,Jugar de nuevo
+playlist/duos_name,DÚOS
+playlist/quads_name,CUARTETOS
+playlist/solos_name,INDIVIDUAL
+playlist/trios_name,TRÍOS
+playlist/zombies,Zombis
+localize_94710a9da385c42,Completada
+localize_1b19a6763b248984,Nivel &&1
+localize_3c80eb075398b379,^?#x0df01504d5eb8601e.#x04819e2544b2e50bd^Desbloqueos permanentes^7 disponibles: ^?#x0df01504d5eb8601e.#x04819e2544b2e50bd^&&1^7. ¿Deseas usar un desbloqueo permanente en ^?#x0df01504d5eb8601e.#x04819e2544b2e50bd^&&2^7?
+prestige/prestige_master,Maestro de Prestigio
+localize_5d6b48686bfc86a0,DESBLOQUEO PERMANENTE [{ui_icon_infinity}]
+localize_2bccf6d7becc5b5d,DESBLOQUEO PERMANENTE [{ui_icon_infinity}]
+localize_4121936c0105b7fa,Nivel &&1
+localize_4b9dd2e0a1e8815b,Leyenda de Prestigio
+localize_1de8ec98bac1d6,Maestro de Prestigio
+localize_3a3e36ec3cb088a8,Extravagante
+localize_222ebcfc16ab7ba,Reanudando partida...
+localize_5c156d0434be9847,La partida se reanudará en: &&1
+localize_f1e16fc4b4dc97,Tu progreso se guardará desde el inicio hasta la ronda actual y regresarás al menú principal.
+localize_455f69bc4eeaaaa0,¿Guardar y salir?
+localize_6c358ea84a82527f,Partida guardada
+localize_1b8c268fb17dec96,Gratis
+localize_58e3566f0c2ef381,Premium
+localize_d860125ca1f9e6b,Intercambiar por &&1 recompensas
+localize_2e9d72cf95d1b84d,Juega y gana
+localize_6f9d52402f7a5688,Ver evento
+shared_hintstrings/armor_plate_desc,Protección de combate
+localize_6d3ee6143122dd41,Invitar jugador
+localize_423f3623d1eed1f1,Ver a todos los amigos
+splashes/blank,
+localize_18d3eb029f4d109d,Usa [{ui_select;togglemap}] para ver puntos de interés.
+splashes/dmz_contract_reminder,Revisa tu mapa táctico
+splashes/dmz_contract_reminder_desc,Usa [{ui_select;togglemap}] para abrir tu mapa táctico y ver tu progreso de la misión de facción
+localize_3b2652e3dcf5f964,Usa [{ui_select;togglemap}] para abrir tu mapa táctico y ver las misiones de facción activas
+localize_6371021d805df325,Sin contratos activos
+localize_32f848477459622f,Acepta contratos para ganar efectivo.
+localize_994434f974fc256,[{ui_select;togglemap}] Mapa táctico
+localize_2eebfc50b40825ac,[{ui_select;togglemap}]
+splashes/objective_new,NUEVO OBJETIVO
+localize_2b249a04f99ed1c1,Completa contratos para ganar esencia y recompensas de las grietas.
+localize_11711c4187594b9a,Fichas del Pase de batalla
+localize_10a9b72326348d7c,Camuflaje de arma
+localize_56a861e15588edf,Consumible
+localize_1622fe771323c8aa,Emblema
+localize_4704589de690ccfa,Remate
+localize_4e030468c5df02aa,Pantalla de arma
+localize_3d28e39cbca92f6a,Misión
+localize_72d630ffc58700d4,Aspecto de operador
+localize_6ce84feb34a6b643,Tarjeta de visita
+localize_4cb2b643723b17bc,Aspecto de vehículo
+localize_501a1849ffe60948,Marcha de guerra
+localize_12ed4402befb5a90,Arma
+localize_74bcadb4b102a618,Amuleto de arma
+localize_3716e2faf457f8a4,Calcomanía de arma
+localize_44922957fca19f50,Operador
+store/bundle_items_included_attachment,x&&1 accesorio(s)
+store/bundle_items_included_battlepass,Pase de batalla x&&1
+store/bundle_items_included_bundle,x&&1 lote(s)
+store/bundle_items_included_camo,x&&1 camuflaje(s)
+store/bundle_items_included_consumable,x&&1 consumible(s)
+store/bundle_items_included_emblem,x&&1 emblema(s)
+store/bundle_items_included_equipment,x&&1 de equipamiento
+store/bundle_items_included_execution,x&&1 ejecución(es)
+store/bundle_items_included_feature,x&&1 funcionalidad(es)
+store/bundle_items_included_firstpartylicence,x&&1 licencia(s) de la plataforma
+store/bundle_items_included_gesture,x&&1 gesto(s)
+store/bundle_items_included_killstreak,x&&1 racha(s) de bajas
+store/bundle_items_included_mission,&&1 misión(es)
+store/bundle_items_included_operator,x&&1 operador(es)
+store/bundle_items_included_operator_quip,x&&1 frase(s) de operador
+store/bundle_items_included_operator_skin,x&&1 aspecto(s) de operador
+store/bundle_items_included_perk,x&&1 ventaja(s)
+store/bundle_items_included_playercard,x&&1 tarjeta(s) de visita
+store/bundle_items_included_reticle,x&&1 retícula(s)
+store/bundle_items_included_role,x&&1 rol(es)
+store/bundle_items_included_special,&&1 especialista(s)
+store/bundle_items_included_spray,x&&1 grafiti(s)
+store/bundle_items_included_sticker,x&&1 calcomanía(s)
+store/bundle_items_included_super,x&&1 Super(s)
+store/bundle_items_included_vehicle_camo,&&1 aspecto(s) de vehículo
+store/bundle_items_included_vehicle_horn,&&1 claxon/claxons de vehículo
+store/bundle_items_included_vehicle_track,&&1 pista(s) de vehículo
+store/bundle_items_included_weapon,x&&1 arma(s)
+store/bundle_items_included_weapon_charm,x&&1 amuleto(s) de arma
+localize_5769f50e03c14d30,Mis lotes
+localize_64f09dbfff6784ff,SE DESBLOQUEA AL COMPRAR UN LOTE
+localize_796853e402c2c79e,DESAFÍO DIARIO
+localize_1903c7cc6bdaa498,Fabrica &&1 en una partida para revelar su información confidencial.
+localize_45ff5696f714e102,Captura y coloca una trampa en la caja...
+localize_12bd22dcb8e36195,SE VOLVIÓ NUCLEAR
+localize_60950ade2587a821,NUCLEAR INMINENTE
+localize_7db01209472129ce,El equipo enemigo tenía más vidas restantes
+localize_194aa94f553dc375,Tu equipo tenía más vidas restantes
+localize_3031ff6cc8a33f99,Los equipos tenían la misma cantidad de vidas restantes
+localize_4d7b9d85b2db91a1,&&1 Y &&2 SON LOS ASESINOS
+localize_5093e2458cc59458,Derrota por muerte súbita: el equipo enemigo puntuó
+localize_2a1a0c85d198badf,Victoria por muerte súbita: tu equipo puntuó
+localize_694af82216c96d7a,cometió un error
+localize_423009cced0aae02,Operador aleatorio
+localize_c411a11927c1a11,ASPECTO ALEATORIO
+t10_perks/operative,Reconocimiento
+localize_c6f3e2baa9e42b8,Especialidad de combate
+t10_perks/playstyle_operative_desc,"Al reaparecer, puedes ver por un momento a los enemigos por las paredes. El borde de la interfaz emite un pulso cuando hay enemigos fuera de tu campo visual. No dejas cráneos de muerte."
+localize_5183452ef684de2c,Obtienes un aumento de velocidad de movimiento y de regeneración de salud con cada baja por un momento.
+localize_1c7e55a9bc369d52,Aumenta los puntos obtenidos por objetivos y sabotaje. Despliegas equipamiento más rápido. Te permite ver equipamiento enemigo a través de las paredes a una corta distancia.
+localize_1e87977872963cb8,"Equipa 3 ventajas de la misma categoría de especialidades de combate (Ejecutor, Reconocimiento o Estratega) para activar su especialidad."
+localize_1ffa5d8c6df5cf6c,Ejecutor
+localize_3986c0e2194d9e8a,Estratega
+localize_144d1711188e25e9,Para: &&1
+t10_weapon_attachments/t10_droger_scope,Mira SVD
+tournament/random_map,Aleatorio
+localize_417c76d7a7722966,Compra BO6 para acceder a esta lista de partidas
+localize_21ba23b3d9d56dbf,Esta lista de partidas no está disponible actualmente en tu región.
+localize_5524998badd4908d,Batería agotada
+localize_33c4996391344227,PULSO DE ÉTER DISPONIBLE
+localize_4512369a2580b665,Partes faltantes del motor
+localize_312654aa9e8191e8,Arremetida de perforación vinculada - Salir del vehículo
+localize_5a6471fbc3090ed6,Motor desactivado por una llave remota. Mantén ^3[{+attack}]^7 para puentear
+localize_42a8f1d276518de9,Motor desactivado por llavero
+localize_1258032827af331c,Batería baja
+localize_45f662d0e9eab5db,Poco combustible
+localize_62784dd063feb009,Sin combustible
+vehicles/toggle_off_track,Detener marchas de guerra
+localize_721b5878cf0447fc,Vehículo descontrolado
+localize_282f862d7ccf0aad,Tan-Tor descontrolado
+weapon/cryo_dismemberment,Criodesmembramiento
+weapon/dismemberment,Desmembramiento
+weapon/dismemberment_gold,Disparo de Midas
+localize_93bd8f92325a927,Adverso
+weapon/subclass,&&1 &&2
+weapon/tracer_blue,Azul
+weapon/tracer_freedom,Libertad
+weapon/tracer_gold,Oro
+weapon/tracer_green,Verde
+weapon/tracer_morte,Morte
+weapon/tracer_pink,Rosa
+weapon/tracer_purple,Púrpura
+weapon/tracer_red,Roja
+weapon/tracer_shadow,Shadow
+localize_4ab09c1459b2ad22,Debes reemplazar la configuración de Tirador equipada en el espacio del arma principal para equipar
+localize_47a1b860a64d4793,Ventaja extra
+xboxlive/player_mute,Activar/Desactivar voz
+xboxlive/view_profile,Ver Gamercard
+localize_15e93841aab73e8a,Reaparecerás en &&1 rondas
+localize_64a267ced451eb34,&&1 | Ronda &&2 ^W1^
+localize_16225260ab8b02a1,&&1 | GUIADO | Ronda &&2 ^W1^
+localize_1a70c974af12a7d4,&&1 | ESTÁNDAR | Ronda &&2 ^W1^
+localize_687852a0ca5c5629,Gobblegum
+localize_21848822dacc3ec6,Gobblegum otorgado
